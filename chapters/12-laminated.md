@@ -1,6 +1,6 @@
 # 12　层层展开与一腔空心：起酥和泡芙
 
-可颂、千层酥和泡芙都能在烤箱里显著鼓起，断面却揭示了三种不同的安排：可颂在发酵面团中保存层次；千层酥主要让薄层彼此分离；泡芙则把湿润面糊撑成中空外壳。外形相似的“蓬”，并不说明工艺相同。
+可颂（法语 croissant）、千层酥（面团法语称 pâte feuilletée，英语称 puff pastry）和泡芙（面糊法语称 pâte à choux）都能在烤箱里显著鼓起[^ch12-pates]，断面却揭示了三种不同的安排：可颂在发酵面团中保存层次；千层酥主要让薄层彼此分离；泡芙则把湿润面糊撑成中空外壳。外形相似的“蓬”，并不说明工艺相同。
 
 <!-- teaching-art -->
 
@@ -10,7 +10,7 @@
 
 ## 包油折叠，究竟在制造什么
 
-起酥面团通过包油、擀开和折叠，让面团与油脂形成交替层。制作时要维护这些层，烘烤时才有条件分开。水分在受热中形成蒸气，帮助薄层展开；油脂同时影响分隔、香气与口感。King Arthur 的烘焙示范把包油、折叠和烤后的断面放在一起，便于观察这种对应。[资料：King Arthur Baking，Puff Pastry: Layer It Like the Pros](https://www.kingarthurbaking.com/blog/2013/08/02/puff-pastry-layer-it-like-the-pros)
+包油起酥的分层操作，英语常称 lamination：通过包油、擀开和折叠，让面团与油脂形成交替层。[^ch12-lamination]制作时要维护这些层，烘烤时才有条件分开。水分在受热中形成蒸气，帮助薄层展开；油脂同时影响分隔、香气与口感。King Arthur 的烘焙示范把包油、折叠和烤后的断面放在一起，便于观察这种对应。[资料：King Arthur Baking，Puff Pastry: Layer It Like the Pros](https://www.kingarthurbaking.com/blog/2013/08/02/puff-pastry-layer-it-like-the-pros)
 
 这里最需要的是油脂与面团在操作时状态协调。油脂太硬，擀压时容易碎裂；太软，则可能渗进面团而难以维持清楚的分层。冷藏的意义是管理温度、让面团松弛，并非一律“冷得越低越好”。实际操作还要服从具体配方、室温和油脂特性。
 
@@ -29,8 +29,8 @@
 | --- | --- | --- | --- |
 | 可颂类 | 是 | 发酵组织加上包油层次 | 可颂、巧克力面包 pain au chocolat |
 | 丹麦类 | 是 | 发酵起酥，常与蛋奶馅、水果组合 | 风车、方形或卷形丹麦点心 |
-| 法式千层酥 pâte feuilletée | 基础配方通常不含 | 层间蒸气与分层 | 蝴蝶酥、拿破仑、酥盒 |
-| 泡芙 pâte à choux | 基础配方通常不含 | 高含水面糊受热鼓起并固定 | 圆泡芙、闪电泡芙、奶酪泡芙 |
+| 法式千层酥面团 pâte feuilletée | 基础配方通常不含 | 层间蒸气与分层 | 蝴蝶酥、拿破仑、酥盒 |
+| 泡芙面糊 pâte à choux | 基础配方通常不含 | 高含水面糊受热鼓起并固定 | 圆泡芙、闪电泡芙、奶酪泡芙 |
 
 可颂需要照顾酵母活动，也要避免让包入的油脂失去状态；不发酵千层酥则没有同样的酵母发酵阶段。这是理解两者的关键差别。“千层”是对层次的形容，不能要求每件成品有固定数量的可见层。[资料：King Arthur Baking，Baker's Croissants](https://www.kingarthurbaking.com/recipes/bakers-croissants-recipe)；[Classic Puff Pastry](https://www.kingarthurbaking.com/recipes/classic-puff-pastry-pate-feuilletee-recipe)
 
@@ -38,7 +38,7 @@
 
 丹麦点心进一步展示了结构与填馅的协商。水果和蛋奶馅带来水分、重量与甜味，折角和边框则不只是装饰，也为馅料安排位置。选购时可同时看底部是否熟透、边缘是否有层、中心是否与馅料协调；只看表面光亮，容易漏掉最重要的口感。
 
-外层碎屑和内里组织也要分开理解。可颂表皮破成薄片，不代表内部一定干燥；外表层次漂亮，内部仍可能过于紧密。拿破仑的酥片则与湿润夹层交替，往往需要刀叉协助切开。它不方便整齐咬下，并不能单独作为品质结论；产品本来安排的食用方式，也应进入判断。
+外层碎屑和内里组织也要分开理解。可颂表皮破成薄片，不代表内部一定干燥；外表层次漂亮，内部仍可能过于紧密。拿破仑一类的千层酥甜点（法语常见名称 mille-feuille），则以酥片与湿润夹层交替[^ch12-mille-feuille]，往往需要刀叉协助切开。它不方便整齐咬下，并不能单独作为品质结论；产品本来安排的食用方式，也应进入判断。
 
 <!-- atlas-expansion:atlas-we-danish -->
 
@@ -63,7 +63,7 @@ AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](
 
 泡芙的“壳”与“馅”常在不同阶段完成。壳需要足够支撑，馅则追求细腻湿润；填好后，水分会逐渐改变外壳口感。新鲜酥壳与放置后柔软的壳，不能只用同一项标准评价，但外壳内侧黏湿与细腻柔软也不是一回事。具体制作时应使用经测试的配方，不能只凭外表上色就判断内部已经完成。
 
-同一面糊能挤成长条成为 éclair 闪电泡芙，也能制成圆形；加入奶酪可做咸味 gougère。可见泡芙不是“夹奶油的圆球”的同义词。[资料：King Arthur Baking，Pâte à Choux](https://www.kingarthurbaking.com/recipes/pate-a-choux-recipe)
+同一面糊能挤成长条成为闪电泡芙（法语 éclair），也能制成圆形泡芙（英语常称 cream puff）；加入奶酪可做咸味奶酪泡芙（法语 gougère，复数 gougères）。[^ch12-choux-shapes]可见泡芙不是“夹奶油的圆球”的同义词。[资料：King Arthur Baking，Pâte à Choux](https://www.kingarthurbaking.com/recipes/pate-a-choux-recipe)
 
 <!-- public-photo:real-we-choux-inside -->
 
@@ -80,7 +80,7 @@ AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](
 
 泡芙的连续变化正好不同：加热后形成能聚成团的熟糊；加入蛋后逐渐变得有光泽且可挤；挤出的坯体还没有中空；入炉鼓起并逐渐固定；内部进一步干燥后才有条件承托馅料。成品图看不见前半段的熟糊，却正是这段过程使它区别于一盘普通蛋糕糊。比较时应把过程和断面同时看，避免只背“蒸气膨松”而不理解蒸气如何被留下。
 
-把可颂、蝴蝶酥和未填馅的泡芙并排观察：可颂有薄层与发酵孔洞共同构成的内部；蝴蝶酥能看到更紧密的折叠线和糖化表面；泡芙最醒目的是壳内空间。再分别听咬下时的声音、看碎屑形状。这个练习能把“酥”拆成不同经验，也能解释为什么三者不适合用同一种方法替换或回温。理解工艺以后，再看新式圆筒可颂、可颂塔或加脆壳泡芙，就能区分形状创新、组合创新和面团本身的改变。
+把可颂、蝴蝶酥和未填馅的泡芙并排观察：可颂有薄层与发酵孔洞共同构成的内部；蝴蝶酥能看到更紧密的折叠线和烘烤后的糖层；泡芙最醒目的是壳内空间。再分别听咬下时的声音、看碎屑形状。这个练习能把“酥”拆成不同经验，也能解释为什么三者不适合用同一种方法替换或回温。理解工艺以后，再看新式圆筒可颂、可颂塔或加脆壳泡芙，就能区分形状创新、组合创新和面团本身的改变。
 
 <!-- public-photo:real-we-croissant-section -->
 
@@ -90,3 +90,11 @@ AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](
 
 实物照片：SKopp；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Croissant,_cross_section.jpg)。
 
+
+[^ch12-pates]: pâte在法语烘焙名称中可指不同稠度和用途的坯料，不能看到同一个词就认为都是同一种“面团”。pâte feuilletée是分层酥面团；pâte à choux则先在炉上加热制糊，再加蛋使用。[千层酥配方](https://www.kingarthurbaking.com/recipes/classic-puff-pastry-pate-feuilletee-recipe)；[泡芙面糊说明](https://www.kingarthurbaking.com/blog/2022/10/24/what-is-pate-a-choux-why-we-love-this-versatile-french-dough)。
+
+[^ch12-lamination]: lamination在此指有意维持的面团与油脂分层。可颂同时使用发酵与起酥，不发酵千层酥则没有同样的酵母阶段；“有层”不等于两者配方相同。[配方参照：Baker’s Croissants](https://www.kingarthurbaking.com/recipes/bakers-croissants-recipe)。
+
+[^ch12-mille-feuille]: mille-feuille是法语名称，常用于烤酥片与奶油等夹层组装的甜点；名称中的“千”不表示必须数出一千层。“拿破仑”的市场用法和具体夹馅也有差别，本书只讨论所示代表结构。[参照：Le Cordon Bleu，mille-feuilles配方](https://www.cordonbleu.edu/news/recette-14-juillet-2017-mille-feuilles-chantilly-vanille-et-fruits-frais/fr)。
+
+[^ch12-choux-shapes]: éclair、cream puff与gougère分别是长条填馅、圆形填馅与奶酪咸泡芙的常见称谓；对应成品形态或配料，基础泡芙面糊仍是pâte à choux。英文名称cream puff不证明每一款都只填打发奶油。[圆泡芙与闪电泡芙配方](https://www.kingarthurbaking.com/recipes/cream-puffs-and-eclairs-recipe)；[泡芙用途说明](https://www.kingarthurbaking.com/blog/2022/10/24/what-is-pate-a-choux-why-we-love-this-versatile-french-dough)。

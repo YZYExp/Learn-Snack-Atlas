@@ -1,0 +1,610 @@
+{
+  "scope": "Chapters 13–18, full-text reading and terminology/factual proofread",
+  "chapters": [
+    {
+      "chapter": 13,
+      "full_read": true,
+      "substantive_changes": [
+        "将pâte brisée由容易混淆起酥的“基础酥皮”改为基础短酥，并分清三种法语面团名",
+        "区分英语tart/pie/cookie/biscuit与法语quiche，解释英美biscuit差异",
+        "盲烤补原文及部分/完全预烤语境",
+        "补biscotti在意大利语的广义饼干与英语食谱常用狭义两次烤制型的差别，避免原文标签反而造成误读"
+      ],
+      "unresolved": []
+    },
+    {
+      "chapter": 14,
+      "full_read": true,
+      "substantive_changes": [
+        "开头由四种一对一凝固方式改为常见路线可以组合，避免概念绝对化",
+        "custard为英语，crème三种名称为法语，panna cotta/gelato为意大利语，bavarois与Bavarian cream分语言",
+        "奶冻无蛋不是通用定义，复核蓝带蛋白/明胶两层实例",
+        "sorbet/sherbet与gelato补适用市场及过敏配料边界"
+      ],
+      "unresolved": [
+        "IDFA原链接本次抓取受访问限制，不能由此判定失效；其sorbet/sherbet要点由Penn State公开说明交叉支持",
+        "原书CKBK蓝带书摘的bavarois条目本次返回403，保留原书资料引用，未据访问失败删除已有解释"
+      ]
+    },
+    {
+      "chapter": 15,
+      "full_read": true,
+      "substantive_changes": [
+        "和菓子标题改为包含多种工艺，避免食品家族=工艺",
+        "补日语字形与罗马字，韩语떡/송편与中文松片译名",
+        "羊羹区分寒天冷凝的煉羊羹与小麦粉等参与的蒸羊羹",
+        "明确kuih/kueh/kue的语言社群拼写差异，不再把印尼常用拼写遗漏",
+        "MAFF英文页面与东京和菓子协会抓取不稳定，补可核验的日文官方分类及文部科学省资料"
+      ],
+      "unresolved": [
+        "Roots新加坡文物局页本次要求JavaScript验证，保留原引用且以SG101与NLB机构资料交叉支持"
+      ]
+    },
+    {
+      "chapter": 16,
+      "full_read": true,
+      "substantive_changes": [
+        "halva标为跨语言通称，补土耳其语helva与irmik helvası，避免全标英文",
+        "补西班牙语churro/churros、empanada/empanadas及中文常见译名",
+        "修复希腊旅游资料/en路径跳转空壳为同官网可读正文路径",
+        "filo/phyllo与折叠起酥工艺边界注释"
+      ],
+      "unresolved": []
+    },
+    {
+      "chapter": 17,
+      "full_read": true,
+      "substantive_changes": [
+        "Cronut为具体品牌名，核验2013年5月原作者说明",
+        "麻薯/mochi为商品命名与日语名称之间非严格等式，引用日本官方蕨饼材料多样性实例",
+        "植物基与aquafaba补原文、用途与不可万能替代的边界"
+      ],
+      "unresolved": []
+    },
+    {
+      "chapter": 18,
+      "full_read": true,
+      "substantive_changes": [
+        "重新核验食品安全2小时/高于32℃1小时/冷藏4℃/冷冻−18℃及月饼特定建议",
+        "食品安全数值增加原资料单位与适用范围脚注",
+        "区分过敏原交叉接触与微生物交叉污染，补allergen cross-contact及lactose-free"
+      ],
+      "unresolved": []
+    }
+  ],
+  "heading_changes": [
+    {
+      "chapter": 15,
+      "old": "和菓子是一组工艺，不只是花形甜豆沙",
+      "new": "和菓子包含多种工艺，不只是花形甜豆沙"
+    }
+  ],
+  "footnotes": {
+    "13": 3,
+    "14": 5,
+    "15": 5,
+    "16": 5,
+    "17": 3,
+    "18": 2
+  },
+  "terms": [
+    {
+      "zh": "塔",
+      "original": "tart / tarte",
+      "language": "英语／法语",
+      "chapter": 13,
+      "note_id": "ch13-pate",
+      "explanation": "常见开放馅面的塔点名称，仍须结合外壳与馅料判断。",
+      "source_url": "https://www.kingarthurbaking.com/blog/2026/09/01/prebake-blind-bake-pie-crust"
+    },
+    {
+      "zh": "派",
+      "original": "pie",
+      "language": "英语",
+      "chapter": 13,
+      "note_id": "ch13-pate",
+      "explanation": "可以有顶皮或敞口，甜咸均有。",
+      "source_url": "https://www.kingarthurbaking.com/blog/2026/09/01/prebake-blind-bake-pie-crust"
+    },
+    {
+      "zh": "短酥面团",
+      "original": "shortcrust pastry",
+      "language": "英语",
+      "chapter": 13,
+      "note_id": "ch13-pate",
+      "explanation": "以松酥、易咬断组织为目标的一类面团。",
+      "source_url": "https://www.kingarthurbaking.com/recipes/pate-sucree-recipe"
+    },
+    {
+      "zh": "基础短酥",
+      "original": "pâte brisée",
+      "language": "法语",
+      "chapter": 13,
+      "note_id": "ch13-pate",
+      "explanation": "常见塔派短酥面团名称，配方与混合方式存在差别。",
+      "source_url": "https://www.valrhona.com/fr-FR/vous-inspirer/cahiers-de-tendances/tous-nos-cahiers-de-tendances/les-tartes-s-animent"
+    },
+    {
+      "zh": "甜酥面团",
+      "original": "pâte sucrée",
+      "language": "法语",
+      "chapter": 13,
+      "note_id": "ch13-pate",
+      "explanation": "用于甜塔壳等的含糖酥性面团。",
+      "source_url": "https://www.kingarthurbaking.com/recipes/pate-sucree-recipe"
+    },
+    {
+      "zh": "沙酥面团",
+      "original": "pâte sablée",
+      "language": "法语",
+      "chapter": 13,
+      "note_id": "ch13-pate",
+      "explanation": "强调松散沙酥感的面团名称。",
+      "source_url": "https://www.valrhona.com/fr-FR/vous-inspirer/cahiers-de-tendances/tous-nos-cahiers-de-tendances/les-tartes-s-animent"
+    },
+    {
+      "zh": "蛋奶咸派",
+      "original": "quiche",
+      "language": "法语",
+      "chapter": 13,
+      "note_id": "ch13-pate",
+      "explanation": "酥壳承托蛋奶等咸馅的烤制点心。",
+      "source_url": "https://agriculture.gouv.fr/pique-nique-ideal-sur-la-route-de-lest"
+    },
+    {
+      "zh": "盲烤",
+      "original": "blind baking",
+      "language": "英语",
+      "chapter": 13,
+      "note_id": "ch13-blind",
+      "explanation": "加馅前先预烤塔派空壳。",
+      "source_url": "https://www.kingarthurbaking.com/blog/2026/09/01/prebake-blind-bake-pie-crust"
+    },
+    {
+      "zh": "曲奇",
+      "original": "cookie",
+      "language": "英语",
+      "chapter": 13,
+      "note_id": "ch13-biscuit",
+      "explanation": "英文范围较中文常指的裱花黄油曲奇广。",
+      "source_url": "https://www.kingarthurbaking.com/recipes/collections/classic-cookie-recipes"
+    },
+    {
+      "zh": "黄油酥饼",
+      "original": "shortbread",
+      "language": "英语",
+      "chapter": 13,
+      "note_id": "ch13-biscuit",
+      "explanation": "重视油脂香与酥松的小饼。",
+      "source_url": "https://www.kingarthurbaking.com/recipes/collections/classic-cookie-recipes"
+    },
+    {
+      "zh": "意式脆饼",
+      "original": "biscotti",
+      "language": "意大利语",
+      "chapter": 13,
+      "note_id": "ch13-biscuit",
+      "explanation": "意大利语为饼干的复数；本章沿英语烘焙用法指常经两次烤制的脆饼代表。",
+      "source_url": "https://www.treccani.it/vocabolario/biscotto/"
+    },
+    {
+      "zh": "饼干／美式松软小饼",
+      "original": "biscuit",
+      "language": "英语",
+      "chapter": 13,
+      "note_id": "ch13-biscuit",
+      "explanation": "英美用法不同，不能一律译作脆饼。",
+      "source_url": "https://www.kingarthurbaking.com/recipes/buttermilk-biscuits-recipe"
+    },
+    {
+      "zh": "布丁",
+      "original": "pudding",
+      "language": "英语",
+      "chapter": 14,
+      "note_id": "ch14-custard",
+      "explanation": "宽泛食品名称，不能据名称推断统一凝固方法。",
+      "source_url": "https://www.kingarthurbaking.com/recipes/pastry-cream-creme-patissiere-recipe"
+    },
+    {
+      "zh": "蛋奶体系",
+      "original": "custard",
+      "language": "英语",
+      "chapter": 14,
+      "note_id": "ch14-custard",
+      "explanation": "蛋参与增稠或凝固的体系，本章以乳制配方为主。",
+      "source_url": "https://www.kingarthurbaking.com/recipes/pastry-cream-creme-patissiere-recipe"
+    },
+    {
+      "zh": "英式蛋奶酱",
+      "original": "crème anglaise",
+      "language": "法语",
+      "chapter": 14,
+      "note_id": "ch14-custard",
+      "explanation": "可倾倒的蛋奶淋酱。",
+      "source_url": "https://www.kingarthurbaking.com/recipes/pastry-cream-creme-patissiere-recipe"
+    },
+    {
+      "zh": "焦糖布丁",
+      "original": "crème caramel",
+      "language": "法语",
+      "chapter": 14,
+      "note_id": "ch14-custard",
+      "explanation": "带焦糖层的烤蛋奶甜点代表。",
+      "source_url": "https://www.kingarthurbaking.com/recipes/pastry-cream-creme-patissiere-recipe"
+    },
+    {
+      "zh": "糕点奶油",
+      "original": "crème pâtissière / pastry cream",
+      "language": "法语／英语",
+      "chapter": 14,
+      "note_id": "ch14-custard",
+      "explanation": "常由蛋与淀粉共同增稠的填馅。",
+      "source_url": "https://www.kingarthurbaking.com/recipes/pastry-cream-creme-patissiere-recipe"
+    },
+    {
+      "zh": "意式奶冻",
+      "original": "panna cotta",
+      "language": "意大利语",
+      "chapter": 14,
+      "note_id": "ch14-panna",
+      "explanation": "常见为冷藏定形的乳制甜点，版本并非全无蛋。",
+      "source_url": "https://www.cordonbleu.edu/news/panna-cotta/en"
+    },
+    {
+      "zh": "巴伐利亚奶油",
+      "original": "bavarois / Bavarian cream",
+      "language": "法语／英语",
+      "chapter": 14,
+      "note_id": "ch14-foam",
+      "explanation": "常结合蛋奶酱、胶凝与打发奶油。",
+      "source_url": "https://app.ckbk.com/reference/dess51206c03s001ss002e001"
+    },
+    {
+      "zh": "慕斯",
+      "original": "mousse",
+      "language": "法语",
+      "chapter": 14,
+      "note_id": "ch14-foam",
+      "explanation": "强调泡沫组织的甜点，可有多种支撑方式。",
+      "source_url": "https://www.cordonbleu.edu/news/merveilleux-christmas-recipe-2025/en"
+    },
+    {
+      "zh": "意式冰淇淋",
+      "original": "gelato",
+      "language": "意大利语",
+      "chapter": 14,
+      "note_id": "ch14-gelato",
+      "explanation": "意大利语冰淇淋名称，跨市场配方有差异。",
+      "source_url": "https://www.psu.edu/news/research/story/probing-question-what-difference-between-ice-cream-and-gelato"
+    },
+    {
+      "zh": "雪葩",
+      "original": "sorbet",
+      "language": "法语，英语亦采用",
+      "chapter": 14,
+      "note_id": "ch14-sorbet",
+      "explanation": "常以糖、水和水果等组成的冷冻甜点。",
+      "source_url": "https://www.psu.edu/news/research/story/probing-question-what-difference-between-ice-cream-and-gelato"
+    },
+    {
+      "zh": "美式乳成分果味冰品",
+      "original": "sherbet",
+      "language": "英语（此处美国语境）",
+      "chapter": 14,
+      "note_id": "ch14-sorbet",
+      "explanation": "常含少量乳成分，不能与sorbet机械互译。",
+      "source_url": "https://www.psu.edu/news/research/story/probing-question-what-difference-between-ice-cream-and-gelato"
+    },
+    {
+      "zh": "和菓子",
+      "original": "和菓子 / wagashi",
+      "language": "日语",
+      "chapter": 15,
+      "note_id": "ch15-wagashi",
+      "explanation": "涵盖多种工艺与成品的日本传统点心家族。",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/bunrui/kashirui.html"
+    },
+    {
+      "zh": "大福",
+      "original": "大福 / daifuku",
+      "language": "日语",
+      "chapter": 15,
+      "note_id": "ch15-wagashi",
+      "explanation": "软韧米制外皮包馅的和菓子代表。",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/bunrui/kashirui.html"
+    },
+    {
+      "zh": "团子",
+      "original": "団子 / dango",
+      "language": "日语",
+      "chapter": 15,
+      "note_id": "ch15-wagashi",
+      "explanation": "米粉等调制熟化成团的点心。",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/bunrui/kashirui.html"
+    },
+    {
+      "zh": "羊羹",
+      "original": "羊羹 / yōkan",
+      "language": "日语",
+      "chapter": 15,
+      "note_id": "ch15-yokan",
+      "explanation": "包括煉羊羹、水羊羹、蒸羊羹等不同结构。",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/bunrui/kashirui.html"
+    },
+    {
+      "zh": "铜锣烧",
+      "original": "どら焼き / dorayaki",
+      "language": "日语",
+      "chapter": 15,
+      "note_id": "ch15-wagashi",
+      "explanation": "煎烤饼皮夹馅的和菓子。",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/bunrui/kashirui.html"
+    },
+    {
+      "zh": "最中",
+      "original": "最中 / monaka",
+      "language": "日语",
+      "chapter": 15,
+      "note_id": "ch15-wagashi",
+      "explanation": "薄脆壳与豆馅组合的点心。",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/bunrui/kashirui.html"
+    },
+    {
+      "zh": "练切",
+      "original": "練り切り / nerikiri",
+      "language": "日语",
+      "chapter": 15,
+      "note_id": "ch15-wagashi",
+      "explanation": "以可塑豆沙材料表现造型的和菓子。",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/bunrui/kashirui.html"
+    },
+    {
+      "zh": "韩国年糕",
+      "original": "떡 / tteok",
+      "language": "韩语",
+      "chapter": 15,
+      "note_id": "ch15-songpyeon",
+      "explanation": "涵盖多种蒸、捣、煎与带馅米糕的家族。",
+      "source_url": "https://www.korea.net/NewsFocus/Culture/view?articleId=163785"
+    },
+    {
+      "zh": "松片／韩式松饼",
+      "original": "송편 / songpyeon",
+      "language": "韩语",
+      "chapter": 15,
+      "note_id": "ch15-songpyeon",
+      "explanation": "秋夕常见半月形包馅米糕，不是pancake。",
+      "source_url": "https://www.korea.net/NewsFocus/Culture/view?articleId=163785"
+    },
+    {
+      "zh": "东南亚糕点拼写",
+      "original": "kuih / kueh / kue",
+      "language": "马来语及不同社群、印尼语的常见拼写",
+      "chapter": 15,
+      "note_id": "ch15-kueh",
+      "explanation": "范围有重叠，不能按拼写机械划分食品家族。",
+      "source_url": "https://biblioasia.nlb.gov.sg/all-sections/vol-16-issue-4-jan-mar-2021-kueh-lapis/"
+    },
+    {
+      "zh": "九层糕",
+      "original": "kueh lapis",
+      "language": "新马等地常见名称",
+      "chapter": 15,
+      "note_id": "ch15-kueh",
+      "explanation": "本章指逐层蒸制的层糕代表，非所有同名烤层糕。",
+      "source_url": "https://www.sg101.gov.sg/resources/archives/heritage-nonyakuehs/"
+    },
+    {
+      "zh": "红龟粿",
+      "original": "ang ku kueh",
+      "language": "新马等地闽南语来源名称的常见罗马字写法",
+      "chapter": 15,
+      "note_id": "ch15-kueh",
+      "explanation": "模压龟纹的糯性米皮包馅点心。",
+      "source_url": "https://www.sg101.gov.sg/resources/archives/heritage-nonyakuehs/"
+    },
+    {
+      "zh": "椰糖椰丝卷",
+      "original": "kueh dadar",
+      "language": "新马等地常见名称",
+      "chapter": 15,
+      "note_id": "ch15-kueh",
+      "explanation": "薄煎皮卷包椰丝等馅料的代表。",
+      "source_url": "https://www.sg101.gov.sg/resources/archives/heritage-nonyakuehs/"
+    },
+    {
+      "zh": "薄脆蛋卷",
+      "original": "love letters",
+      "language": "英语常用名",
+      "chapter": 15,
+      "note_id": "ch15-kueh",
+      "explanation": "可卷成筒或折片的薄脆小饼。",
+      "source_url": "https://biblioasia.nlb.gov.sg/all-sections/vol-17-issue-2-jul-sep-2021-straits-born-cuisine/"
+    },
+    {
+      "zh": "越南甜食",
+      "original": "chè",
+      "language": "越南语",
+      "chapter": 15,
+      "note_id": "ch15-che",
+      "explanation": "可包括豆、米团、凝胶等组合的甜食家族。",
+      "source_url": "https://vietnam.travel/things-to-do/15-dreamy-desserts-try-vietnam"
+    },
+    {
+      "zh": "姜糖浆米团甜食",
+      "original": "chè trôi nước",
+      "language": "越南语",
+      "chapter": 15,
+      "note_id": "ch15-che",
+      "explanation": "常见带绿豆馅米团配姜糖浆。",
+      "source_url": "https://vietnam.travel/things-to-do/15-dreamy-desserts-try-vietnam"
+    },
+    {
+      "zh": "巴克拉瓦",
+      "original": "baklava",
+      "language": "土耳其语等语言采用的食品名",
+      "chapter": 16,
+      "note_id": "ch16-filo",
+      "explanation": "薄面片、油脂、坚果和糖浆组成的地区家族。",
+      "source_url": "https://goturkiye.com/gastronomy/blog/indulge-that-sweet-tooth-with-every-kind-of-baklava-you-can-imagine"
+    },
+    {
+      "zh": "薄面片",
+      "original": "filo / phyllo",
+      "language": "希腊语来源名称的常见罗马字拼写",
+      "chapter": 16,
+      "note_id": "ch16-filo",
+      "explanation": "先制成极薄面片再逐层铺叠；制片可涉及擀、拉伸或机械加工，不等于包油折叠起酥。",
+      "source_url": "https://goturkiye.com/gastronomy/blog/indulge-that-sweet-tooth-with-every-kind-of-baklava-you-can-imagine"
+    },
+    {
+      "zh": "哈瓦",
+      "original": "halva / halvah / halvas / helva",
+      "language": "跨语言通称；helva为土耳其语拼写",
+      "chapter": 16,
+      "note_id": "ch16-halva",
+      "explanation": "含芝麻酱、谷物粉、淀粉等不同家族。",
+      "source_url": "https://www.visitgreece.gr/experiences/gastronomy/greek-wines/culinary-traditions-of-the-lent"
+    },
+    {
+      "zh": "粗粒小麦粉哈瓦",
+      "original": "irmik helvası",
+      "language": "土耳其语",
+      "chapter": 16,
+      "note_id": "ch16-halva",
+      "explanation": "粗粒小麦粉炒制后与糖液形成的哈瓦代表。",
+      "source_url": "https://www.ktb.gov.tr/EN-98886/semolina-halva.html"
+    },
+    {
+      "zh": "贾莱比",
+      "original": "jalebi",
+      "language": "南亚语名的常见罗马字写法",
+      "chapter": 16,
+      "note_id": "ch16-south-asian",
+      "explanation": "面糊挤成盘绕条，炸后浸糖浆。",
+      "source_url": "https://prod.incredibleindia.gov.in/content/incredible-india-v2/es/destinations/agra/food-and-cuisine/Jalebi.html"
+    },
+    {
+      "zh": "古拉布贾蒙",
+      "original": "gulab jamun",
+      "language": "南亚语名的常见罗马字写法",
+      "chapter": 16,
+      "note_id": "ch16-south-asian",
+      "explanation": "以乳固形物等组成球体、炸后浸糖浆的代表。",
+      "source_url": "https://www.ajinomoto.com.my/recipes/gulab-jamun-milk-based-indian-dessert"
+    },
+    {
+      "zh": "萨莫萨",
+      "original": "samosa",
+      "language": "南亚多语言使用名称的常见罗马字写法",
+      "chapter": 16,
+      "note_id": "ch16-south-asian",
+      "explanation": "包馅点心，代表款炸制，亦有不同馅与烤法。",
+      "source_url": "https://chhatarpur.nic.in/en/culinary-delight/samosa/"
+    },
+    {
+      "zh": "吉拿棒",
+      "original": "churro / churros",
+      "language": "西班牙语",
+      "chapter": 16,
+      "note_id": "ch16-churro",
+      "explanation": "单数churro、复数churros，条纹炸面点家族。",
+      "source_url": "https://www.esmadrid.com/reposteria-tradicional"
+    },
+    {
+      "zh": "恩潘纳达",
+      "original": "empanada / empanadas",
+      "language": "西班牙语",
+      "chapter": 16,
+      "note_id": "ch16-empanada",
+      "explanation": "地区配方多样的包馅面点，可烤可炸。",
+      "source_url": "https://www.argentina.gob.ar/jefatura/turismo/viaja-por-argentina/empanadas"
+    },
+    {
+      "zh": "可颂甜甜圈品牌",
+      "original": "Cronut®",
+      "language": "品牌名",
+      "chapter": 17,
+      "note_id": "ch17-cronut",
+      "explanation": "Dominique Ansel使用的具体品牌名，非相似造型的通称。",
+      "source_url": "https://www.dominiqueansel.com/rising%20stars/the-cronut/"
+    },
+    {
+      "zh": "日式米制麻薯相关名称",
+      "original": "餅 / mochi",
+      "language": "日语",
+      "chapter": 17,
+      "note_id": "ch17-mochi",
+      "explanation": "需与木薯粉型麻薯包等商品名称区分。",
+      "source_url": "https://www.maff.go.jp/e/policies/market/k_ryouri/search_menu/3671/index.html"
+    },
+    {
+      "zh": "植物基",
+      "original": "plant-based",
+      "language": "英语",
+      "chapter": 17,
+      "note_id": "ch17-aquafaba",
+      "explanation": "原料取向，不能直接推断低脂低糖或无过敏原。",
+      "source_url": "https://www.kingarthurbaking.com/blog/2023/02/03/bake-egg-free"
+    },
+    {
+      "zh": "鹰嘴豆烹煮液",
+      "original": "aquafaba",
+      "language": "英语食谱常用名",
+      "chapter": 17,
+      "note_id": "ch17-aquafaba",
+      "explanation": "可在特定配方中用于替蛋，不是全蛋的万能等量替代。",
+      "source_url": "https://www.kingarthurbaking.com/blog/2023/02/03/bake-egg-free"
+    },
+    {
+      "zh": "过敏原交叉接触",
+      "original": "allergen cross-contact",
+      "language": "英语",
+      "chapter": 18,
+      "note_id": "ch18-cross-contact",
+      "explanation": "过敏原非预期进入另一件食品，与微生物交叉污染的关注对象不同。",
+      "source_url": "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies"
+    },
+    {
+      "zh": "无乳糖",
+      "original": "lactose-free",
+      "language": "英语",
+      "chapter": 18,
+      "note_id": "ch18-cross-contact",
+      "explanation": "不表示不含乳蛋白，不能据此判定乳过敏适用。",
+      "source_url": "https://www.nhs.uk/conditions/lactose-intolerance/"
+    }
+  ],
+  "policy": "No image bytes modified; footnotes only in body, no heading/image-alt footnote references; inline sources preserved.",
+  "cross_review_full": [
+    {
+      "chapters": [
+        19,
+        20
+      ],
+      "all_text_read": true,
+      "conclusion": "未发现需要阻断的实质问题。澄面/wheat starch与普通小麦面粉区分，馄饨、云吞、抄手名称边界和图注吻合；过敏原与熟度不靠外观推断的说明与18章一致。",
+      "issues": []
+    },
+    {
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "all_text_read": true,
+      "conclusion": "已完整阅读修订后的六章及全部脚注。原料—工艺—质地轴线与13—18章相容；gluten/glutinous、糊化/凝胶、发酵/膨松、陈化/回生、短酥/起酥边界没有相互冲突。未发现需阻断的事实问题。",
+      "issues": [
+        {
+          "severity": "minor",
+          "chapter": 1,
+          "text": "日本和食（和食，washoku）",
+          "suggestion": "可写日本和食（日语 和食，washoku），与全书原文语言标签保持一致；不影响事实。"
+        }
+      ]
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "title": "点心之间",
   "subtitle": "中西传统与新式糕点小吃图解",
   "language": "zh-CN",
-  "edition": "品类与场景扩充版 · 2026-10-25",
+  "edition": "全文校订与原文注释版 · 2026-10-25",
   "description": "从原料、工艺和口感出发，认识甜咸点心的地方传统与现代变化。",
   "chapters": [
     {
@@ -183,7 +183,7 @@
     },
     {
       "id": "a2",
-      "title": "附录　工艺词汇与阅读路线",
+      "title": "附录　工艺词汇、原文与阅读路线",
       "source": "appendices/glossary.md",
       "slug": "glossary"
     },

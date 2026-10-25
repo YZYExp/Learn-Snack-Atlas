@@ -1,0 +1,81 @@
+{
+  "scope": "Five complete appendices, read-only secondary review during full-book proofreading",
+  "files": [
+    {
+      "source": "appendices/chinese-index.md",
+      "fully_read": true,
+      "assessment": "代表版本与地方差异界定大体清楚；91条索引无完全同名重复。发现小米粉团歧义及粽子误指21章。"
+    },
+    {
+      "source": "appendices/world-index.md",
+      "fully_read": true,
+      "assessment": "67条索引无完全同名重复；羊羹、biscotti、sherbet及日/韩原名已与修订正文对齐。"
+    },
+    {
+      "source": "appendices/glossary.md",
+      "fully_read": true,
+      "assessment": "18条基础定义与123条原文检索记录整体可读；语言与使用语境有区分。发现filo旧解释未同步、连续标点及lardons释义过宽。"
+    },
+    {
+      "source": "appendices/photo-credits.md",
+      "fully_read": true,
+      "assessment": "27个实物照片条目与图片索引数量相符；许可、作者、原页和AI/原创关系图区分明确。本次未重做全部源页许可调查，未从AI图推断实物事实。"
+    },
+    {
+      "source": "appendices/scene-guide.md",
+      "fully_read": true,
+      "assessment": "13类场景入口与正文目标相符；没有把时段当互斥食品分类，未发现需阻断问题。"
+    }
+  ],
+  "findings": [
+    {
+      "severity": "clarity",
+      "source": "appendices/chinese-index.md",
+      "text": "无馅小米粉团配酒酿汤",
+      "problem": "容易被读成小米（millet）粉团，原意是小型糯米粉圆子。",
+      "suggestion": "改为“小型无馅糯米粉圆子配酒酿汤”，同步生成器。"
+    },
+    {
+      "severity": "navigation",
+      "source": "appendices/chinese-index.md",
+      "text": "粽子行链接第21章圆食专题",
+      "problem": "第21章无粽子内容；是旧全局替换引入的无效语义回查。",
+      "suggestion": "粽子行仅保留第09章节令与传播链接。"
+    },
+    {
+      "severity": "consistency",
+      "source": "appendices/glossary.md",
+      "text": "filo/phyllo通常分别擀薄再铺叠",
+      "problem": "正文已改为先制得极薄面皮再铺叠，兼容拉伸与机制片；词表仍限死擀薄。",
+      "suggestion": "同步review-13-18.json的explanation后重建词表。"
+    },
+    {
+      "severity": "typography",
+      "source": "appendices/glossary.md",
+      "text": "。；",
+      "problem": "多行解释已有句号，生成器又接分号。",
+      "suggestion": "生成器先去除解释末尾句号/分号，再连接回查。"
+    },
+    {
+      "severity": "terminology",
+      "source": "appendices/glossary.md; chapters/24-world-savory.md",
+      "text": "lardons=切条或切丁猪肉",
+      "problem": "虽正确避免“必然烟熏”，但普通猪肉释义过宽；Académie释为小块lard，其食品义为脂肪较多的猪肉，可新鲜、盐腌、烟熏。",
+      "suggestion": "说明带脂肪的猪肉小条或小丁，并保留具体腌制/烟熏方式依配方的限定。",
+      "sources": [
+        "https://www.dictionnaire-academie.fr/article/A9L0337",
+        "https://www.dictionnaire-academie.fr/article/A9L0334"
+      ]
+    }
+  ],
+  "status": "All findings reported to parent; no appendix content edited",
+  "quantities_checked": {
+    "licensed_photo_entries": 27,
+    "image_index_total": 93,
+    "image_index_photo": 27,
+    "image_index_AI": 55,
+    "image_index_original_diagram": 11,
+    "chinese_index_rows": 91,
+    "world_index_rows": 67
+  }
+}

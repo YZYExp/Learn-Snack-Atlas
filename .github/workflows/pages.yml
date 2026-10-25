@@ -10,6 +10,8 @@ on:
       - 'site/**'
       - 'references/reading-sources.md'
       - 'scripts/build_site.py'
+      - 'scripts/notes.py'
+      - 'scripts/test_notes.py'
       - 'requirements-site.txt'
       - '.github/workflows/pages.yml'
   pull_request:
@@ -32,6 +34,8 @@ jobs:
           cache-dependency-path: requirements-site.txt
       - name: Install lightweight site dependencies
         run: 'python -m pip install --only-binary=:all: -r requirements-site.txt'
+      - name: Validate footnote handling
+        run: python -m unittest discover -s scripts -p test_notes.py
       - name: Build home, atlas and chapter reader; validate links
         run: python scripts/build_site.py
       - name: Upload reviewable PR preview

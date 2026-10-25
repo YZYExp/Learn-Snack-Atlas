@@ -12,7 +12,7 @@
 
 ## 粤港：一桌共享的多种结构
 
-广式饮茶把茶与多份小点放在同一餐桌上，蒸、煎、炸、焗可以同时出现。虾饺的薄皮、叉烧包的蓬松、萝卜糕的软实、蛋挞的酥壳构成一组质地差异。“一盅两件”中的“两件”并非规定只能点两只点心，而是泛指点心；它体现的是喝茶吃点的生活方式。[资料：香港非遗办《饮食文化》](https://www.icho.hk/documents/Education/exhibition_panels/Exhibition_panel_food_culture.pdf)
+广式饮茶（粤语常音译为 yum cha）把茶与多份小点放在同一餐桌上[^ch08-yum-cha]，蒸、煎、炸、焗可以同时出现。虾饺的薄皮、叉烧包的蓬松、萝卜糕的软实、蛋挞的酥壳构成一组质地差异。“一盅两件”中的“两件”并非规定只能点两只点心，而是泛指点心；它体现的是喝茶吃点的生活方式。[资料：香港非遗办《饮食文化》](https://www.icho.hk/documents/Education/exhibition_panels/Exhibition_panel_food_culture.pdf)
 
 茶楼、街坊饼店和茶餐厅也不是互相隔绝的系统。蛋挞、菠萝包等食品能在不同场景流通，分量、售卖温度和搭配随之变化。香港非遗展览将茶楼点心、茶果、菠萝包、蛋挞和港式奶茶同时纳入饮食文化，提醒我们“地方传统”也包含长时间的交流和改造。[资料：香港非遗办“香港滋味”巡回展览](https://www.icho.hk/en/web/icho/taste_of_ICH.html)
 
@@ -90,3 +90,5 @@ AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](
 ## 继续按品种阅读
 
 [街头与夜市专题](23-street-snacks.md)进一步展开这里涉及的品种与食用场景。
+
+[^ch08-yum-cha]: yum cha来自粤语“饮茶”的读音，在餐饮语境中常连着吃点心的活动一起使用；英文菜单中的dim sum通常指点心本身。两者不是两种面团或烹饪方法。[参照：香港旅游发展局，Yum Cha释义](https://www.discoverhongkong.com/eng/travel-guide/qts/must-try-restaurants-for-your-first-visit-to-hong-kong.html)。

@@ -10,9 +10,9 @@
 
 ## 糯米、粳米、籼米不是三个平行抽屉
 
-日常购买时，糯米粉、粘米粉、粳米粉常并排出售，但这是方便使用的商品分类。籼、粳是稻米类型，糯性则与淀粉特征有关，籼稻和粳稻都可以有糯性品种。因而，长粒不必然不糯，圆粒也不必然就是糯米。
+日常购买时，糯米粉（glutinous rice flour）、粘米粉、粳米粉常并排出售，[^ch05-glutinous]但这是方便使用的商品分类。籼、粳是稻米类型，糯性则与淀粉特征有关，籼稻和粳稻都可以有糯性品种。因而，长粒不必然不糯，圆粒也不必然就是糯米。
 
-米淀粉含直链淀粉和支链淀粉。糯米淀粉以支链淀粉为主；普通非糯米含有更多直链淀粉。加水受热后，淀粉颗粒吸水膨胀，米粉逐渐变成有黏性、能支撑形状的体系。糯米常带来黏糯和拉扯感，非糯米粉通常更适合需要挺身、易切分的糕体，但实际表现仍受品种、含水量和配方影响。[资料：OECD《Rice》，淀粉组成及籼粳类型](https://www.oecd.org/en/publications/safety-assessment-of-foods-and-feeds-derived-from-transgenic-crops-volume-3_f04f3c98-en/full-report/component-8.html)
+米淀粉含直链淀粉（amylose）和支链淀粉（amylopectin）。[^ch05-rice-starch]糯米淀粉以支链淀粉为主；普通非糯米含有更多直链淀粉。加水受热后，淀粉颗粒吸水膨胀，米粉逐渐变成有黏性、能支撑形状的体系。糯米常带来黏糯和拉扯感，非糯米粉通常更适合需要挺身、易切分的糕体，但实际表现仍受品种、含水量和配方影响。[资料：OECD《Rice》，淀粉组成及籼粳类型](https://www.oecd.org/en/publications/safety-assessment-of-foods-and-feeds-derived-from-transgenic-crops-volume-3_f04f3c98-en/full-report/component-8.html)
 
 粤式食谱中的“粘米粉”通常指非糯性大米磨成的粉，并不是“越粘越好”的意思；“水磨糯米粉”强调加工方式，也不等于某一种固定用途。买粉时先确认原料与用途，比只看中文品名可靠。
 
@@ -27,7 +27,7 @@
 | 切片年糕 | 连续、致密的米粉或捣米结构 | 咬断需要的力、加热后软化程度 |
 | 松糕、部分定胜糕 | 湿粉粒蒸结，保留细孔 | 是否松散、是否有干粉颗粒感 |
 | 青团、糯米糍 | 可塑性较强的包馅粉团 | 外皮厚薄、黏性与馅料水分 |
-| 米发糕 | 浆料或软团经发酵膨松 | 孔洞、酸香与弹性 |
+| 米发糕 | 浆料或软团经发酵或其他方式膨松 | 孔洞、酸香与弹性 |
 | 萝卜糕、芋头糕 | 米粉凝结体包住蔬菜或芋块 | 能否切片、煎后外壳与内部反差 |
 
 这张表描述常见路线，并不替代各地配方。同名“发糕”可能采用不同膨松方法，同名“年糕”也可能使用不同米粉比例。
@@ -109,3 +109,6 @@ AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](
 
 一次轻量观察可以选年糕、松糕和萝卜糕各一小块，先看断面，再按包装建议分别复热。记录哪一种恢复黏软、哪一种保持松散、哪一种适合煎。这个比较能把“软糯”拆成具体结构，也能说明为什么米制点心不能共享一套保存与食用方法。
 
+[^ch05-glutinous]: glutinous 在这里形容米的黏糯特征，也常见 sticky rice 或 waxy rice。它不是 gluten（面筋／麸质）的同义词；商品的实际配料和过敏原信息仍应另看标示。[资料：OECD，稻米术语与淀粉组成](https://www.oecd.org/en/publications/safety-assessment-of-foods-and-feeds-derived-from-transgenic-crops-volume-3_f04f3c98-en/full-report/component-8.html)。
+
+[^ch05-rice-starch]: amylose 和 amylopectin 是淀粉分子的两类名称。糯米通常以支链淀粉为主，但“籼／粳”与“糯／非糯”不是同一分类轴；不要据长粒、圆粒外形直接判断是否糯性。[资料：OECD，Rice](https://www.oecd.org/en/publications/safety-assessment-of-foods-and-feeds-derived-from-transgenic-crops-volume-3_f04f3c98-en/full-report/component-8.html)。

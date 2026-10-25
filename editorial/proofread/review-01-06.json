@@ -1,0 +1,384 @@
+{
+  "scope": "chapters 01–06; full text read with targeted primary-source verification",
+  "chapters": [
+    {
+      "chapter": 1,
+      "file": "chapters/01-reading.md",
+      "fully_read": true,
+      "changes": [
+        "区分本书宽口径点心范围与粤式dim sum的常见外文用法",
+        "消除导读原范围与新增家常主食专题、云吞面内容的冲突",
+        "补蛋挞常见英语名称",
+        "补机构缩写和日文原词/罗马字，说明饮食文化并非单一道菜"
+      ],
+      "footnotes": 2,
+      "unresolved": []
+    },
+    {
+      "chapter": 2,
+      "file": "chapters/02-materials.md",
+      "fully_read": true,
+      "changes": [
+        "补面筋原词并解释其为蛋白网络而非一种粉",
+        "说明澄粉的原料身份，避免与小麦面粉混同",
+        "补糊化原词，区分糊化与胶凝",
+        "消除“蛋白”兼指蛋清与蛋白质的歧义；解释乳化不等于溶解",
+        "明确此处奶油指cream，避免与黄油butter混读"
+      ],
+      "footnotes": 3,
+      "unresolved": []
+    },
+    {
+      "chapter": 3,
+      "file": "chapters/03-process.md",
+      "fully_read": true,
+      "changes": [
+        "补两类褐变原文并区分反应路径",
+        "限定面团酵母发酵的产气语境，避免把全部发酵理解为膨松",
+        "区分leavening与fermentation，贯通后续蛋糕/泡芙章节",
+        "补食品科学中变性原词，不引申为变质"
+      ],
+      "footnotes": 2,
+      "unresolved": []
+    },
+    {
+      "chapter": 4,
+      "file": "chapters/04-texture.md",
+      "fully_read": true,
+      "changes": [
+        "区分整体陈化与淀粉回生，避免一词包办所有变硬机制"
+      ],
+      "footnotes": 1,
+      "unresolved": []
+    },
+    {
+      "chapter": 5,
+      "file": "chapters/05-rice.md",
+      "fully_read": true,
+      "changes": [
+        "补糯米粉英语商品名及glutinous的词义提醒",
+        "补两类淀粉原文，提示籼粳/糯性为不同观察轴",
+        "修正表格只写发酵，与正文允许不同膨松方法不一致"
+      ],
+      "footnotes": 2,
+      "unresolved": []
+    },
+    {
+      "chapter": 6,
+      "file": "chapters/06-chinese-pastry.md",
+      "fully_read": true,
+      "changes": [
+        "补官方中英对照术语，区分曲奇皮与分层酥皮",
+        "补澳门非遗官方英译custard tart，说明通用英文名不代表唯一地方款式",
+        "经葡萄牙旅游局、里斯本旅游局与澳门文化遗产网核对，补pastel de nata/pastéis de nata及单复数，限定与澳门版本关系"
+      ],
+      "footnotes": 2,
+      "unresolved": []
+    }
+  ],
+  "terms": [
+    {
+      "zh": "粤式茶点",
+      "original": "dim sum",
+      "language": "英语常用的粤语音译",
+      "chapter": 1,
+      "note_id": "ch01-dim-sum",
+      "explanation": "常指茶楼小份点心；本书选材范围更广",
+      "source_url": "https://www.icho.hk/documents/Education/exhibition_panels/Exhibition_panel_food_culture.pdf"
+    },
+    {
+      "zh": "和食",
+      "original": "和食（washoku）",
+      "language": "日语",
+      "chapter": 1,
+      "note_id": "ch01-washoku",
+      "explanation": "日本饮食文化与社会实践的名称，不是单一道菜",
+      "source_url": "https://ich.unesco.org/en/RL/washoku-traditional-dietary-cultures-of-the-japanese-notably-for-the-celebration-of-the-new-year-00869"
+    },
+    {
+      "zh": "蛋挞",
+      "original": "egg tart",
+      "language": "英语",
+      "chapter": 1,
+      "note_id": null,
+      "explanation": "蛋奶馅与挞壳组合的小型烤点",
+      "source_url": "https://www.icho.hk/documents/Education/exhibition_panels/Exhibition_panel_food_culture.pdf"
+    },
+    {
+      "zh": "面筋／麸质",
+      "original": "gluten",
+      "language": "英语",
+      "chapter": 2,
+      "note_id": "ch02-gluten",
+      "explanation": "小麦相关蛋白质形成的面团网络",
+      "source_url": "https://lovefoodlovescience.org/resources/protein-gluten-formation/"
+    },
+    {
+      "zh": "澄粉／小麦淀粉",
+      "original": "wheat starch",
+      "language": "英语",
+      "chapter": 2,
+      "note_id": null,
+      "explanation": "小麦淀粉，区别于完整组成的小麦面粉",
+      "source_url": "https://thewoksoflife.com/chinese-ingredients-glossary/rice-grains-and-flours/"
+    },
+    {
+      "zh": "淀粉糊化",
+      "original": "starch gelatinization / gelatinisation",
+      "language": "英语",
+      "chapter": 2,
+      "note_id": "ch02-gelatinization",
+      "explanation": "淀粉颗粒在适当水热条件下发生的结构变化",
+      "source_url": "https://asbe.org/article/starch-gelatinization/"
+    },
+    {
+      "zh": "乳化",
+      "original": "emulsification",
+      "language": "英语",
+      "chapter": 2,
+      "note_id": "ch02-emulsification",
+      "explanation": "油水等不易混溶液体之间的细滴分散",
+      "source_url": "https://lovefoodlovescience.org/resources/fats-and-oils-emulsification/"
+    },
+    {
+      "zh": "乳脂奶油",
+      "original": "cream",
+      "language": "英语",
+      "chapter": 2,
+      "note_id": null,
+      "explanation": "本处指乳脂奶油，区别于黄油butter",
+      "source_url": "https://lovefoodlovescience.org/resources/fats-and-oils-emulsification/"
+    },
+    {
+      "zh": "美拉德反应",
+      "original": "Maillard reaction",
+      "language": "英语",
+      "chapter": 3,
+      "note_id": "ch03-browning",
+      "explanation": "还原糖与氨基化合物参与的一类褐变反应",
+      "source_url": "https://www.k-state.edu/news/wild-west-district/articles/2022/08/the-maillard-reaction.html"
+    },
+    {
+      "zh": "焦糖化",
+      "original": "caramelization / caramelisation",
+      "language": "英语",
+      "chapter": 3,
+      "note_id": "ch03-browning",
+      "explanation": "糖受热发生的褐变与风味变化，不等同美拉德反应",
+      "source_url": "https://www.k-state.edu/news/wild-west-district/articles/2022/08/the-maillard-reaction.html"
+    },
+    {
+      "zh": "膨松",
+      "original": "leavening / raising",
+      "language": "英语",
+      "chapter": 3,
+      "note_id": "ch03-leavening",
+      "explanation": "引入或生成气体并使体积增大的工艺概念",
+      "source_url": "https://asbe.org/article/baking/"
+    },
+    {
+      "zh": "发酵",
+      "original": "fermentation",
+      "language": "英语",
+      "chapter": 3,
+      "note_id": "ch03-leavening",
+      "explanation": "微生物参与的原料变化；本节例子是酵母面团",
+      "source_url": "https://asbe.org/article/baking/"
+    },
+    {
+      "zh": "蛋白质变性",
+      "original": "protein denaturation",
+      "language": "英语",
+      "chapter": 3,
+      "note_id": null,
+      "explanation": "蛋白质原有结构改变；不等于食品变质",
+      "source_url": "https://asbe.org/article/baking/"
+    },
+    {
+      "zh": "陈化／老化",
+      "original": "staling",
+      "language": "英语",
+      "chapter": 4,
+      "note_id": "ch04-staling",
+      "explanation": "存放期间的组织变化，不只是干燥或淀粉回生",
+      "source_url": "https://asbe.org/article/staling/?topic=recipes-and-formulation"
+    },
+    {
+      "zh": "淀粉回生",
+      "original": "starch retrogradation",
+      "language": "英语",
+      "chapter": 4,
+      "note_id": "ch04-staling",
+      "explanation": "糊化后淀粉链重新缔合、有序化等变化",
+      "source_url": "https://asbe.org/article/staling/?topic=recipes-and-formulation"
+    },
+    {
+      "zh": "糯米粉",
+      "original": "glutinous rice flour",
+      "language": "英语",
+      "chapter": 5,
+      "note_id": "ch05-glutinous",
+      "explanation": "由糯米磨制的粉；glutinous不能读成含gluten",
+      "source_url": "https://www.oecd.org/en/publications/safety-assessment-of-foods-and-feeds-derived-from-transgenic-crops-volume-3_f04f3c98-en/full-report/component-8.html"
+    },
+    {
+      "zh": "糯米",
+      "original": "glutinous rice / sticky rice / waxy rice",
+      "language": "英语",
+      "chapter": 5,
+      "note_id": "ch05-glutinous",
+      "explanation": "描述糯性米，不能按粒形简单判断",
+      "source_url": "https://www.oecd.org/en/publications/safety-assessment-of-foods-and-feeds-derived-from-transgenic-crops-volume-3_f04f3c98-en/full-report/component-8.html"
+    },
+    {
+      "zh": "直链淀粉",
+      "original": "amylose",
+      "language": "英语",
+      "chapter": 5,
+      "note_id": "ch05-rice-starch",
+      "explanation": "米淀粉的一类组成",
+      "source_url": "https://www.oecd.org/en/publications/safety-assessment-of-foods-and-feeds-derived-from-transgenic-crops-volume-3_f04f3c98-en/full-report/component-8.html"
+    },
+    {
+      "zh": "支链淀粉",
+      "original": "amylopectin",
+      "language": "英语",
+      "chapter": 5,
+      "note_id": "ch05-rice-starch",
+      "explanation": "糯米淀粉中占主导的一类组成",
+      "source_url": "https://www.oecd.org/en/publications/safety-assessment-of-foods-and-feeds-derived-from-transgenic-crops-volume-3_f04f3c98-en/full-report/component-8.html"
+    },
+    {
+      "zh": "港式蛋挞酥皮",
+      "original": "puff pastry",
+      "language": "英语",
+      "chapter": 6,
+      "note_id": "ch06-egg-tart-crust",
+      "explanation": "此处指港式蛋挞中分层酥皮一类",
+      "source_url": "https://www.icho.hk/documents/Education/exhibition_panels/Exhibition_panel_food_culture.pdf"
+    },
+    {
+      "zh": "牛油皮／曲奇皮",
+      "original": "shortcrust pastry / cookie pastry",
+      "language": "英语",
+      "chapter": 6,
+      "note_id": "ch06-egg-tart-crust",
+      "explanation": "港式蛋挞中连续松碎的挞壳一类",
+      "source_url": "https://www.icho.hk/documents/Education/exhibition_panels/Exhibition_panel_food_culture.pdf"
+    },
+    {
+      "zh": "黄油／牛油",
+      "original": "butter",
+      "language": "英语",
+      "chapter": 6,
+      "note_id": "ch06-egg-tart-crust",
+      "explanation": "此处牛油是黄油的地方称呼，区别于牛脂",
+      "source_url": "https://www.icho.hk/documents/Education/exhibition_panels/Exhibition_panel_food_culture.pdf"
+    },
+    {
+      "zh": "澳门葡挞",
+      "original": "custard tart",
+      "language": "英语（澳门非遗项目用语）",
+      "chapter": 6,
+      "note_id": "ch06-portuguese-tart",
+      "explanation": "泛称蛋奶馅挞，需结合地区与款式辨认；不是澳门款独占名",
+      "source_url": "https://www.culturalheritage.mo/en/detail/102289"
+    },
+    {
+      "zh": "葡萄牙蛋奶挞",
+      "original": "pastel de nata（单数） / pastéis de nata（复数）",
+      "language": "葡萄牙语",
+      "chapter": 6,
+      "note_id": "ch06-portuguese-tart",
+      "explanation": "葡萄牙蛋奶挞名称；与澳门地方版本有关联，不代表同一配方",
+      "source_url": "https://www.visitportugal.com/pt-pt/content/receitas-tradicionais-portuguesas-past%C3%A9is-de-nata"
+    }
+  ],
+  "source_access_notes": [
+    {
+      "url": "https://lovefoodlovescience.org/resources/protein-gluten-formation/",
+      "status": "opened; current IFST domain replaces old link"
+    },
+    {
+      "url": "https://asbe.org/article/starch-gelatinization/",
+      "status": "member gate on open; search excerpt available; retained existing specialist citation"
+    },
+    {
+      "url": "https://asbe.org/article/staling/?topic=recipes-and-formulation",
+      "status": "member gate on open; search excerpt available; added primary-study DOI for mechanism"
+    },
+    {
+      "url": "https://ich.unesco.org/en/RL/washoku-traditional-dietary-cultures-of-the-japanese-notably-for-the-celebration-of-the-new-year-00869",
+      "status": "UNESCO page currently anti-bot wall; official Japanese government summary also verified; existing link retained"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26787950/",
+      "status": "verified title, authors and DOI 10.1007/s13197-015-1992-z; primary study record"
+    }
+  ],
+  "cross_review": {
+    "chapters": [
+      7,
+      8
+    ],
+    "fully_read": true,
+    "findings": [
+      {
+        "chapter": 7,
+        "severity": "clarity",
+        "issue": "“它不是把已熟水饺随意烤黄”虽在反对简单上色，但可能被读成否定煮后再煎，与19章允许煮熟后再煎的版本产生表面冲突。建议说明复煎也是做法之一，关键是锅面传热和失水。"
+      }
+    ]
+  },
+  "cross_review_full": {
+    "chapters": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "fully_read": true,
+    "scope": "逐段阅读全文、表格、图注与脚注；检查分类、机制、地域名词、跨章连贯与读者使用场景",
+    "findings": [
+      {
+        "chapter": 16,
+        "severity": "optional precision",
+        "issue": "filo/phyllo脚注用“分别擀薄后铺叠”，可能让人误认全部薄片只靠擀制；可改“先制成极薄面片再逐层铺叠”，兼容拉伸和机制片。非阻断问题。"
+      }
+    ],
+    "blocking_issues": [],
+    "chapter_notes": [
+      {
+        "chapter": 13,
+        "conclusion": "短酥/折叠起酥、塔派边界、盲烤、cookie/biscuit区分一致；未见重大问题"
+      },
+      {
+        "chapter": 14,
+        "conclusion": "custard/pudding、奶冻/慕斯、gelato/sorbet/sherbet的语境与凝固路线说明稳妥"
+      },
+      {
+        "chapter": 15,
+        "conclusion": "和菓子家族、羊羹分支、松片避免误读pancake、kuih/kueh/kue社群差异未硬划分类"
+      },
+      {
+        "chapter": 16,
+        "conclusion": "层片/糖浆/包馅结构比较和跨语言原词处理一致；未把外观相似写成同源"
+      },
+      {
+        "chapter": 17,
+        "conclusion": "Cronut品牌、mochi商品名、aquafaba替代范围和低糖配方因果边界清楚"
+      },
+      {
+        "chapter": 18,
+        "conclusion": "保存、安全与口感分离；直接核验FoodSafety.gov、CFS、FDA对应数字和感官安全提醒，正文与当前官方页面吻合"
+      }
+    ],
+    "verified_sources": [
+      "https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety",
+      "https://www.cfs.gov.hk/english/whatsnew/whatsnew_sfst/whatsnew_sfst_Mooncakes_and_Food_Safety.html",
+      "https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely"
+    ]
+  }
+}

@@ -4,7 +4,7 @@
 
 从原料、工艺和口感出发，认识甜咸点心的地方传统与现代变化。
 
-品类与场景扩充版 · 2026-10-25。24章知识读本；甜咸兼收，以原料、工艺、口感和生活场景解释代表品种。不是覆盖世界全部点心的穷尽目录，也不是逐项实作配方集。
+全文校订与原文注释版 · 2026-10-25。24章知识读本；甜咸兼收，以原料、工艺、口感和生活场景解释代表品种。不是覆盖世界全部点心的穷尽目录，也不是逐项实作配方集。
 
 
 ### 基础观察
@@ -49,7 +49,7 @@
 ### 附录
 
 - [中式点心代表索引](appendices/chinese-index.md)
-- [附录　工艺词汇与阅读路线](appendices/glossary.md)
+- [附录　工艺词汇、原文与阅读路线](appendices/glossary.md)
 - [附录　西式及其他地区点心检索](appendices/world-index.md)
 - [图片来源与使用许可](appendices/photo-credits.md)
 - [按场景找点心：从一顿早餐到一份夜点](appendices/scene-guide.md)
@@ -93,3 +93,9 @@ python -m http.server 8000 --directory _site
 新增第19—24章，系统讲解饺子、馄饨云吞抄手、汤圆圆子、早餐面点、街头夜市及世界咸点。新增18幅已复审示意，图鉴共40卡；[场景导览](appendices/scene-guide.md)帮助从早餐、家常、茶点、节令和夜宵进入正文。
 
 更广范围的20个家族、230条候选检索记录与A/B/C批次见[扩充规划](editorial/expansion/scope-and-roadmap.md)。候选包含别名、地方分支和边界项目，不代表230种独立食品或全部完成；本PR交付A批，后续缺图与待扩写仍如实记录。
+
+### 原文与脚注
+
+正文首次出现的专用词按实际语言或使用语境备注原文，原文检索集中于[工艺词汇附录](appendices/glossary.md)。各章上标数字进入章末注释，“返回正文”回到引用处；EPUB也提供往返链接，弹出显示取决于阅读器。
+
+网页与EPUB共用脚注源，构建检查缺失、重复或未引用的定义以及本地锚点。可用 `python -m unittest discover -s scripts -p test_notes.py` 验证脚注处理。词汇检索由本轮审校记录通过 `python scripts/build_terminology.py` 更新，不加入网页发布的依赖链。
