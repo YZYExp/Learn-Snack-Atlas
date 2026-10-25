@@ -1,0 +1,135 @@
+[
+  {
+    "id": "01-map",
+    "chapter": 1,
+    "file": "assets/images/01-map.png",
+    "kind": "original diagram",
+    "caption": "图1　同一件点心可以沿原料、工艺、结构、场景与变化分别观察。原创教学图。"
+  },
+  {
+    "id": "02-roles",
+    "chapter": 2,
+    "file": "assets/images/02-roles.png",
+    "kind": "original diagram",
+    "caption": "图2　原料按功能理解，比按风味名称替换更可靠。原创教学图。"
+  },
+  {
+    "id": "03-routes",
+    "chapter": 3,
+    "file": "assets/images/03-routes.png",
+    "kind": "original diagram",
+    "caption": "图3　四种常见膨胀路线可以叠加；不是所有点心都需要显著膨胀。原创教学图。"
+  },
+  {
+    "id": "04-textures",
+    "chapter": 4,
+    "file": "assets/images/04-textures.png",
+    "kind": "original diagram",
+    "caption": "图4　从初咬到放置后的变化，分阶段记录口感。原创教学图。"
+  },
+  {
+    "id": "rice-comparison",
+    "chapter": 5,
+    "file": "assets/images/rice-comparison.png",
+    "kind": "AI-generated teaching illustration",
+    "caption": "图5　自上而下：致密米糕、多孔米发糕、煎萝卜糕。AI生成外观与切面示意，不能据图反推粉料比例或熟化参数。"
+  },
+  {
+    "id": "06-layers",
+    "chapter": 6,
+    "file": "assets/images/06-layers.png",
+    "kind": "original diagram",
+    "caption": "图6　分层与松碎是两种不同的结构安排。原创关系示意，层厚与颗粒作了夸张，不表示显微尺度。"
+  },
+  {
+    "id": "07-skins",
+    "chapter": 7,
+    "file": "assets/images/07-skins.png",
+    "kind": "original diagram",
+    "caption": "图7a　先辨外皮路线，再比较形状与馅心。原创教学图。"
+  },
+  {
+    "id": "steamed-comparison",
+    "chapter": 7,
+    "file": "assets/images/steamed-comparison.png",
+    "kind": "AI-generated teaching illustration",
+    "caption": "图7b　自上而下：虾饺、肉包、广式烧卖、锅贴。AI生成常见外观示意；透明度、孔洞和皮厚并非统一标准。"
+  },
+  {
+    "id": "08-scenes",
+    "chapter": 8,
+    "file": "assets/images/08-scenes.png",
+    "kind": "original diagram",
+    "caption": "图8　茶桌、街头、家庭与礼品影响点心的分量和组合。原创教学图。"
+  },
+  {
+    "id": "festival-comparison",
+    "chapter": 9,
+    "file": "assets/images/festival-comparison.png",
+    "kind": "AI-generated teaching illustration",
+    "caption": "图9　自上而下：粽子、广式莲蓉蛋黄月饼、黑芝麻汤圆。AI生成当代代表外观示意，不作为历史复原或起源证据。"
+  },
+  {
+    "id": "10-bread",
+    "chapter": 10,
+    "file": "assets/images/10-bread.png",
+    "kind": "original diagram",
+    "caption": "图10　分开观察面包主体、夹馅与外层装配。原创教学图。"
+  },
+  {
+    "id": "cakes-comparison",
+    "chapter": 11,
+    "file": "assets/images/cakes-comparison.png",
+    "kind": "AI-generated teaching illustration",
+    "caption": "图11　自上而下：磅蛋糕、戚风切件、烤芝士蛋糕。AI生成组织外观示意，不表示实测气孔或含水差异。"
+  },
+  {
+    "id": "pastry-comparison",
+    "chapter": 12,
+    "file": "assets/images/pastry-comparison.png",
+    "kind": "AI-generated teaching illustration",
+    "caption": "图12　自上而下：中式分层酥点、可颂、填馅泡芙。AI生成切面示意。上方酥点仅作分层参照；可颂含发酵组织，泡芙主要形成壳内空腔。"
+  },
+  {
+    "id": "tarts-comparison",
+    "chapter": 13,
+    "file": "assets/images/tarts-comparison.png",
+    "kind": "AI-generated teaching illustration",
+    "caption": "图13　自上而下：曲奇皮蛋挞、葡式酥皮蛋挞、双皮苹果派、黄油酥饼。AI生成外观示意，具体店家与地区做法有差异。"
+  },
+  {
+    "id": "cold-comparison",
+    "chapter": 14,
+    "file": "assets/images/cold-comparison.png",
+    "kind": "AI-generated teaching illustration",
+    "caption": "图14　自上而下：焦糖布丁、奶冻、巧克力慕斯、乳类冰淇淋与果味sorbet。AI生成外观示意；表面光滑不能证明使用同一凝固方式。"
+  },
+  {
+    "id": "15-families",
+    "chapter": 15,
+    "file": "assets/images/15-families.png",
+    "kind": "original diagram",
+    "caption": "图15　相近原料可形成不同组织；图中给出常见路线，不概括所有地方配方。原创教学图。"
+  },
+  {
+    "id": "world-comparison",
+    "chapter": 16,
+    "file": "assets/images/world-comparison.png",
+    "kind": "AI-generated teaching illustration",
+    "caption": "图16　自上而下：草莓大福、samosa、baklava、烤empanada。AI生成代表外观示意。大福参见第15章，其余见本章；并列用于结构比较，不推断同源。"
+  },
+  {
+    "id": "17-change",
+    "chapter": 17,
+    "file": "assets/images/17-change.png",
+    "kind": "original diagram",
+    "caption": "图17　配方替换需要考虑原料的工作，而非只匹配味道。原创教学图。"
+  },
+  {
+    "id": "18-notes",
+    "chapter": 18,
+    "file": "assets/images/18-notes.png",
+    "kind": "original diagram",
+    "caption": "图18　把观察、解释、偏好与安全信息分开记录。原创教学图。"
+  }
+]

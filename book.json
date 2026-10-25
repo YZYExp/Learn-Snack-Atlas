@@ -1,0 +1,135 @@
+{
+  "title": "点心之间",
+  "subtitle": "中西传统与新式糕点小吃图解",
+  "language": "zh-CN",
+  "edition": "首版 · 2026-10-25",
+  "description": "从原料、工艺和口感出发，认识甜咸点心的地方传统与现代变化。",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "点心的边界：从一口食物读懂一套饮食文化",
+      "source": "chapters/01-reading.md",
+      "slug": "01-reading",
+      "part": "基础观察"
+    },
+    {
+      "id": "ch02",
+      "title": "原料的工作：粉、水、油、糖、蛋与馅",
+      "source": "chapters/02-materials.md",
+      "slug": "02-materials",
+      "part": "基础观察"
+    },
+    {
+      "id": "ch03",
+      "title": "从生坯到成品：加热、膨胀与定形",
+      "source": "chapters/03-process.md",
+      "slug": "03-process",
+      "part": "基础观察"
+    },
+    {
+      "id": "ch04",
+      "title": "口感的地图：糯、韧、酥、脆、松、滑",
+      "source": "chapters/04-texture.md",
+      "slug": "04-texture",
+      "part": "基础观察"
+    },
+    {
+      "id": "ch05",
+      "title": "米与杂粮：糕、团、粿的不同骨架",
+      "source": "chapters/05-rice.md",
+      "slug": "05-rice",
+      "part": "中国传统与地方小吃"
+    },
+    {
+      "id": "ch06",
+      "title": "中式酥点与烤点：从油脂分层到蛋挞",
+      "source": "chapters/06-chinese-pastry.md",
+      "slug": "06-chinese-pastry",
+      "part": "中国传统与地方小吃"
+    },
+    {
+      "id": "ch07",
+      "title": "包、饺与蒸煎咸点：外皮怎样照顾馅心",
+      "source": "chapters/07-steamed-savory.md",
+      "slug": "07-steamed-savory",
+      "part": "中国传统与地方小吃"
+    },
+    {
+      "id": "ch08",
+      "title": "地区茶点与街头小吃：从一张餐桌读到一座城市",
+      "source": "chapters/08-regional-snacks.md",
+      "slug": "08-regional-snacks",
+      "part": "中国传统与地方小吃"
+    },
+    {
+      "id": "ch09",
+      "title": "节令、礼俗与传播：点心怎样成为共同记忆",
+      "source": "chapters/09-festivals.md",
+      "slug": "09-festivals",
+      "part": "中国传统与地方小吃"
+    },
+    {
+      "id": "ch10",
+      "title": "从小餐包到布里欧修：发酵面团的点心生活",
+      "source": "chapters/10-bread.md",
+      "slug": "10-bread",
+      "part": "西式工艺家族"
+    },
+    {
+      "id": "ch11",
+      "title": "蛋糕里的空气：从海绵到芝士",
+      "source": "chapters/11-cakes.md",
+      "slug": "11-cakes",
+      "part": "西式工艺家族"
+    },
+    {
+      "id": "ch12",
+      "title": "层层展开与一腔空心：起酥和泡芙",
+      "source": "chapters/12-laminated.md",
+      "slug": "12-laminated",
+      "part": "西式工艺家族"
+    },
+    {
+      "id": "ch13",
+      "title": "酥底与小饼：塔、派、曲奇和饼干",
+      "source": "chapters/13-tarts-cookies.md",
+      "slug": "13-tarts-cookies",
+      "part": "西式工艺家族"
+    },
+    {
+      "id": "ch14",
+      "title": "凝固、充气与冻结：冷甜点的几条路线",
+      "source": "chapters/14-cold-sweets.md",
+      "slug": "14-cold-sweets",
+      "part": "西式工艺家族"
+    },
+    {
+      "id": "ch15",
+      "title": "东亚与东南亚：米、豆、椰与季节",
+      "source": "chapters/15-east-asia.md",
+      "slug": "15-east-asia",
+      "part": "世界传统与当代生活"
+    },
+    {
+      "id": "ch16",
+      "title": "更广阔的点心地图：薄片、糖浆与包馅",
+      "source": "chapters/16-world-snacks.md",
+      "slug": "16-world-snacks",
+      "part": "世界传统与当代生活"
+    },
+    {
+      "id": "ch17",
+      "title": "新式点心：改变口味，也改变结构",
+      "source": "chapters/17-fusion.md",
+      "slug": "17-fusion",
+      "part": "世界传统与当代生活"
+    },
+    {
+      "id": "ch18",
+      "title": "把知识带到餐桌：品尝、选购与保存",
+      "source": "chapters/18-tasting.md",
+      "slug": "18-tasting",
+      "part": "世界传统与当代生活"
+    }
+  ]
+}
