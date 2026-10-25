@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ai-biscotti",
+    "file": "assets/images/ai-biscotti.png",
+    "chapter": 13,
+    "heading": "曲奇不只是裱花形状",
+    "approved": true,
+    "visual_checked": true,
+    "reviewer": "west independent offline visual review",
+    "caption": "杏仁 biscotti 教学示意。长条切片中可见杏仁截面、较浅的内部与较深的外缘。",
+    "notes": [
+      "已查看原图实际像素，未见明显食品结构错误；长条斜切片、表层上色与嵌入坚果的形态适合作为代表外观。",
+      "生成图中坚果截面较醒目且分布整齐，属于整理过的教学呈现，不宜当作某款真实产品记录。",
+      "可用于说明切片外形和可见组织，不从静态图宣称已经验证干脆口感；干燥、再烤和蘸饮变化由正文及可靠资料解释。",
+      "图注须明确AI教学示意，不以此证明具体烘焙次数、温度、配料比例或地域起源。"
+    ]
+  },
+  {
+    "id": "ai-quiche",
+    "file": "assets/images/ai-quiche.png",
+    "chapter": 13,
+    "heading": "塔与派，没有全球统一的外形边界",
+    "approved": true,
+    "visual_checked": true,
+    "reviewer": "west independent offline visual review",
+    "caption": "蛋奶咸派 quiche 教学示意。切开后可见酥壳包围浅色馅料，馅中分布有小块配料。",
+    "notes": [
+      "已查看原图实际像素；整派与切片的底壳、边壳和馅料关系清楚，未见明显不可能的食品结构。",
+      "这一示意为馅较厚的款式，馅里孔洞较多；适合说明壳与馅的组合，不适合用来证明理想细腻凝固状态或评价烘烤完成度。",
+      "仅标蛋奶咸派quiche，不标传统Lorraine固定配方，也不根据图中红褐配料推定确切肉类、奶酪或配料比例。",
+      "图注须标明AI教学示意；生成图不作为真实案例照片、成熟安全性或具体烘焙工艺的证据。"
+    ]
+  }
+]

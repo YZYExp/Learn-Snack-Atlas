@@ -20,6 +20,31 @@
 
 但市场命名并非处处严格，阅读包装与观察做法比只看招牌更可靠。无馅小圆子、咸馅汤圆以及其他节日食用习惯，也不应被甜馅的主流印象遮住。
 
+<!-- public-photo:real-cn-tangyuan -->
+
+![图9-1　南瓜汤圆实例；红豆与黑芝麻馅的信息来自原图说明。前方匙上的切面呈现了皮与馅的关系。](../assets/images/real-cn-tangyuan.jpg)
+
+图9-1　南瓜汤圆实例；红豆与黑芝麻馅的信息来自原图说明。前方匙上的切面呈现了皮与馅的关系。
+
+实物照片：cherrylet；[CC BY 2.0](https://creativecommons.org/licenses/by/2.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Pumpkin_tangyuan_%28%E6%B1%A4%E5%9C%86%29_with_red_bean_baste_and_black_sesame_fillings.jpg)。
+
+<!-- public-photo:real-cn-yuanxiao -->
+
+![图9-2　未煮元宵与滚制用馅块并置。左侧已经裹粉，右侧保留馅块形态。](../assets/images/real-cn-yuanxiao.jpg)
+
+图9-2　未煮元宵与滚制用馅块并置。左侧已经裹粉，右侧保留馅块形态。
+
+实物照片：N509FZ；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Yuanxiao_and_fillings_%2820210225185338%29.jpg)。
+
+<!-- public-photo:real-cn-yuanxiao-basket -->
+
+![图9-3　滚制元宵用的笸箩与糯米粉，器具和材料身份依原图说明。可与前图的馅块、成品联系理解。](../assets/images/real-cn-yuanxiao-basket.jpg)
+
+图9-3　滚制元宵用的笸箩与糯米粉，器具和材料身份依原图说明。可与前图的馅块、成品联系理解。
+
+实物照片：N509FZ；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Bamboo_basket_filled_with_glutinous_rice_flour_for_Yuanxiao_shaking_%2820210225185342%29.jpg)。
+
+
 ## 清明前后的绿色糕团
 
 青团、艾粿等让植物、稻米与春季生活相遇。植物处理和配粉方式不同，会造成青草气味、表面光泽与柔软度的差别；食用时间也可能因商业供应而延长。全年可以买到，不意味着它原有的节令联系不存在；反过来，节令销售也不证明所有配方都从古代原样延续。
@@ -33,6 +58,15 @@
 屈原故事是端午最广为人知的解释之一，却不是所有地区的唯一纪念对象。UNESCO端午项目介绍明确呈现地方间不同的纪念人物与活动传统，因此不宜把节日全部习俗都写成某一事件的直接后果。[资料：UNESCO，Dragon Boat festival](https://ich.unesco.org/en/RL/dragon-boat-festival-00225)
 
 这一点也影响粽子图鉴的写法：把今天的品种、做法与吃法先说明白，再介绍相关故事及其地方范围，比先给出一个全国统一的“发明传说”更准确。
+
+<!-- public-photo:real-cn-two-zongzi -->
+
+![图9-4　粽子的叶包、系绳与解开状态。打开后仍可辨认米粒及包入其中的馅料块。](../assets/images/real-cn-two-zongzi.jpg)
+
+图9-4　粽子的叶包、系绳与解开状态。打开后仍可辨认米粒及包入其中的馅料块。
+
+实物照片：Stevenliuyi；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Two_Zongzi.jpg)。
+
 
 ## 中秋月饼：模具、分食与礼物
 

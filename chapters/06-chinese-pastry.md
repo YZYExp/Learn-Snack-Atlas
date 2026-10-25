@@ -29,6 +29,15 @@
 | 潮式酥皮月饼 | 卷层方向、炸或烤的表面差别 | 螺旋外观不是所有潮式品种共有 |
 | 冰皮月饼 | 软韧皮与冷藏馅料 | 不是把烤月饼简单放凉 |
 
+<!-- public-photo:real-cn-suzhou-mooncake -->
+
+![图6-1　加拿大家庭制作的苏式咸馅月饼，品名依作者说明。切面可观察外皮与馅心的比例。](../assets/images/real-cn-suzhou-mooncake.jpg)
+
+图6-1　加拿大家庭制作的苏式咸馅月饼，品名依作者说明。切面可观察外皮与馅心的比例。
+
+实物照片：Dllu；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Savoury_Suzhou-style_meat_mooncake.jpg)。
+
+
 ## 烧饼、桃酥、麻花，各自怎样变脆
 
 烧饼可以靠擀卷形成薄层，也可以着重于发面后的孔隙与炉壁烘烤形成的壳。芝麻提供香气和表面颗粒感，但芝麻多少不能告诉我们内部是否分层。咸酥烧饼、甜馅烧饼、吊炉烧饼也不是同一配方换馅。
@@ -36,6 +45,15 @@
 桃酥一类松酥烤点，更多依赖油脂、糖及膨松方式共同形成容易咬碎的结构，不必出现整齐的层。麻花虽然形似扭结，常见的脆口主要来自面条状坯体的炸制定型和失水，夹酥版本还会增加内部层次。十八街麻花的国家非遗项目明确反映了这是一套包含多道工序的面食技艺，不能只用“拧起来炸”概括。[资料：中国非遗，桂发祥十八街麻花制作技艺](https://www.ihchina.cn/project_details/14646.html)
 
 这些食品提醒我们：“脆”描述受力后的断裂，“酥”往往同时涉及易碎与油润；同一个点心可以两者兼具。
+
+<!-- public-photo:real-cn-mahua -->
+
+![图6-2　麻花实物。条状面坯扭结成小环，炸后呈金黄色。](../assets/images/real-cn-mahua.jpg)
+
+图6-2　麻花实物。条状面坯扭结成小环，炸后呈金黄色。
+
+实物照片：François Nguyen；[CC BY 2.0](https://creativecommons.org/licenses/by/2.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Mahua_%E9%BA%BB%E8%8A%B1.jpg)。
+
 
 ## 蛋挞让中西边界变得具体
 
@@ -46,4 +64,12 @@
 因此，不能把所有港式蛋挞都称作葡挞，也不宜用某家店的创立年份代替整类蛋奶挞的起源。传播并不是原样搬运；挞皮、蛋奶比例、烤制表面和消费场景，都可能在新地方改变。
 
 下次比较两枚蛋挞，可先不讨论哪枚“正宗”，而是分别记录外壳是分层还是颗粒状松碎、馅心是否流动、底部是否仍干爽。再把它与一块中式酥饼并看，就能发现相近的分层原理怎样服务于完全不同的馅料。
+
+<!-- public-photo:real-cn-hk-egg-tarts -->
+
+![图6-3　两枚香港蛋挞实物。浅黄色蛋面与褐色挞壳形成对照；本图不区分挞皮配方。](../assets/images/real-cn-hk-egg-tarts.jpg)
+
+图6-3　两枚香港蛋挞实物。浅黄色蛋面与褐色挞壳形成对照；本图不区分挞皮配方。
+
+实物照片：CCheungimm；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Two_Egg_Tarts_CC_02_HK.jpg)。
 

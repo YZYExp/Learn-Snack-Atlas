@@ -36,5 +36,19 @@ for f in sorted((R/'chapters').glob('*.md')):
   s='\n\n'.join(parts)+'\n'
  f.write_text(s)
  chapters.append({'id':f'ch{n:02d}','title':title,'source':str(f.relative_to(R)),'slug':f.stem,'part':('基础观察' if n<=4 else '中国传统与地方小吃' if n<=9 else '西式工艺家族' if n<=14 else '世界传统与当代生活')})
-(R/'book.json').write_text(json.dumps({'title':'点心之间','subtitle':'中西传统与新式糕点小吃图解','language':'zh-CN','edition':'首版 · 2026-10-25','description':'从原料、工艺和口感出发，认识甜咸点心的地方传统与现代变化。','chapters':chapters,'appendices':[{'id':f'a{i}','title':f.read_text().splitlines()[0].lstrip('# '),'source':str(f.relative_to(R)),'slug':f.stem} for i,f in enumerate(sorted((R/'appendices').glob('*.md')),1)]},ensure_ascii=False,indent=2))
+# Preserve subsequent edition metadata, stable appendix identities and later accepted images.
+existing=json.loads((R/'book.json').read_text()) if (R/'book.json').exists() else {}
+existing.update({'title':'点心之间','subtitle':'中西传统与新式糕点小吃图解','language':'zh-CN','description':'从原料、工艺和口感出发，认识甜咸点心的地方传统与现代变化。','chapters':chapters})
+existing.setdefault('edition','首版 · 2026-10-25')
+appendices=existing.get('appendices',[])
+known={x['source'] for x in appendices}
+for f in sorted((R/'appendices').glob('*.md')):
+ source=str(f.relative_to(R))
+ if source not in known:
+  appendices.append({'id':f'a{len(appendices)+1}','title':f.read_text().splitlines()[0].lstrip('# '),'source':source,'slug':f.stem})
+existing['appendices']=appendices
+(R/'book.json').write_text(json.dumps(existing,ensure_ascii=False,indent=2))
+old_index=json.loads((R/'editorial/image-index.json').read_text()) if (R/'editorial/image-index.json').exists() else []
+base={x['id'] for x in records}
+records += [x for x in old_index if x['id'] not in base]
 (R/'editorial/image-index.json').write_text(json.dumps(records,ensure_ascii=False,indent=2))

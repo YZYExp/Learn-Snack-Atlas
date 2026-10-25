@@ -16,6 +16,15 @@
 
 糖和油脂也不是加得越多越好。配方需要同时照顾发酵、支撑和成形：馅料很多而面包体太薄，可能撑不住；黄油丰富的面团温暖时较软，冷却后更容易分割。读到配方要求冷藏，不宜只把它理解成“等待”，还要注意它在管理面团状态。
 
+<!-- public-photo:real-we-brioche -->
+
+![图10-1　巧克力豆布里欧修。金黄色长条面包上可见分散的深色配料。](../assets/images/real-we-brioche.jpg)
+
+图10-1　巧克力豆布里欧修。金黄色长条面包上可见分散的深色配料。
+
+实物照片：Jebulon；Public domain（见原许可页）。[原图与许可页](https://commons.wikimedia.org/wiki/File:Brioche_aux_p%C3%A9pites_de_chocolat.jpg)。
+
+
 ## 几条值得一起认识的支线
 
 | 类型与例子 | 看哪里 | 点心中的作用 |
@@ -30,6 +39,23 @@
 普雷结的辨识点不能只有扭结形状：同样的面团也能做成圆形小面包。King Arthur 的家庭版本在烘烤前使用小苏打水浴，帮助形成深色表面；专业产品还可能采用不同的碱处理。家用小苏打水浴与专业强碱工艺不可按同一浓度随意替换。[资料：King Arthur Baking，Pretzel Buns](https://www.kingarthurbaking.com/recipes/pretzel-buns-recipe)
 
 Concha 的名字意为贝壳，外观来自表层纹路，但它的学习价值在于“双层”：下方是发酵面包，上方是可形成裂纹的甜酥皮。它属于墨西哥广阔的 pan dulce 传统；pan dulce 不能简单翻译为某一种固定面包，更不宜只用一款 concha 代表整个类别。[资料：King Arthur Baking，Conchas](https://www.kingarthurbaking.com/recipes/conchas-recipe)；[Pan Dulce 专题](https://www.kingarthurbaking.com/pan-dulce)
+
+<!-- public-photo:real-we-pretzel -->
+
+![图10-2　家庭制作的普雷结面包。扭结形态、深褐色表皮与表面浅色颗粒共同构成辨认线索。](../assets/images/real-we-pretzel.jpg)
+
+图10-2　家庭制作的普雷结面包。扭结形态、深褐色表皮与表面浅色颗粒共同构成辨认线索。
+
+实物照片：Charles Smith；[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Pretzel_bread_baking_experiment.jpg)。
+
+<!-- public-photo:real-we-concha -->
+
+![图10-3　墨西哥concha贝壳面包。浅色甜酥皮覆盖面包主体，弯曲刻纹与烤后裂缝清楚可见。](../assets/images/real-we-concha.jpg)
+
+图10-3　墨西哥concha贝壳面包。浅色甜酥皮覆盖面包主体，弯曲刻纹与烤后裂缝清楚可见。
+
+实物照片：ProtoplasmaKid；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Concha_%28pan_dulce_mexicano%29_02.JPG)。
+
 
 ## 甜与咸，经常只隔着一个组合
 

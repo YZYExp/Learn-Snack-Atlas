@@ -1,0 +1,16 @@
+{
+  "edition": "补图修订版",
+  "added_licensed_photographs": 27,
+  "added_generated_illustrations": 7,
+  "total_figures": 53,
+  "kind_counts": {
+    "licensed photograph": 27,
+    "AI-generated teaching illustration": 15,
+    "original diagram": 11
+  },
+  "all_images_embedded": true,
+  "all_photo_credits_present": true,
+  "all_photo_licensing_and_visual_checks_recorded": true,
+  "unused_images_in_book": 0,
+  "source_archive_history_preserved": true
+}

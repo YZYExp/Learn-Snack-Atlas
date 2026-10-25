@@ -16,6 +16,15 @@ Custard 指蛋参与增稠或凝固的蛋奶体系。流动的英式蛋奶酱 cr
 
 蛋奶体系追求的是恰当的凝固程度。柔软不等于没熟，结实也不必然更成功；口感目标和食品安全应分别按可靠配方判断。初学时不宜只凭摇晃程度模仿短视频，还应关注材料、分量、加热方式和冷却要求。
 
+<!-- public-photo:real-we-creme-caramel -->
+
+![图14-2　焦糖布丁实物。主体的缺口显露内部，表面及碗底的褐色焦糖液与浅色布丁形成对照。](../assets/images/real-we-creme-caramel.jpg)
+
+图14-2　焦糖布丁实物。主体的缺口显露内部，表面及碗底的褐色焦糖液与浅色布丁形成对照。
+
+实物照片：Amanda  Coutinho；[CC BY 2.0](https://creativecommons.org/licenses/by/2.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Cr%C3%A8me_caramel_2.jpg)。
+
+
 ## 奶冻与巴伐利亚奶油
 
 Panna cotta 的名称意为“煮过的奶油”。今天常见的版本以乳制品和糖构成风味，通过明胶等使其冷藏定形；但也存在使用蛋白等不同路线的配方，不能把“绝对无蛋”写成所有版本的定义。蓝带的公开示例就结合了蛋白奶油层与含明胶的巧克力层。[资料：Le Cordon Bleu，Panna Cotta](https://www.cordonbleu.edu/news/panna-cotta/en)
@@ -31,6 +40,15 @@ Panna cotta 的名称意为“煮过的奶油”。今天常见的版本以乳�
 | 冷藏胶凝 | 常见奶冻、果冻 | 胶凝强度与入口融化感 |
 | 凝固加充气 | bavarois、许多慕斯 | 支撑结构与轻盈感并存 |
 | 搅拌冻结 | 冰淇淋、许多 gelato 与 sorbet | 冰晶、空气、糖和温度的共同作用 |
+
+<!-- public-photo:real-we-bavarois -->
+
+![图14-1　配草莓的巴伐利亚奶油（bavarois）。被挖去一口后，浅色内部与勺取痕迹清楚可见。](../assets/images/real-we-bavarois.jpg)
+
+图14-1　配草莓的巴伐利亚奶油（bavarois）。被挖去一口后，浅色内部与勺取痕迹清楚可见。
+
+实物照片：SKopp；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Bavarian_cream_with_strawberries,_part_eaten.jpg)。
+
 
 ## 冰淇淋不是一整块冻奶
 

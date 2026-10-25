@@ -4,7 +4,7 @@
 
 从原料、工艺和口感出发，认识甜咸点心的地方传统与现代变化。
 
-首版：2026-10-25。18章知识读本；甜咸兼收，以原料、工艺、口感和生活场景解释代表品种。不是覆盖世界全部点心的穷尽目录，也不是逐项实作配方集。
+补图修订版：2026-10-25。18章知识读本；甜咸兼收，以原料、工艺、口感和生活场景解释代表品种。不是覆盖世界全部点心的穷尽目录，也不是逐项实作配方集。
 
 
 ### 基础观察
@@ -42,6 +42,7 @@
 - [中式点心代表索引](appendices/chinese-index.md)
 - [附录　工艺词汇与阅读路线](appendices/glossary.md)
 - [附录　西式及其他地区点心检索](appendices/world-index.md)
+- [图片来源与使用许可](appendices/photo-credits.md)
 
 - [汇总资料索引](references/reading-sources.md)
 
@@ -55,4 +56,4 @@ python3 scripts/build.py
 
 输出：`build/Dimsum-Atlas.epub`。原始分章Markdown与图片为唯一内容来源。未来网站可读取`book.json`，本版未创建或部署网站。重新绘制关系图需要Pillow及中文字体；在`scripts/draw_diagrams.py`中调整字体路径后运行。电子书构建不依赖Pillow。
 
-图像：8幅AI生成外观教学图、11幅原创关系图；图注逐图说明用途。图像清单在`editorial/image-index.json`，编辑资料不编入电子书。
+图像：27张公开许可实物照片、15幅AI生成外观教学图、11幅原创关系图，总计53幅；图注逐图说明类型与用途。图像清单在`editorial/image-index.json`，编辑资料不编入电子书。

@@ -29,6 +29,15 @@
 
 这些是辨认路线，并非每种点心的唯一做法。复合粉、预拌粉与地方手法都可能形成变体。
 
+<!-- public-photo:real-cn-cheung-fun -->
+
+![图7-2　潮汕式肠粉在澳大利亚阿德莱德的一种店售实例，店家为Stonemill Rice Roll。图中可见薄片的折叠、卷裹与酱汁。](../assets/images/real-cn-cheung-fun.jpg)
+
+图7-2　潮汕式肠粉在澳大利亚阿德莱德的一种店售实例，店家为Stonemill Rice Roll。图中可见薄片的折叠、卷裹与酱汁。
+
+实物照片：Asamboi；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Chaoshan_rice_noodle_roll.jpg)。
+
+
 ## 包馅不是把所有原料塞进皮里
 
 外皮薄厚必须配合馅料的含水量、颗粒大小和熟化速度。粗切蔬菜带来咬感，但若出水过多，容易让接缝受潮；细碎肉馅容易分布均匀，但并不代表所有点心都应把肉打成同一种胶状。虾粒、笋粒、菌菇与肉末分别保留多少形态，是风味设计的一部分。
@@ -36,6 +45,15 @@
 包子通常封口，烧卖则保留开放的顶部。开放让馅料成为视觉中心，也改变表面水分散失和入口次序。广式烧卖常见肉与虾的组合，江南糯米烧卖则把米饭变成主体，扬州翡翠烧卖又展示蔬菜馅的路线。只根据顶部收口形状，就把它们理解为相同馅料的亲属，会忽略很大一段差别。
 
 扬州富春茶点的代表品种包括三丁包、千层油糕和翡翠烧卖，说明同一茶点传统可以同时容纳不同的面团与馅心组织，而不是统一成一种口味。[资料：国家图书馆中国记忆项目，富春茶点制作技艺](https://ich.nlc.cn/detail/6016)
+
+<!-- public-photo:real-cn-shumai -->
+
+![图7-1　香港家庭风格猪肉烧卖，名称依原图说明。开放顶部露出馅心，薄皮在外围形成褶皱。](../assets/images/real-cn-shumai.jpg)
+
+图7-1　香港家庭风格猪肉烧卖，名称依原图说明。开放顶部露出馅心，薄皮在外围形成褶皱。
+
+实物照片：Peachyeung316；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Homemade_style_pork_shumai_in_Hong_Kong.jpg)。
+
 
 ## 蒸、煮、煎决定了外皮经历什么
 

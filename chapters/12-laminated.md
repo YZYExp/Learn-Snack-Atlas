@@ -14,6 +14,15 @@
 
 这里最需要的是油脂与面团在操作时状态协调。油脂太硬，擀压时容易碎裂；太软，则可能渗进面团而难以维持清楚的分层。冷藏的意义是管理温度、让面团松弛，并非一律“冷得越低越好”。实际操作还要服从具体配方、室温和油脂特性。
 
+<!-- public-photo:real-we-puff-prep-03 -->
+
+![图12-1　千层酥制作中的折叠面团块，近侧可见叠起的边缘。这是一张过程快照，未标示折叠次数。](../assets/images/real-we-puff-prep-03.jpg)
+
+图12-1　千层酥制作中的折叠面团块，近侧可见叠起的边缘。这是一张过程快照，未标示折叠次数。
+
+实物照片：Effib；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Puff_pastry003.JPG)。
+
+
 ## 可颂与不发酵千层酥
 
 | 家族 | 是否通常含酵母 | 膨起与组织的重点 | 常见成品 |
@@ -39,6 +48,15 @@
 
 同一面糊能挤成长条成为 éclair 闪电泡芙，也能制成圆形；加入奶酪可做咸味 gougère。可见泡芙不是“夹奶油的圆球”的同义词。[资料：King Arthur Baking，Pâte à Choux](https://www.kingarthurbaking.com/recipes/pate-a-choux-recipe)
 
+<!-- public-photo:real-we-choux-inside -->
+
+![图12-2　香草卡仕达馅泡芙切面。褐色薄壳围住浅黄色馅料，壳内空间已被填馅占据。](../assets/images/real-we-choux-inside.jpg)
+
+图12-2　香草卡仕达馅泡芙切面。褐色薄壳围住浅黄色馅料，壳内空间已被填馅占据。
+
+实物照片：Willis Lam；[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:CHOUX_Bakery_Vanilla_Custard_Cream_Puff_inside_%2828436879663%29.jpg)。
+
+
 ## 用断面读懂三种“蓬”
 
 对于第一次接触起酥的读者，可以把完整变化想成一条连续路线：起初是两种独立材料；包入以后成为有边界的组合；擀开让边界变长、变薄；折叠把层重新叠放；最后切割、成形并烘烤。关键在于每一步保留前一步建立的层次，而不是不断把材料揉匀。与中式水油皮包油酥相比，两者都在安排油脂与面粉的关系，但油脂层的组成、面团含水和操作方法并不相同，不能把名字相近当成配方可直接互换。
@@ -46,4 +64,12 @@
 泡芙的连续变化正好不同：加热后形成能聚成团的熟糊；加入蛋后逐渐变得有光泽且可挤；挤出的坯体还没有中空；入炉鼓起并逐渐固定；内部进一步干燥后才有条件承托馅料。成品图看不见前半段的熟糊，却正是这段过程使它区别于一盘普通蛋糕糊。比较时应把过程和断面同时看，避免只背“蒸气膨松”而不理解蒸气如何被留下。
 
 把可颂、蝴蝶酥和未填馅的泡芙并排观察：可颂有薄层与发酵孔洞共同构成的内部；蝴蝶酥能看到更紧密的折叠线和糖化表面；泡芙最醒目的是壳内空间。再分别听咬下时的声音、看碎屑形状。这个练习能把“酥”拆成不同经验，也能解释为什么三者不适合用同一种方法替换或回温。理解工艺以后，再看新式圆筒可颂、可颂塔或加脆壳泡芙，就能区分形状创新、组合创新和面团本身的改变。
+
+<!-- public-photo:real-we-croissant-section -->
+
+![图12-3　可颂真实横切面。弯曲的薄壁围出大小不一的孔洞，可与本章的分层原理联系观察。](../assets/images/real-we-croissant-section.jpg)
+
+图12-3　可颂真实横切面。弯曲的薄壁围出大小不一的孔洞，可与本章的分层原理联系观察。
+
+实物照片：SKopp；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Croissant,_cross_section.jpg)。
 

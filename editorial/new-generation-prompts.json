@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ai-wagashi",
+    "prompt": "Use case: scientific-educational. Asset type: food identification illustration for an adult Chinese illustrated knowledge book. A single clear food study on a plain warm ivory backdrop, natural editorial food photography style, generous breathing room, accurate everyday food texture, three-quarter view, landscape 4:3 framing, no lettering no labels no logos no decorative clutter. This is an illustrative example, not a real restaurant photo. Two distinct Japanese sweets placed with space between: on the left one small nerikiri confection made from smooth moldable bean-paste dough, a restrained pale pink five-petalled flower with a tiny pale yellow center, velvety matte surface, NOT gelatin and NOT a mochi skin or baked cake; on right two simple dark reddish-brown rectangular slices of plain neri yokan, homogeneous opaque firm bean-paste agar jelly, smooth cut surfaces, no cake crumb, no layers, no filling. Each object large enough to recognize. No fork. Show the contrast in shape and surface only; no imaginary microscopic structure.",
+    "method": "built-in image generation",
+    "reference_basis": "Book chapter sources and constrained representative food morphology; illustrative rather than a record of a real dish."
+  },
+  {
+    "id": "ai-kueh-lapis",
+    "prompt": "Use case: scientific-educational. Asset type: food identification illustration for an adult Chinese illustrated knowledge book. A single clear food study on a plain warm ivory backdrop, natural editorial food photography style, generous breathing room, accurate everyday food texture, three-quarter view, landscape 4:3 framing, no lettering no labels no logos no decorative clutter. This is an illustrative example, not a real restaurant photo. Two modest thick rectangular cut pieces of steamed Southeast Asian kuih lapis, one lying flat and one upright showing the cross section. Alternating pale green and creamy white horizontal starch-gel layers, lightly translucent, cohesive soft jelly-like rice/starch texture, faint sheen, flat top and clean cut edges, about seven to nine layers. Crucially NOT Indonesian baked spekkoek / lapis legit, NOT sponge cake, NO brown crust, NO porous cake crumb, NO frosting. No coconut garnish. Clear large side cut view.",
+    "method": "built-in image generation",
+    "reference_basis": "Book chapter sources and constrained representative food morphology; illustrative rather than a record of a real dish."
+  },
+  {
+    "id": "ai-jalebi",
+    "prompt": "Use case: scientific-educational. Asset type: food identification illustration for an adult Chinese illustrated knowledge book. A single clear food study on a plain warm ivory backdrop, natural editorial food photography style, generous breathing room, accurate everyday food texture, three-quarter view, landscape 4:3 framing, no lettering no labels no logos no decorative clutter. This is an illustrative example, not a real restaurant photo. A small plain shallow plate with three Indian jalebi made from thin piped batter fried into irregular concentric spiral loops then soaked in syrup. Golden orange ridged porous fried strands about pencil thickness, visibly distinct narrow gaps between strands, subtle transparent syrup sheen, some small blisters, no thick bun dough, no pretzel shape, no pastry cream, no coconut. A few natural syrup drops on the plate but no large syrup lake. Entire spirals clearly visible.",
+    "method": "built-in image generation",
+    "reference_basis": "Book chapter sources and constrained representative food morphology; illustrative rather than a record of a real dish."
+  },
+  {
+    "id": "ai-churros",
+    "prompt": "Use case: scientific-educational. Asset type: food identification illustration for an adult Chinese illustrated knowledge book. A single clear food study on a plain warm ivory backdrop, natural editorial food photography style, generous breathing room, accurate everyday food texture, three-quarter view, landscape 4:3 framing, no lettering no labels no logos no decorative clutter. This is an illustrative example, not a real restaurant photo. Four slender Spanish-style churros on a simple plate, two straight and two loose loops, clearly extruded with longitudinal star-nozzle grooves and crisp golden fried ridges, modest light dusting of fine sugar. One straight churro broken with a modest pale cooked interior, not a giant hollow shell, no filling. A small plain cup of thick dark hot chocolate beside the plate, proportionally secondary. Not Chinese youtiao: no paired attached sticks, no giant long airy cavity.",
+    "method": "built-in image generation",
+    "reference_basis": "Book chapter sources and constrained representative food morphology; illustrative rather than a record of a real dish."
+  },
+  {
+    "id": "ai-biscotti",
+    "prompt": "Use case: scientific-educational. Asset type: food identification illustration for an adult Chinese illustrated knowledge book. A single clear food study on a plain warm ivory backdrop, natural editorial food photography style, generous breathing room, accurate everyday food texture, three-quarter view, landscape 4:3 framing, no lettering no labels no logos no decorative clutter. This is an illustrative example, not a real restaurant photo. Five Italian-style almond biscotti / cantucci slices, oblique slices cut from a baked log, elongated modest ovals with golden brown edges, dry tightly structured pale crumb studded with sliced whole almonds, clearly visible sliced faces and crust outline. A single slice stands leaning to show thickness. No frosting, no chocolate coating, no bread-like large holes, no soft muffin texture. Emphasize the slice shape and compact dry interior, without pretending to show the two baking operations.",
+    "method": "built-in image generation",
+    "reference_basis": "Book chapter sources and constrained representative food morphology; illustrative rather than a record of a real dish."
+  },
+  {
+    "id": "ai-quiche",
+    "prompt": "Use case: scientific-educational. Asset type: food identification illustration for an adult Chinese illustrated knowledge book. A single clear food study on a plain warm ivory backdrop, natural editorial food photography style, generous breathing room, accurate everyday food texture, three-quarter view, landscape 4:3 framing, no lettering no labels no logos no decorative clutter. This is an illustrative example, not a real restaurant photo. One small open savory quiche and one cut wedge beside it. Crisp golden shortcrust pastry case with fluted rim, no laminated layers; set pale yellow egg-and-dairy custard filling with small cooked bacon pieces distributed throughout and lightly golden top, substantial cut face visible. No lid, no sweet fruit, no cream decoration, no impossible liquid waterfall. A representative savory custard tart example, NOT claimed to be one exact regional recipe.",
+    "method": "built-in image generation",
+    "reference_basis": "Book chapter sources and constrained representative food morphology; illustrative rather than a record of a real dish."
+  }
+]

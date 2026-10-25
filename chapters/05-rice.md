@@ -32,17 +32,52 @@
 
 这张表描述常见路线，并不替代各地配方。同名“发糕”可能采用不同膨松方法，同名“年糕”也可能使用不同米粉比例。
 
+<!-- public-photo:real-cn-liangnong-cake -->
+
+![图5-3　余姚梁弄大糕的陈列实例，摄于余姚阳明古镇历史文化街区。方形糕体表面的字纹清楚可见。](../assets/images/real-cn-liangnong-cake.jpg)
+
+图5-3　余姚梁弄大糕的陈列实例，摄于余姚阳明古镇历史文化街区。方形糕体表面的字纹清楚可见。
+
+实物照片：源義信；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:2023-03-18_余姚梁弄大糕.jpg)。
+
+<!-- public-photo:real-cn-guangdong-niangao -->
+
+![图5-4　整块广东年糕，名称依原图说明。圆盘形糕体与完整表面展示了切片前的状态。](../assets/images/real-cn-guangdong-niangao.jpg)
+
+图5-4　整块广东年糕，名称依原图说明。圆盘形糕体与完整表面展示了切片前的状态。
+
+实物照片：Skjackey tse；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:File-Guangdong_Nianguo.jpg)。
+
+
 ## 青团的颜色之外，还有皮与馅
 
 青团常用植物汁液或植物组织为米粉团提供颜色和气味；艾草、鼠曲草、浆麦草等使用情况因地区而异，不能将所有绿色糕团都认作同一种草。豆沙、芝麻等甜馅之外，咸馅及当代变化也很常见。
 
 看青团时，不妨先分清三层信息：绿色来自什么，外皮由哪些粉组成，馅料是干爽还是湿润。细腻豆沙不会像流动酱汁那样立即浸湿外皮；油润馅料则可能让入口感显得更柔滑。颜色深浅受植物、处理与储存影响，不能单凭“越绿”判断原料更真或更好。
 
+<!-- public-photo:real-cn-qingtuan -->
+
+![图5-1　塘栖拍摄的蒸熟青团。绿色外皮中可见植物碎片。](../assets/images/real-cn-qingtuan.jpg)
+
+图5-1　塘栖拍摄的蒸熟青团。绿色外皮中可见植物碎片。
+
+实物照片：猫猫的日记本；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Qingtuan_in_Tangqi_2014-04.jpg)。
+
+
 ## 萝卜糕为什么能煎出壳
 
 萝卜糕的名称容易让人以为它是一种蔬菜蛋糕。实际上，常见粤式做法把白萝卜丝及其水分与米粉浆结合，蒸熟后成为可切分的糕体；部分配方加入腊味、虾米等。米粉帮助连接萝卜丝，萝卜又提供水分、纤维与柔软感。比例不同，可能得到挺身易切的版本，也可能得到明显柔软、萝卜感更强的版本。[资料：香港大学教学收藏，萝卜糕](https://learning.hku.hk/ccch9051/group-8/items/show/8)
 
 蒸熟只是完成内部结构。冷却后切片下锅，接触锅面的部分逐渐失水并上色，内部仍保留较多水分，于是有了外脆内软。若把“糕越硬越容易煎”当作唯一目标，便可能失去萝卜糕本来的柔润。
+
+<!-- public-photo:real-cn-turnip-cake -->
+
+![图5-2　香港家庭制作的整盘萝卜糕，尚未切片煎制；与本章前面的煎糕切面示意形成对照。](../assets/images/real-cn-turnip-cake.jpg)
+
+图5-2　香港家庭制作的整盘萝卜糕，尚未切片煎制；与本章前面的煎糕切面示意形成对照。
+
+实物照片：Peachyeung316；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Homestyle_Turnip_Cake_in_Hong_Kong.jpg)。
+
 
 ## 杂粮并非替换一个名称
 

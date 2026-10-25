@@ -1,0 +1,46 @@
+[
+  {
+    "file": "assets/images/ai-wagashi.png",
+    "sha256": "3c38f0a8061685e496a14b3cdebf42ddd611e9580fde8630e1e6cd611ac77a3a",
+    "title": "练切与羊羹外观示意",
+    "visual_checked": true,
+    "approved": true,
+    "observation": "左侧为无裱花旋纹的整块花形可塑点心，花瓣刻线清楚，表面细腻偏哑光；右侧为深红褐色可切块组织，断面致密，无海绵状大孔。",
+    "notes": "未见把练切画成奶油裱花或透明mochi的明显错误；羊羹未见海绵孔。仅批准作练切塑形与羊羹块状组织的外观示意，不能凭图证明豆沙、米成分、凝胶剂及内部馅料。花形只是可选造型，不代表所有练切。",
+    "allowed_use": "AI生成外观教学示意；必须明确标识生成示意，不作为真实产品、历史证据、原料鉴定或工艺过程证明。",
+    "reviewed": "2026-10-25"
+  },
+  {
+    "file": "assets/images/ai-kueh-lapis.png",
+    "sha256": "2aefe5f166a27e0a3231be5d86487647dfb58c60c67d522e0976fdd228612dfe",
+    "title": "蒸制层糕外观示意",
+    "visual_checked": true,
+    "approved": true,
+    "observation": "绿白交替的水平层界清楚，切面呈致密、湿润、略有透光感的凝胶状，没有烤褐边、酥皮鳞片或蛋糕大孔。",
+    "notes": "符合蒸制淀粉糕层的基本外观，未误画成烤制lapis legit。绿色不能独立证明班兰，白色不能证明椰浆；层数为此示例的造型安排，不定义品类。图像不能证明逐次蒸制过程。",
+    "allowed_use": "AI生成外观教学示意；必须明确标识生成示意，不作为真实产品、历史证据、原料鉴定或工艺过程证明。",
+    "reviewed": "2026-10-25"
+  },
+  {
+    "file": "assets/images/ai-jalebi.png",
+    "sha256": "1fade06350e76f637609106a940ddf6d1a4573db62e316d383d7552cafa641cc",
+    "title": "Jalebi盘绕形态示意",
+    "visual_checked": true,
+    "approved": true,
+    "observation": "三枚金橙色细条盘绕成不完全规则的圆形，条与条之间有间隙，表面带糖浆般的高光，盘面有少量液滴。",
+    "notes": "盘绕细条形态符合jalebi的识别线索，未画成粗实心面包圈或油条。条形略规整，但属于可接受的教学简化。仅展示外观，不能凭颜色确认原料、凭高光确认糖浆组成或证明先炸后浸的时序。",
+    "allowed_use": "AI生成外观教学示意；必须明确标识生成示意，不作为真实产品、历史证据、原料鉴定或工艺过程证明。",
+    "reviewed": "2026-10-25"
+  },
+  {
+    "file": "assets/images/ai-churros.png",
+    "sha256": "c5e3968acc900d88760e2aca1021d373effa1a27fd0b7cc6a169970111014999",
+    "title": "Churros纵沟与断面示意",
+    "visual_checked": true,
+    "approved": true,
+    "observation": "直条与圈状点心均有沿长度方向延伸的多条纵沟，金黄表面撒糖粒；一根断开处可见较浅的内部，旁有巧克力色蘸料。",
+    "notes": "纵沟清楚，未混同为表面平滑或双股油条。直条与圈形可共同用于外形对照，断面为示例而非所有churros的孔隙标准。不得据图宣称配方含蛋或不含蛋，也不能把巧克力搭配概括为全部地区。",
+    "allowed_use": "AI生成外观教学示意；必须明确标识生成示意，不作为真实产品、历史证据、原料鉴定或工艺过程证明。",
+    "reviewed": "2026-10-25"
+  }
+]

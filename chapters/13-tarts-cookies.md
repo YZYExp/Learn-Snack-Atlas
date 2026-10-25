@@ -28,6 +28,15 @@
 
 “盲烤”指先烤空壳。对于后填的冷馅，壳需要先完成烘烤；对于某些湿润、烘烤时间较短的馅，预烤能帮助底皮先定形。压重物可以限制空壳鼓包和边缘滑落，但具体操作仍须按配方区分。并不是所有派都要预烤，双层派尤其不能机械套用。[资料：King Arthur Baking，How to Prebake Pie Crust](https://www.kingarthurbaking.com/blog/2026/09/01/prebake-blind-bake-pie-crust)；[Culinary Institute of America，Blind Baking Pie and Tart Shells](https://app.ckbk.com/reference/baki28653c15s001e003/blind-baking-pie-and-tart-shells)
 
+<!-- generated-photo:ai-quiche -->
+
+![图13-1　蛋奶咸派（quiche）的壳馅关系示意：开放的酥壳承托较厚馅体。这里不指一种固定的地区配方。](../assets/images/ai-quiche.png)
+
+图13-1　蛋奶咸派（quiche）的壳馅关系示意：开放的酥壳承托较厚馅体。这里不指一种固定的地区配方。
+
+AI生成示意：用于辨认常见外观，不是实店产品照片或配方实测。
+
+
 ## 曲奇不只是裱花形状
 
 中文日常用语中的“曲奇”常让人想到黄油裱花小饼，英文 cookie 的使用范围却宽得多。按成形方法观察，可以看到舀放、擀切、挤压、冷藏切片和盘烤后切块等方式。它们是有帮助的操作分类，不是互不相交的物种：同一类面团可能有多种成形选择。[资料：King Arthur Baking，Classic Cookie Recipes](https://www.kingarthurbaking.com/recipes/collections/classic-cookie-recipes)
@@ -37,6 +46,15 @@
 小饼摊开多少，不只取决于黄油有没有融化。糖量、面粉、冷藏、烤箱状态、烤盘表面和铺垫材料都可能参与作用。King Arthur 的烤盘铺垫对照就是一个提醒：把所有扁平曲奇都归罪于配方，容易漏掉操作条件。[资料：King Arthur Baking，Cookies Spreading? It Might Be Your Pan Lining](https://www.kingarthurbaking.com/blog/2022/12/01/keep-cookies-from-spreading)
 
 比较小饼时还应控制厚度。相同面团薄薄擀开和做成厚块，水分散失与入口受力的方式不同；把一片薄脆与一块厚曲奇的硬度直接排名，无法判断是哪种材料或工艺发挥作用。
+
+<!-- generated-photo:ai-biscotti -->
+
+![图13-2　杏仁biscotti的代表外形示意，可观察斜切片、外缘与杏仁截面的分布。](../assets/images/ai-biscotti.png)
+
+图13-2　杏仁biscotti的代表外形示意，可观察斜切片、外缘与杏仁截面的分布。
+
+AI生成示意：用于辨认常见外观，不是实店产品照片或配方实测。
+
 
 ## 酥感是一项会变化的性质
 

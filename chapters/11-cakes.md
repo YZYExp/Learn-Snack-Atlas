@@ -14,6 +14,15 @@
 
 “打发得越久越蓬松”并不是普遍规则。打发的对象和目标不同，后续混入面粉、油脂的方式也不同。读者不必先记下全部操作术语，只要抓住两问：这一步在引入空气，还是在把已经形成的泡沫与其他材料结合？当前动作会让结构更稳定，还是可能损失空气？
 
+<!-- public-photo:real-we-chiffon-process -->
+
+![图11-1　戚风蛋糕制作记录中的一次混合：浅色液体表面有气泡，深色配料尚未拌散。](../assets/images/real-we-chiffon-process.jpg)
+
+图11-1　戚风蛋糕制作记录中的一次混合：浅色液体表面有气泡，深色配料尚未拌散。
+
+实物照片：Roozitaa；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Making_Chiffon_cake_1.jpg)。
+
+
 ## 海绵、戚风与黄油蛋糕
 
 海绵蛋糕通常以打发鸡蛋形成的泡沫为重要基础，但“海绵”并不是一张全球统一的配方。使用全蛋、分蛋、少量黄油或不加油脂，都会形成分支。较清爽的蛋糕体常与奶油、果酱或糖液搭配，成品的湿润程度不能只归因于蛋糕本身。[资料：King Arthur Baking，Cake Guide](https://www.kingarthurbaking.com/learn/guides/cake)

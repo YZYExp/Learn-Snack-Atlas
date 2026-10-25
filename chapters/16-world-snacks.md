@@ -32,11 +32,37 @@ Samosa 则展示包馅炸点的另一面。印度恰塔普尔地方政府介绍�
 
 这种点心不能只按三角形识别。面皮厚薄、馅料颗粒、含水量、封口与油炸状态都影响咬感。酸味蘸酱并非附带装饰：它让油脂感、淀粉感和香料感出现不同的组合。品尝时先吃一小口原味，再蘸少量酱，能更清楚知道变化来自哪里。
 
+<!-- public-photo:real-wo-gulab-jamun -->
+
+![图16-1　Gulab jamun实物外形。球形甜点呈较深的炸制色泽；具体乳原料配方见正文的实例说明。](../assets/images/real-wo-gulab-jamun.jpg)
+
+图16-1　Gulab jamun实物外形。球形甜点呈较深的炸制色泽；具体乳原料配方见正文的实例说明。
+
+实物照片：Svatsal；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Gulab_Jaamun.jpg)。
+
+<!-- generated-photo:ai-jalebi -->
+
+![图16-2　Jalebi的盘绕细条与糖浆光泽示意。与球形gulab jamun对照时，先看成形方式的差别。](../assets/images/ai-jalebi.png)
+
+图16-2　Jalebi的盘绕细条与糖浆光泽示意。与球形gulab jamun对照时，先看成形方式的差别。
+
+AI生成示意：用于辨认常见外观，不是实店产品照片或配方实测。
+
+
 ## Churros：条纹与新鲜度比名字更可观察
 
 西班牙的 churros 是典型油炸面点，马德里官方旅游资料介绍其条状或圈状外形，以及早餐、下午点心时配巧克力饮用的场景。[来源：马德里旅游，Repostería tradicional](https://www.esmadrid.com/reposteria-tradicional) 它不是“西班牙油条”的完全对应物：形态、面团和食用方式都有自己的变化。这样的中文类比只能帮助第一次想象，不能代替学习。
 
 观察一根 churro，可先看表面沟槽是否清楚，再看断面与油润程度。刚炸后的脆壳会随放置而改变，糖粉、糖粒与夹馅也会改变吸湿与入口体验。不要拿放凉外卖与现炸堂食直接比较，再把差异解释成国家风格。拉丁美洲又发展出许多当地版本，夹馅和调味丰富，说明传播后的食品会形成新的日常传统。
+
+<!-- generated-photo:ai-churros -->
+
+![图16-3　Churros的纵向沟槽、条形与环形外观示意，旁配巧克力饮。](../assets/images/ai-churros.png)
+
+图16-3　Churros的纵向沟槽、条形与环形外观示意，旁配巧克力饮。
+
+AI生成示意：用于辨认常见外观，不是实店产品照片或配方实测。
+
 
 ## Empanada：包馅面点不止一个标准答案
 

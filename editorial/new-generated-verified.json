@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ai-wagashi",
+    "chapter": 15,
+    "file": "assets/images/ai-wagashi.png",
+    "kind": "AI-generated teaching illustration",
+    "caption": "图15-3　花形练切与切块羊羹的外观示意。前者展示塑形，后者展示连续的切块组织。",
+    "sha256": "3c38f0a8061685e496a14b3cdebf42ddd611e9580fde8630e1e6cd611ac77a3a",
+    "visual_checked": true,
+    "approved": true,
+    "review": "Primary editor and independent section reviewer examined image pixels; use limited to representative exterior morphology."
+  },
+  {
+    "id": "ai-kueh-lapis",
+    "chapter": 15,
+    "file": "assets/images/ai-kueh-lapis.png",
+    "kind": "AI-generated teaching illustration",
+    "caption": "图15-4　蒸制层糕的一种外观示意，致密湿润的层面与烤制千层蛋糕不同。图中配色与层数仅作举例。",
+    "sha256": "2aefe5f166a27e0a3231be5d86487647dfb58c60c67d522e0976fdd228612dfe",
+    "visual_checked": true,
+    "approved": true,
+    "review": "Primary editor and independent section reviewer examined image pixels; use limited to representative exterior morphology."
+  },
+  {
+    "id": "ai-jalebi",
+    "chapter": 16,
+    "file": "assets/images/ai-jalebi.png",
+    "kind": "AI-generated teaching illustration",
+    "caption": "图16-2　Jalebi的盘绕细条与糖浆光泽示意。与球形gulab jamun对照时，先看成形方式的差别。",
+    "sha256": "1fade06350e76f637609106a940ddf6d1a4573db62e316d383d7552cafa641cc",
+    "visual_checked": true,
+    "approved": true,
+    "review": "Primary editor and independent section reviewer examined image pixels; use limited to representative exterior morphology."
+  },
+  {
+    "id": "ai-churros",
+    "chapter": 16,
+    "file": "assets/images/ai-churros.png",
+    "kind": "AI-generated teaching illustration",
+    "caption": "图16-3　Churros的纵向沟槽、条形与环形外观示意，旁配巧克力饮。",
+    "sha256": "c5e3968acc900d88760e2aca1021d373effa1a27fd0b7cc6a169970111014999",
+    "visual_checked": true,
+    "approved": true,
+    "review": "Primary editor and independent section reviewer examined image pixels; use limited to representative exterior morphology."
+  },
+  {
+    "id": "ai-quiche",
+    "chapter": 13,
+    "file": "assets/images/ai-quiche.png",
+    "kind": "AI-generated teaching illustration",
+    "caption": "图13-1　蛋奶咸派（quiche）的壳馅关系示意：开放的酥壳承托较厚馅体。这里不指一种固定的地区配方。",
+    "sha256": "308d585343f2fc7eba59cd71e290028f2ee1e3ac59ff7a251f7f8aa48d26a99f",
+    "visual_checked": true,
+    "approved": true,
+    "review": "Primary editor and independent section reviewer examined image pixels; use limited to representative exterior morphology."
+  },
+  {
+    "id": "ai-biscotti",
+    "chapter": 13,
+    "file": "assets/images/ai-biscotti.png",
+    "kind": "AI-generated teaching illustration",
+    "caption": "图13-2　杏仁biscotti的代表外形示意，可观察斜切片、外缘与杏仁截面的分布。",
+    "sha256": "69f61ec75bceacc31652f18abf10eec7cd5e0d5c4557c9e6ce719c1bf5ad7ae0",
+    "visual_checked": true,
+    "approved": true,
+    "review": "Primary editor and independent section reviewer examined image pixels; use limited to representative exterior morphology."
+  },
+  {
+    "id": "ai-snow-skin",
+    "chapter": 17,
+    "file": "assets/images/ai-snow-skin.png",
+    "kind": "AI-generated teaching illustration",
+    "caption": "图17-1　冰皮月饼的包馅外观示意。浅色连续外皮包住馅心，表面保留模印；与糖浆皮烤月饼的外观及食用方式形成对照。",
+    "sha256": "32282990d77ae80fe24e8243d1f5cdd1e08c6b97effda8bd88b4199ecee78af7",
+    "visual_checked": true,
+    "approved": true,
+    "review": "Primary editor examined opaque skin, moulded relief and filling cross-section; no recipe or cold-chain state inferred."
+  }
+]

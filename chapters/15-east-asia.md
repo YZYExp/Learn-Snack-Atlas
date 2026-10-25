@@ -18,6 +18,15 @@
 
 读和菓子历史，也要保留时间层次：茶文化、糖的供应、城市消费和机械生产都参与了演变。今天被称作传统的一组食品，经历过持续交流与改造，不能倒推为从古至今固定不变的一套成品。
 
+<!-- generated-photo:ai-wagashi -->
+
+![图15-3　花形练切与切块羊羹的外观示意。前者展示塑形，后者展示连续的切块组织。](../assets/images/ai-wagashi.png)
+
+图15-3　花形练切与切块羊羹的外观示意。前者展示塑形，后者展示连续的切块组织。
+
+AI生成示意：用于辨认常见外观，不是实店产品照片或配方实测。
+
+
 ## 韩国年糕：先问“怎样成形”
 
 韩语 tteok 对应一个宽广的年糕家族。不要因为年糕汤或辣炒年糕最常见，就认为它们代表全部。米粉蒸成的糕、熟米捣打成的糕、带馅的小糕以及煎制点心，对颗粒结构与表面口感的处理各不相同。
@@ -25,6 +34,15 @@
 秋夕的松饼 songpyeon 是很好的观察对象。韩国旅游发展局把家庭制作松饼列入代表性节令活动，常见造型是半月形，内有芝麻、豆类等馅。观察时应区分外皮、馅与蒸制香气，不能用中文“松饼”一词把它误认成西式 pancake。[来源：韩国旅游发展局，Recipes for Signature Chuseok Foods](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224166)
 
 米糕变硬也不能直接说明制作差。原料、含水量、温度与放置时间共同影响口感。一次比较最好采用相近的新鲜程度；若一块刚蒸好、一块已冷藏，测到的主要可能是保存状态。先记下温度与时间，再讨论哪一种糕更柔软，结论才有可比性。
+
+<!-- public-photo:real-wo-songpyeon -->
+
+![图15-1　韩国年糕松饼（songpyeon）实物。白、粉、绿的外皮呈半月形；这里的“松饼”不指西式pancake。](../assets/images/real-wo-songpyeon.jpg)
+
+图15-1　韩国年糕松饼（songpyeon）实物。白、粉、绿的外皮呈半月形；这里的“松饼”不指西式pancake。
+
+实物照片：wizdata；[CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Songpyeon.jpg)。
+
 
 ## Kuih／kueh：不由一个国家独占的点心家族
 
@@ -34,11 +52,29 @@
 
 红龟粿的模印、椰糖卷的卷包、薄脆蛋卷的烘烤，说明同一文化圈也容纳蒸、煎、烤与模压等多种技术。新加坡博物馆收藏的蛋卷模具，还能提醒读者：工具、节庆与家庭劳动本来就是点心史的一部分。[来源：国家文物局，Love letters mould](https://www.roots.gov.sg/Collection-Landing/listing/1235363)
 
+<!-- generated-photo:ai-kueh-lapis -->
+
+![图15-4　蒸制层糕的一种外观示意，致密湿润的层面与烤制千层蛋糕不同。图中配色与层数仅作举例。](../assets/images/ai-kueh-lapis.png)
+
+图15-4　蒸制层糕的一种外观示意，致密湿润的层面与烤制千层蛋糕不同。图中配色与层数仅作举例。
+
+AI生成示意：用于辨认常见外观，不是实店产品照片或配方实测。
+
+
 ## 越南甜食：从一块糕走向一碗组合
 
 越南的 chè 很适合打破“点心必须是一件固体”的预设。豆类、米团、木薯珠、凝胶、椰浆或水果可以在一碗中组合；不同材料提供的不是重复甜味，而是咀嚼层次。越南旅游官方介绍中的 chè trôi nước 是带绿豆馅的米团配姜糖浆，炸香蕉则用脆壳与软果肉形成另一种对照。[来源：越南旅游，15 dreamy desserts to try in Vietnam](https://vietnam.travel/things-to-do/15-dreamy-desserts-try-vietnam)
 
 越南的糕饼还包括本地米点与外来技术的再发展，因此不能见到泡芙、焦糖布丁就把它们从当地饮食中排除。技术来源和今天的归属，是两个可以同时讨论的问题。对初学者而言，先认识它在当地怎么吃、用什么原料，再追踪可证实的传播路径，比争论唯一发源地更有收获。
+
+<!-- public-photo:real-wo-che -->
+
+![图15-2　越南Bình Long的chè trôi nước，名称依摄影者说明。一碗中组合了大圆团、条状配料与液体。](../assets/images/real-wo-che.jpg)
+
+图15-2　越南Bình Long的chè trôi nước，名称依摄影者说明。一碗中组合了大圆团、条状配料与液体。
+
+实物照片：Phương Huy；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:M%C3%B3n_ch%C3%A8_%E1%BB%9F_B%C3%ACnh_Long_n%C4%83m_2020.jpg)。
+
 
 ## 一次跨地区的小比较
 

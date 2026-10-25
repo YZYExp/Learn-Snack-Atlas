@@ -16,6 +16,15 @@
 
 茶楼、街坊饼店和茶餐厅也不是互相隔绝的系统。蛋挞、菠萝包等食品能在不同场景流通，分量、售卖温度和搭配随之变化。香港非遗展览将茶楼点心、茶果、菠萝包、蛋挞和港式奶茶同时纳入饮食文化，提醒我们“地方传统”也包含长时间的交流和改造。[资料：香港非遗办“香港滋味”巡回展览](https://www.icho.hk/en/web/icho/taste_of_ICH.html)
 
+<!-- public-photo:real-cn-dim-sum-table -->
+
+![图8-1　香港荃湾川龙端记的点心蒸笼。原图列明叉烧包、马拉糕和腊肠卷；黑白影像突出几种形态的并置。](../assets/images/real-cn-dim-sum-table.jpg)
+
+图8-1　香港荃湾川龙端记的点心蒸笼。原图列明叉烧包、马拉糕和腊肠卷；黑白影像突出几种形态的并置。
+
+实物照片：Peachyeung316；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Dim_Sum_on_the_table.jpg)。
+
+
 ## 江南与淮扬：不能只用甜概括
 
 江南米制糕团丰富，桂花、豆沙、芝麻等形成鲜明印象；但鲜肉月饼、菜馅团子、烧卖等咸点同样重要。季节改变植物与馅料供应，糕团店因此会形成按时令轮换的产品。苏州非遗黄天源糕团资料展示的多种成形技法，也说明变化不只是颜色与花样。[资料：苏州非遗，黄天源苏式糕团制作技艺](https://szfy.wglj.suzhou.com.cn/fy-project/85)
@@ -27,6 +36,15 @@
 北京的小吃与饽饽传统，既有豌豆黄、芸豆卷、驴打滚等豆米制品，也有酥皮糕点与各种烤点。一个地区并不因为小麦消费多，就排除糯米、豆粉和淀粉。驴打滚外面的熟豆粉提供干爽表层，内部糯性米团保持黏软，正好展示材料如何在同一口中产生反差。
 
 天津麻花则让人看见适于携带的干脆点心：扭结形状、粗细和炸后的含水量共同影响断裂方式。山西太谷饼又是另一条路线，厚实与松软并不等于酥皮薄层。国家非遗分别为麻花和太谷饼建立技艺项目，适合把它们作为独立案例阅读，而不是归结为“北方口味重”。[资料：中国非遗，太谷饼制作技艺](https://www.ihchina.cn/project_details/23788.html)
+
+<!-- public-photo:real-cn-baotou-ricecake -->
+
+![图8-2　包头餐厅拍摄的“米糕”，名称依原图说明。可见浅黄与白色两层，以及表面的酱汁和颗粒配料。](../assets/images/real-cn-baotou-ricecake.jpg)
+
+图8-2　包头餐厅拍摄的“米糕”，名称依原图说明。可见浅黄与白色两层，以及表面的酱汁和颗粒配料。
+
+实物照片：Brücke-Osteuropa；[CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Chinese_rice_cake_1.jpg)。
+
 
 ## 川渝：小份、调味与组合
 
