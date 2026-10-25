@@ -54,6 +54,18 @@ Python 3标准库即可构建EPUB并校验本地资源：
 python3 scripts/build.py
 ```
 
-输出：`build/Dimsum-Atlas.epub`。原始分章Markdown与图片为唯一内容来源。未来网站可读取`book.json`，本版未创建或部署网站。重新绘制关系图需要Pillow及中文字体；在`scripts/draw_diagrams.py`中调整字体路径后运行。电子书构建不依赖Pillow。
+输出：`build/Dimsum-Atlas.epub`。原始分章Markdown与图片为唯一内容来源。未来网站可读取`book.json`，网站由轻量 CI 从同一份清单与分章内容构建。重新绘制关系图需要Pillow及中文字体；在`scripts/draw_diagrams.py`中调整字体路径后运行。电子书构建不依赖Pillow。
 
 图像：27张公开许可实物照片、15幅AI生成外观教学图、11幅原创关系图，总计53幅；图注逐图说明类型与用途。图像清单在`editorial/image-index.json`，编辑资料不编入电子书。
+
+## 网页阅读与发布
+
+GitHub Pages 的 Source 设为 GitHub Actions 后，推送 main 自动构建并发布。PR 仅构建与检查，不部署。
+
+```bash
+python -m pip install Markdown==3.7
+python scripts/build_site.py
+python -m http.server 8000 --directory _site
+```
+
+构建检查所有站内链接和配图路径。输出在 `_site/`，不执行 EPUB、PDF、图像生成或外部素材下载。目录、逐章导航、附录和原有来源署名从现有稿件生成。
