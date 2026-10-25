@@ -1,0 +1,49 @@
+{
+  "pages": 33,
+  "chapters": 24,
+  "book_images": 93,
+  "atlas_cards": 40,
+  "broken_resources": 0,
+  "independent_home": true,
+  "paginated_atlas": true,
+  "ebook_export_ran": false,
+  "optimized_image_bytes": 15082508,
+  "new_chapters": 6,
+  "new_images": 18,
+  "new_index_rows": 58,
+  "index_rows": 158,
+  "scope_families": 20,
+  "candidate_records": 230,
+  "candidate_records_are_completed": false,
+  "browser": {
+    "desktop_width": 1440,
+    "mobile_width": 390,
+    "new_chapter_routes": 6,
+    "image_decode": "pass",
+    "horizontal_page_overflow": false,
+    "filters": "pass",
+    "search": "pass",
+    "pagination_pages": 4,
+    "mobile_menu": "pass",
+    "console_errors": 0
+  },
+  "epub_validation": {
+    "chapters": 24,
+    "appendices": 5,
+    "illustrations": 93,
+    "image_kind_counts": {
+      "licensed photograph": 27,
+      "AI-generated teaching illustration": 55,
+      "original diagram": 11
+    },
+    "sources": 177,
+    "body_han_characters": 48376,
+    "epub_bytes": 121803400,
+    "checks": [
+      "chapter manifest and local links",
+      "EPUB XML well-formedness",
+      "EPUB internal href/src resolution",
+      "ZIP integrity and first mimetype entry"
+    ]
+  }
+}

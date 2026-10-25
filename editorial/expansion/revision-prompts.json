@@ -1,0 +1,22 @@
+[
+  {
+    "id": "exp-small-wonton",
+    "prompt": "A bowl of cooked Chinese small wontons in clear broth with sparse seaweed and egg threads. EACH wonton is a tiny pork filling COMPLETELY ENCLOSED inside a CLOSED, opaque ivory cooked wheat wrapper pouch. The small rounded filled center is COVERED BY DOUGH; the outside is smooth pale dough with no exposed pink or brown meat particles whatsoever. Each pouch has a thin loose irregular wheat dough tail extending away, softly folded in broth. The filled pouches are small, tails much larger than centers. Real xiao huntun with wrappers pinched closed after wrapping, not open shao mai, not naked meatballs sitting on flat dough squares. No cut-open pieces.",
+    "reason": "Corrected structural mismatch identified during individual visual review"
+  },
+  {
+    "id": "exp-chaoshou",
+    "prompt": "Sichuan red oil chaoshou, six fully COOKED thin wheat wontons on a shallow plate with a SMALL pool of red chili oil sauce. EACH pork filling is COMPLETELY ENCLOSED in an intact pale ivory OPAQUE cooked wheat wrapper. Constructed from square wrapper folded into a SEALED TRIANGLE with filling at its base, THEN THE TWO BASE CORNERS ARE BROUGHT TOGETHER AND JOINED, creating a compact closed ingot/ring-like folded wonton. The rounded filled part has a smooth DOUGH surface; NO naked meat, NO visible granulated meat, NO open top, NO cut sections. Thin loose triangular flap tails are visible beside fully closed centers. Sauce glistens on folds. Not crescent jiaozi, not open shao mai.",
+    "reason": "Corrected structural mismatch identified during individual visual review"
+  },
+  {
+    "id": "exp-jianbing-guanbing",
+    "prompt": "Two breakfast foods on one plate, side by side, no panels. LEFT a thin soft Tianjin jianbing batter crepe with thin cooked egg film and scallion on exterior, folded around golden youtiao cruller visible at the open end. RIGHT a northern Chinese jidan guanbing, specifically an ordinary thin round griddled WHEAT FLATBREAD split to reveal a SMALL INNER POCKET. It is modestly thin, only about 8mm thick, with a tan mottled griddled surface, NOT flaking pastry. A triangular wedge removed reveals a THIN CONTINUOUS PALE YELLOW COOKED EGG FILM adhering closely between the upper and lower inner bread sheets. The egg was poured into the inner pocket while liquid then set in place. NO scrambled egg curds, NO separate omelette inserted, NO enormous egg stuffing, NO puffy croissant layers, NO meat or lettuce. The right flatbread stays mostly flat, not a giant puff pocket.",
+    "reason": "Corrected structural mismatch identified during individual visual review"
+  },
+  {
+    "id": "exp-roujiamo",
+    "prompt": "Two authentic representative Xi'an BAiJI MO roujiamo on a plate. Plain ROUND thick wheat griddle flatbread buns with a PALE SMOOTH edge and modest mottled golden round griddle marks on top. Bread cross-section shows a dense soft fine-pored wheat crumb, not separated laminated sheets. Each bun has a horizontal slit opened only partway, still attached along the back, containing chopped moist dark-brown braised pork. CRITICAL bread is plain baiji flatbread, NOT Tongguan flaky layered bread, NOT puff pastry, NO visible flaky strata at side, NO spiral coils, NO burger brioche, NO sesame seeds, NO lettuce/cheese/tomato. The plain bread edge and crumb should be clearly visible, meat secondary in amount.",
+    "reason": "Corrected structural mismatch identified during individual visual review"
+  }
+]

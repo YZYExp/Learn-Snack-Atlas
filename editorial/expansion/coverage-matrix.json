@@ -1,0 +1,3945 @@
+{
+  "baseline_commit": "2286da630a3bea37c0280101c5cfd9a535d079ce",
+  "method": "精确名称检索仅供发现缺口；提名不等于详讲，章节有图不等于该品种有图。别名/地区分支可有重复，禁止用记录数宣称独立品种总数。",
+  "families": 20,
+  "records": [
+    {
+      "name": "水饺",
+      "family": "饺类与邻近面食",
+      "phase": "A",
+      "chapter_or_anchor": 19,
+      "baseline_mentions": [
+        {
+          "source": "chapters/03-process.md",
+          "line": 13,
+          "excerpt": "蒸汽在食物表面凝结会传递热量，内部再逐渐升温。蒸制往往使表面保持较湿，因此一般不会出现烤饼那样的干燥褐色外壳。煮则让食品与水直接接触，粉皮表面与汤水之间的物质交换更明显。蒸饺和水饺即使采用相近的馅料，皮的配方、厚薄和熟后状态仍可能不同。"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 26,
+          "excerpt": "| 非发酵面团 | 水饺、蒸饺、部分锅贴 | 薄而完整，适应煮、蒸、煎 |"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 70,
+          "excerpt": "水煮时，皮直接接触水并吸水，封口和皮的完整性尤其重要。煎制则让接触锅面的一侧失水上色；常见锅贴做法还会加入水并加盖，让蒸汽帮助内部熟化，最后继续煎干底部。它不是把已熟水饺随意烤黄，也不必每一面都变脆。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "蒸饺",
+      "family": "饺类与邻近面食",
+      "phase": "A",
+      "chapter_or_anchor": 19,
+      "baseline_mentions": [
+        {
+          "source": "chapters/03-process.md",
+          "line": 13,
+          "excerpt": "蒸汽在食物表面凝结会传递热量，内部再逐渐升温。蒸制往往使表面保持较湿，因此一般不会出现烤饼那样的干燥褐色外壳。煮则让食品与水直接接触，粉皮表面与汤水之间的物质交换更明显。蒸饺和水饺即使采用相近的馅料，皮的配方、厚薄和熟后状态仍可能不同。"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 26,
+          "excerpt": "| 非发酵面团 | 水饺、蒸饺、部分锅贴 | 薄而完整，适应煮、蒸、煎 |"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "煎饺",
+      "family": "饺类与邻近面食",
+      "phase": "A",
+      "chapter_or_anchor": 19,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "锅贴",
+      "family": "饺类与邻近面食",
+      "phase": "A",
+      "chapter_or_anchor": 19,
+      "baseline_mentions": [
+        {
+          "source": "chapters/01-reading.md",
+          "line": 37,
+          "excerpt": "阅读时不必每种都买。先用熟悉的一组作参照：馒头与年糕、蛋糕与饼干、虾饺与锅贴。问清它们在哪一步走向不同，陌生点心就有了可以安放的位置。后文的分类表与对照图是观察工具，并不是要求所有地方配方服从同一个标准。"
+        },
+        {
+          "source": "chapters/03-process.md",
+          "line": 19,
+          "excerpt": "煎主要强调食物与热锅、油膜接触的一面；炸让食物更多地被热油包围；烤箱则通过热空气、辐射和烤盘接触等方式传热。它们不是相同温度下可互换的按钮。锅贴常通过先后或组合使用水与油，让底部焦脆、其余部分蒸熟；油炸点心则需要处理外壳上色和内部熟化的节奏差。"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 11,
+          "excerpt": "![图7b　自上而下：虾饺、肉包、广式烧卖、锅贴。AI生成常见外观示意；透明度、孔洞和皮厚并非统一标准。](../assets/images/steamed-comparison.png)"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 13,
+          "excerpt": "图7b　自上而下：虾饺、肉包、广式烧卖、锅贴。AI生成常见外观示意；透明度、孔洞和皮厚并非统一标准。"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 26,
+          "excerpt": "| 非发酵面团 | 水饺、蒸饺、部分锅贴 | 薄而完整，适应煮、蒸、煎 |"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 70,
+          "excerpt": "水煮时，皮直接接触水并吸水，封口和皮的完整性尤其重要。煎制则让接触锅面的一侧失水上色；常见锅贴做法还会加入水并加盖，让蒸汽帮助内部熟化，最后继续煎干底部。它不是把已熟水饺随意烤黄，也不必每一面都变脆。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "东北酸菜饺",
+      "family": "饺类与邻近面食",
+      "phase": "A",
+      "chapter_or_anchor": 19,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "韭菜鸡蛋饺",
+      "family": "饺类与邻近面食",
+      "phase": "A",
+      "chapter_or_anchor": 19,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "虾饺",
+      "family": "饺类与邻近面食",
+      "phase": "A",
+      "chapter_or_anchor": 19,
+      "baseline_mentions": [
+        {
+          "source": "chapters/01-reading.md",
+          "line": 3,
+          "excerpt": "“点心”适合成为这本书的中心，因为它首先描述一种吃的方式：在正餐之间吃一点，配茶、分享、解馋，也可能吃成一顿饭。它并不自动等于甜食。虾饺、烧卖、咸挞、咖喱角都可以进入这张桌子；蛋糕和月饼固然在其中，凉糕、炸饼和奶冻也不必被排除。"
+        },
+        {
+          "source": "chapters/01-reading.md",
+          "line": 37,
+          "excerpt": "阅读时不必每种都买。先用熟悉的一组作参照：馒头与年糕、蛋糕与饼干、虾饺与锅贴。问清它们在哪一步走向不同，陌生点心就有了可以安放的位置。后文的分类表与对照图是观察工具，并不是要求所有地方配方服从同一个标准。"
+        },
+        {
+          "source": "chapters/02-materials.md",
+          "line": 15,
+          "excerpt": "米粉糕团通常主要借助淀粉与水的变化成形，而不是建立小麦面筋网络。糯米粉、普通米粉、澄粉、木薯淀粉并非同一种材料；“粉类”只是购物货架的邻居。某种虾饺皮的半透明，也不能仅凭照片断言全由一种淀粉构成。配方可能混用不同粉料，以调整柔韧性、透明度和放凉后的状态。"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 3,
+          "excerpt": "包子、虾饺、烧卖、肠粉在茶桌上相邻，却不应归为“换形状的面皮包肉”。包子常需要蓬松外皮，虾饺追求薄而略透的皮，肠粉则由米浆蒸成薄片。外皮的任务不同，决定了揉面、成形和加热的方法。"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 11,
+          "excerpt": "![图7b　自上而下：虾饺、肉包、广式烧卖、锅贴。AI生成常见外观示意；透明度、孔洞和皮厚并非统一标准。](../assets/images/steamed-comparison.png)"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 13,
+          "excerpt": "图7b　自上而下：虾饺、肉包、广式烧卖、锅贴。AI生成常见外观示意；透明度、孔洞和皮厚并非统一标准。"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 19,
+          "excerpt": "虾饺常见的透明皮通常使用澄面，即小麦淀粉，并配合其他淀粉，以热水调制。它与普通面粉饺皮的延展方式不同，不能期待它像冷水小麦面团那样久揉后更筋道。透亮也不等于没有厚度：过厚会让皮与虾的口感失衡，过薄则容易破裂。"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 27,
+          "excerpt": "| 热调淀粉团 | 常见虾饺、水晶类点心 | 能成形的薄皮与适度透明感 |"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 76,
+          "excerpt": "虾饺、烧卖、牛肉球和肠粉是香港非遗资料列出的常见茶楼点心。它们可以分成“薄皮包馅”“开放包馅”“无皮成团”“浆片卷裹”等结构来观察，而不仅是四个要记住的名字。"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 78,
+          "excerpt": "想做一次低负担比较，可在两三人共享的茶桌上选一笼发面包、一笼虾饺、一份肠粉，先各自掰开看断面，再尝外皮与馅心。留意包子的孔隙、虾饺皮的连续感、肠粉卷层间的酱汁。酱汁暂少放一点有助于辨认本身的味道；这只是观察方法，并不规定哪一种吃法更正确。"
+        },
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 15,
+          "excerpt": "广式饮茶把茶与多份小点放在同一餐桌上，蒸、煎、炸、焗可以同时出现。虾饺的薄皮、叉烧包的蓬松、萝卜糕的软实、蛋挞的酥壳构成一组质地差异。“一盅两件”中的“两件”并非规定只能点两只点心，而是泛指点心；它体现的是喝茶吃点的生活方式。[资料：香港非遗办《饮食文化》](https://www.icho.hk/documents/Education/exhibition"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "潮州粉粿",
+      "family": "饺类与邻近面食",
+      "phase": "A",
+      "chapter_or_anchor": 19,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "莜面饺",
+      "family": "饺类与邻近面食",
+      "phase": "A",
+      "chapter_or_anchor": 19,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "莜面栲栳栳",
+      "family": "饺类与邻近面食",
+      "phase": "A",
+      "chapter_or_anchor": 19,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "小馄饨",
+      "family": "馄饨与邻近汤食",
+      "phase": "A",
+      "chapter_or_anchor": 20,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "菜肉大馄饨",
+      "family": "馄饨与邻近汤食",
+      "phase": "A",
+      "chapter_or_anchor": 20,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "荠菜馄饨",
+      "family": "馄饨与邻近汤食",
+      "phase": "A",
+      "chapter_or_anchor": 20,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "鲜虾云吞",
+      "family": "馄饨与邻近汤食",
+      "phase": "A",
+      "chapter_or_anchor": 20,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "云吞面",
+      "family": "馄饨与邻近汤食",
+      "phase": "A",
+      "chapter_or_anchor": 20,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "红油抄手",
+      "family": "馄饨与邻近汤食",
+      "phase": "A",
+      "chapter_or_anchor": 20,
+      "baseline_mentions": [
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 60,
+          "excerpt": "叶儿粑、糖油果子、凉糕和抄手展示了米团、油炸、凝结糕体与薄皮包馅的差别。香辣是其中一部分，不能解释全部。红油抄手与原汤抄手的差别，除了辣度，还在于油脂、香料、汤液怎样进入薄皮褶皱；甜点又以糖浆、芝麻和米香建立另一种平衡。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "清汤抄手",
+      "family": "馄饨与邻近汤食",
+      "phase": "A",
+      "chapter_or_anchor": 20,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "扁食",
+      "family": "馄饨与邻近汤食",
+      "phase": "A",
+      "chapter_or_anchor": 20,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "沙县扁肉",
+      "family": "馄饨与邻近汤食",
+      "phase": "A",
+      "chapter_or_anchor": 20,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "福鼎肉片",
+      "family": "馄饨与邻近汤食",
+      "phase": "A",
+      "chapter_or_anchor": 20,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "黑芝麻汤圆",
+      "family": "汤圆与糯米圆食",
+      "phase": "A",
+      "chapter_or_anchor": 21,
+      "baseline_mentions": [
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 7,
+          "excerpt": "![图9　自上而下：粽子、广式莲蓉蛋黄月饼、黑芝麻汤圆。AI生成当代代表外观示意，不作为历史复原或起源证据。](../assets/images/festival-comparison.png)"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 9,
+          "excerpt": "图9　自上而下：粽子、广式莲蓉蛋黄月饼、黑芝麻汤圆。AI生成当代代表外观示意，不作为历史复原或起源证据。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "花生汤圆",
+      "family": "汤圆与糯米圆食",
+      "phase": "A",
+      "chapter_or_anchor": 21,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "豆沙汤圆",
+      "family": "汤圆与糯米圆食",
+      "phase": "A",
+      "chapter_or_anchor": 21,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "宁波汤圆",
+      "family": "汤圆与糯米圆食",
+      "phase": "A",
+      "chapter_or_anchor": 21,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "元宵",
+      "family": "汤圆与糯米圆食",
+      "phase": "A",
+      "chapter_or_anchor": 21,
+      "baseline_mentions": [
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 17,
+          "excerpt": "## 元宵与汤圆：同一个节令中的不同动作"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 19,
+          "excerpt": "元宵节常见圆形糯米食品，但“元宵”和“汤圆”不能只当作南北异名。常见制作区别是：元宵以结实馅块为核心，反复沾水、滚上干糯米粉；汤圆则把和好的粉团分剂，包住馅料并搓圆。前者通过一层层附粉形成外壳，后者通过包制形成连续外皮，因此表面、吸水和煮后状态可能不同。[资料：中国质量新闻网，南京市标准化研究院专家解读](https://www.cqn.com.cn/ms/"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 33,
+          "excerpt": "![图9-2　未煮元宵与滚制用馅块并置。左侧已经裹粉，右侧保留馅块形态。](../assets/images/real-cn-yuanxiao.jpg)"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 35,
+          "excerpt": "图9-2　未煮元宵与滚制用馅块并置。左侧已经裹粉，右侧保留馅块形态。"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 41,
+          "excerpt": "![图9-3　滚制元宵用的笸箩与糯米粉，器具和材料身份依原图说明。可与前图的馅块、成品联系理解。](../assets/images/real-cn-yuanxiao-basket.jpg)"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 43,
+          "excerpt": "图9-3　滚制元宵用的笸箩与糯米粉，器具和材料身份依原图说明。可与前图的馅块、成品联系理解。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "酒酿小圆子",
+      "family": "汤圆与糯米圆食",
+      "phase": "A",
+      "chapter_or_anchor": 21,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "客家咸汤圆",
+      "family": "汤圆与糯米圆食",
+      "phase": "A",
+      "chapter_or_anchor": 21,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "咸馅汤圆",
+      "family": "汤圆与糯米圆食",
+      "phase": "A",
+      "chapter_or_anchor": 21,
+      "baseline_mentions": [
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 21,
+          "excerpt": "但市场命名并非处处严格，阅读包装与观察做法比只看招牌更可靠。无馅小圆子、咸馅汤圆以及其他节日食用习惯，也不应被甜馅的主流印象遮住。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "麻糍",
+      "family": "汤圆与糯米圆食",
+      "phase": "A",
+      "chapter_or_anchor": 21,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "糍粑",
+      "family": "汤圆与糯米圆食",
+      "phase": "A",
+      "chapter_or_anchor": 21,
+      "baseline_mentions": [
+        {
+          "source": "chapters/05-rice.md",
+          "line": 21,
+          "excerpt": "整粒糯米泡水后蒸煮，米粒仍可辨认，适合粽子、糯米鸡和部分八宝饭。把蒸熟的米反复捶打，会让米粒组织破碎、彼此黏合，形成打糕、糍粑一类紧实连续的质地。磨成粉再调团，则更便于包馅、着色和控制表面细腻程度。三条路线即使使用相近原料，也不会得到同一种口感。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "馒头",
+      "family": "发面与蒸包",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [
+        {
+          "source": "chapters/01-reading.md",
+          "line": 37,
+          "excerpt": "阅读时不必每种都买。先用熟悉的一组作参照：馒头与年糕、蛋糕与饼干、虾饺与锅贴。问清它们在哪一步走向不同，陌生点心就有了可以安放的位置。后文的分类表与对照图是观察工具，并不是要求所有地方配方服从同一个标准。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "花卷",
+      "family": "发面与蒸包",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "肉包",
+      "family": "发面与蒸包",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [
+        {
+          "source": "chapters/03-process.md",
+          "line": 15,
+          "excerpt": "蒸制也不意味着从表面到中心瞬间同温。大小、厚度、装盘密度与馅料都会影响熟化。不能把一个小素团的时间直接套给大肉包，更不能把表面变色当作所有馅都已安全熟透的证明。"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 11,
+          "excerpt": "![图7b　自上而下：虾饺、肉包、广式烧卖、锅贴。AI生成常见外观示意；透明度、孔洞和皮厚并非统一标准。](../assets/images/steamed-comparison.png)"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 13,
+          "excerpt": "图7b　自上而下：虾饺、肉包、广式烧卖、锅贴。AI生成常见外观示意；透明度、孔洞和皮厚并非统一标准。"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 25,
+          "excerpt": "| 发酵小麦面团 | 肉包、叉烧包及部分菜包 | 内部有孔、松软承托馅心 |"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "菜包",
+      "family": "发面与蒸包",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 25,
+          "excerpt": "| 发酵小麦面团 | 肉包、叉烧包及部分菜包 | 内部有孔、松软承托馅心 |"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "豆沙包",
+      "family": "发面与蒸包",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [
+        {
+          "source": "chapters/10-bread.md",
+          "line": 87,
+          "excerpt": "夹馅面包则多出一组配合问题：馅料应该在整形时包入，还是烤后加入？前者需要承受发酵与烘烤，后者保留了冷馅的选择，却改变储存方式。对读者来说，这也是辨识“新式面包”的实用问题。奶油水果包与烤制豆沙包即使外形相近，也不能因为同在面包架上，就假设它们具有相同的保存条件。家庭制作应沿用对应配方的加热、冷却和储存说明。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "生煎",
+      "family": "发面与蒸包",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "水煎包",
+      "family": "发面与蒸包",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "小笼包",
+      "family": "发面与蒸包",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 72,
+          "excerpt": "小笼包的汤汁提供了另一个有趣对照：一些做法把冷时凝结的肉皮冻混入馅料，加热后融成液体。重点是馅料结构随温度变化，不是包子先做空、再灌入汤。具体配方各店有别，汤汁多少也不能单独衡量质量，皮、馅与食用时的温度要一起考虑。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "汤包",
+      "family": "发面与蒸包",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "叉烧包",
+      "family": "发面与蒸包",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 25,
+          "excerpt": "| 发酵小麦面团 | 肉包、叉烧包及部分菜包 | 内部有孔、松软承托馅心 |"
+        },
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 15,
+          "excerpt": "广式饮茶把茶与多份小点放在同一餐桌上，蒸、煎、炸、焗可以同时出现。虾饺的薄皮、叉烧包的蓬松、萝卜糕的软实、蛋挞的酥壳构成一组质地差异。“一盅两件”中的“两件”并非规定只能点两只点心，而是泛指点心；它体现的是喝茶吃点的生活方式。[资料：香港非遗办《饮食文化》](https://www.icho.hk/documents/Education/exhibition"
+        },
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 21,
+          "excerpt": "![图8-1　香港荃湾川龙端记的点心蒸笼。原图列明叉烧包、马拉糕和腊肠卷；黑白影像突出几种形态的并置。](../assets/images/real-cn-dim-sum-table.jpg)"
+        },
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 23,
+          "excerpt": "图8-1　香港荃湾川龙端记的点心蒸笼。原图列明叉烧包、马拉糕和腊肠卷；黑白影像突出几种形态的并置。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "奶黄包",
+      "family": "发面与蒸包",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "流沙包",
+      "family": "发面与蒸包",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "煎饼馃子",
+      "family": "早餐薄饼与夹食",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "鸡蛋灌饼",
+      "family": "早餐薄饼与夹食",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "葱油饼",
+      "family": "早餐薄饼与夹食",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "葱抓饼",
+      "family": "早餐薄饼与夹食",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "烧饼",
+      "family": "早餐薄饼与夹食",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 41,
+          "excerpt": "## 烧饼、桃酥、麻花，各自怎样变脆"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 43,
+          "excerpt": "烧饼可以靠擀卷形成薄层，也可以着重于发面后的孔隙与炉壁烘烤形成的壳。芝麻提供香气和表面颗粒感，但芝麻多少不能告诉我们内部是否分层。咸酥烧饼、甜馅烧饼、吊炉烧饼也不是同一配方换馅。"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 59,
+          "excerpt": "![图6-4　左：桃酥的松碎断面；右：芝麻烧饼的一种分层款式。AI对照示意。](../assets/images/atlas-cn-taosu-shaobing.png)"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 61,
+          "excerpt": "图6-4　左：桃酥的松碎断面；右：芝麻烧饼的一种分层款式。AI对照示意。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "烧饼夹油条",
+      "family": "早餐薄饼与夹食",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "油条",
+      "family": "早餐薄饼与夹食",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [
+        {
+          "source": "chapters/16-world-snacks.md",
+          "line": 63,
+          "excerpt": "西班牙的 churros 是典型油炸面点，马德里官方旅游资料介绍其条状或圈状外形，以及早餐、下午点心时配巧克力饮用的场景。[来源：马德里旅游，Repostería tradicional](https://www.esmadrid.com/reposteria-tradicional) 它不是“西班牙油条”的完全对应物：形态、面团和食用方式都有自己的变化。这"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "豆浆",
+      "family": "早餐薄饼与夹食",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "锅盔",
+      "family": "早餐薄饼与夹食",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "肉夹馍",
+      "family": "早餐薄饼与夹食",
+      "phase": "A",
+      "chapter_or_anchor": 22,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "春卷",
+      "family": "街头炸点与米面便食",
+      "phase": "A",
+      "chapter_or_anchor": 23,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "润饼",
+      "family": "街头炸点与米面便食",
+      "phase": "A",
+      "chapter_or_anchor": 23,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "油墩子",
+      "family": "街头炸点与米面便食",
+      "phase": "A",
+      "chapter_or_anchor": 23,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "萝卜丝饼",
+      "family": "街头炸点与米面便食",
+      "phase": "A",
+      "chapter_or_anchor": 23,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "炸糕",
+      "family": "街头炸点与米面便食",
+      "phase": "A",
+      "chapter_or_anchor": 23,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "糖油饼",
+      "family": "街头炸点与米面便食",
+      "phase": "A",
+      "chapter_or_anchor": 23,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "糖油果子",
+      "family": "街头炸点与米面便食",
+      "phase": "A",
+      "chapter_or_anchor": 23,
+      "baseline_mentions": [
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 60,
+          "excerpt": "叶儿粑、糖油果子、凉糕和抄手展示了米团、油炸、凝结糕体与薄皮包馅的差别。香辣是其中一部分，不能解释全部。红油抄手与原汤抄手的差别，除了辣度，还在于油脂、香料、汤液怎样进入薄皮褶皱；甜点又以糖浆、芝麻和米香建立另一种平衡。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "糯米饭团",
+      "family": "街头炸点与米面便食",
+      "phase": "A",
+      "chapter_or_anchor": 23,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "煎米粿",
+      "family": "街头炸点与米面便食",
+      "phase": "A",
+      "chapter_or_anchor": 23,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "煎堆",
+      "family": "街头炸点与米面便食",
+      "phase": "A",
+      "chapter_or_anchor": 23,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "咸水角",
+      "family": "街头炸点与米面便食",
+      "phase": "A",
+      "chapter_or_anchor": 23,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "炸芋角",
+      "family": "街头炸点与米面便食",
+      "phase": "A",
+      "chapter_or_anchor": 23,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "肠粉",
+      "family": "米粉米浆与卷制",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 3,
+          "excerpt": "包子、虾饺、烧卖、肠粉在茶桌上相邻，却不应归为“换形状的面皮包肉”。包子常需要蓬松外皮，虾饺追求薄而略透的皮，肠粉则由米浆蒸成薄片。外皮的任务不同，决定了揉面、成形和加热的方法。"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 21,
+          "excerpt": "肠粉走的是浆料路线：将以米为基础的浆料薄薄铺开，蒸成连续薄片，再卷起或裹入馅料。它不需要捏紧封口，重点是浆的分布、熟化与脱离蒸布或盘面。不同地区的浆料配合、厚薄和酱汁均可不同。"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 28,
+          "excerpt": "| 米浆薄片 | 肠粉、部分粉卷 | 柔滑、连续、易卷折 |"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 34,
+          "excerpt": "![图7-2　潮汕式肠粉在澳大利亚阿德莱德的一种店售实例，店家为Stonemill Rice Roll。图中可见薄片的折叠、卷裹与酱汁。](../assets/images/real-cn-cheung-fun.jpg)"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 36,
+          "excerpt": "图7-2　潮汕式肠粉在澳大利亚阿德莱德的一种店售实例，店家为Stonemill Rice Roll。图中可见薄片的折叠、卷裹与酱汁。"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 76,
+          "excerpt": "虾饺、烧卖、牛肉球和肠粉是香港非遗资料列出的常见茶楼点心。它们可以分成“薄皮包馅”“开放包馅”“无皮成团”“浆片卷裹”等结构来观察，而不仅是四个要记住的名字。"
+        },
+        {
+          "source": "chapters/07-steamed-savory.md",
+          "line": 78,
+          "excerpt": "想做一次低负担比较，可在两三人共享的茶桌上选一笼发面包、一笼虾饺、一份肠粉，先各自掰开看断面，再尝外皮与馅心。留意包子的孔隙、虾饺皮的连续感、肠粉卷层间的酱汁。酱汁暂少放一点有助于辨认本身的味道；这只是观察方法，并不规定哪一种吃法更正确。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "米皮",
+      "family": "米粉米浆与卷制",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 83,
+          "excerpt": "![图8-5　左：凤梨酥的烤酥壳与果馅；右：红龟粿的模印米皮与包馅。AI对照示意。](../assets/images/atlas-cn-fengli-honggui.png)"
+        },
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 85,
+          "excerpt": "图8-5　左：凤梨酥的烤酥壳与果馅；右：红龟粿的模印米皮与包馅。AI对照示意。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 73,
+          "excerpt": "这些结构也影响命名。果冻配奶油可能被卖作杯装甜品，慕斯加一片海绵可能被称为慕斯蛋糕，冰淇淋包入糯米皮又成为可拿取的小点心。外壳、容器和销售名称变了，内部的凝固、充气或冻结机制仍可追踪。把机制作为观察线索，读者便能理解新品如何借用已有技术，也能分辨真正改变口感的结构调整，与只更换颜色、香料和造型的变化。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "凉皮",
+      "family": "米粉米浆与卷制",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "碗粿",
+      "family": "米粉米浆与卷制",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 75,
+          "excerpt": "“粿”常出现在米制食品名称中，但不是一种固定形状。红龟粿、碗粿、菜头粿等可能采用包馅、模压、碗蒸或切片煎食，原料和口感必须逐一确认。台湾凤梨酥则属于烘烤包馅酥点，与米粿的结构不同；馅料中凤梨与其他原料的组合也应看具体产品，不能由名字直接推出纯度。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "碗糕",
+      "family": "米粉米浆与卷制",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "发糕",
+      "family": "米粉米浆与卷制",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/05-rice.md",
+          "line": 7,
+          "excerpt": "![图5　自上而下：致密米糕、多孔米发糕、煎萝卜糕。AI生成外观与切面示意，不能据图反推粉料比例或熟化参数。](../assets/images/rice-comparison.png)"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 9,
+          "excerpt": "图5　自上而下：致密米糕、多孔米发糕、煎萝卜糕。AI生成外观与切面示意，不能据图反推粉料比例或熟化参数。"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 30,
+          "excerpt": "| 米发糕 | 浆料或软团经发酵膨松 | 孔洞、酸香与弹性 |"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 33,
+          "excerpt": "这张表描述常见路线，并不替代各地配方。同名“发糕”可能采用不同膨松方法，同名“年糕”也可能使用不同米粉比例。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "钵仔糕",
+      "family": "米粉米浆与卷制",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "萝卜糕",
+      "family": "米粉米浆与卷制",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/05-rice.md",
+          "line": 3,
+          "excerpt": "切开一块萝卜糕，内部能看见萝卜丝；掰开一块松糕，断面松散；拉开一个糯米团，外皮却会粘连。这些差别不能用“都是米做的”解释。米的品种、磨粉方式、加水量，以及先成形还是先蒸熟，共同决定了成品。"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 7,
+          "excerpt": "![图5　自上而下：致密米糕、多孔米发糕、煎萝卜糕。AI生成外观与切面示意，不能据图反推粉料比例或熟化参数。](../assets/images/rice-comparison.png)"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 9,
+          "excerpt": "图5　自上而下：致密米糕、多孔米发糕、煎萝卜糕。AI生成外观与切面示意，不能据图反推粉料比例或熟化参数。"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 31,
+          "excerpt": "| 萝卜糕、芋头糕 | 米粉凝结体包住蔬菜或芋块 | 能否切片、煎后外壳与内部反差 |"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 91,
+          "excerpt": "## 萝卜糕为什么能煎出壳"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 93,
+          "excerpt": "萝卜糕的名称容易让人以为它是一种蔬菜蛋糕。实际上，常见粤式做法把白萝卜丝及其水分与米粉浆结合，蒸熟后成为可切分的糕体；部分配方加入腊味、虾米等。米粉帮助连接萝卜丝，萝卜又提供水分、纤维与柔软感。比例不同，可能得到挺身易切的版本，也可能得到明显柔软、萝卜感更强的版本。[资料：香港大学教学收藏，萝卜糕](https://learning.hku.hk/ccch9"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 95,
+          "excerpt": "蒸熟只是完成内部结构。冷却后切片下锅，接触锅面的部分逐渐失水并上色，内部仍保留较多水分，于是有了外脆内软。若把“糕越硬越容易煎”当作唯一目标，便可能失去萝卜糕本来的柔润。"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 99,
+          "excerpt": "![图5-2　香港家庭制作的整盘萝卜糕，尚未切片煎制；与本章前面的煎糕切面示意形成对照。](../assets/images/real-cn-turnip-cake.jpg)"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 101,
+          "excerpt": "图5-2　香港家庭制作的整盘萝卜糕，尚未切片煎制；与本章前面的煎糕切面示意形成对照。"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 110,
+          "excerpt": "一次轻量观察可以选年糕、松糕和萝卜糕各一小块，先看断面，再按包装建议分别复热。记录哪一种恢复黏软、哪一种保持松散、哪一种适合煎。这个比较能把“软糯”拆成具体结构，也能说明为什么米制点心不能共享一套保存与食用方法。"
+        },
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 15,
+          "excerpt": "广式饮茶把茶与多份小点放在同一餐桌上，蒸、煎、炸、焗可以同时出现。虾饺的薄皮、叉烧包的蓬松、萝卜糕的软实、蛋挞的酥壳构成一组质地差异。“一盅两件”中的“两件”并非规定只能点两只点心，而是泛指点心；它体现的是喝茶吃点的生活方式。[资料：香港非遗办《饮食文化》](https://www.icho.hk/documents/Education/exhibition"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "芋头糕",
+      "family": "米粉米浆与卷制",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/05-rice.md",
+          "line": 31,
+          "excerpt": "| 萝卜糕、芋头糕 | 米粉凝结体包住蔬菜或芋块 | 能否切片、煎后外壳与内部反差 |"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 61,
+          "excerpt": "![图5-7　芋头糕：淡色米粉糕体包住芋块，可切片后煎香。AI结构示意。](../assets/images/atlas-cn-taro-cake.png)"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 63,
+          "excerpt": "图5-7　芋头糕：淡色米粉糕体包住芋块，可切片后煎香。AI结构示意。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "松糕",
+      "family": "米粉米浆与卷制",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/05-rice.md",
+          "line": 3,
+          "excerpt": "切开一块萝卜糕，内部能看见萝卜丝；掰开一块松糕，断面松散；拉开一个糯米团，外皮却会粘连。这些差别不能用“都是米做的”解释。米的品种、磨粉方式、加水量，以及先成形还是先蒸熟，共同决定了成品。"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 28,
+          "excerpt": "| 松糕、部分定胜糕 | 湿粉粒蒸结，保留细孔 | 是否松散、是否有干粉颗粒感 |"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 53,
+          "excerpt": "![图5-5　松糕的颗粒状断面与掰开状态。AI外观示意，颗粒大小不表示实际粉粒尺度。](../assets/images/atlas-cn-songgao.png)"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 55,
+          "excerpt": "图5-5　松糕的颗粒状断面与掰开状态。AI外观示意，颗粒大小不表示实际粉粒尺度。"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 110,
+          "excerpt": "一次轻量观察可以选年糕、松糕和萝卜糕各一小块，先看断面，再按包装建议分别复热。记录哪一种恢复黏软、哪一种保持松散、哪一种适合煎。这个比较能把“软糯”拆成具体结构，也能说明为什么米制点心不能共享一套保存与食用方法。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "米发糕",
+      "family": "米粉米浆与卷制",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/05-rice.md",
+          "line": 7,
+          "excerpt": "![图5　自上而下：致密米糕、多孔米发糕、煎萝卜糕。AI生成外观与切面示意，不能据图反推粉料比例或熟化参数。](../assets/images/rice-comparison.png)"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 9,
+          "excerpt": "图5　自上而下：致密米糕、多孔米发糕、煎萝卜糕。AI生成外观与切面示意，不能据图反推粉料比例或熟化参数。"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 30,
+          "excerpt": "| 米发糕 | 浆料或软团经发酵膨松 | 孔洞、酸香与弹性 |"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "粢饭糕",
+      "family": "米粉米浆与卷制",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "青团",
+      "family": "糯米团粿与叶包",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/05-rice.md",
+          "line": 29,
+          "excerpt": "| 青团、糯米糍 | 可塑性较强的包馅粉团 | 外皮厚薄、黏性与馅料水分 |"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 68,
+          "excerpt": "## 青团的颜色之外，还有皮与馅"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 70,
+          "excerpt": "青团常用植物汁液或植物组织为米粉团提供颜色和气味；艾草、鼠曲草、浆麦草等使用情况因地区而异，不能将所有绿色糕团都认作同一种草。豆沙、芝麻等甜馅之外，咸馅及当代变化也很常见。"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 72,
+          "excerpt": "看青团时，不妨先分清三层信息：绿色来自什么，外皮由哪些粉组成，馅料是干爽还是湿润。细腻豆沙不会像流动酱汁那样立即浸湿外皮；油润馅料则可能让入口感显得更柔滑。颜色深浅受植物、处理与储存影响，不能单凭“越绿”判断原料更真或更好。"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 76,
+          "excerpt": "![图5-1　塘栖拍摄的蒸熟青团。绿色外皮中可见植物碎片。](../assets/images/real-cn-qingtuan.jpg)"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 78,
+          "excerpt": "图5-1　塘栖拍摄的蒸熟青团。绿色外皮中可见植物碎片。"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 50,
+          "excerpt": "青团、艾粿等让植物、稻米与春季生活相遇。植物处理和配粉方式不同，会造成青草气味、表面光泽与柔软度的差别；食用时间也可能因商业供应而延长。全年可以买到，不意味着它原有的节令联系不存在；反过来，节令销售也不证明所有配方都从古代原样延续。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "艾粿",
+      "family": "糯米团粿与叶包",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 50,
+          "excerpt": "青团、艾粿等让植物、稻米与春季生活相遇。植物处理和配粉方式不同，会造成青草气味、表面光泽与柔软度的差别；食用时间也可能因商业供应而延长。全年可以买到，不意味着它原有的节令联系不存在；反过来，节令销售也不证明所有配方都从古代原样延续。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "红龟粿",
+      "family": "糯米团粿与叶包",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 75,
+          "excerpt": "“粿”常出现在米制食品名称中，但不是一种固定形状。红龟粿、碗粿、菜头粿等可能采用包馅、模压、碗蒸或切片煎食，原料和口感必须逐一确认。台湾凤梨酥则属于烘烤包馅酥点，与米粿的结构不同；馅料中凤梨与其他原料的组合也应看具体产品，不能由名字直接推出纯度。"
+        },
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 83,
+          "excerpt": "![图8-5　左：凤梨酥的烤酥壳与果馅；右：红龟粿的模印米皮与包馅。AI对照示意。](../assets/images/atlas-cn-fengli-honggui.png)"
+        },
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 85,
+          "excerpt": "图8-5　左：凤梨酥的烤酥壳与果馅；右：红龟粿的模印米皮与包馅。AI对照示意。"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 79,
+          "excerpt": "寿桃、喜饼、红龟粿等常与祝寿、婚庆、祭祀相连，但具体数量、颜色和使用场合须尊重地方与家庭差异。展示形态相似，不等于礼俗意义完全一致。对于不熟悉的礼饼，先了解谁制作、送给谁、何时分食，通常比只问寓意更有收获。"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 67,
+          "excerpt": "把九层糕、红龟粿、椰糖椰丝卷放在一起，可以形成三个清楚问题：层是逐次蒸出来的，还是由不同组织叠成的？皮是可延展的糕团，还是薄薄的煎皮？香气主要来自椰浆、椰糖，还是叶片？这比只认颜色更可靠。班兰常提供特有香气与绿色视觉线索，但绿色也可能来自其他原料或着色处理，不能仅凭照片确认配方。"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 69,
+          "excerpt": "红龟粿的模印、椰糖卷的卷包、薄脆蛋卷的烘烤，说明同一文化圈也容纳蒸、煎、烤与模压等多种技术。新加坡博物馆收藏的蛋卷模具，还能提醒读者：工具、节庆与家庭劳动本来就是点心史的一部分。[来源：国家文物局，Love letters mould](https://www.roots.gov.sg/Collection-Landing/listing/1235363)"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "叶儿粑",
+      "family": "糯米团粿与叶包",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 60,
+          "excerpt": "叶儿粑、糖油果子、凉糕和抄手展示了米团、油炸、凝结糕体与薄皮包馅的差别。香辣是其中一部分，不能解释全部。红油抄手与原汤抄手的差别，除了辣度，还在于油脂、香料、汤液怎样进入薄皮褶皱；甜点又以糖浆、芝麻和米香建立另一种平衡。"
+        },
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 66,
+          "excerpt": "![图8-4　叶儿粑的白色米粉皮、咸馅与垫叶。AI代表款示意，不指定叶种。](../assets/images/atlas-cn-yeerba.png)"
+        },
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 68,
+          "excerpt": "图8-4　叶儿粑的白色米粉皮、咸馅与垫叶。AI代表款示意，不指定叶种。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "糯米糍",
+      "family": "糯米团粿与叶包",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/05-rice.md",
+          "line": 29,
+          "excerpt": "| 青团、糯米糍 | 可塑性较强的包馅粉团 | 外皮厚薄、黏性与馅料水分 |"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 84,
+          "excerpt": "![图5-6　花生糯米糍：柔软米粉皮包住颗粒馅，外表裹花生粉。AI代表款示意。](../assets/images/atlas-cn-peanut-nuomici.png)"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 86,
+          "excerpt": "图5-6　花生糯米糍：柔软米粉皮包住颗粒馅，外表裹花生粉。AI代表款示意。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "雪媚娘",
+      "family": "糯米团粿与叶包",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "驴打滚",
+      "family": "糯米团粿与叶包",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 45,
+          "excerpt": "北京的小吃与饽饽传统，既有豌豆黄、芸豆卷、驴打滚等豆米制品，也有酥皮糕点与各种烤点。一个地区并不因为小麦消费多，就排除糯米、豆粉和淀粉。驴打滚外面的熟豆粉提供干爽表层，内部糯性米团保持黏软，正好展示材料如何在同一口中产生反差。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "粽子",
+      "family": "糯米团粿与叶包",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/05-rice.md",
+          "line": 21,
+          "excerpt": "整粒糯米泡水后蒸煮，米粒仍可辨认，适合粽子、糯米鸡和部分八宝饭。把蒸熟的米反复捶打，会让米粒组织破碎、彼此黏合，形成打糕、糍粑一类紧实连续的质地。磨成粉再调团，则更便于包馅、着色和控制表面细腻程度。三条路线即使使用相近原料，也不会得到同一种口感。"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 7,
+          "excerpt": "![图9　自上而下：粽子、广式莲蓉蛋黄月饼、黑芝麻汤圆。AI生成当代代表外观示意，不作为历史复原或起源证据。](../assets/images/festival-comparison.png)"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 9,
+          "excerpt": "图9　自上而下：粽子、广式莲蓉蛋黄月饼、黑芝麻汤圆。AI生成当代代表外观示意，不作为历史复原或起源证据。"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 54,
+          "excerpt": "## 端午与粽子：一种节日，多种地方记忆"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 56,
+          "excerpt": "粽子通过叶片包裹米与馅料，在蒸煮后形成便于分份的食物。糯米的黏性、包裹紧实度、米粒吸水程度和馅料脂肪共同影响切面。甜粽、肉粽、碱水粽与不同叶材，显示共享形式之下存在许多地方路线，不能概括成绝对的“北甜南咸”。"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 60,
+          "excerpt": "这一点也影响粽子图鉴的写法：把今天的品种、做法与吃法先说明白，再介绍相关故事及其地方范围，比先给出一个全国统一的“发明传说”更准确。"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 64,
+          "excerpt": "![图9-4　粽子的叶包、系绳与解开状态。打开后仍可辨认米粒及包入其中的馅料块。](../assets/images/real-cn-two-zongzi.jpg)"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 66,
+          "excerpt": "图9-4　粽子的叶包、系绳与解开状态。打开后仍可辨认米粒及包入其中的馅料块。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "碱水粽",
+      "family": "糯米团粿与叶包",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 56,
+          "excerpt": "粽子通过叶片包裹米与馅料，在蒸煮后形成便于分份的食物。糯米的黏性、包裹紧实度、米粒吸水程度和馅料脂肪共同影响切面。甜粽、肉粽、碱水粽与不同叶材，显示共享形式之下存在许多地方路线，不能概括成绝对的“北甜南咸”。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "肉粽",
+      "family": "糯米团粿与叶包",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 56,
+          "excerpt": "粽子通过叶片包裹米与馅料，在蒸煮后形成便于分份的食物。糯米的黏性、包裹紧实度、米粒吸水程度和馅料脂肪共同影响切面。甜粽、肉粽、碱水粽与不同叶材，显示共享形式之下存在许多地方路线，不能概括成绝对的“北甜南咸”。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "豆沙粽",
+      "family": "糯米团粿与叶包",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "年糕",
+      "family": "糯米团粿与叶包",
+      "phase": "B",
+      "chapter_or_anchor": 5,
+      "baseline_mentions": [
+        {
+          "source": "chapters/01-reading.md",
+          "line": 19,
+          "excerpt": "| 原料 | 米、麦、豆、薯、乳蛋中谁主导结构？ | 年糕与面包的差异不止形状 |"
+        },
+        {
+          "source": "chapters/01-reading.md",
+          "line": 37,
+          "excerpt": "阅读时不必每种都买。先用熟悉的一组作参照：馒头与年糕、蛋糕与饼干、虾饺与锅贴。问清它们在哪一步走向不同，陌生点心就有了可以安放的位置。后文的分类表与对照图是观察工具，并不是要求所有地方配方服从同一个标准。"
+        },
+        {
+          "source": "chapters/03-process.md",
+          "line": 37,
+          "excerpt": "看一段制作视频，可以按“准备结构—引入或产生气体—加热固定—冷却调整”记录四个阶段。年糕未必需要显著膨胀，奶冻也可能主要在冷却时定形。这条观察线索允许步骤缺席，不能反过来逼每件食物走同样流程。"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 23,
+          "excerpt": "粉还可以不揉成团。把湿润而仍松散的米粉筛入模具，靠蒸汽使颗粒连接，成品留下细小空隙，因此容易掰开。苏州黄天源糕团的非遗资料区分多种成形路线，其中就包括入模后直接蒸熟、无需再揉揿的糕类。可见“糕”不能一概理解为紧实的年糕。[资料：苏州非遗，黄天源苏式糕团制作技艺](https://szfy.wglj.suzhou.com.cn/fy-project/85)"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 27,
+          "excerpt": "| 切片年糕 | 连续、致密的米粉或捣米结构 | 咬断需要的力、加热后软化程度 |"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 33,
+          "excerpt": "这张表描述常见路线，并不替代各地配方。同名“发糕”可能采用不同膨松方法，同名“年糕”也可能使用不同米粉比例。"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 45,
+          "excerpt": "![图5-4　整块广东年糕，名称依原图说明。圆盘形糕体与完整表面展示了切片前的状态。](../assets/images/real-cn-guangdong-niangao.jpg)"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 47,
+          "excerpt": "图5-4　整块广东年糕，名称依原图说明。圆盘形糕体与完整表面展示了切片前的状态。"
+        },
+        {
+          "source": "chapters/05-rice.md",
+          "line": 110,
+          "excerpt": "一次轻量观察可以选年糕、松糕和萝卜糕各一小块，先看断面，再按包装建议分别复热。记录哪一种恢复黏软、哪一种保持松散、哪一种适合煎。这个比较能把“软糯”拆成具体结构，也能说明为什么米制点心不能共享一套保存与食用方法。"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 13,
+          "excerpt": "“糕”与“高”的谐音，使年糕容易与成长、进步联系；圆形食品也常被赋予团聚、圆满的解释。这些寓意是真实文化实践的一部分，却不能证明食物最初就是为某句吉祥话发明的。同一种形状可以容纳多种解释，同一节日的食品也随家庭、地区和时代改变。"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 46,
+          "excerpt": "## 韩国年糕：先问“怎样成形”"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 48,
+          "excerpt": "韩语 tteok 对应一个宽广的年糕家族。不要因为年糕汤或辣炒年糕最常见，就认为它们代表全部。米粉蒸成的糕、熟米捣打成的糕、带馅的小糕以及煎制点心，对颗粒结构与表面口感的处理各不相同。"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 56,
+          "excerpt": "![图15-1　韩国年糕松饼（songpyeon）实物。白、粉、绿的外皮呈半月形；这里的“松饼”不指西式pancake。](../assets/images/real-wo-songpyeon.jpg)"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 58,
+          "excerpt": "图15-1　韩国年糕松饼（songpyeon）实物。白、粉、绿的外皮呈半月形；这里的“松饼”不指西式pancake。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "苏式月饼",
+      "family": "中式酥点与烤饼",
+      "phase": "B",
+      "chapter_or_anchor": 6,
+      "baseline_mentions": [
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 21,
+          "excerpt": "月饼这个共同名字，主要来自食用场景与文化联系，并不意味着共享同一种皮。常见广式月饼以糖浆皮包馅并压模，烤后皮色较深；苏式月饼以分层酥皮见长；潮式月饼中有以芋蓉等为馅、能看见螺旋层次的酥皮品种。地区内部仍有诸多差异，不能把一个代表款当成整地的标准。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "广式月饼",
+      "family": "中式酥点与烤饼",
+      "phase": "B",
+      "chapter_or_anchor": 6,
+      "baseline_mentions": [
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 3,
+          "excerpt": "同样会掉屑的点心，可能拥有完全不同的内部结构。桃酥常是颗粒状松碎，苏式酥饼可以沿层剥开，广式月饼的外皮却较柔韧。判断“酥”，需要看断面，而不能只看表面是否金黄。"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 21,
+          "excerpt": "月饼这个共同名字，主要来自食用场景与文化联系，并不意味着共享同一种皮。常见广式月饼以糖浆皮包馅并压模，烤后皮色较深；苏式月饼以分层酥皮见长；潮式月饼中有以芋蓉等为馅、能看见螺旋层次的酥皮品种。地区内部仍有诸多差异，不能把一个代表款当成整地的标准。"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 23,
+          "excerpt": "广式也不只是莲蓉蛋黄。五仁、豆沙、火腿等馅料展示甜、咸及两者混合的不同组织方式。国家非遗收录的安琪广式月饼技艺，是广式月饼传承中的一个具体项目，而非对全国月饼的统一配方规定。[资料：中国非遗，安琪广式月饼制作技艺](https://www.ihchina.cn/project_details/14651.html)"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "潮式月饼",
+      "family": "中式酥点与烤饼",
+      "phase": "B",
+      "chapter_or_anchor": 6,
+      "baseline_mentions": [
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 21,
+          "excerpt": "月饼这个共同名字，主要来自食用场景与文化联系，并不意味着共享同一种皮。常见广式月饼以糖浆皮包馅并压模，烤后皮色较深；苏式月饼以分层酥皮见长；潮式月饼中有以芋蓉等为馅、能看见螺旋层次的酥皮品种。地区内部仍有诸多差异，不能把一个代表款当成整地的标准。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "鲜肉月饼",
+      "family": "中式酥点与烤饼",
+      "phase": "B",
+      "chapter_or_anchor": 6,
+      "baseline_mentions": [
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 30,
+          "excerpt": "江南米制糕团丰富，桂花、豆沙、芝麻等形成鲜明印象；但鲜肉月饼、菜馅团子、烧卖等咸点同样重要。季节改变植物与馅料供应，糕团店因此会形成按时令轮换的产品。苏州非遗黄天源糕团资料展示的多种成形技法，也说明变化不只是颜色与花样。[资料：苏州非遗，黄天源苏式糕团制作技艺](https://szfy.wglj.suzhou.com.cn/fy-project/85)"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "老婆饼",
+      "family": "中式酥点与烤饼",
+      "phase": "B",
+      "chapter_or_anchor": 6,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "蛋黄酥",
+      "family": "中式酥点与烤饼",
+      "phase": "B",
+      "chapter_or_anchor": 6,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "绿豆椪",
+      "family": "中式酥点与烤饼",
+      "phase": "B",
+      "chapter_or_anchor": 6,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "凤梨酥",
+      "family": "中式酥点与烤饼",
+      "phase": "B",
+      "chapter_or_anchor": 6,
+      "baseline_mentions": [
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 75,
+          "excerpt": "“粿”常出现在米制食品名称中，但不是一种固定形状。红龟粿、碗粿、菜头粿等可能采用包馅、模压、碗蒸或切片煎食，原料和口感必须逐一确认。台湾凤梨酥则属于烘烤包馅酥点，与米粿的结构不同；馅料中凤梨与其他原料的组合也应看具体产品，不能由名字直接推出纯度。"
+        },
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 83,
+          "excerpt": "![图8-5　左：凤梨酥的烤酥壳与果馅；右：红龟粿的模印米皮与包馅。AI对照示意。](../assets/images/atlas-cn-fengli-honggui.png)"
+        },
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 85,
+          "excerpt": "图8-5　左：凤梨酥的烤酥壳与果馅；右：红龟粿的模印米皮与包馅。AI对照示意。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "桃酥",
+      "family": "中式酥点与烤饼",
+      "phase": "B",
+      "chapter_or_anchor": 6,
+      "baseline_mentions": [
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 3,
+          "excerpt": "同样会掉屑的点心，可能拥有完全不同的内部结构。桃酥常是颗粒状松碎，苏式酥饼可以沿层剥开，广式月饼的外皮却较柔韧。判断“酥”，需要看断面，而不能只看表面是否金黄。"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 41,
+          "excerpt": "## 烧饼、桃酥、麻花，各自怎样变脆"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 45,
+          "excerpt": "桃酥一类松酥烤点，更多依赖油脂、糖及膨松方式共同形成容易咬碎的结构，不必出现整齐的层。麻花虽然形似扭结，常见的脆口主要来自面条状坯体的炸制定型和失水，夹酥版本还会增加内部层次。十八街麻花的国家非遗项目明确反映了这是一套包含多道工序的面食技艺，不能只用“拧起来炸”概括。[资料：中国非遗，桂发祥十八街麻花制作技艺](https://www.ihchina.cn/"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 59,
+          "excerpt": "![图6-4　左：桃酥的松碎断面；右：芝麻烧饼的一种分层款式。AI对照示意。](../assets/images/atlas-cn-taosu-shaobing.png)"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 61,
+          "excerpt": "图6-4　左：桃酥的松碎断面；右：芝麻烧饼的一种分层款式。AI对照示意。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "太谷饼",
+      "family": "中式酥点与烤饼",
+      "phase": "B",
+      "chapter_or_anchor": 6,
+      "baseline_mentions": [
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 47,
+          "excerpt": "天津麻花则让人看见适于携带的干脆点心：扭结形状、粗细和炸后的含水量共同影响断裂方式。山西太谷饼又是另一条路线，厚实与松软并不等于酥皮薄层。国家非遗分别为麻花和太谷饼建立技艺项目，适合把它们作为独立案例阅读，而不是归结为“北方口味重”。[资料：中国非遗，太谷饼制作技艺](https://www.ihchina.cn/project_details/23788."
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "黄山烧饼",
+      "family": "中式酥点与烤饼",
+      "phase": "B",
+      "chapter_or_anchor": 6,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "胡椒饼",
+      "family": "中式酥点与烤饼",
+      "phase": "B",
+      "chapter_or_anchor": 6,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "糖葫芦",
+      "family": "糖食果仁与蜜渍",
+      "phase": "C",
+      "chapter_or_anchor": 8,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "花生糖",
+      "family": "糖食果仁与蜜渍",
+      "phase": "C",
+      "chapter_or_anchor": 8,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "芝麻糖",
+      "family": "糖食果仁与蜜渍",
+      "phase": "C",
+      "chapter_or_anchor": 8,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "龙须糖",
+      "family": "糖食果仁与蜜渍",
+      "phase": "C",
+      "chapter_or_anchor": 8,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "麦芽糖",
+      "family": "糖食果仁与蜜渍",
+      "phase": "C",
+      "chapter_or_anchor": 8,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "牛轧糖",
+      "family": "糖食果仁与蜜渍",
+      "phase": "C",
+      "chapter_or_anchor": 8,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "沙琪玛",
+      "family": "糖食果仁与蜜渍",
+      "phase": "C",
+      "chapter_or_anchor": 8,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "蜜三刀",
+      "family": "糖食果仁与蜜渍",
+      "phase": "C",
+      "chapter_or_anchor": 8,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "果脯",
+      "family": "糖食果仁与蜜渍",
+      "phase": "C",
+      "chapter_or_anchor": 8,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "陈皮梅",
+      "family": "糖食果仁与蜜渍",
+      "phase": "C",
+      "chapter_or_anchor": 8,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "豆花",
+      "family": "凉食甜汤与冰品",
+      "phase": "B",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "甜豆腐脑",
+      "family": "凉食甜汤与冰品",
+      "phase": "B",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "咸豆腐脑",
+      "family": "凉食甜汤与冰品",
+      "phase": "B",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "双皮奶",
+      "family": "凉食甜汤与冰品",
+      "phase": "B",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "姜撞奶",
+      "family": "凉食甜汤与冰品",
+      "phase": "B",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "芝麻糊",
+      "family": "凉食甜汤与冰品",
+      "phase": "B",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "红豆沙",
+      "family": "凉食甜汤与冰品",
+      "phase": "B",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "绿豆沙",
+      "family": "凉食甜汤与冰品",
+      "phase": "B",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "银耳羹",
+      "family": "凉食甜汤与冰品",
+      "phase": "B",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "仙草",
+      "family": "凉食甜汤与冰品",
+      "phase": "B",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "凉粉",
+      "family": "凉食甜汤与冰品",
+      "phase": "B",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "冰粉",
+      "family": "凉食甜汤与冰品",
+      "phase": "B",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "刨冰",
+      "family": "凉食甜汤与冰品",
+      "phase": "B",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "芋圆",
+      "family": "凉食甜汤与冰品",
+      "phase": "B",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "西米露",
+      "family": "凉食甜汤与冰品",
+      "phase": "B",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "布里欧修",
+      "family": "面包与发酵甜点",
+      "phase": "B",
+      "chapter_or_anchor": 10,
+      "baseline_mentions": [
+        {
+          "source": "chapters/10-bread.md",
+          "line": 1,
+          "excerpt": "# 10　从小餐包到布里欧修：发酵面团的点心生活"
+        },
+        {
+          "source": "chapters/10-bread.md",
+          "line": 15,
+          "excerpt": "酵母发酵产生气体，面团中的网络把气体留住；烘烤时，原本柔软的气泡壁逐渐固定。面粉、水、盐和酵母已经能做成面包；加入糖、蛋、奶、油脂后，面团的味道、柔软度和操作方式会变化。“富集面团”指加入这类丰富配料的面团，并不是营养评价。布里欧修就是以蛋和黄油为重要特征的发酵面包。[资料：King Arthur Baking，Classic Brioche](https:"
+        },
+        {
+          "source": "chapters/10-bread.md",
+          "line": 21,
+          "excerpt": "![图10-1　巧克力豆布里欧修。金黄色长条面包上可见分散的深色配料。](../assets/images/real-we-brioche.jpg)"
+        },
+        {
+          "source": "chapters/10-bread.md",
+          "line": 23,
+          "excerpt": "图10-1　巧克力豆布里欧修。金黄色长条面包上可见分散的深色配料。"
+        },
+        {
+          "source": "chapters/10-bread.md",
+          "line": 33,
+          "excerpt": "| 布里欧修 brioche | 蛋奶油香、细致的面包组织 | 本身即可食用，也常做夹馅或甜点基底 |"
+        },
+        {
+          "source": "chapters/10-bread.md",
+          "line": 70,
+          "excerpt": "面包的基础风味并不决定它只能服务甜食。布里欧修可与果酱搭配，也能承接咸味馅料；小餐包可以撒芝麻、加奶酪，或夹入肉类和蔬菜。判断它是否协调，需要把面包体、馅和酱料放在一起考虑：柔软的面包配湿馅容易整只变软，较有韧性的外壳则可能与细嫩馅料形成反差。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "肉桂卷",
+      "family": "面包与发酵甜点",
+      "phase": "B",
+      "chapter_or_anchor": 10,
+      "baseline_mentions": [
+        {
+          "source": "chapters/10-bread.md",
+          "line": 3,
+          "excerpt": "面包既能是主食，也能是点心。一片配菜的乡村面包、一只午后吃的肉桂卷，可能使用相近的发酵原理，却进入不同的饮食场景。本书把适合单独食用、分量较小，或以甜咸馅料构成完整风味的面包纳入点心讨论。这个边界是阅读上的安排，并不意味着各地都把它们叫作“糕点”。"
+        },
+        {
+          "source": "chapters/10-bread.md",
+          "line": 34,
+          "excerpt": "| 肉桂卷 | 卷入的糖香料和螺旋断面 | 面团、夹层和淋面的连续组合 |"
+        },
+        {
+          "source": "chapters/10-bread.md",
+          "line": 72,
+          "excerpt": "肉桂卷提供另一个例子。它看起来像卷起来的面包，实际有三个能分别调整的层面：面团是否柔软、糖馅是否湿润、表面淋酱是否厚重。换成黑芝麻或豆沙，并不自动成为一种全新的基础工艺；它可能是既有结构的风味改写。认识结构以后，传统与新式之间的关系会更清楚。"
+        },
+        {
+          "source": "chapters/10-bread.md",
+          "line": 76,
+          "excerpt": "![图10-4　肉桂卷教学示意：顶部螺旋糖馅清晰可见，少量淋面保留卷纹。](../assets/images/atlas-we-cinnamon-roll.png)"
+        },
+        {
+          "source": "chapters/10-bread.md",
+          "line": 78,
+          "excerpt": "图10-4　肉桂卷教学示意：顶部螺旋糖馅清晰可见，少量淋面保留卷纹。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "酵母甜甜圈",
+      "family": "面包与发酵甜点",
+      "phase": "B",
+      "chapter_or_anchor": 10,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "蛋糕甜甜圈",
+      "family": "面包与发酵甜点",
+      "phase": "B",
+      "chapter_or_anchor": 10,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "贝果",
+      "family": "面包与发酵甜点",
+      "phase": "B",
+      "chapter_or_anchor": 10,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "椒盐卷饼",
+      "family": "面包与发酵甜点",
+      "phase": "B",
+      "chapter_or_anchor": 10,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "司康",
+      "family": "面包与发酵甜点",
+      "phase": "B",
+      "chapter_or_anchor": 10,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "英式松饼",
+      "family": "面包与发酵甜点",
+      "phase": "B",
+      "chapter_or_anchor": 10,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "菠萝包",
+      "family": "面包与发酵甜点",
+      "phase": "B",
+      "chapter_or_anchor": 10,
+      "baseline_mentions": [
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 17,
+          "excerpt": "茶楼、街坊饼店和茶餐厅也不是互相隔绝的系统。蛋挞、菠萝包等食品能在不同场景流通，分量、售卖温度和搭配随之变化。香港非遗展览将茶楼点心、茶果、菠萝包、蛋挞和港式奶茶同时纳入饮食文化，提醒我们“地方传统”也包含长时间的交流和改造。[资料：香港非遗办“香港滋味”巡回展览](https://www.icho.hk/en/web/icho/taste_of_ICH.h"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "Concha贝壳面包",
+      "family": "面包与发酵甜点",
+      "phase": "B",
+      "chapter_or_anchor": 10,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "葡萄干面包",
+      "family": "面包与发酵甜点",
+      "phase": "B",
+      "chapter_or_anchor": 10,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "海绵蛋糕",
+      "family": "蛋糕与小型烘焙",
+      "phase": "B",
+      "chapter_or_anchor": 11,
+      "baseline_mentions": [
+        {
+          "source": "chapters/04-texture.md",
+          "line": 17,
+          "excerpt": "松与轻也有区别。松散的曲奇容易崩解，却不一定充满大孔；轻盈的海绵蛋糕主要依赖保留下来的气泡结构。滑则涉及颗粒感、润滑和变形方式；光亮表面不保证入口没有粗粒，奶冻也不是越硬越“成形成功”。"
+        },
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 28,
+          "excerpt": "海绵蛋糕通常以打发鸡蛋形成的泡沫为重要基础，但“海绵”并不是一张全球统一的配方。使用全蛋、分蛋、少量黄油或不加油脂，都会形成分支。较清爽的蛋糕体常与奶油、果酱或糖液搭配，成品的湿润程度不能只归因于蛋糕本身。[资料：King Arthur Baking，Cake Guide](https://www.kingarthurbaking.com/learn/gui"
+        },
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 57,
+          "excerpt": "日常观察时，可以比较一块不加淋面的磅蛋糕和一片奶油海绵蛋糕。把后者的蛋糕体与奶油分开品尝，再合起来吃：清淡底坯可能正是为了让夹层得到空间，浓香底坯则可能无需厚重装饰。记录“轻、弹、细、湿、香”的相对感受，比简单写“好吃、太干”更有助于下一次选择。这些词描述体验，不构成质量排名；储存、包装和食用温度同样会影响结果。"
+        },
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 61,
+          "excerpt": "![图11-2　果酱海绵蛋糕卷教学示意：蛋糕片与薄果酱夹层卷成连续螺旋。](../assets/images/atlas-we-sponge-roll.png)"
+        },
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 63,
+          "excerpt": "图11-2　果酱海绵蛋糕卷教学示意：蛋糕片与薄果酱夹层卷成连续螺旋。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "戚风蛋糕",
+      "family": "蛋糕与小型烘焙",
+      "phase": "B",
+      "chapter_or_anchor": 11,
+      "baseline_mentions": [
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 19,
+          "excerpt": "![图11-1　戚风蛋糕制作记录中的一次混合：浅色液体表面有气泡，深色配料尚未拌散。](../assets/images/real-we-chiffon-process.jpg)"
+        },
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 21,
+          "excerpt": "图11-1　戚风蛋糕制作记录中的一次混合：浅色液体表面有气泡，深色配料尚未拌散。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "黄油磅蛋糕",
+      "family": "蛋糕与小型烘焙",
+      "phase": "B",
+      "chapter_or_anchor": 11,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "芝士蛋糕",
+      "family": "蛋糕与小型烘焙",
+      "phase": "B",
+      "chapter_or_anchor": 11,
+      "baseline_mentions": [
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 7,
+          "excerpt": "![图11　自上而下：磅蛋糕、戚风切件、烤芝士蛋糕。AI生成组织外观示意，不表示实测气孔或含水差异。](../assets/images/cakes-comparison.png)"
+        },
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 9,
+          "excerpt": "图11　自上而下：磅蛋糕、戚风切件、烤芝士蛋糕。AI生成组织外观示意，不表示实测气孔或含水差异。"
+        },
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 41,
+          "excerpt": "| 芝士蛋糕 cheesecake | 乳酪馅的凝固或冷藏定形 | 因名字含 cake 就认为必有海绵组织 |"
+        },
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 43,
+          "excerpt": "## 芝士蛋糕：名称相近，组织可能很远"
+        },
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 45,
+          "excerpt": "芝士蛋糕提醒我们，糕点名称常同时承载外观、习惯和历史。烤制型通常利用乳酪、蛋等形成细腻组织；免烤型则可能依靠冷藏、明胶或其他稳定方式定形。饼干底、酥底或没有底，都是配方选择。美国烘焙学会的技术条目也把芝士蛋糕的馅描述为类似蛋奶凝固体系，而非一般充气面糊。[资料：American Society of Baking，Cheesecake](https://as"
+        },
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 47,
+          "excerpt": "巴斯克风格的深色表面、纽约风格常见的浓密口感，都是理解产品的线索，却不能代替配料与做法。尤其“日式芝士蛋糕”在市场上可能指轻乳酪蛋糕，也可能泛指其他日本风格产品；读到名称时，应继续观察断面和配方，而不是直接套用结论。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "玛德琳",
+      "family": "蛋糕与小型烘焙",
+      "phase": "B",
+      "chapter_or_anchor": 11,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "费南雪",
+      "family": "蛋糕与小型烘焙",
+      "phase": "B",
+      "chapter_or_anchor": 11,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "玛芬",
+      "family": "蛋糕与小型烘焙",
+      "phase": "B",
+      "chapter_or_anchor": 11,
+      "baseline_mentions": [
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 53,
+          "excerpt": "纸杯蛋糕也不是固定的一种面糊，它描述的是小模具中的成形方式；玛芬与它常在外观上相近，却可能采用不同混合方法和目标口感。进一步说，表面裂口、圆顶、紧密组织在某一种产品中可能符合风格，在另一种产品里却值得检查。认识具体类别以后再讨论成败，才不会让“必须平顶”“必须拉丝”“必须入口即化”这类单一标准统治整柜蛋糕。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "纸杯蛋糕",
+      "family": "蛋糕与小型烘焙",
+      "phase": "B",
+      "chapter_or_anchor": 11,
+      "baseline_mentions": [
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 53,
+          "excerpt": "纸杯蛋糕也不是固定的一种面糊，它描述的是小模具中的成形方式；玛芬与它常在外观上相近，却可能采用不同混合方法和目标口感。进一步说，表面裂口、圆顶、紧密组织在某一种产品中可能符合风格，在另一种产品里却值得检查。认识具体类别以后再讨论成败，才不会让“必须平顶”“必须拉丝”“必须入口即化”这类单一标准统治整柜蛋糕。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "蛋糕卷",
+      "family": "蛋糕与小型烘焙",
+      "phase": "B",
+      "chapter_or_anchor": 11,
+      "baseline_mentions": [
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 51,
+          "excerpt": "如果要把结构读得更细，还可以比较蛋糕卷与层叠生日蛋糕。卷需要蛋糕片能承受弯曲，切开的螺旋让蛋糕与馅在每一口交替出现；层叠蛋糕则要让底坯支撑上方重量，切片以后仍能维持层次。两者不能只按“奶油多少”区分。相同风味做成不同形态，底坯厚度、湿润程度与夹馅稠度都可能需要调整。"
+        },
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 61,
+          "excerpt": "![图11-2　果酱海绵蛋糕卷教学示意：蛋糕片与薄果酱夹层卷成连续螺旋。](../assets/images/atlas-we-sponge-roll.png)"
+        },
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 63,
+          "excerpt": "图11-2　果酱海绵蛋糕卷教学示意：蛋糕片与薄果酱夹层卷成连续螺旋。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "布朗尼",
+      "family": "蛋糕与小型烘焙",
+      "phase": "B",
+      "chapter_or_anchor": 11,
+      "baseline_mentions": [
+        {
+          "source": "chapters/11-cakes.md",
+          "line": 40,
+          "excerpt": "| 布朗尼 brownie | 可从湿润浓厚到较似蛋糕 | 用单一“正宗口感”覆盖所有版本 |"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "古早蛋糕",
+      "family": "蛋糕与小型烘焙",
+      "phase": "B",
+      "chapter_or_anchor": 11,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "可颂",
+      "family": "起酥与泡芙家族",
+      "phase": "B",
+      "chapter_or_anchor": 12,
+      "baseline_mentions": [
+        {
+          "source": "chapters/04-texture.md",
+          "line": 13,
+          "excerpt": "脆常在初咬时出现：薄壳迅速断裂，声音清晰。酥更多强调结构容易碎散，可能表现为细屑，也可能表现为片层脱落。两者可以同时存在，也可以分开。一块油酥饼不一定像薄脆饼干那样响；一只可颂的外壳脆，内部却可以柔软、有弹性。"
+        },
+        {
+          "source": "chapters/10-bread.md",
+          "line": 89,
+          "excerpt": "有些产品名字带 bread，做法却更接近化学膨松的蛋糕糊；“香蕉面包”就是常见例子。相反，可颂也含酵母，但还有反复包油折叠产生的层次，应到起酥章节继续理解。不能凭名称、形状或是否甜来判定技术类别。"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 3,
+          "excerpt": "可颂、千层酥和泡芙都能在烤箱里显著鼓起，断面却揭示了三种不同的安排：可颂在发酵面团中保存层次；千层酥主要让薄层彼此分离；泡芙则把湿润面糊撑成中空外壳。外形相似的“蓬”，并不说明工艺相同。"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 7,
+          "excerpt": "![图12　自上而下：中式分层酥点、可颂、填馅泡芙。AI生成切面示意。上方酥点仅作分层参照；可颂含发酵组织，泡芙主要形成壳内空腔。](../assets/images/pastry-comparison.png)"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 9,
+          "excerpt": "图12　自上而下：中式分层酥点、可颂、填馅泡芙。AI生成切面示意。上方酥点仅作分层参照；可颂含发酵组织，泡芙主要形成壳内空腔。"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 26,
+          "excerpt": "## 可颂与不发酵千层酥"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 30,
+          "excerpt": "| 可颂类 | 是 | 发酵组织加上包油层次 | 可颂、巧克力面包 pain au chocolat |"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 35,
+          "excerpt": "可颂需要照顾酵母活动，也要避免让包入的油脂失去状态；不发酵千层酥则没有同样的酵母发酵阶段。这是理解两者的关键差别。“千层”是对层次的形容，不能要求每件成品有固定数量的可见层。[资料：King Arthur Baking，Baker's Croissants](https://www.kingarthurbaking.com/recipes/bakers-cr"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 37,
+          "excerpt": "折叠次数也不是品质积分。层次过细可能改变最终的蓬松与酥脆表现；King Arthur 的对照试验显示，减少折叠在其测试配方中能获得更开放的可颂组织，但作者也强调这不是所有配方的唯一标准。[资料：King Arthur Baking，Why Fewer Folds Make a Better Croissant](https://www.kingarthurb"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 41,
+          "excerpt": "外层碎屑和内里组织也要分开理解。可颂表皮破成薄片，不代表内部一定干燥；外表层次漂亮，内部仍可能过于紧密。拿破仑的酥片则与湿润夹层交替，往往需要刀叉协助切开。它不方便整齐咬下，并不能单独作为品质结论；产品本来安排的食用方式，也应进入判断。"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 83,
+          "excerpt": "把可颂、蝴蝶酥和未填馅的泡芙并排观察：可颂有薄层与发酵孔洞共同构成的内部；蝴蝶酥能看到更紧密的折叠线和糖化表面；泡芙最醒目的是壳内空间。再分别听咬下时的声音、看碎屑形状。这个练习能把“酥”拆成不同经验，也能解释为什么三者不适合用同一种方法替换或回温。理解工艺以后，再看新式圆筒可颂、可颂塔或加脆壳泡芙，就能区分形状创新、组合创新和面团本身的改变。"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 87,
+          "excerpt": "![图12-3　可颂真实横切面。弯曲的薄壁围出大小不一的孔洞，可与本章的分层原理联系观察。](../assets/images/real-we-croissant-section.jpg)"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 89,
+          "excerpt": "图12-3　可颂真实横切面。弯曲的薄壁围出大小不一的孔洞，可与本章的分层原理联系观察。"
+        },
+        {
+          "source": "chapters/16-world-snacks.md",
+          "line": 11,
+          "excerpt": "## Baklava：薄片叠层，与可颂的层不一样"
+        },
+        {
+          "source": "chapters/16-world-snacks.md",
+          "line": 15,
+          "excerpt": "它与可颂都能看到层，却不是同一条工艺路线。可颂把脂肪包进发酵面团，经擀折建立层次；典型 baklava 则把已经很薄的 filo／phyllo 面片逐层铺叠。评价前者，常关注发酵体积与内部孔洞；评价后者，常关注薄片断裂、坚果粒度、糖浆分布与咀嚼后的黏润。把所有层状糕点都称为“千层酥”，会遮住这些不同。"
+        },
+        {
+          "source": "chapters/17-fusion.md",
+          "line": 3,
+          "excerpt": "新式点心并不只有“把抹茶放进可颂”这一条路。原料替换、工艺组合、温度变化、包装与销售方式，都可能改变一件食品。认识新式产品时，先问变化发生在哪里：是香味换了，主体结构换了，还是连食用场景也换了？分清这一点，便能同时欣赏创意和判断效果。"
+        },
+        {
+          "source": "chapters/17-fusion.md",
+          "line": 17,
+          "excerpt": "第三种是工艺重组。Dominique Ansel 的 Cronut® 于2013年5月推出，创作者把它描述为可颂与甜甜圈的混合体。[来源：Dominique Ansel，The Cronut®](https://www.dominiqueansel.com/rising%20stars/the-cronut/) 这个案例的意义不在于出现了一个合成名称，而在于"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "丹麦点心",
+      "family": "起酥与泡芙家族",
+      "phase": "B",
+      "chapter_or_anchor": 12,
+      "baseline_mentions": [
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 31,
+          "excerpt": "| 丹麦类 | 是 | 发酵起酥，常与蛋奶馅、水果组合 | 风车、方形或卷形丹麦点心 |"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 39,
+          "excerpt": "丹麦点心进一步展示了结构与填馅的协商。水果和蛋奶馅带来水分、重量与甜味，折角和边框则不只是装饰，也为馅料安排位置。选购时可同时看底部是否熟透、边缘是否有层、中心是否与馅料协调；只看表面光亮，容易漏掉最重要的口感。"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 45,
+          "excerpt": "![图12-4　丹麦点心教学示意：起酥边框承托蛋奶馅与莓果，切口露出内部层次。](../assets/images/atlas-we-danish.png)"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 47,
+          "excerpt": "图12-4　丹麦点心教学示意：起酥边框承托蛋奶馅与莓果，切口露出内部层次。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "巧克力面包",
+      "family": "起酥与泡芙家族",
+      "phase": "B",
+      "chapter_or_anchor": 12,
+      "baseline_mentions": [
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 30,
+          "excerpt": "| 可颂类 | 是 | 发酵组织加上包油层次 | 可颂、巧克力面包 pain au chocolat |"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "蝴蝶酥",
+      "family": "起酥与泡芙家族",
+      "phase": "B",
+      "chapter_or_anchor": 12,
+      "baseline_mentions": [
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 32,
+          "excerpt": "| 法式千层酥 pâte feuilletée | 基础配方通常不含 | 层间蒸气与分层 | 蝴蝶酥、拿破仑、酥盒 |"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 53,
+          "excerpt": "![图12-5　千层酥成品教学对照：左为蝴蝶酥，右为酥片与糕点奶油交替的拿破仑。](../assets/images/atlas-we-palmier-millefeuille.png)"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 55,
+          "excerpt": "图12-5　千层酥成品教学对照：左为蝴蝶酥，右为酥片与糕点奶油交替的拿破仑。"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 83,
+          "excerpt": "把可颂、蝴蝶酥和未填馅的泡芙并排观察：可颂有薄层与发酵孔洞共同构成的内部；蝴蝶酥能看到更紧密的折叠线和糖化表面；泡芙最醒目的是壳内空间。再分别听咬下时的声音、看碎屑形状。这个练习能把“酥”拆成不同经验，也能解释为什么三者不适合用同一种方法替换或回温。理解工艺以后，再看新式圆筒可颂、可颂塔或加脆壳泡芙，就能区分形状创新、组合创新和面团本身的改变。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "拿破仑",
+      "family": "起酥与泡芙家族",
+      "phase": "B",
+      "chapter_or_anchor": 12,
+      "baseline_mentions": [
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 32,
+          "excerpt": "| 法式千层酥 pâte feuilletée | 基础配方通常不含 | 层间蒸气与分层 | 蝴蝶酥、拿破仑、酥盒 |"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 41,
+          "excerpt": "外层碎屑和内里组织也要分开理解。可颂表皮破成薄片，不代表内部一定干燥；外表层次漂亮，内部仍可能过于紧密。拿破仑的酥片则与湿润夹层交替，往往需要刀叉协助切开。它不方便整齐咬下，并不能单独作为品质结论；产品本来安排的食用方式，也应进入判断。"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 53,
+          "excerpt": "![图12-5　千层酥成品教学对照：左为蝴蝶酥，右为酥片与糕点奶油交替的拿破仑。](../assets/images/atlas-we-palmier-millefeuille.png)"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 55,
+          "excerpt": "图12-5　千层酥成品教学对照：左为蝴蝶酥，右为酥片与糕点奶油交替的拿破仑。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "泡芙",
+      "family": "起酥与泡芙家族",
+      "phase": "B",
+      "chapter_or_anchor": 12,
+      "baseline_mentions": [
+        {
+          "source": "chapters/03-process.md",
+          "line": 25,
+          "excerpt": "发酵可产生气体，打发能把空气带进蛋或油脂体系，化学膨松剂在相应条件下释放气体；水受热产生的蒸汽，也能参与膨胀。不同点心可能同时利用几种方式。把蛋糕都说成“发酵了”，或把泡芙空心解释为“酵母发起来”，都会错过关键。"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 1,
+          "excerpt": "# 12　层层展开与一腔空心：起酥和泡芙"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 3,
+          "excerpt": "可颂、千层酥和泡芙都能在烤箱里显著鼓起，断面却揭示了三种不同的安排：可颂在发酵面团中保存层次；千层酥主要让薄层彼此分离；泡芙则把湿润面糊撑成中空外壳。外形相似的“蓬”，并不说明工艺相同。"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 7,
+          "excerpt": "![图12　自上而下：中式分层酥点、可颂、填馅泡芙。AI生成切面示意。上方酥点仅作分层参照；可颂含发酵组织，泡芙主要形成壳内空腔。](../assets/images/pastry-comparison.png)"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 9,
+          "excerpt": "图12　自上而下：中式分层酥点、可颂、填馅泡芙。AI生成切面示意。上方酥点仅作分层参照；可颂含发酵组织，泡芙主要形成壳内空腔。"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 33,
+          "excerpt": "| 泡芙 pâte à choux | 基础配方通常不含 | 高含水面糊受热鼓起并固定 | 圆泡芙、闪电泡芙、奶酪泡芙 |"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 60,
+          "excerpt": "## 泡芙为什么能空心"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 62,
+          "excerpt": "泡芙不靠包油折叠。典型流程先把液体和油脂加热，加入面粉形成熟面糊，再分次加入蛋，调整到能够挤出的稠度。烘烤中，水蒸气促使面糊鼓起，外壳逐渐定形并干燥。它因而能留下放馅的空间。[资料：King Arthur Baking，What Is Pâte à Choux?](https://www.kingarthurbaking.com/blog/2022/10/2"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 64,
+          "excerpt": "泡芙的“壳”与“馅”常在不同阶段完成。壳需要足够支撑，馅则追求细腻湿润；填好后，水分会逐渐改变外壳口感。新鲜酥壳与放置后柔软的壳，不能只用同一项标准评价，但外壳内侧黏湿与细腻柔软也不是一回事。具体制作时应使用经测试的配方，不能只凭外表上色就判断内部已经完成。"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 66,
+          "excerpt": "同一面糊能挤成长条成为 éclair 闪电泡芙，也能制成圆形；加入奶酪可做咸味 gougère。可见泡芙不是“夹奶油的圆球”的同义词。[资料：King Arthur Baking，Pâte à Choux](https://www.kingarthurbaking.com/recipes/pate-a-choux-recipe)"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 70,
+          "excerpt": "![图12-2　香草卡仕达馅泡芙切面。褐色薄壳围住浅黄色馅料，壳内空间已被填馅占据。](../assets/images/real-we-choux-inside.jpg)"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 72,
+          "excerpt": "图12-2　香草卡仕达馅泡芙切面。褐色薄壳围住浅黄色馅料，壳内空间已被填馅占据。"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 81,
+          "excerpt": "泡芙的连续变化正好不同：加热后形成能聚成团的熟糊；加入蛋后逐渐变得有光泽且可挤；挤出的坯体还没有中空；入炉鼓起并逐渐固定；内部进一步干燥后才有条件承托馅料。成品图看不见前半段的熟糊，却正是这段过程使它区别于一盘普通蛋糕糊。比较时应把过程和断面同时看，避免只背“蒸气膨松”而不理解蒸气如何被留下。"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 83,
+          "excerpt": "把可颂、蝴蝶酥和未填馅的泡芙并排观察：可颂有薄层与发酵孔洞共同构成的内部；蝴蝶酥能看到更紧密的折叠线和糖化表面；泡芙最醒目的是壳内空间。再分别听咬下时的声音、看碎屑形状。这个练习能把“酥”拆成不同经验，也能解释为什么三者不适合用同一种方法替换或回温。理解工艺以后，再看新式圆筒可颂、可颂塔或加脆壳泡芙，就能区分形状创新、组合创新和面团本身的改变。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 15,
+          "excerpt": "Custard 指蛋参与增稠或凝固的蛋奶体系。流动的英式蛋奶酱 crème anglaise，可以作淋酱或其他甜点的基础；烤制的焦糖布丁则形成可脱模的柔软凝胶。并不是名字含 crème 就一定是同一种奶油。糕点奶油 crème pâtissière 还通常借助淀粉增稠，便于填入泡芙或塔壳。[资料：Le Cordon Bleu，Crème Anglaise]("
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 100,
+          "excerpt": "越南的糕饼还包括本地米点与外来技术的再发展，因此不能见到泡芙、焦糖布丁就把它们从当地饮食中排除。技术来源和今天的归属，是两个可以同时讨论的问题。对初学者而言，先认识它在当地怎么吃、用什么原料，再追踪可证实的传播路径，比争论唯一发源地更有收获。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "闪电泡芙",
+      "family": "起酥与泡芙家族",
+      "phase": "B",
+      "chapter_or_anchor": 12,
+      "baseline_mentions": [
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 33,
+          "excerpt": "| 泡芙 pâte à choux | 基础配方通常不含 | 高含水面糊受热鼓起并固定 | 圆泡芙、闪电泡芙、奶酪泡芙 |"
+        },
+        {
+          "source": "chapters/12-laminated.md",
+          "line": 66,
+          "excerpt": "同一面糊能挤成长条成为 éclair 闪电泡芙，也能制成圆形；加入奶酪可做咸味 gougère。可见泡芙不是“夹奶油的圆球”的同义词。[资料：King Arthur Baking，Pâte à Choux](https://www.kingarthurbaking.com/recipes/pate-a-choux-recipe)"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "巴黎布雷斯特",
+      "family": "起酥与泡芙家族",
+      "phase": "B",
+      "chapter_or_anchor": 12,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "圣多诺黑",
+      "family": "起酥与泡芙家族",
+      "phase": "B",
+      "chapter_or_anchor": 12,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "修女泡芙",
+      "family": "起酥与泡芙家族",
+      "phase": "B",
+      "chapter_or_anchor": 12,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "蛋挞",
+      "family": "塔派与饼干小点",
+      "phase": "B",
+      "chapter_or_anchor": 13,
+      "baseline_mentions": [
+        {
+          "source": "chapters/01-reading.md",
+          "line": 15,
+          "excerpt": "看一只蛋挞，既可以说它是烤制小点，也可以说它由酥皮或饼干式挞皮与蛋奶馅组成；在茶餐厅里，它又属于某种日常饮食场景。三个说法回答的是不同问题。前者讲加热，中者讲结构，后者讲社会生活。分类发生重叠并不意味着分类错误。"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 1,
+          "excerpt": "# 06　中式酥点与烤点：从油脂分层到蛋挞"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 66,
+          "excerpt": "## 蛋挞让中西边界变得具体"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 68,
+          "excerpt": "香港常见蛋挞有酥皮与牛油皮，也就是俗称的曲奇皮。前者有薄层和剥落感，后者更接近一块连续、松碎的饼干壳。香港非遗办的饮食文化资料把两种皮并列介绍，也记录蛋挞进入茶餐厅和中式茶楼的日常场景。[资料：香港非遗办《饮食文化》](https://www.icho.hk/documents/Education/exhibition_panels/Exhibition_p"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 70,
+          "excerpt": "澳门葡挞又是另一条具体的发展路线：当地在葡萄牙甜点技艺基础上形成有地方特色的焦糖酥皮蛋挞，常见特征为分层挞皮与带焦斑的蛋浆表面。澳门文化局同时强调各店用料和烘焙手法存在差异。[资料：澳门文化遗产网，葡挞制作技艺](https://www.culturalheritage.mo/detail/102289)"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 72,
+          "excerpt": "因此，不能把所有港式蛋挞都称作葡挞，也不宜用某家店的创立年份代替整类蛋奶挞的起源。传播并不是原样搬运；挞皮、蛋奶比例、烤制表面和消费场景，都可能在新地方改变。"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 74,
+          "excerpt": "下次比较两枚蛋挞，可先不讨论哪枚“正宗”，而是分别记录外壳是分层还是颗粒状松碎、馅心是否流动、底部是否仍干爽。再把它与一块中式酥饼并看，就能发现相近的分层原理怎样服务于完全不同的馅料。"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 78,
+          "excerpt": "![图6-3　两枚香港蛋挞实物。浅黄色蛋面与褐色挞壳形成对照；本图不区分挞皮配方。](../assets/images/real-cn-hk-egg-tarts.jpg)"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 80,
+          "excerpt": "图6-3　两枚香港蛋挞实物。浅黄色蛋面与褐色挞壳形成对照；本图不区分挞皮配方。"
+        },
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 15,
+          "excerpt": "广式饮茶把茶与多份小点放在同一餐桌上，蒸、煎、炸、焗可以同时出现。虾饺的薄皮、叉烧包的蓬松、萝卜糕的软实、蛋挞的酥壳构成一组质地差异。“一盅两件”中的“两件”并非规定只能点两只点心，而是泛指点心；它体现的是喝茶吃点的生活方式。[资料：香港非遗办《饮食文化》](https://www.icho.hk/documents/Education/exhibition"
+        },
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 17,
+          "excerpt": "茶楼、街坊饼店和茶餐厅也不是互相隔绝的系统。蛋挞、菠萝包等食品能在不同场景流通，分量、售卖温度和搭配随之变化。香港非遗展览将茶楼点心、茶果、菠萝包、蛋挞和港式奶茶同时纳入饮食文化，提醒我们“地方传统”也包含长时间的交流和改造。[资料：香港非遗办“香港滋味”巡回展览](https://www.icho.hk/en/web/icho/taste_of_ICH.h"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 7,
+          "excerpt": "![图13　自上而下：曲奇皮蛋挞、葡式酥皮蛋挞、双皮苹果派、黄油酥饼。AI生成外观示意，具体店家与地区做法有差异。](../assets/images/tarts-comparison.png)"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 9,
+          "excerpt": "图13　自上而下：曲奇皮蛋挞、葡式酥皮蛋挞、双皮苹果派、黄油酥饼。AI生成外观示意，具体店家与地区做法有差异。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "葡挞",
+      "family": "塔派与饼干小点",
+      "phase": "B",
+      "chapter_or_anchor": 13,
+      "baseline_mentions": [
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 70,
+          "excerpt": "澳门葡挞又是另一条具体的发展路线：当地在葡萄牙甜点技艺基础上形成有地方特色的焦糖酥皮蛋挞，常见特征为分层挞皮与带焦斑的蛋浆表面。澳门文化局同时强调各店用料和烘焙手法存在差异。[资料：澳门文化遗产网，葡挞制作技艺](https://www.culturalheritage.mo/detail/102289)"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 72,
+          "excerpt": "因此，不能把所有港式蛋挞都称作葡挞，也不宜用某家店的创立年份代替整类蛋奶挞的起源。传播并不是原样搬运；挞皮、蛋奶比例、烤制表面和消费场景，都可能在新地方改变。"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 81,
+          "excerpt": "点心传播也不只有“中传西”或“西传中”两条方向。移民家庭、港口商贸、茶馆、饼店和烘焙教育都可能改变原料与技术。澳门葡挞的文化遗产资料将其描述为在葡萄牙甜点技艺基础上进行地方创新与传承的实例；这种表述能同时保留来源和本地变化。[资料：澳门文化遗产网，葡挞制作技艺](https://www.culturalheritage.mo/detail/102289)"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "柠檬塔",
+      "family": "塔派与饼干小点",
+      "phase": "B",
+      "chapter_or_anchor": 13,
+      "baseline_mentions": [
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 19,
+          "excerpt": "塔常以开放表面、较清晰的边缘和独立酥壳进入读者视野；派既可以敞口，也可以加顶皮，既能甜也能咸。不同地区的命名并不严格一致。水果塔、柠檬塔、苹果派、南瓜派和咸派 quiche，最好同时用“外壳工艺＋馅料体系”来描述，而不是仅凭模具形状判定。"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 24,
+          "excerpt": "| 柠檬塔 | 酸甜馅与酥底 | 酸味是否清楚，壳是否承托得住 |"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 41,
+          "excerpt": "![图13-3　塔点教学对照：左为柠檬塔，右为糕点奶油鲜果塔；切口均露出底壳。](../assets/images/atlas-we-lemon-fruit-tarts.png)"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 43,
+          "excerpt": "图13-3　塔点教学对照：左为柠檬塔，右为糕点奶油鲜果塔；切口均露出底壳。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "水果塔",
+      "family": "塔派与饼干小点",
+      "phase": "B",
+      "chapter_or_anchor": 13,
+      "baseline_mentions": [
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 19,
+          "excerpt": "塔常以开放表面、较清晰的边缘和独立酥壳进入读者视野；派既可以敞口，也可以加顶皮，既能甜也能咸。不同地区的命名并不严格一致。水果塔、柠檬塔、苹果派、南瓜派和咸派 quiche，最好同时用“外壳工艺＋馅料体系”来描述，而不是仅凭模具形状判定。"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 23,
+          "excerpt": "| 新鲜水果塔 | 烤好酥壳与湿润奶油、水果 | 底壳是否仍有酥感，水果是否大量出水 |"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 77,
+          "excerpt": "一只水果塔的制作，实际上可以分成几段相互独立的工作：做面团和冷藏松弛，铺入模具并修整边缘，烤成能承托的壳，再放入已经准备好的馅与水果。最后装配不只是摆盘，它也决定湿料从什么时候开始接触壳。家庭阅读配方时，先把“必须烤熟的部分”和“烤后加入的部分”标出来，往往比一口气记住全部操作更有效。"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 81,
+          "excerpt": "塔壳接触湿馅以后，饼干在潮湿环境里放置以后，都可能改变原本的酥脆。理解一件点心，还要把“何时吃”纳入评价。工厂包装的小饼追求较长的稳定性，现做水果塔则常以较短时间里的壳馅对照为特点；两者的产品目标不同。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "苹果派",
+      "family": "塔派与饼干小点",
+      "phase": "B",
+      "chapter_or_anchor": 13,
+      "baseline_mentions": [
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 7,
+          "excerpt": "![图13　自上而下：曲奇皮蛋挞、葡式酥皮蛋挞、双皮苹果派、黄油酥饼。AI生成外观示意，具体店家与地区做法有差异。](../assets/images/tarts-comparison.png)"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 9,
+          "excerpt": "图13　自上而下：曲奇皮蛋挞、葡式酥皮蛋挞、双皮苹果派、黄油酥饼。AI生成外观示意，具体店家与地区做法有差异。"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 19,
+          "excerpt": "塔常以开放表面、较清晰的边缘和独立酥壳进入读者视野；派既可以敞口，也可以加顶皮，既能甜也能咸。不同地区的命名并不严格一致。水果塔、柠檬塔、苹果派、南瓜派和咸派 quiche，最好同时用“外壳工艺＋馅料体系”来描述，而不是仅凭模具形状判定。"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 25,
+          "excerpt": "| 双层苹果派 | 上下皮与受热出汁的水果 | 底皮、馅料熟度和上皮是否协调 |"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "山核桃派",
+      "family": "塔派与饼干小点",
+      "phase": "B",
+      "chapter_or_anchor": 13,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "曲奇",
+      "family": "塔派与饼干小点",
+      "phase": "B",
+      "chapter_or_anchor": 13,
+      "baseline_mentions": [
+        {
+          "source": "chapters/03-process.md",
+          "line": 3,
+          "excerpt": "一只生包子和一块生曲奇都很柔软，出锅出炉后却走向不同：包子多孔而湿润，曲奇较干脆。除了配方不同，它们经历的水分环境也不同。理解工艺，要同时看热怎样进入、气体怎样变化，以及结构何时固定。"
+        },
+        {
+          "source": "chapters/04-texture.md",
+          "line": 17,
+          "excerpt": "松与轻也有区别。松散的曲奇容易崩解，却不一定充满大孔；轻盈的海绵蛋糕主要依赖保留下来的气泡结构。滑则涉及颗粒感、润滑和变形方式；光亮表面不保证入口没有粗粒，奶冻也不是越硬越“成形成功”。"
+        },
+        {
+          "source": "chapters/06-chinese-pastry.md",
+          "line": 68,
+          "excerpt": "香港常见蛋挞有酥皮与牛油皮，也就是俗称的曲奇皮。前者有薄层和剥落感，后者更接近一块连续、松碎的饼干壳。香港非遗办的饮食文化资料把两种皮并列介绍，也记录蛋挞进入茶餐厅和中式茶楼的日常场景。[资料：香港非遗办《饮食文化》](https://www.icho.hk/documents/Education/exhibition_panels/Exhibition_p"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 1,
+          "excerpt": "# 13　酥底与小饼：塔、派、曲奇和饼干"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 3,
+          "excerpt": "塔与派常以“外壳加馅”组织味道；曲奇与许多饼干则把味道集中在一小块面团里。它们之间有交集：一份甜酥面团可以烤成塔壳，也可以切成小饼。但同样的材料经过不同厚度、烘烤与装配，会承担不同任务。"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 7,
+          "excerpt": "![图13　自上而下：曲奇皮蛋挞、葡式酥皮蛋挞、双皮苹果派、黄油酥饼。AI生成外观示意，具体店家与地区做法有差异。](../assets/images/tarts-comparison.png)"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 9,
+          "excerpt": "图13　自上而下：曲奇皮蛋挞、葡式酥皮蛋挞、双皮苹果派、黄油酥饼。AI生成外观示意，具体店家与地区做法有差异。"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 48,
+          "excerpt": "## 曲奇不只是裱花形状"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 50,
+          "excerpt": "中文日常用语中的“曲奇”常让人想到黄油裱花小饼，英文 cookie 的使用范围却宽得多。按成形方法观察，可以看到舀放、擀切、挤压、冷藏切片和盘烤后切块等方式。它们是有帮助的操作分类，不是互不相交的物种：同一类面团可能有多种成形选择。[资料：King Arthur Baking，Classic Cookie Recipes](https://www.kinga"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 52,
+          "excerpt": "黄油酥饼 shortbread 重视简洁的油脂香与酥松；巧克力豆曲奇可以松脆，也可以中心柔韧；biscotti 常经整条烘烤、切片再烤，强调干燥和便于蘸饮；薄脆小饼则让厚度成为口感的一部分。中文“饼干”、英式 biscuit 和美式 biscuit 也不能逐字对等，遇到食谱时需要看实物与做法。"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 54,
+          "excerpt": "小饼摊开多少，不只取决于黄油有没有融化。糖量、面粉、冷藏、烤箱状态、烤盘表面和铺垫材料都可能参与作用。King Arthur 的烤盘铺垫对照就是一个提醒：把所有扁平曲奇都归罪于配方，容易漏掉操作条件。[资料：King Arthur Baking，Cookies Spreading? It Might Be Your Pan Lining](https://w"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 56,
+          "excerpt": "比较小饼时还应控制厚度。相同面团薄薄擀开和做成厚块，水分散失与入口受力的方式不同；把一片薄脆与一块厚曲奇的硬度直接排名，无法判断是哪种材料或工艺发挥作用。"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 68,
+          "excerpt": "![图13-4　软心巧克力豆曲奇教学示意：完整件与掰开件并置，显示边缘、中心与巧克力分布。](../assets/images/atlas-we-chewy-cookie.png)"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 70,
+          "excerpt": "图13-4　软心巧克力豆曲奇教学示意：完整件与掰开件并置，显示边缘、中心与巧克力分布。"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 79,
+          "excerpt": "饼干的连续路线又略不同：混合先决定面团状态，成形决定厚薄，烘烤决定上色与干燥，冷却使成品达到可以判断的状态。有些小饼刚出炉时仍柔软，完全冷却才显出预期脆度；据热态就追加长时间烘烤，可能造成过度上色。反过来，软心曲奇也不应因中心柔软就一概当成未熟。应把目标风格、尺寸与可靠配方放在一起判断，而不是只靠一个“摸起来硬不硬”的动作。"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 83,
+          "excerpt": "可以选一块黄油酥饼、一块软心曲奇和一片 biscotti，先比较断裂方式，再少量蘸饮观察变化。不要只记录谁最硬，而要记录碎成粉屑、出现清脆断口，还是弯折后才断。随后再吃一口塔壳，体会同样的“酥”如何从主体变成承托层。这能帮助读者看懂新品：换馅、换形、叠层与改变面团，是不同层次的设计。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "软心曲奇",
+      "family": "塔派与饼干小点",
+      "phase": "B",
+      "chapter_or_anchor": 13,
+      "baseline_mentions": [
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 79,
+          "excerpt": "饼干的连续路线又略不同：混合先决定面团状态，成形决定厚薄，烘烤决定上色与干燥，冷却使成品达到可以判断的状态。有些小饼刚出炉时仍柔软，完全冷却才显出预期脆度；据热态就追加长时间烘烤，可能造成过度上色。反过来，软心曲奇也不应因中心柔软就一概当成未熟。应把目标风格、尺寸与可靠配方放在一起判断，而不是只靠一个“摸起来硬不硬”的动作。"
+        },
+        {
+          "source": "chapters/13-tarts-cookies.md",
+          "line": 83,
+          "excerpt": "可以选一块黄油酥饼、一块软心曲奇和一片 biscotti，先比较断裂方式，再少量蘸饮观察变化。不要只记录谁最硬，而要记录碎成粉屑、出现清脆断口，还是弯折后才断。随后再吃一口塔壳，体会同样的“酥”如何从主体变成承托层。这能帮助读者看懂新品：换馅、换形、叠层与改变面团，是不同层次的设计。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "意式脆饼",
+      "family": "塔派与饼干小点",
+      "phase": "B",
+      "chapter_or_anchor": 13,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "短酥饼",
+      "family": "塔派与饼干小点",
+      "phase": "B",
+      "chapter_or_anchor": 13,
+      "baseline_mentions": [
+        {
+          "source": "chapters/18-tasting.md",
+          "line": 13,
+          "excerpt": "“越软越好”“层越多越好”“甜度越低越好”都不是通用标准。短酥饼干可以追求松散断裂，法棍类面包可以追求外脆内韧，某些糖浆点心则以黏润为特点。评价前先判断它属于哪一种结构、希望呈现什么口感。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "马卡龙",
+      "family": "塔派与饼干小点",
+      "phase": "B",
+      "chapter_or_anchor": 13,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "马蹄酥",
+      "family": "塔派与饼干小点",
+      "phase": "B",
+      "chapter_or_anchor": 13,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "布丁",
+      "family": "冷凝甜点与餐后小点",
+      "phase": "C",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [
+        {
+          "source": "chapters/01-reading.md",
+          "line": 29,
+          "excerpt": "中式糕点不是只有米，西式糕点也不是只有黄油。中国有丰富的麦面烤点和油酥点心，欧洲有布丁、奶冻和以坚果为主体的甜食。日本、东南亚、南亚、中东和拉美也都有各自的历史；把它们塞进“中式”或“西式”会损失信息。因此，本书先把几种结构学会，再沿地区进入具体传统，最后讨论流通、商业化和融合。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 3,
+          "excerpt": "布丁、奶冻、慕斯和冰淇淋都可能装在小杯里，入口也都显得细腻，但杯子掩盖了工艺差别。一份靠蛋凝固，一份靠胶凝体系，一份含有大量细小气泡，另一份把冰晶、空气和未冻结的液体组织在一起。先问“它靠什么站住”，许多名称就不再混乱。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 7,
+          "excerpt": "![图14　自上而下：焦糖布丁、奶冻、巧克力慕斯、乳类冰淇淋与果味sorbet。AI生成外观示意；表面光滑不能证明使用同一凝固方式。](../assets/images/cold-comparison.png)"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 9,
+          "excerpt": "图14　自上而下：焦糖布丁、奶冻、巧克力慕斯、乳类冰淇淋与果味sorbet。AI生成外观示意；表面光滑不能证明使用同一凝固方式。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 11,
+          "excerpt": "## 布丁与蛋奶：先把词语放回语境"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 13,
+          "excerpt": "中文“布丁”常指可用勺舀取的柔软甜点，英语 pudding 的范围却远大于此，不能据此判定所有产品都靠蛋凝固。讨论具体工艺时，用蛋奶凝固、淀粉增稠或胶凝来补充描述更准确。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 15,
+          "excerpt": "Custard 指蛋参与增稠或凝固的蛋奶体系。流动的英式蛋奶酱 crème anglaise，可以作淋酱或其他甜点的基础；烤制的焦糖布丁则形成可脱模的柔软凝胶。并不是名字含 crème 就一定是同一种奶油。糕点奶油 crème pâtissière 还通常借助淀粉增稠，便于填入泡芙或塔壳。[资料：Le Cordon Bleu，Crème Anglaise]("
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 21,
+          "excerpt": "![图14-2　焦糖布丁实物。主体的缺口显露内部，表面及碗底的褐色焦糖液与浅色布丁形成对照。](../assets/images/real-we-creme-caramel.jpg)"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 23,
+          "excerpt": "图14-2　焦糖布丁实物。主体的缺口显露内部，表面及碗底的褐色焦糖液与浅色布丁形成对照。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 46,
+          "excerpt": "| 蛋奶受热凝固 | 焦糖布丁、烤蛋奶 | 凝固程度与细腻度 |"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 47,
+          "excerpt": "| 淀粉辅助增稠 | 糕点奶油、部分杯装布丁 | 稠度与填馅用途 |"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 100,
+          "excerpt": "越南的糕饼还包括本地米点与外来技术的再发展，因此不能见到泡芙、焦糖布丁就把它们从当地饮食中排除。技术来源和今天的归属，是两个可以同时讨论的问题。对初学者而言，先认识它在当地怎么吃、用什么原料，再追踪可证实的传播路径，比争论唯一发源地更有收获。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "焦糖布丁",
+      "family": "冷凝甜点与餐后小点",
+      "phase": "C",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 7,
+          "excerpt": "![图14　自上而下：焦糖布丁、奶冻、巧克力慕斯、乳类冰淇淋与果味sorbet。AI生成外观示意；表面光滑不能证明使用同一凝固方式。](../assets/images/cold-comparison.png)"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 9,
+          "excerpt": "图14　自上而下：焦糖布丁、奶冻、巧克力慕斯、乳类冰淇淋与果味sorbet。AI生成外观示意；表面光滑不能证明使用同一凝固方式。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 15,
+          "excerpt": "Custard 指蛋参与增稠或凝固的蛋奶体系。流动的英式蛋奶酱 crème anglaise，可以作淋酱或其他甜点的基础；烤制的焦糖布丁则形成可脱模的柔软凝胶。并不是名字含 crème 就一定是同一种奶油。糕点奶油 crème pâtissière 还通常借助淀粉增稠，便于填入泡芙或塔壳。[资料：Le Cordon Bleu，Crème Anglaise]("
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 21,
+          "excerpt": "![图14-2　焦糖布丁实物。主体的缺口显露内部，表面及碗底的褐色焦糖液与浅色布丁形成对照。](../assets/images/real-we-creme-caramel.jpg)"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 23,
+          "excerpt": "图14-2　焦糖布丁实物。主体的缺口显露内部，表面及碗底的褐色焦糖液与浅色布丁形成对照。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 46,
+          "excerpt": "| 蛋奶受热凝固 | 焦糖布丁、烤蛋奶 | 凝固程度与细腻度 |"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 100,
+          "excerpt": "越南的糕饼还包括本地米点与外来技术的再发展，因此不能见到泡芙、焦糖布丁就把它们从当地饮食中排除。技术来源和今天的归属，是两个可以同时讨论的问题。对初学者而言，先认识它在当地怎么吃、用什么原料，再追踪可证实的传播路径，比争论唯一发源地更有收获。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "奶冻",
+      "family": "冷凝甜点与餐后小点",
+      "phase": "C",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [
+        {
+          "source": "chapters/01-reading.md",
+          "line": 3,
+          "excerpt": "“点心”适合成为这本书的中心，因为它首先描述一种吃的方式：在正餐之间吃一点，配茶、分享、解馋，也可能吃成一顿饭。它并不自动等于甜食。虾饺、烧卖、咸挞、咖喱角都可以进入这张桌子；蛋糕和月饼固然在其中，凉糕、炸饼和奶冻也不必被排除。"
+        },
+        {
+          "source": "chapters/01-reading.md",
+          "line": 29,
+          "excerpt": "中式糕点不是只有米，西式糕点也不是只有黄油。中国有丰富的麦面烤点和油酥点心，欧洲有布丁、奶冻和以坚果为主体的甜食。日本、东南亚、南亚、中东和拉美也都有各自的历史；把它们塞进“中式”或“西式”会损失信息。因此，本书先把几种结构学会，再沿地区进入具体传统，最后讨论流通、商业化和融合。"
+        },
+        {
+          "source": "chapters/03-process.md",
+          "line": 37,
+          "excerpt": "看一段制作视频，可以按“准备结构—引入或产生气体—加热固定—冷却调整”记录四个阶段。年糕未必需要显著膨胀，奶冻也可能主要在冷却时定形。这条观察线索允许步骤缺席，不能反过来逼每件食物走同样流程。"
+        },
+        {
+          "source": "chapters/04-texture.md",
+          "line": 17,
+          "excerpt": "松与轻也有区别。松散的曲奇容易崩解，却不一定充满大孔；轻盈的海绵蛋糕主要依赖保留下来的气泡结构。滑则涉及颗粒感、润滑和变形方式；光亮表面不保证入口没有粗粒，奶冻也不是越硬越“成形成功”。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 3,
+          "excerpt": "布丁、奶冻、慕斯和冰淇淋都可能装在小杯里，入口也都显得细腻，但杯子掩盖了工艺差别。一份靠蛋凝固，一份靠胶凝体系，一份含有大量细小气泡，另一份把冰晶、空气和未冻结的液体组织在一起。先问“它靠什么站住”，许多名称就不再混乱。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 7,
+          "excerpt": "![图14　自上而下：焦糖布丁、奶冻、巧克力慕斯、乳类冰淇淋与果味sorbet。AI生成外观示意；表面光滑不能证明使用同一凝固方式。](../assets/images/cold-comparison.png)"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 9,
+          "excerpt": "图14　自上而下：焦糖布丁、奶冻、巧克力慕斯、乳类冰淇淋与果味sorbet。AI生成外观示意；表面光滑不能证明使用同一凝固方式。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 36,
+          "excerpt": "## 奶冻与巴伐利亚奶油"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 40,
+          "excerpt": "巴伐利亚奶油 bavarois／Bavarian cream 则常以蛋奶酱为基础，加入胶凝材料并拌入打发奶油。它同时运用凝固与充气，因此既不同于单纯流动的蛋奶酱，也不同于未打入空气的奶冻。[资料：Le Cordon Bleu，Preparing a Classic Bavarois](https://app.ckbk.com/reference/dess51"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 48,
+          "excerpt": "| 冷藏胶凝 | 常见奶冻、果冻 | 胶凝强度与入口融化感 |"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 75,
+          "excerpt": "把一小份奶冻、一小份慕斯和一小勺冷冻甜点放在各自的小碟上，短时间内观察边缘、勺痕和入口后的变化，并随即食用或按产品要求冷藏。奶冻显示凝胶的整体性，慕斯的勺面可能露出细小气孔，冷冻甜点则随着升温改变硬度。这个对照不用于判断谁“更高级”，而用于把“滑”“轻”“弹”“凉”拆开。现代杯装甜点常把多条路线叠在一起：上层慕斯、下层果冻、底部酥粒。读懂每层，就能理解组合如"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "慕斯",
+      "family": "冷凝甜点与餐后小点",
+      "phase": "C",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 3,
+          "excerpt": "布丁、奶冻、慕斯和冰淇淋都可能装在小杯里，入口也都显得细腻，但杯子掩盖了工艺差别。一份靠蛋凝固，一份靠胶凝体系，一份含有大量细小气泡，另一份把冰晶、空气和未冻结的液体组织在一起。先问“它靠什么站住”，许多名称就不再混乱。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 7,
+          "excerpt": "![图14　自上而下：焦糖布丁、奶冻、巧克力慕斯、乳类冰淇淋与果味sorbet。AI生成外观示意；表面光滑不能证明使用同一凝固方式。](../assets/images/cold-comparison.png)"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 9,
+          "excerpt": "图14　自上而下：焦糖布丁、奶冻、巧克力慕斯、乳类冰淇淋与果味sorbet。AI生成外观示意；表面光滑不能证明使用同一凝固方式。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 42,
+          "excerpt": "慕斯 mousse 更强调轻盈泡沫的组织，可以由打发奶油、蛋白泡沫或其他体系构成；有的借助明胶，有的利用巧克力等材料冷却后的性质支撑。读到“慕斯”不能直接推断它一定含生蛋，或一定含明胶。购买时若有饮食限制，仍应查看具体配料。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 49,
+          "excerpt": "| 凝固加充气 | bavarois、许多慕斯 | 支撑结构与轻盈感并存 |"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 71,
+          "excerpt": "冷甜点还会让“顺序”变得格外可见。制作多层杯时，下层如果尚未获得足够支撑，倒入上层就可能混合；上层如果太热，也可能改变下层状态。慕斯加入打发奶油时，需要同时考虑基底温度与泡沫；冰淇淋则要把混合、必要的加热处理、冷却、搅拌冻结和后续储存看成一套连续工作。这里没有一套适用于所有甜点的温度数字，应分别跟随经过测试的配方。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 73,
+          "excerpt": "这些结构也影响命名。果冻配奶油可能被卖作杯装甜品，慕斯加一片海绵可能被称为慕斯蛋糕，冰淇淋包入糯米皮又成为可拿取的小点心。外壳、容器和销售名称变了，内部的凝固、充气或冻结机制仍可追踪。把机制作为观察线索，读者便能理解新品如何借用已有技术，也能分辨真正改变口感的结构调整，与只更换颜色、香料和造型的变化。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 75,
+          "excerpt": "把一小份奶冻、一小份慕斯和一小勺冷冻甜点放在各自的小碟上，短时间内观察边缘、勺痕和入口后的变化，并随即食用或按产品要求冷藏。奶冻显示凝胶的整体性，慕斯的勺面可能露出细小气孔，冷冻甜点则随着升温改变硬度。这个对照不用于判断谁“更高级”，而用于把“滑”“轻”“弹”“凉”拆开。现代杯装甜点常把多条路线叠在一起：上层慕斯、下层果冻、底部酥粒。读懂每层，就能理解组合如"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "巴伐利亚奶油",
+      "family": "冷凝甜点与餐后小点",
+      "phase": "C",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 36,
+          "excerpt": "## 奶冻与巴伐利亚奶油"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 40,
+          "excerpt": "巴伐利亚奶油 bavarois／Bavarian cream 则常以蛋奶酱为基础，加入胶凝材料并拌入打发奶油。它同时运用凝固与充气，因此既不同于单纯流动的蛋奶酱，也不同于未打入空气的奶冻。[资料：Le Cordon Bleu，Preparing a Classic Bavarois](https://app.ckbk.com/reference/dess51"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 54,
+          "excerpt": "![图14-1　配草莓的巴伐利亚奶油（bavarois）。被挖去一口后，浅色内部与勺取痕迹清楚可见。](../assets/images/real-we-bavarois.jpg)"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 56,
+          "excerpt": "图14-1　配草莓的巴伐利亚奶油（bavarois）。被挖去一口后，浅色内部与勺取痕迹清楚可见。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "提拉米苏",
+      "family": "冷凝甜点与餐后小点",
+      "phase": "C",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "冰淇淋",
+      "family": "冷凝甜点与餐后小点",
+      "phase": "C",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 3,
+          "excerpt": "布丁、奶冻、慕斯和冰淇淋都可能装在小杯里，入口也都显得细腻，但杯子掩盖了工艺差别。一份靠蛋凝固，一份靠胶凝体系，一份含有大量细小气泡，另一份把冰晶、空气和未冻结的液体组织在一起。先问“它靠什么站住”，许多名称就不再混乱。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 7,
+          "excerpt": "![图14　自上而下：焦糖布丁、奶冻、巧克力慕斯、乳类冰淇淋与果味sorbet。AI生成外观示意；表面光滑不能证明使用同一凝固方式。](../assets/images/cold-comparison.png)"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 9,
+          "excerpt": "图14　自上而下：焦糖布丁、奶冻、巧克力慕斯、乳类冰淇淋与果味sorbet。AI生成外观示意；表面光滑不能证明使用同一凝固方式。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 50,
+          "excerpt": "| 搅拌冻结 | 冰淇淋、许多 gelato 与 sorbet | 冰晶、空气、糖和温度的共同作用 |"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 61,
+          "excerpt": "## 冰淇淋不是一整块冻奶"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 67,
+          "excerpt": "Sorbet 通常以水果、水和糖等为基础，不以乳制品为主要结构；sherbet 在美国语境中则常含少量乳成分。它们与冰淇淋的差别是配方和组织，而不只是“清爽版”和“浓厚版”。冷冻酸奶又引入发酵乳风味，不应只按一个酸甜指标分类。[资料：International Dairy Foods Association，What's in the Ice Cream A"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 71,
+          "excerpt": "冷甜点还会让“顺序”变得格外可见。制作多层杯时，下层如果尚未获得足够支撑，倒入上层就可能混合；上层如果太热，也可能改变下层状态。慕斯加入打发奶油时，需要同时考虑基底温度与泡沫；冰淇淋则要把混合、必要的加热处理、冷却、搅拌冻结和后续储存看成一套连续工作。这里没有一套适用于所有甜点的温度数字，应分别跟随经过测试的配方。"
+        },
+        {
+          "source": "chapters/14-cold-sweets.md",
+          "line": 73,
+          "excerpt": "这些结构也影响命名。果冻配奶油可能被卖作杯装甜品，慕斯加一片海绵可能被称为慕斯蛋糕，冰淇淋包入糯米皮又成为可拿取的小点心。外壳、容器和销售名称变了，内部的凝固、充气或冻结机制仍可追踪。把机制作为观察线索，读者便能理解新品如何借用已有技术，也能分辨真正改变口感的结构调整，与只更换颜色、香料和造型的变化。"
+        },
+        {
+          "source": "chapters/17-fusion.md",
+          "line": 23,
+          "excerpt": "它与传统烘烤月饼的区别不能只写成“颜色更淡”。吃之前需要确认冷藏或冷冻条件，运输也要配合。香港食物安全中心特别提醒冰皮和冰淇淋月饼的卫生及温度控制要求。[来源：香港食物安全中心，Mooncakes and Food Safety](https://www.cfs.gov.hk/english/whatsnew/whatsnew_sfst/whatsnew_s"
+        },
+        {
+          "source": "chapters/18-tasting.md",
+          "line": 31,
+          "excerpt": "香港食物安全中心对冰皮月饼给出的建议是冷藏于4℃或以下，冰淇淋月饼则冷冻于−18℃或以下，并提醒购买后尽快带回适当储存。[来源：香港食物安全中心，Mooncakes and Food Safety](https://www.cfs.gov.hk/english/whatsnew/whatsnew_sfst/whatsnew_sfst_Mooncakes_an"
+        },
+        {
+          "source": "chapters/18-tasting.md",
+          "line": 45,
+          "excerpt": "对明确适合复烤的干燥酥点，短时加热可能改善表面脆度；但含鲜奶油、冷凝胶或冰淇淋的组合，不能照同一方式处理。微波可能使部分米点暂时变软，却也可能让边缘先失水、内部过热。先读产品建议，少量分次调整，比直接提高功率更容易控制。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "意式冰淇淋",
+      "family": "冷凝甜点与餐后小点",
+      "phase": "C",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "雪葩",
+      "family": "冷凝甜点与餐后小点",
+      "phase": "C",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "舒芙蕾",
+      "family": "冷凝甜点与餐后小点",
+      "phase": "C",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "烤布蕾",
+      "family": "冷凝甜点与餐后小点",
+      "phase": "C",
+      "chapter_or_anchor": 14,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "团子",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [
+        {
+          "source": "chapters/08-regional-snacks.md",
+          "line": 30,
+          "excerpt": "江南米制糕团丰富，桂花、豆沙、芝麻等形成鲜明印象；但鲜肉月饼、菜馅团子、烧卖等咸点同样重要。季节改变植物与馅料供应，糕团店因此会形成按时令轮换的产品。苏州非遗黄天源糕团资料展示的多种成形技法，也说明变化不只是颜色与花样。[资料：苏州非遗，黄天源苏式糕团制作技艺](https://szfy.wglj.suzhou.com.cn/fy-project/85)"
+        },
+        {
+          "source": "chapters/09-festivals.md",
+          "line": 3,
+          "excerpt": "一块糕点可以同时是食物、礼物和时间的标记。相同配方平日吃是茶点，放进中秋礼盒便增加馈赠意义；一个团子由家人共同包制，又承载了操作过程和相聚经验。理解节令点心，不必把每种寓意都追溯为唯一古老起源。"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 13,
+          "excerpt": "日常所说的和菓子包括大福、团子、羊羹、铜锣烧、最中、练切等。日本农林水产省的介绍按制作方法区分米饼类、蒸制类、煎烤类、浇注类、塑形类与组合类，并提醒其原料和做法会随地区与制作者改变。这个分类比把所有和菓子理解为“精致糯米团”更有用。[来源：日本农林水产省，Japanese sweets](https://www.maff.go.jp/e/policies/m"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 15,
+          "excerpt": "大福的识别重点是软韧外皮包馅。团子更适合观察米粉调制后形成的咬感；不同粉类、配比和熟化方式，会让它从柔软转向较紧实。羊羹常见的结构是豆沙与凝胶体系形成的可切块组织；最中则把脆壳与豆馅组合起来。同样用了豆，豆粒保留程度、含水量和外围结构也能让体验完全不同。东京和菓子协会的品类图录可作为名称与外形的核对入口。[来源：东京和菓子协会，Types of Wagash"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 31,
+          "excerpt": "![图15-5　白团子串签与致密切面示意。](../assets/images/atlas-wo-dango.png)"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 33,
+          "excerpt": "图15-5　白团子串签与致密切面示意。"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 113,
+          "excerpt": "选择两种来源清楚的新鲜米点，先切开看颗粒与馅，再用小口比较黏性、弹性、断裂与化散。记录三个判断及其依据，例如“团子比练切需要更长咀嚼”，而不是“这个更高级”。最后补记温度、品牌和购入时间。这样得到的是一组可以修正的观察，而不是把某一次购买的状态概括成整个地区的特点。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "大福",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 3,
+          "excerpt": "一只大福、一块松饼、一片九层糕，放在同一只盘子里，最明显的共同点是柔软。但把“软糯”当作同一种口感，会漏掉很多知识：有的黏而能拉伸，有的细密易断，有的带清楚的分层，还有的外壳脆、内馅柔。比较这些点心，既要看原料，也要看米如何被磨、蒸、捣或调成浆。"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 13,
+          "excerpt": "日常所说的和菓子包括大福、团子、羊羹、铜锣烧、最中、练切等。日本农林水产省的介绍按制作方法区分米饼类、蒸制类、煎烤类、浇注类、塑形类与组合类，并提醒其原料和做法会随地区与制作者改变。这个分类比把所有和菓子理解为“精致糯米团”更有用。[来源：日本农林水产省，Japanese sweets](https://www.maff.go.jp/e/policies/m"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 15,
+          "excerpt": "大福的识别重点是软韧外皮包馅。团子更适合观察米粉调制后形成的咬感；不同粉类、配比和熟化方式，会让它从柔软转向较紧实。羊羹常见的结构是豆沙与凝胶体系形成的可切块组织；最中则把脆壳与豆馅组合起来。同样用了豆，豆粒保留程度、含水量和外围结构也能让体验完全不同。东京和菓子协会的品类图录可作为名称与外形的核对入口。[来源：东京和菓子协会，Types of Wagash"
+        },
+        {
+          "source": "chapters/16-world-snacks.md",
+          "line": 7,
+          "excerpt": "![图16　自上而下：草莓大福、samosa、baklava、烤empanada。AI生成代表外观示意。大福参见第15章，其余见本章；并列用于结构比较，不推断同源。](../assets/images/world-comparison.png)"
+        },
+        {
+          "source": "chapters/16-world-snacks.md",
+          "line": 9,
+          "excerpt": "图16　自上而下：草莓大福、samosa、baklava、烤empanada。AI生成代表外观示意。大福参见第15章，其余见本章；并列用于结构比较，不推断同源。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "最中",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 13,
+          "excerpt": "日常所说的和菓子包括大福、团子、羊羹、铜锣烧、最中、练切等。日本农林水产省的介绍按制作方法区分米饼类、蒸制类、煎烤类、浇注类、塑形类与组合类，并提醒其原料和做法会随地区与制作者改变。这个分类比把所有和菓子理解为“精致糯米团”更有用。[来源：日本农林水产省，Japanese sweets](https://www.maff.go.jp/e/policies/m"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 15,
+          "excerpt": "大福的识别重点是软韧外皮包馅。团子更适合观察米粉调制后形成的咬感；不同粉类、配比和熟化方式，会让它从柔软转向较紧实。羊羹常见的结构是豆沙与凝胶体系形成的可切块组织；最中则把脆壳与豆馅组合起来。同样用了豆，豆粒保留程度、含水量和外围结构也能让体验完全不同。东京和菓子协会的品类图录可作为名称与外形的核对入口。[来源：东京和菓子协会，Types of Wagash"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 39,
+          "excerpt": "![图15-6　最中与铜锣烧：薄脆壳和煎烤饼皮的夹馅对照示意。](../assets/images/atlas-wo-monaka-dorayaki.png)"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 41,
+          "excerpt": "图15-6　最中与铜锣烧：薄脆壳和煎烤饼皮的夹馅对照示意。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "铜锣烧",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 13,
+          "excerpt": "日常所说的和菓子包括大福、团子、羊羹、铜锣烧、最中、练切等。日本农林水产省的介绍按制作方法区分米饼类、蒸制类、煎烤类、浇注类、塑形类与组合类，并提醒其原料和做法会随地区与制作者改变。这个分类比把所有和菓子理解为“精致糯米团”更有用。[来源：日本农林水产省，Japanese sweets](https://www.maff.go.jp/e/policies/m"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 39,
+          "excerpt": "![图15-6　最中与铜锣烧：薄脆壳和煎烤饼皮的夹馅对照示意。](../assets/images/atlas-wo-monaka-dorayaki.png)"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 41,
+          "excerpt": "图15-6　最中与铜锣烧：薄脆壳和煎烤饼皮的夹馅对照示意。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "鲷鱼烧",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "羊羹",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 13,
+          "excerpt": "日常所说的和菓子包括大福、团子、羊羹、铜锣烧、最中、练切等。日本农林水产省的介绍按制作方法区分米饼类、蒸制类、煎烤类、浇注类、塑形类与组合类，并提醒其原料和做法会随地区与制作者改变。这个分类比把所有和菓子理解为“精致糯米团”更有用。[来源：日本农林水产省，Japanese sweets](https://www.maff.go.jp/e/policies/m"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 15,
+          "excerpt": "大福的识别重点是软韧外皮包馅。团子更适合观察米粉调制后形成的咬感；不同粉类、配比和熟化方式，会让它从柔软转向较紧实。羊羹常见的结构是豆沙与凝胶体系形成的可切块组织；最中则把脆壳与豆馅组合起来。同样用了豆，豆粒保留程度、含水量和外围结构也能让体验完全不同。东京和菓子协会的品类图录可作为名称与外形的核对入口。[来源：东京和菓子协会，Types of Wagash"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 23,
+          "excerpt": "![图15-3　花形练切与切块羊羹的外观示意。前者展示塑形，后者展示连续的切块组织。](../assets/images/ai-wagashi.png)"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 25,
+          "excerpt": "图15-3　花形练切与切块羊羹的外观示意。前者展示塑形，后者展示连续的切块组织。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "蕨饼",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "韩式松片",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "韩式年糕",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "越式月饼",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "九层糕",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 3,
+          "excerpt": "一只大福、一块松饼、一片九层糕，放在同一只盘子里，最明显的共同点是柔软。但把“软糯”当作同一种口感，会漏掉很多知识：有的黏而能拉伸，有的细密易断，有的带清楚的分层，还有的外壳脆、内馅柔。比较这些点心，既要看原料，也要看米如何被磨、蒸、捣或调成浆。"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 67,
+          "excerpt": "把九层糕、红龟粿、椰糖椰丝卷放在一起，可以形成三个清楚问题：层是逐次蒸出来的，还是由不同组织叠成的？皮是可延展的糕团，还是薄薄的煎皮？香气主要来自椰浆、椰糖，还是叶片？这比只认颜色更可靠。班兰常提供特有香气与绿色视觉线索，但绿色也可能来自其他原料或着色处理，不能仅凭照片确认配方。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "椰糖椰丝卷",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 67,
+          "excerpt": "把九层糕、红龟粿、椰糖椰丝卷放在一起，可以形成三个清楚问题：层是逐次蒸出来的，还是由不同组织叠成的？皮是可延展的糕团，还是薄薄的煎皮？香气主要来自椰浆、椰糖，还是叶片？这比只认颜色更可靠。班兰常提供特有香气与绿色视觉线索，但绿色也可能来自其他原料或着色处理，不能仅凭照片确认配方。"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 81,
+          "excerpt": "![图15-7　椰糖椰丝卷：薄煎皮包住椰丝馅的结构示意。](../assets/images/atlas-wo-kueh-dadar.png)"
+        },
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 83,
+          "excerpt": "图15-7　椰糖椰丝卷：薄煎皮包住椰丝馅的结构示意。"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "薄脆蛋卷",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [
+        {
+          "source": "chapters/15-east-asia.md",
+          "line": 69,
+          "excerpt": "红龟粿的模印、椰糖卷的卷包、薄脆蛋卷的烘烤，说明同一文化圈也容纳蒸、煎、烤与模压等多种技术。新加坡博物馆收藏的蛋卷模具，还能提醒读者：工具、节庆与家庭劳动本来就是点心史的一部分。[来源：国家文物局，Love letters mould](https://www.roots.gov.sg/Collection-Landing/listing/1235363)"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "煎蕊",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "越式甜汤",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "椰浆糯米饭",
+      "family": "东亚与东南亚传统",
+      "phase": "B",
+      "chapter_or_anchor": 15,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "古拉布贾蒙",
+      "family": "南亚中东与地中海甜点",
+      "phase": "C",
+      "chapter_or_anchor": 16,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "贾莱比",
+      "family": "南亚中东与地中海甜点",
+      "phase": "C",
+      "chapter_or_anchor": 16,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "拉杜",
+      "family": "南亚中东与地中海甜点",
+      "phase": "C",
+      "chapter_or_anchor": 16,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "米布丁",
+      "family": "南亚中东与地中海甜点",
+      "phase": "C",
+      "chapter_or_anchor": 16,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "巴克拉瓦",
+      "family": "南亚中东与地中海甜点",
+      "phase": "C",
+      "chapter_or_anchor": 16,
+      "baseline_mentions": [
+        {
+          "source": "chapters/16-world-snacks.md",
+          "line": 13,
+          "excerpt": "Baklava 常译为巴克拉瓦，是多个地区共享并发展出差异的点心家族。典型结构由薄面片、油脂、坚果与糖浆构成。土耳其官方旅游资料展示了开心果、核桃、卷形和巢形等做法，说明同一名称之下也存在形态与含水程度的差别。[来源：Go Türkiye，Best Baklava Varieties](https://goturkiye.com/gastronomy/blo"
+        }
+      ],
+      "baseline_assessment": "已有名称线索，待逐项核对讲解与配图",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "库纳法",
+      "family": "南亚中东与地中海甜点",
+      "phase": "C",
+      "chapter_or_anchor": 16,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "芝麻酱哈瓦",
+      "family": "南亚中东与地中海甜点",
+      "phase": "C",
+      "chapter_or_anchor": 16,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "粗粒粉哈瓦",
+      "family": "南亚中东与地中海甜点",
+      "phase": "C",
+      "chapter_or_anchor": 16,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "土耳其软糖",
+      "family": "南亚中东与地中海甜点",
+      "phase": "C",
+      "chapter_or_anchor": 16,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "果仁酥卷",
+      "family": "南亚中东与地中海甜点",
+      "phase": "C",
+      "chapter_or_anchor": 16,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "吉拿棒",
+      "family": "南亚中东与地中海甜点",
+      "phase": "C",
+      "chapter_or_anchor": 16,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "阿尔法霍雷斯",
+      "family": "南亚中东与地中海甜点",
+      "phase": "C",
+      "chapter_or_anchor": 16,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "日式煎饺",
+      "family": "世界咸点与包馅",
+      "phase": "A",
+      "chapter_or_anchor": 24,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "韩国饺子",
+      "family": "世界咸点与包馅",
+      "phase": "A",
+      "chapter_or_anchor": 24,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "莫莫",
+      "family": "世界咸点与包馅",
+      "phase": "A",
+      "chapter_or_anchor": 24,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "波兰饺子",
+      "family": "世界咸点与包馅",
+      "phase": "A",
+      "chapter_or_anchor": 24,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "俄式小饺",
+      "family": "世界咸点与包馅",
+      "phase": "A",
+      "chapter_or_anchor": 24,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "萨莫萨",
+      "family": "世界咸点与包馅",
+      "phase": "A",
+      "chapter_or_anchor": 24,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "恩潘纳达",
+      "family": "世界咸点与包馅",
+      "phase": "A",
+      "chapter_or_anchor": 24,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "巴西炸馅饼",
+      "family": "世界咸点与包馅",
+      "phase": "A",
+      "chapter_or_anchor": 24,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "康沃尔馅饼",
+      "family": "世界咸点与包馅",
+      "phase": "A",
+      "chapter_or_anchor": 24,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "香肠卷",
+      "family": "世界咸点与包馅",
+      "phase": "A",
+      "chapter_or_anchor": 24,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "洛林咸派",
+      "family": "世界咸点与包馅",
+      "phase": "A",
+      "chapter_or_anchor": 24,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "佛卡夏",
+      "family": "世界咸点与包馅",
+      "phase": "A",
+      "chapter_or_anchor": 24,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "本PR专题覆盖范围"
+    },
+    {
+      "name": "雪媚娘",
+      "family": "当代融合与新材料",
+      "phase": "C",
+      "chapter_or_anchor": 17,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "麻薯面包",
+      "family": "当代融合与新材料",
+      "phase": "C",
+      "chapter_or_anchor": 17,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "木薯粉面包",
+      "family": "当代融合与新材料",
+      "phase": "C",
+      "chapter_or_anchor": 17,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "脏脏包",
+      "family": "当代融合与新材料",
+      "phase": "C",
+      "chapter_or_anchor": 17,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "可颂甜甜圈",
+      "family": "当代融合与新材料",
+      "phase": "C",
+      "chapter_or_anchor": 17,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "奶酥面包",
+      "family": "当代融合与新材料",
+      "phase": "C",
+      "chapter_or_anchor": 17,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "低糖糕点",
+      "family": "当代融合与新材料",
+      "phase": "C",
+      "chapter_or_anchor": 17,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "无麸质烘焙",
+      "family": "当代融合与新材料",
+      "phase": "C",
+      "chapter_or_anchor": 17,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "植物基奶油点心",
+      "family": "当代融合与新材料",
+      "phase": "C",
+      "chapter_or_anchor": 17,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    },
+    {
+      "name": "冷冻预制点心",
+      "family": "当代融合与新材料",
+      "phase": "C",
+      "chapter_or_anchor": 17,
+      "baseline_mentions": [],
+      "baseline_assessment": "基线全文无此精确名称；同义词与地区异名仍需复核",
+      "delivery_status": "后续补强，未标完成"
+    }
+  ]
+}

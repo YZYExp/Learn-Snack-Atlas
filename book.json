@@ -2,7 +2,7 @@
   "title": "点心之间",
   "subtitle": "中西传统与新式糕点小吃图解",
   "language": "zh-CN",
-  "edition": "补图修订版 · 2026-10-25",
+  "edition": "品类与场景扩充版 · 2026-10-25",
   "description": "从原料、工艺和口感出发，认识甜咸点心的地方传统与现代变化。",
   "chapters": [
     {
@@ -130,6 +130,48 @@
       "source": "chapters/18-tasting.md",
       "slug": "18-tasting",
       "part": "世界传统与当代生活"
+    },
+    {
+      "id": "ch19",
+      "title": "饺子家族：从一盘家常水饺到一口茶楼粉粿",
+      "source": "chapters/19-dumplings.md",
+      "slug": "19-dumplings",
+      "part": "日常场景与品种专题"
+    },
+    {
+      "id": "ch20",
+      "title": "馄饨、云吞与抄手：一张薄皮怎样进入一碗汤",
+      "source": "chapters/20-wontons.md",
+      "slug": "20-wontons",
+      "part": "日常场景与品种专题"
+    },
+    {
+      "id": "ch21",
+      "title": "汤圆、元宵与圆子：一碗米食的甜咸世界",
+      "source": "chapters/21-rice-balls.md",
+      "slug": "21-rice-balls",
+      "part": "日常场景与品种专题"
+    },
+    {
+      "id": "ch22",
+      "title": "早餐面点：从一笼馒头到一张现摊的饼",
+      "source": "chapters/22-breakfast.md",
+      "slug": "22-breakfast",
+      "part": "日常场景与品种专题"
+    },
+    {
+      "id": "ch23",
+      "title": "街头与夜市：卷、炸、夹与一份现吃的小食",
+      "source": "chapters/23-street-snacks.md",
+      "slug": "23-street-snacks",
+      "part": "日常场景与品种专题"
+    },
+    {
+      "id": "ch24",
+      "title": "世界咸点：从一盘水煮饺到手拿烤馅饼",
+      "source": "chapters/24-world-savory.md",
+      "slug": "24-world-savory",
+      "part": "日常场景与品种专题"
     }
   ],
   "appendices": [
@@ -156,6 +198,12 @@
       "title": "图片来源与使用许可",
       "source": "appendices/photo-credits.md",
       "slug": "photo-credits"
+    },
+    {
+      "id": "a5",
+      "title": "按场景找点心",
+      "source": "appendices/scene-guide.md",
+      "slug": "scene-guide"
     }
   ]
 }

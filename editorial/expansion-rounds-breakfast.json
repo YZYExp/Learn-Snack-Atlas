@@ -1,0 +1,314 @@
+{
+  "chapters": [
+    {
+      "id": "ch21",
+      "source": "chapters/21-rice-balls.md",
+      "title": "汤圆、元宵与圆子：一碗米食的甜咸世界",
+      "new_coverage": [
+        "黑芝麻汤圆",
+        "花生汤圆",
+        "豆沙汤圆",
+        "宁波猪油汤圆",
+        "酒酿小圆子",
+        "红豆沙圆子",
+        "无馅客家咸粄圆",
+        "包馅咸汤圆",
+        "糍粑与麻糍的边界",
+        "艾粿与青团的边界"
+      ],
+      "prior_gap": "第09章已简述包汤圆与滚元宵并有实物图；本章补具体甜馅、无馅圆子、甜汤与咸汤以及米食边界，避免把既有图误记为全无。",
+      "scenes": [
+        "节令家宴",
+        "冬至",
+        "新年",
+        "饭后甜汤",
+        "日常夜点",
+        "家庭热汤食"
+      ]
+    },
+    {
+      "id": "ch22",
+      "source": "chapters/22-breakfast.md",
+      "title": "早餐面点：从一笼馒头到一张现摊的饼",
+      "new_coverage": [
+        "白馒头",
+        "粗粮馒头",
+        "红糖馒头",
+        "葱油花卷",
+        "肉包",
+        "菜包",
+        "豆沙包",
+        "南翔小笼包",
+        "汤包",
+        "生煎",
+        "水煎包",
+        "烧饼夹食",
+        "缙云烧饼",
+        "煎饼馃子",
+        "鸡蛋灌饼",
+        "油条",
+        "豆浆搭配",
+        "豆腐脑搭配"
+      ],
+      "prior_gap": "第07章已有包子皮馅、小笼汤汁和蒸煎原理，但缺各类早餐品种及真实干湿搭配的系统讲解。新章不把所有早餐归入点心。",
+      "scenes": [
+        "居家早餐",
+        "路边现做",
+        "带走通勤",
+        "坐店早餐",
+        "一份面点配汤食"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://amr.hunan.gov.cn/amr/ztx/cjxxx/202202/t20220214_22481086.html",
+      "title": "元宵节食用元宵（汤圆）消费提示",
+      "publisher": "湖南省市场监督管理局",
+      "supports": "包制与滚制的形成动作"
+    },
+    {
+      "url": "https://www.ihningbo.cn/directory/show/60",
+      "title": "宁波汤团制作技艺",
+      "publisher": "宁波市非物质文化遗产网",
+      "supports": "水磨粉、猪油馅、桂花及包制流程；浆板圆子、红豆沙圆子"
+    },
+    {
+      "url": "https://cloud.hakka.gov.tw/Details?p=86653&pid=290111",
+      "title": "张富香客家粄圆",
+      "publisher": "客家委员会客家文化发展中心",
+      "supports": "无馅圆子与肉菜咸汤"
+    },
+    {
+      "url": "https://kmweb.moa.gov.tw/knowledgebase.php?func=2&id=427631&keyword=&type=13222",
+      "title": "客家咸汤圆",
+      "publisher": "农业知识入口网",
+      "supports": "红葱头香菇虾米韭菜肉丝汤底"
+    },
+    {
+      "url": "https://www.ntpc.gov.tw/ch/home.jsp?dataserno=a5ee7d3ab5182889a4aa10049fd929de&id=e8ca970cde5c00e1",
+      "title": "猪肉客家大汤圆",
+      "publisher": "新北市政府",
+      "supports": "包馅大汤圆地方实例，与无馅版本并存"
+    },
+    {
+      "url": "https://webc.hakka.gov.tw/findhakkafood/rice_list_chs.html",
+      "title": "食食客客·客家米食",
+      "publisher": "客家委员会",
+      "supports": "粄圆粢粑米糕等不能混称"
+    },
+    {
+      "url": "https://dimsum.angelyeast.com/contents/4131/83017.html",
+      "title": "葱油花卷",
+      "publisher": "安琪酵母中式面点",
+      "supports": "发面、刷油折叠、成形醒发蒸制；非起酥层片"
+    },
+    {
+      "url": "https://www.ihchina.cn/Article/Index/detail?id=14647",
+      "title": "南翔小笼馒头制作技艺",
+      "publisher": "中国非物质文化遗产网",
+      "supports": "面皮、馅料、包制与蒸制地方实例"
+    },
+    {
+      "url": "https://mzj.sh.gov.cn/lnb-xw/20260113/492b829efb374c35953724c97036d5b4.html",
+      "title": "老字号集体搬家",
+      "publisher": "上海市民政局转载上海老年报",
+      "supports": "生煎配牛肉粉丝汤的用餐场景"
+    },
+    {
+      "url": "https://www.taian.gov.cn/art/2011/2/23/art_50707_4347941.html",
+      "title": "泰山水煎包",
+      "publisher": "泰安市人民政府",
+      "supports": "发面、蔬菜馅、油与面汤水煎"
+    },
+    {
+      "url": "https://www.ihchina.cn/project_details/23791.html",
+      "title": "缙云烧饼制作技艺",
+      "publisher": "中国非物质文化遗产网",
+      "supports": "肉与菜干包入饼内，随饼烤制"
+    },
+    {
+      "url": "https://travel.cnr.cn/list/20170613/t20170613_523797954.shtml",
+      "title": "天津煎饼果子入选市级非物质文化遗产名录",
+      "publisher": "央广网",
+      "supports": "天津绿豆面、鸡蛋、油条等传统搭配"
+    },
+    {
+      "url": "https://nynct.nx.gov.cn/rdzt/ppny/202504/t20250423_4889342.html",
+      "title": "银川早餐清单",
+      "publisher": "宁夏回族自治区农业农村厅",
+      "supports": "鸡蛋液灌入烙至半熟饼内继续煎熟"
+    },
+    {
+      "url": "https://whly.tj.gov.cn/TJSWHHLYJ/gabsycs/gzdtgh/202306/t20230620_6327085.html",
+      "title": "天津早餐地图",
+      "publisher": "天津市文化和旅游局",
+      "supports": "早餐跨面点、汤食、豆食，不是单一工艺分类"
+    },
+    {
+      "url": "https://news.cnnb.com.cn/system/2024/11/22/030631525.shtml",
+      "title": "宁波传统名点",
+      "publisher": "中国宁波网",
+      "supports": "黑芝麻猪油汤圆及酒酿圆子"
+    },
+    {
+      "url": "https://news.cnnb.com.cn/system/2021/12/20/030314576.shtml",
+      "title": "宁波冬至为何大如年",
+      "publisher": "中国宁波网",
+      "supports": "浆板即酒酿的地方称谓"
+    },
+    {
+      "url": "https://thewoksoflife.com/steamed-shanghai-soup-dumplings-xiaolongbao/",
+      "title": "Soup Dumplings Xiaolongbao",
+      "publisher": "The Woks of Life 原始制作者食谱",
+      "supports": "冷凝肉皮冻拌馅，加热形成汤汁的实例"
+    },
+    {
+      "url": "https://thewoksoflife.com/steamed-pork-buns-baozi/",
+      "title": "Steamed Pork Buns (Baozi)",
+      "publisher": "The Woks of Life 原始制作者食谱",
+      "supports": "发面皮、预熟肉馅、包制蒸制与剖面"
+    },
+    {
+      "url": "https://thewoksoflife.com/steamed-vegetable-buns/",
+      "title": "Steamed Vegetable Buns",
+      "publisher": "The Woks of Life 原始制作者食谱",
+      "supports": "发面菜包、青菜馅去水及剖面"
+    },
+    {
+      "url": "https://thewoksoflife.com/steamed-red-bean-buns/",
+      "title": "Steamed Red Bean Buns",
+      "publisher": "The Woks of Life 原始制作者食谱",
+      "supports": "发面豆沙包与皮馅比例"
+    },
+    {
+      "url": "https://thewoksoflife.com/shanghai-pan-fried-pork-buns-shengjian-mantou/",
+      "title": "Shanghai Pan-fried Pork Buns",
+      "publisher": "The Woks of Life 原始制作者食谱",
+      "supports": "生煎代表做法、锅面与蒸汽共同熟化"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": "exp-sesame-tangyuan",
+      "chapter": 21,
+      "heading": "黑芝麻、花生与豆沙：馅心不仅改变颜色",
+      "caption": "黑芝麻汤圆代表款：白色米粉皮包住深色馅心，匙上的分开件显示皮馅关系。",
+      "checks": [
+        "外皮连续包围黑馅",
+        "不能是黑色面团或外蘸芝麻",
+        "流心不是通用必需状态"
+      ],
+      "source_url": "https://news.cnnb.com.cn/system/2024/11/22/030631525.shtml",
+      "source_urls": [
+        "https://news.cnnb.com.cn/system/2024/11/22/030631525.shtml"
+      ]
+    },
+    {
+      "id": "exp-jiuniang",
+      "chapter": 21,
+      "heading": "酒酿小圆子：风味主要在汤里",
+      "caption": "酒酿小圆子代表款：无馅小圆子与可见的酒酿米粒同在碗中。",
+      "checks": [
+        "圆子小而无馅",
+        "酒酿米粒与圆子可区分",
+        "不能长成带黑芝麻芯的大汤圆"
+      ],
+      "source_url": "https://www.ihningbo.cn/directory/show/60",
+      "source_urls": [
+        "https://www.ihningbo.cn/directory/show/60"
+      ]
+    },
+    {
+      "id": "exp-savory-tangyuan",
+      "chapter": 21,
+      "heading": "咸汤圆：咸可以在馅里，也可以在汤里",
+      "caption": "无馅咸汤圆的一种代表搭配：圆子与香菇、肉丝、虾米、蔬菜共同构成咸汤。",
+      "checks": [
+        "不包肉馅",
+        "肉丝等位于圆子外的汤里",
+        "不是所有客家咸汤圆唯一配方"
+      ],
+      "source_url": "https://cloud.hakka.gov.tw/Details?p=86653&pid=290111",
+      "source_urls": [
+        "https://cloud.hakka.gov.tw/Details?p=86653&pid=290111",
+        "https://kmweb.moa.gov.tw/knowledgebase.php?func=2&id=427631&keyword=&type=13222"
+      ]
+    },
+    {
+      "id": "exp-mantou-huajuan",
+      "chapter": 22,
+      "heading": "馒头与花卷：从发面本身认识组织",
+      "caption": "馒头与葱油花卷对照：前者展示发面断面，后者保留卷叠的柔软面片。",
+      "checks": [
+        "细孔发面非巨大空腔",
+        "花卷可见柔软卷层非脆酥皮",
+        "葱末位于卷层"
+      ],
+      "source_url": "https://dimsum.angelyeast.com/contents/4131/83017.html",
+      "source_urls": [
+        "https://dimsum.angelyeast.com/contents/4131/83017.html"
+      ]
+    },
+    {
+      "id": "exp-bao-fillings",
+      "chapter": 22,
+      "heading": "肉包、菜包、豆沙包：同样包住，馅心任务不同",
+      "caption": "发面包子的三种馅心代表款：肉馅、蔬菜馅与豆沙馅，外皮与馅料形成不同的组织关系。",
+      "checks": [
+        "发面包皮与馅心可区分",
+        "菜馅不能为生菜沙拉",
+        "豆沙非巧克力流心",
+        "以实际左右顺序复审后补图注"
+      ],
+      "source_url": "https://thewoksoflife.com/steamed-pork-buns-baozi/",
+      "source_urls": [
+        "https://thewoksoflife.com/steamed-pork-buns-baozi/",
+        "https://thewoksoflife.com/steamed-vegetable-buns/",
+        "https://thewoksoflife.com/steamed-red-bean-buns/"
+      ]
+    },
+    {
+      "id": "exp-shengjian-xiaolong",
+      "chapter": 22,
+      "heading": "生煎与水煎包：锅底和顶部经历了不同的加热",
+      "caption": "生煎与蒸制小笼包对照：前者有煎制部位，后者以蒸制外皮承托馅心。",
+      "checks": [
+        "生煎单面金黄而非整只油炸",
+        "小笼无焦底",
+        "不把发酵或皮冻做法认作所有生煎唯一标准",
+        "以实际图中左右位置补图注"
+      ],
+      "source_url": "https://thewoksoflife.com/shanghai-pan-fried-pork-buns-shengjian-mantou/",
+      "source_urls": [
+        "https://thewoksoflife.com/shanghai-pan-fried-pork-buns-shengjian-mantou/",
+        "https://thewoksoflife.com/steamed-shanghai-soup-dumplings-xiaolongbao/"
+      ]
+    },
+    {
+      "id": "exp-jianbing-guanbing",
+      "chapter": 22,
+      "heading": "煎饼馃子与鸡蛋灌饼：蛋放在哪里，说明了不同的路径",
+      "caption": "煎饼馃子与鸡蛋灌饼对照：一份用薄片卷裹油条，一份把鸡蛋灌入饼内并烙熟。",
+      "checks": [
+        "前者薄浆片卷油条",
+        "后者熟蛋在饼内部夹层",
+        "不把灌饼画成表面摊蛋的煎饼",
+        "以实际图中左右位置补图注"
+      ],
+      "source_url": "https://travel.cnr.cn/list/20170613/t20170613_523797954.shtml",
+      "source_urls": [
+        "https://travel.cnr.cn/list/20170613/t20170613_523797954.shtml",
+        "https://nynct.nx.gov.cn/rdzt/ppny/202504/t20250423_4889342.html"
+      ]
+    }
+  ],
+  "next_candidates": [
+    "赤豆元宵的具体地方版本",
+    "糖不甩与甜汤圆的区别",
+    "潮汕甜粿圆的地方命名",
+    "江南大汤包地方差异",
+    "豆腐脑浇头与咸甜地域实例",
+    "夹饼与地方饼类专章"
+  ]
+}

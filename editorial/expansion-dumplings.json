@@ -1,0 +1,37 @@
+{
+  "scope": "2026-10-25 broad category and eating-scene expansion: dumpling and wonton families",
+  "owner_files": ["chapters/19-dumplings.md", "chapters/20-wontons.md"],
+  "baseline_gap": {
+    "chapter_07": "原稿以皮料路线和茶楼咸点为主，水饺/锅贴仅概括几句，缺乏家常馅心、地域分支、蒸煮煎完整对照。",
+    "wonton_family": "此前没有成章的大小馄饨、云吞、抄手与汤食场景讲解。",
+    "correction_policy": "不把锅贴/煎饺、方皮/圆皮、馄饨/云吞的经验性差别写成全国硬边界；地方名称先落到具体材料和吃法。"
+  },
+  "chapters": [
+    {"chapter":19,"file":"chapters/19-dumplings.md","covered":["家常水饺","猪肉白菜饺","猪肉大葱饺","韭菜鸡蛋饺","东北酸菜猪肉饺","鱼肉饺","虾仁饺","牛羊肉饺","蒸饺","锅贴与煎饺","南京牛肉锅贴","酸汤水饺","虾饺","潮州粉粿","莜面饺"],"scenes":["家常正餐","围坐包饺子","早餐摊","街头便食","茶楼"]},
+    {"chapter":20,"file":"chapters/20-wontons.md","covered":["清汤小馄饨","菜肉大馄饨","荠菜猪肉馄饨","青菜猪肉馄饨","冷馄饨","鲜虾云吞","云吞面","清汤抄手","红油抄手","扁肉与扁食的地域名称","福州肉燕","太平燕"],"scenes":["早餐","午间便食","家常一餐","夜宵","夏季冷食","年节宴席"]}
+  ],
+  "images": [
+    {"id":"exp-jiaozi","chapter":19,"heading":"从家常水饺建立基准","source_url":"https://www.consumer.org.hk/sc/article/581-dumplings/581-dumplings-dumpling-overview","purpose":"认识闭合月牙小麦皮和菜肉皮馅比例","visual_requirements":"熟水饺白色略润，闭合月牙有少量褶，切开一只可辨菜肉馅；不是透亮水晶皮。"},
+    {"id":"exp-guotie","chapter":19,"heading":"蒸饺、煎饺与锅贴：改变接触热量的方式","source_url":"https://dfz.nanjing.gov.cn/gzdt/202404/t20240429_4655828.html","purpose":"底面煎脆与上部软皮的对照","visual_requirements":"底部金黄，至少一只翻起底面；上部仍白软，不画成整只油炸脆壳。不要以开口/封口作为锅贴和煎饺绝对边界。"},
+    {"id":"exp-small-wonton","chapter":20,"heading":"小馄饨：少量馅心与展开的薄皮","source_url":"https://english.shanghai.gov.cn/en-GlobalTasteinShanghai2026-LocalFlavors/20260605/81483538821d4e7ebfb82b5c8267c946.html","purpose":"薄皮多于小肉心的视觉关系与清汤场景","visual_requirements":"皮薄、柔软松展，肉心小；紫菜蛋丝少量点缀；不画规则水饺月牙。"},
+    {"id":"exp-big-wonton","chapter":20,"heading":"大馄饨：馅团、蔬菜和折叠的支撑","source_url":"https://english.shanghai.gov.cn/en-GlobalTasteinShanghai2026-LocalFlavors/20260605/81483538821d4e7ebfb82b5c8267c946.html","purpose":"荠菜猪肉馅团与折叠面皮","visual_requirements":"折叠枕形或元宝形，切开可见细碎绿色蔬菜与熟猪肉；不是透亮水晶皮也不冒夸张汤汁。"},
+    {"id":"exp-chaoshou","chapter":20,"heading":"清汤抄手与红油抄手：把调味从汤转到表面","source_url":"https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/8236b3b91b554e27b8120caa19bd4f47","purpose":"薄皮抱角抄手与红油调味","visual_requirements":"薄方皮包细肉馅，两角相接；浅碗有适量红油调味汁，不是一整碗纯油。"}
+  ],
+  "sources": [
+    {"url":"https://www.consumer.org.hk/sc/article/581-dumplings/581-dumplings-dumpling-overview","publisher":"香港消费者委员会","use":"饺子加热方式与跨地域边界参照；不沿用营养推断。"},
+    {"url":"https://www.neac.gov.cn/seac/c103391/202301/1160441.shtml","publisher":"国家民委/道中华","use":"地域名称、历史名称存在变化；不将民间起源故事当定论。"},
+    {"url":"https://harbin.joyhua.cn/hebrb/20260209/mhtml/page_07_content_20260209008001.htm","publisher":"哈尔滨日报","use":"酸菜饺子与冬日家常生活实例。"},
+    {"url":"https://dfz.nanjing.gov.cn/gzdt/202404/t20240429_4655828.html","publisher":"南京市地方志工作办公室","use":"南京牛肉锅贴与地方小吃店。"},
+    {"url":"https://www.xakpw.com/single/17503","publisher":"西安科普网","use":"酸汤水饺汤料构成。"},
+    {"url":"https://www.ndls.org.cn/standard/detail/8d1856d666938463eab135f7355eae19","publisher":"国家标准馆/潮州市烹调协会","use":"T/CZSPTXH 175—2021的粉粿皮料与熟馅实例；明确是团体标准而非全国统一配方。"},
+    {"url":"https://inews.nmgnews.com.cn/system/2022/02/10/013263960.shtml","publisher":"内蒙古新闻网","use":"莜面食物形态与技法；不采纳该文健康疗效表述。"},
+    {"url":"https://www.hkct.edu.hk/sc/abouthkct/media-centre/press-release/column-20211006","publisher":"香港专业进修学校","use":"馄饨地域名称。"},
+    {"url":"https://english.shanghai.gov.cn/en-GlobalTasteinShanghai2026-LocalFlavors/20260605/81483538821d4e7ebfb82b5c8267c946.html","publisher":"上海市人民政府","use":"青菜/荠菜与猪肉大馄饨、店铺和家庭场景；不用浮起作为全部熟度依据。"},
+    {"url":"https://english.shanghai.gov.cn/en-Staple-travelinshanghai/20240531/5ec4073ca768464d8bff75e41e47e405.html","publisher":"上海市人民政府","use":"冷馄饨和花生芝麻酱。"},
+    {"url":"https://guide.michelin.com/hk/zh_HK/best-of/best-wonton-noodles-hong-kong","publisher":"米其林指南","use":"香港多家云吞面店的实际原料组合；不使用其起源论断。"},
+    {"url":"https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/8236b3b91b554e27b8120caa19bd4f47","publisher":"商务部老字号数字博物馆","use":"龙抄手的皮、折法、清汤与红油两条调味路线；不采纳其传说起源论述。"},
+    {"url":"https://www.minhou.gov.cn/xjwz/mlmh/mytc/202206/t20220621_4383035.htm","publisher":"闽侯县人民政府","use":"后福肉燕燕皮的捶肉加薯粉工艺。"},
+    {"url":"https://www.fuzhou.gov.cn/zgfzzt/zjrc/mdfc/lswh/202210/t20221026_4457433.htm","publisher":"福州市人民政府/方志委","use":"肉燕的地方宴食与太平燕场景，传说与实据分开。"}
+  ],
+  "status":"chapters written; generated images await individual visual review and integration by root"
+}
