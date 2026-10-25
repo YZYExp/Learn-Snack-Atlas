@@ -131,5 +131,25 @@
       "slug": "18-tasting",
       "part": "世界传统与当代生活"
     }
+  ],
+  "appendices": [
+    {
+      "id": "a1",
+      "title": "中式点心代表索引",
+      "source": "appendices/chinese-index.md",
+      "slug": "chinese-index"
+    },
+    {
+      "id": "a2",
+      "title": "附录　工艺词汇与阅读路线",
+      "source": "appendices/glossary.md",
+      "slug": "glossary"
+    },
+    {
+      "id": "a3",
+      "title": "附录　西式及其他地区点心检索",
+      "source": "appendices/world-index.md",
+      "slug": "world-index"
+    }
   ]
 }

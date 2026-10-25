@@ -26,11 +26,12 @@ for f in sorted((R/'chapters').glob('*.md')):
  n=int(f.name[:2]);s=f.read_text();first=s.splitlines()[0]
  title=re.sub(r'^#\s*(?:第[一二三四五六七八九十]+章\s*|\d+\s*)','',first).strip()
  s=s.replace(first,f'# {n:02d}　{title}',1)
+ for id,caption in art[n]:
+  records.append({'id':id,'chapter':n,'file':f'assets/images/{id}.png','kind':'AI-generated teaching illustration' if 'comparison' in id else 'original diagram','caption':caption})
  if '<!-- teaching-art -->' not in s:
   parts=s.split('\n\n');block=['<!-- teaching-art -->']
   for id,caption in art[n]:
    block += [f'![{caption}](../assets/images/{id}.png)',caption]
-   records.append({'id':id,'chapter':n,'file':f'assets/images/{id}.png','kind':'AI-generated teaching illustration' if 'comparison' in id else 'original diagram','caption':caption})
   parts[2:2]=block
   s='\n\n'.join(parts)+'\n'
  f.write_text(s)
