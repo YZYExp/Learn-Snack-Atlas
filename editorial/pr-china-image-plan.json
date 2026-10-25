@@ -1,0 +1,129 @@
+[
+  {
+    "id": "atlas-cn-songgao",
+    "chapter": 5,
+    "heading": "同一袋米，可以走出几条路线",
+    "objects": [
+      "松糕（湿米粉入模蒸结的代表形式）"
+    ],
+    "caption": "松糕的断面保留细小颗粒与空隙，区别于连续致密的年糕。",
+    "visual_requirements": "单一品种：素白或自然米白色小方块松糕，前方一块轻轻掰开，显露细颗粒蒸结、略松散的断面与少许细屑。不要画成松软海绵蛋糕的均匀大气孔，不画成光滑拉丝的糯米团，不添奶油、果酱或彩色层。外形选普通方块，不冒充有固定字纹和造型的定胜糕。成品示意，不画未核实步骤。",
+    "source_url": "https://szfy.wglj.suzhou.com.cn/fy-project/85",
+    "source_evidence": "苏州非遗黄天源糕团资料区分入模后直接蒸熟、不再揉揿的糕类，描述粗粳糯粉配镶、松软等特征。这里只取工艺类别，不复制老字号特定产品形象。",
+    "priority_reason": "现有致密米糕、多孔米发糕和梁弄大糕，仍缺“湿粉颗粒蒸结”路线的清晰近景。"
+  },
+  {
+    "id": "atlas-cn-peanut-nuomici",
+    "chapter": 5,
+    "heading": "青团的颜色之外，还有皮与馅",
+    "objects": [
+      "花生糯米糍"
+    ],
+    "caption": "花生糯米糍：连续柔软的米粉皮包住颗粒馅，表面可裹花生粉。",
+    "visual_requirements": "单一品种，完整一枚与切开半枚，外皮米白、柔软而连续，切面为完整薄壳包住偏干、棕黄的细碎花生颗粒馅，外表薄薄裹浅棕花生粉。食品真实感统一图鉴风格。不要画成汤圆泡汤，不画奶油夹心、水果大福、流心蛋黄或发面包，不画透明水晶皮，不用拉长橡胶丝表示糯性。花生粉覆盖不必完全遮住皮。",
+    "source_url": "https://hk.science.museum/tc/web/scm/online-explore/qkpost-roadshow-food/glutinousriceball.html",
+    "additional_source_urls": [
+      "https://timetogold.org/products/傳統香甜花生糯米糍"
+    ],
+    "source_evidence": "香港科学馆说明烟韧粉皮包芝麻、花生、芒果等馅；糕点时光产品页说明花生粉表层与花生颗粒馅。只参照这一常见款式，不推广其保质期限、营养或历史宣传。",
+    "priority_reason": "正文有青团、糯米糍及皮馅比较，现有青团未剖开，缺乏软皮与非流动颗粒馅的关系。"
+  },
+  {
+    "id": "atlas-cn-taro-cake",
+    "chapter": 5,
+    "heading": "同一袋米，可以走出几条路线",
+    "objects": [
+      "芋头糕（米粉浆与芋块蒸制的咸点）"
+    ],
+    "caption": "芋头糕的米粉糕体包住芋块；它与抹芋泥奶油的蛋糕有不同结构。",
+    "visual_requirements": "单一品种：盘中两三块长方厚片芋头糕，其中一块保持蒸后淡米灰色切面，可见浅灰白或淡紫纹理的不规则芋丁包在米粉凝结体中，另一块仅一侧轻微煎成金黄。内里整体淡米灰、不是艳紫色，芋块与糕体有边界但非石子洞穴。可有极少腊味碎点，不堆虾或整根香肠。不要画成海绵蛋糕、紫薯慕斯、芋泥卷或水晶果冻。避免画生芋头叶、未去皮块混在成品中。",
+    "source_url": "https://www.knorr.com/hk/r/芋頭糕.html/176957",
+    "additional_source_urls": [
+      "https://www.ttv.com.tw/CUISINE/Detail2.aspx?rid=1753"
+    ],
+    "source_evidence": "家乐自有食谱及台视食谱均说明芋头丁与米粉浆蒸制，冷却后可切片煎；不将单一配方规定为全部芋头糕。",
+    "priority_reason": "正文已明确对照芋头糕，既有图只有萝卜糕与基础米糕，没有能辨认芋块的结构例图。"
+  },
+  {
+    "id": "atlas-cn-taosu-shaobing",
+    "chapter": 6,
+    "heading": "烧饼、桃酥、麻花，各自怎样变脆",
+    "objects": [
+      "桃酥",
+      "芝麻烧饼（有分层的烤制代表款）"
+    ],
+    "caption": "桃酥的颗粒松碎，与芝麻烧饼的薄层和烤壳形成对照。",
+    "visual_requirements": "两品种有意义对照，纵向上下两个清楚分开的观察区。上方是扁圆桃酥，一枚完整、一枚断开，麦黄烤色、自然浅裂纹、断面是松碎颗粒而非层片，可少量芝麻。下方是芝麻烧饼，扁圆或椭圆、表面白芝麻与金黄烤壳，一半掰开显出较薄不规则卷层。两类不能混成相同饼；桃酥不出现桃子造型、桃肉馅或圆形整核桃内胆，烧饼不画成巨型空心皮塔或千层可颂。明确为所选代表做法，不暗示所有烧饼都分层。",
+    "source_url": "https://ahas.agriir.cn/resources/detail/1/179C477D-B592-4F1B-9554-27601D400EE0.html?projectId=405fc0ca-2997-11e7-b5f5-3440b5b17484",
+    "additional_source_urls": [
+      "https://www.weather.com.cn/jiangsu/qxkp/rdzt/08/1948298.shtml",
+      "https://std.samr.gov.cn/db/search/stdDBDetailed?id=D7B68A42F746A68EE05397BE0A0A5FE5"
+    ],
+    "source_evidence": "安徽省农科院黄精桃酥研究摘要描述麦黄、饼面裂纹与酥脆结构，只借此核对工艺类型，不画特定黄精配方或写药食功效；中国天气网黄桥烧饼资料记录擦酥、卷制、撒芝麻、烤制，全国标准平台列有对应地方技艺标准。本图选其中分层烧饼代表外观，不给所有烧饼强加同一结构。",
+    "priority_reason": "该小节目前只有麻花实物，另两种工艺靠文字，缺少断面对照。"
+  },
+  {
+    "id": "atlas-cn-shaomai-fillings",
+    "chapter": 7,
+    "heading": "包馅不是把所有原料塞进皮里",
+    "objects": [
+      "糯米烧卖",
+      "翡翠烧卖（淮扬青菜馅代表款）"
+    ],
+    "caption": "糯米烧卖与翡翠烧卖：相近的开放包馅形态，内部主体却不同。",
+    "visual_requirements": "两品种上下对照，统一大小与角度。糯米烧卖：米白薄麦面皮，上口略收而不封死，顶部露出完整棕黄糯米粒，旁置半个纵切成品，米粒应占馅的主体。翡翠烧卖：极薄米白面皮，石榴状或小花口，上口开放，内部细碎深绿色熟青菜馅透过薄白皮，不是菠菜绿面皮包糯米；切开半枚显露青菜碎主体，表面可仅极少火腿末，不加玉米粒或蟹黄整蛋。两者均蒸制，无焦壳，不画成广式黄皮肉烧卖或包子。",
+    "source_url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/4cbac9b1689b44498c33653f95dcbb35",
+    "source_evidence": "商务部富春资料列出糯米烧卖及翡翠烧卖，并明确后者青菜碎、糖油馅、极薄包皮透绿、外形似石榴。排除我苏网同名文章后段“绿色皮包糯米”的混搭食谱，避免借错图。",
+    "priority_reason": "现有烧卖生成图与实拍主要是广式肉馅，对江南糯米、淮扬菜馅缺乏直接支持。"
+  },
+  {
+    "id": "atlas-cn-qianceng-yougao",
+    "chapter": 8,
+    "heading": "江南与淮扬：不能只用甜概括",
+    "objects": [
+      "淮扬千层油糕"
+    ],
+    "caption": "千层油糕：柔软的蒸糕切成菱形，细层之间由糖油分隔。",
+    "visual_requirements": "单一品种，几块菱形或斜切菱形糕块，一块转向露出侧面细密而柔软的平行薄层，颜色淡乳白至自然芙蓉米色，表面可少量红绿果丝但不喧宾夺主。整体略湿润柔韧，糕层贴合，不是硬脆开裂、不像纸板。侧面表示多层即可，不能人为数出“精确64层”作为保证。避免烤成金黄千层酥、奶油千层蛋糕、带焦黑壳的面包、彩色椰浆九层糕或印尼千层蛋糕；没有奶油夹层、糖霜和水果浇汁。",
+    "source_url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/4cbac9b1689b44498c33653f95dcbb35",
+    "additional_source_urls": [
+      "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/a31df0fa2d5c4c769da464f32ca82cc7"
+    ],
+    "source_evidence": "商务部富春资料明确菱形、糖油相间、柔软；永和园资料明确发酵面团折叠、蒸制、冷后切菱形。只取可核对结构，不把某店64层当全国统一指标。",
+    "priority_reason": "淮扬茶点重要代表已写入正文与索引，现有图没有这一蒸制多层结构，且很容易被模型误画。"
+  },
+  {
+    "id": "atlas-cn-yeerba",
+    "chapter": 8,
+    "heading": "川渝：小份、调味与组合",
+    "objects": [
+      "叶儿粑（白色粉皮咸馅、垫叶代表款）"
+    ],
+    "caption": "叶儿粑：叶片承托柔软米粉皮，切开后才能看清包馅。",
+    "visual_requirements": "单一品种采用白皮常见代表款，绿色完整叶片托住小椭圆或短柱状、两端圆润的白色蒸粉团，另一个切开露出棕褐肉末与细碎菜料咸馅。叶片只是下部承托或自然包裹，不是可食用粉皮本身；不要画成透明水晶饺，不画成长粽子或米粒外露粽，不画成草绿青团、菜叶饺子或巨大糯米寿司。外皮无烤壳、无发面孔。不能凭图声称具体叶种，也不宣称所有地方版本都是白皮。",
+    "source_url": "https://www.sctu.edu.cn/cyzx/info/1087/1596.htm",
+    "additional_source_urls": [
+      "https://hsadmin.fotile.com/h5happylife/menu/menudetail.html?id=40596"
+    ],
+    "source_evidence": "四川旅游学院川菜发展研究中心有叶儿粑经典川点条目；方太自有食谱展示传统米粉包馅、用叶蒸制的做法。地方有绿皮等变体，本图选白皮例而非普遍标准，不标特定叶种。",
+    "priority_reason": "川渝小节整段无实物例图，叶儿粑同时能帮助辨认粉团与叶包的区别。"
+  },
+  {
+    "id": "atlas-cn-fengli-honggui",
+    "chapter": 8,
+    "heading": "闽台与潮汕：看懂“粿”的开放性",
+    "objects": [
+      "凤梨酥",
+      "红龟粿（红皮龟纹模印代表款）"
+    ],
+    "caption": "凤梨酥与红龟粿：烘烤酥壳和蒸制米皮，各有不同的包馅结构。",
+    "visual_requirements": "两品种上下清楚对照，不能混在一只盘里。凤梨酥为小方块或短长方体，浅金黄色松碎饼壳，切开半枚见金黄棕色稠实纤维果馅；不画整块生凤梨、奶油、海绵或层层酥皮，不由画面承诺纯凤梨配方。红龟粿为椭圆略扁、自然红色米粉皮，上面是浅浮雕龟甲/龟背模纹，放在绿色垫叶上，旁置切开半枚见细腻豆沙类馅；不是活龟、不是四肢头尾完整动物造型，不画红色月饼硬壳、白色面包孔或果冻透明皮。龟纹为食物模印，勿画密集文字。",
+    "source_url": "https://www.th.gov.tw/Epaper_Content/237/7530/",
+    "additional_source_urls": [
+      "https://kmweb.moa.gov.tw/redirect_files.php?id=674066&theme=knowledgebase",
+      "https://fae.moa.gov.tw/theme_data.php?id=45&sub_theme=knowledge&theme=topics"
+    ],
+    "source_evidence": "台湾文献馆说明红龟粿糯米团与模印；农业部门食农平台说明红色米食和节令用途；农业知识入口网凤梨酥体验食谱明确酥皮包稠馅、入模烤至金黄。只比较物理结构，不推定两者历史相互演变。",
+    "priority_reason": "闽台潮汕小节目前没有对应图，正需要说明粿与烤酥点不能因同属地方伴手礼而混同。"
+  }
+]

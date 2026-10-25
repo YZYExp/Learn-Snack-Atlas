@@ -36,6 +36,14 @@
 
 AI生成示意：用于辨认常见外观，不是实店产品照片或配方实测。
 
+<!-- atlas-expansion:atlas-we-lemon-fruit-tarts -->
+
+![图13-3　塔点教学对照：左为柠檬塔，右为糕点奶油鲜果塔；切口均露出底壳。](../assets/images/atlas-we-lemon-fruit-tarts.png)
+
+图13-3　塔点教学对照：左为柠檬塔，右为糕点奶油鲜果塔；切口均露出底壳。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://www.kingarthurbaking.com/recipes/lemon-tart-with-fresh-berries-recipe)。
+
 
 ## 曲奇不只是裱花形状
 
@@ -54,6 +62,14 @@ AI生成示意：用于辨认常见外观，不是实店产品照片或配方实
 图13-2　杏仁biscotti的代表外形示意，可观察斜切片、外缘与杏仁截面的分布。
 
 AI生成示意：用于辨认常见外观，不是实店产品照片或配方实测。
+
+<!-- atlas-expansion:atlas-we-chewy-cookie -->
+
+![图13-4　软心巧克力豆曲奇教学示意：完整件与掰开件并置，显示边缘、中心与巧克力分布。](../assets/images/atlas-we-chewy-cookie.png)
+
+图13-4　软心巧克力豆曲奇教学示意：完整件与掰开件并置，显示边缘、中心与巧克力分布。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://www.kingarthurbaking.com/recipes/chewy-chocolate-chip-cookies-recipe)。
 
 
 ## 酥感是一项会变化的性质

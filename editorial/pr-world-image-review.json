@@ -1,0 +1,69 @@
+[
+  {
+    "id": "atlas-wo-dango",
+    "file": "assets/images/atlas-wo-dango.png",
+    "sha256": "bffa318068738cf4f8256a8fc6304c83b693eb3b72988d14f3481e319193e1ac",
+    "visual_checked": true,
+    "approved": true,
+    "notes": "三枚白团子串签，另附半切实心团子，切面致密而非面包孔洞；竹签方向与串排关系清楚，未误画成带馅大福或透明果冻。此处三枚仅为示例，不设为品类规则。",
+    "caption": "白团子串签与致密切面示意。",
+    "image_kind": "AI生成外观教学示意",
+    "reviewed": "2026-10-25"
+  },
+  {
+    "id": "atlas-wo-monaka-dorayaki",
+    "file": "assets/images/atlas-wo-monaka-dorayaki.png",
+    "sha256": "9d9a0cdadfd4fbec8d8c52b5fc0fb2eda52cd9cd9797a332e6ffad0e3ae790ea",
+    "visual_checked": true,
+    "approved": true,
+    "notes": "左侧最中为浅色压纹米制薄壳，内部空隙主要在壳的微泡组织，豆沙位于壳内；不是马卡龙，没有马卡龙裙边。右侧铜锣烧有较厚金棕饼皮和浅黄色细孔切面，与左侧壳形有明确区别。前景切件与后方成品相互独立，不存在对不上的缺口。最中壳的泡孔稍夸张，宜仅说薄壳外形，不以画面测壳厚或孔径。",
+    "caption": "最中与铜锣烧：薄脆壳和煎烤饼皮的夹馅对照示意。",
+    "image_kind": "AI生成外观教学示意",
+    "reviewed": "2026-10-25"
+  },
+  {
+    "id": "atlas-wo-kueh-dadar",
+    "file": "assets/images/atlas-wo-kueh-dadar.png",
+    "sha256": "9dfe5599099d1e41fbd048ebde291b8880971a515bf50d9e9425f4ad5e27d871",
+    "visual_checked": true,
+    "approved": true,
+    "notes": "卷皮为绿色薄煎皮，边缘仅少数薄层，不是厚糯米皮或蛋糕卷；棕褐馅呈清楚椰丝颗粒，未画成巧克力泥。前景切口椭圆与斜置圆柱几何一致。表面气孔偏明显但尚在薄煎皮示意范围；不把绿色当成班兰配方证据。",
+    "caption": "椰糖椰丝卷：薄煎皮包住椰丝馅的结构示意。",
+    "image_kind": "AI生成外观教学示意",
+    "reviewed": "2026-10-25"
+  },
+  {
+    "id": "atlas-wo-love-letters",
+    "file": "assets/images/atlas-wo-love-letters.png",
+    "sha256": "11642841abb46c61b76cfaf03d2894a1dc69e049f287eef02830514d771c0977",
+    "visual_checked": true,
+    "approved": true,
+    "notes": "浅金薄片卷成中空筒或折成三角，断口与少量碎屑显示薄片结构；不是奶油卷、实心饼棒或油炸春卷。部分筒口可见薄层重叠，与卷制结构相容。三角折片为一种地方形式，不写为所有love letters统一造型。",
+    "caption": "Love letters卷筒与三角折片形式示意。",
+    "image_kind": "AI生成外观教学示意",
+    "reviewed": "2026-10-25"
+  },
+  {
+    "id": "atlas-wo-halva-comparison",
+    "file": "assets/images/atlas-wo-halva-comparison.png",
+    "sha256": "43ffe22ff90647cc005059c7b9fa4fe977796cdc1a30db98b7a4b1a78292eec4",
+    "visual_checked": true,
+    "approved": true,
+    "notes": "替换版已实际复审：左侧为米白致密切块、细碎断口及少量短纤维纹理，已消除旧图的大层板、蜂窝空洞与起酥误导；右侧为金色细颗粒湿润团聚的小丘，与左侧干酥块状有明确区别，未画成凝胶圆珠或同一种组织。允许作为两类halva实例的AI外观对照，不据图确认具体配比、含水量与工艺，也不把两种外形概括成全部地区的规范。",
+    "caption": "芝麻酱型halva的致密酥块，与粗粒小麦粉型halva的湿润颗粒组织对照示意。",
+    "image_kind": "AI生成外观教学示意",
+    "reviewed": "2026-10-25",
+    "previous_revision_approved": false
+  },
+  {
+    "id": "atlas-wo-mochi-bread-comparison",
+    "file": "assets/images/atlas-wo-mochi-bread-comparison.png",
+    "sha256": "ce3b3f79dd1732b4ce4fc2a18a75ed6a670d5782c42aa91778122eeeb8255892",
+    "visual_checked": true,
+    "approved": true,
+    "notes": "左侧有明确发酵面包细孔环绕独立致密软馅；右侧有烤色薄壳、黑芝麻、较大不规则空腔及连贯弹韧壳壁，两者没有被画成同种组织。截面边缘与圆顶外形一致。右侧空腔与少量膜状组织为一种结构示例，不说所有商业麻薯烤包都必空心，也不从图确定粉类、比例或酵母。",
+    "caption": "麻薯夹心面包与麻薯烤包：两种结构示例。",
+    "image_kind": "AI生成外观教学示意",
+    "reviewed": "2026-10-25"
+  }
+]

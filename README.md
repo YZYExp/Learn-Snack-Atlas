@@ -54,18 +54,26 @@ Python 3标准库即可构建EPUB并校验本地资源：
 python3 scripts/build.py
 ```
 
-输出：`build/Dimsum-Atlas.epub`。原始分章Markdown与图片为唯一内容来源。未来网站可读取`book.json`，网站由轻量 CI 从同一份清单与分章内容构建。重新绘制关系图需要Pillow及中文字体；在`scripts/draw_diagrams.py`中调整字体路径后运行。电子书构建不依赖Pillow。
+输出：`build/Dimsum-Atlas.epub`。原始分章Markdown与图片为唯一内容来源。网站从`book.json`与分章内容构建，发布方式见下文。重新绘制关系图需要Pillow及中文字体；在`scripts/draw_diagrams.py`中调整字体路径后运行。电子书构建不依赖Pillow。
 
-图像：27张公开许可实物照片、15幅AI生成外观教学图、11幅原创关系图，总计53幅；图注逐图说明类型与用途。图像清单在`editorial/image-index.json`，编辑资料不编入电子书。
+图像：27张公开许可实物照片、37幅AI生成外观教学图、11幅原创关系图，总计75幅；图注逐图说明类型与用途。图像清单在`editorial/image-index.json`，编辑资料不编入电子书。
 
 ## 网页阅读与发布
 
 GitHub Pages 的 Source 设为 GitHub Actions 后，推送 main 自动构建并发布。PR 仅构建与检查，不部署。
 
 ```bash
-python -m pip install Markdown==3.7
+python -m pip install -r requirements-site.txt
 python scripts/build_site.py
 python -m http.server 8000 --directory _site
 ```
 
 构建检查所有站内链接和配图路径。输出在 `_site/`，不执行 EPUB、PDF、图像生成或外部素材下载。目录、逐章导航、附录和原有来源署名从现有稿件生成。
+
+
+
+### 独立首页与点心图鉴
+
+首页 `index.html` 展示视觉导览、四类入口与阅读路线；完整目录移至 `contents.html`；`atlas.html` 提供按中式、西式、世界分类的图鉴、品名搜索及每页12项分页。所有图卡链接至同一份分章书稿的对应小节。
+
+网页版按比例生成480/1200像素WebP与懒加载，保留原始图源。PR只构建校验，并提供保留14天的 `snack-atlas-site-preview` 预览包（下载需GitHub登录）；合并main后才部署正式站点。网页构建独立于EPUB导出，只有显式传入 `--epub` 才附带已经验证的电子书文件。

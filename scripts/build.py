@@ -112,7 +112,11 @@ for c in meta['chapters']:
  if c['part']!=part:part=c['part'];readme+=f'\n### {part}\n\n'
  readme+=f'- [{c["id"][2:]}　{c["title"]}]({c["source"]})\n'
 readme+='\n### 附录\n\n'+''.join(f'- [{p.read_text().splitlines()[0].lstrip("# ")}]({p.relative_to(R)})\n' for p in extras)
-readme+='\n- [汇总资料索引](references/reading-sources.md)\n\n## 构建与修订\n\nPython 3标准库即可构建EPUB并校验本地资源：\n\n```bash\npython3 scripts/build.py\n```\n\n输出：`build/Dimsum-Atlas.epub`。原始分章Markdown与图片为唯一内容来源。未来网站可读取`book.json`，本版未创建或部署网站。重新绘制关系图需要Pillow及中文字体；在`scripts/draw_diagrams.py`中调整字体路径后运行。电子书构建不依赖Pillow。\n\n图像：27张公开许可实物照片、15幅AI生成外观教学图、11幅原创关系图，总计53幅；图注逐图说明类型与用途。图像清单在`editorial/image-index.json`，编辑资料不编入电子书。\n'
+readme+='\n- [汇总资料索引](references/reading-sources.md)\n\n## 构建与修订\n\nPython 3标准库即可构建EPUB并校验本地资源：\n\n```bash\npython3 scripts/build.py\n```\n\n输出：`build/Dimsum-Atlas.epub`。原始分章Markdown与图片为唯一内容来源。网站从`book.json`与分章内容构建，发布方式见下文。重新绘制关系图需要Pillow及中文字体；在`scripts/draw_diagrams.py`中调整字体路径后运行。电子书构建不依赖Pillow。\n\n图像：27张公开许可实物照片、37幅AI生成外观教学图、11幅原创关系图，总计75幅；图注逐图说明类型与用途。图像清单在`editorial/image-index.json`，编辑资料不编入电子书。\n'
+# Preserve site documentation maintained with the homepage.
+existing=(R/'README.md').read_text() if (R/'README.md').exists() else ''
+if '\n## 网页阅读与发布' in existing:
+ readme+=existing[existing.index('\n## 网页阅读与发布'):]
 (R/'README.md').write_text(readme)
 report={'chapters':len(chapters),'appendices':len(extras),'illustrations':len(image_files),'image_kind_counts':image_counts,'sources':len(refs),'body_han_characters':sum(len(re.findall(r'[\u4e00-\u9fff]',p.read_text())) for p in chapters),'epub_bytes':out.stat().st_size,'checks':['chapter manifest and local links','EPUB XML well-formedness','EPUB internal href/src resolution','ZIP integrity and first mimetype entry']}
 (B/'validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps(report,ensure_ascii=False))

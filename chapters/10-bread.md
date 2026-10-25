@@ -56,12 +56,29 @@ Concha 的名字意为贝壳，外观来自表层纹路，但它的学习价值�
 
 实物照片：ProtoplasmaKid；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Concha_%28pan_dulce_mexicano%29_02.JPG)。
 
+<!-- atlas-expansion:atlas-we-doughnut-types -->
+
+![图10-5　甜甜圈教学对照：左为酵母型代表，右为蛋糕型代表；两者均露出切口。](../assets/images/atlas-we-doughnut-types.png)
+
+图10-5　甜甜圈教学对照：左为酵母型代表，右为蛋糕型代表；两者均露出切口。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://www.kingarthurbaking.com/recipes/yeast-raised-doughnuts-recipe)。
+
 
 ## 甜与咸，经常只隔着一个组合
 
 面包的基础风味并不决定它只能服务甜食。布里欧修可与果酱搭配，也能承接咸味馅料；小餐包可以撒芝麻、加奶酪，或夹入肉类和蔬菜。判断它是否协调，需要把面包体、馅和酱料放在一起考虑：柔软的面包配湿馅容易整只变软，较有韧性的外壳则可能与细嫩馅料形成反差。
 
 肉桂卷提供另一个例子。它看起来像卷起来的面包，实际有三个能分别调整的层面：面团是否柔软、糖馅是否湿润、表面淋酱是否厚重。换成黑芝麻或豆沙，并不自动成为一种全新的基础工艺；它可能是既有结构的风味改写。认识结构以后，传统与新式之间的关系会更清楚。
+
+<!-- atlas-expansion:atlas-we-cinnamon-roll -->
+
+![图10-4　肉桂卷教学示意：顶部螺旋糖馅清晰可见，少量淋面保留卷纹。](../assets/images/atlas-we-cinnamon-roll.png)
+
+图10-4　肉桂卷教学示意：顶部螺旋糖馅清晰可见，少量淋面保留卷纹。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://www.kingarthurbaking.com/recipes/cinnamon-rolls-recipe)。
+
 
 ## 面包、蛋糕和起酥的边界
 

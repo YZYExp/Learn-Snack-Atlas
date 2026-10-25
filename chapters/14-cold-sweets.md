@@ -24,6 +24,14 @@ Custard 指蛋参与增稠或凝固的蛋奶体系。流动的英式蛋奶酱 cr
 
 实物照片：Amanda  Coutinho；[CC BY 2.0](https://creativecommons.org/licenses/by/2.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Cr%C3%A8me_caramel_2.jpg)。
 
+<!-- atlas-expansion:atlas-we-custard-cream -->
+
+![图14-3　蛋奶体系教学对照：左为可倾倒的英式蛋奶酱，右为能保留勺痕的糕点奶油。](../assets/images/atlas-we-custard-cream.png)
+
+图14-3　蛋奶体系教学对照：左为可倾倒的英式蛋奶酱，右为能保留勺痕的糕点奶油。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://app.ckbk.com/reference/cuis81374c03s001ss023e002/creme-anglaise)。
+
 
 ## 奶冻与巴伐利亚奶油
 

@@ -22,6 +22,15 @@ Halva、halvah、halvas 等名称跨越很多语言与地区。最值得初学�
 
 土耳其文化与旅游部门公布的 irmik helvası 配方可作为粗粒小麦粉型的具体参照。[来源：土耳其文化与旅游部，Semolina Halva](https://www.ktb.gov.tr/EN-98886/semolina-halva.html) 对照时不用给它们排“正宗程度”，只需先确认主要固体来自芝麻，还是来自谷物。芝麻酱的油润、谷物的颗粒与淀粉吸水后的稠度，分别给出不同线索。
 
+<!-- atlas-expansion:atlas-wo-halva-comparison -->
+
+![图16-4　芝麻酱型halva的致密酥块，与粗粒小麦粉型halva的湿润颗粒组织对照示意。](../assets/images/atlas-wo-halva-comparison.png)
+
+图16-4　芝麻酱型halva的致密酥块，与粗粒小麦粉型halva的湿润颗粒组织对照示意。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://www.ktb.gov.tr/EN-98886/semolina-halva.html)。
+
+
 ## 南亚：炸物可以靠糖浆，也可以靠香料与酸味
 
 Jalebi 的典型形态是面糊挤成盘绕线条，油炸后浸入糖浆。印度官方旅游材料对这一过程有直接描述。[来源：Incredible India，Jalebi](https://prod.incredibleindia.gov.in/content/incredible-india-v2/es/destinations/agra/food-and-cuisine/Jalebi.html) 它的要点不只是“很甜”：细长线条提高了表面积，炸后形成的组织又让糖浆获得附着与进入的空间。吃到的脆、黏与汁感，来自这两步先后叠加。不同地区的面糊与发酵安排有变化，不宜把一张配方推广成全体规范。
