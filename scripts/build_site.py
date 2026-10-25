@@ -23,7 +23,9 @@ for key in ('frontmatter', 'chapters', 'appendices', 'backmatter'):
             item = {'source': item, 'title': title}
         entries.append(item)
 public = {Path(e['source']) for e in entries}
-public.update((p.relative_to(ROOT) for p in (ROOT / 'references').glob('*.md')))
+# Include the reader-facing bibliography, never editorial source audits.
+if (ROOT / 'references/reading-sources.md').is_file():
+    public.add(Path('references/reading-sources.md'))
 public.update((p.relative_to(ROOT) for p in ROOT.glob('LICENSE*') if p.suffix == '.md'))
 for path in sorted(public):
     if not any(e['source'] == str(path) for e in entries):
