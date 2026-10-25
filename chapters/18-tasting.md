@@ -36,7 +36,7 @@
 
 饼干受潮、酥皮回软、米糕变硬，首先是品质变化；看起来正常、闻起来正常，也不能证明食品安全。FDA明确提醒，致病微生物可能不会造成能被感官发现的变化。[来源：FDA，Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)
 
-美国 FoodSafety.gov 的家庭指导建议：易腐食品尽快冷藏，不在室温放置超过两小时；环境超过32℃时缩短为一小时。冰箱应维持4℃或以下，冷冻室为−18℃或以下；熟食可分装到浅容器帮助及时冷却。[来源：FoodSafety.gov，4 Steps to Food Safety](https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety) 这些是一般家庭操作指导，不能把“两小时”理解成每件点心都能安全摆满两小时的许可，更不能把多次离开冷藏的时间重新归零。
+美国 FoodSafety.gov 的家庭指导建议：易腐食品尽快冷藏，不在室温放置超过两小时；环境超过32℃时缩短为一小时。[^ch18-temperature]冰箱应维持4℃或以下，冷冻室为−18℃或以下；熟食可分装到浅容器帮助及时冷却。[来源：FoodSafety.gov，4 Steps to Food Safety](https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety) 这些是一般家庭操作指导，不能把“两小时”理解成每件点心都能安全摆满两小时的许可，更不能把多次离开冷藏的时间重新归零。
 
 冷冻能减缓许多变化，却不会消除所有有害微生物。复热也不能挽救所有保存不当的食品。需要复热的商品按包装指示处理；对来源与温度历史不明、已明显变质或超过要求的易腐点心，不以试吃来判断是否还能吃。
 
@@ -48,9 +48,13 @@
 
 ## 过敏信息要问到配料与接触环节
 
-糕点常涉及奶、蛋、小麦、坚果、花生、大豆和芝麻；咸点还可能含鱼或甲壳类。FDA的过敏原说明提醒，食品制作中的交叉接触也需要控制。[来源：FDA，Food Allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) 因此，坚果装饰拿掉以后，食品并不会自动适合坚果过敏者；无乳糖也不等于不含乳蛋白，植物基也不等于不含大豆或坚果。
+糕点常涉及奶、蛋、小麦、坚果、花生、大豆和芝麻；咸点还可能含鱼或甲壳类。FDA的过敏原说明提醒，食品制作中的过敏原交叉接触（英语 allergen cross-contact）也需要控制。[^ch18-cross-contact][来源：FDA，Food Allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) 因此，坚果装饰拿掉以后，食品并不会自动适合坚果过敏者；无乳糖（英语 lactose-free）也不等于不含乳蛋白，植物基也不等于不含大豆或坚果。
 
 有明确过敏需求时，应读取完整标签并向制作者确认，不用小口试吃验证。家庭共享时保留包装、分开工具和盛放容器，能让每个人更清楚自己在吃什么。
 
 读完一本点心书，不需要把每次下午茶变成考试。偶尔停下来看看断面、问一句保存条件、把一个含糊的形容改为具体观察，知识便已经进入了日常生活。
 
+
+[^ch18-temperature]: 这里沿用美国机构给出的摄氏参考值；原文同时以40°F、0°F和90°F标示约4℃、−18℃和32℃。它们用于家庭冷藏与易腐食品处理，不是某种点心的保质期或任意食品的精确失效温度。[FoodSafety.gov](https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety)。
+
+[^ch18-cross-contact]: Allergen cross-contact 指过敏原在制作、器具或盛放过程中非预期进入另一件食品。它与微生物交叉污染的关注对象不同。乳糖是不耐受问题中常见的糖类对象，乳蛋白则可能引发过敏；“无乳糖”不能替代乳过敏者所需的配料与接触核查。[FDA，Food Allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)；[NHS，乳糖不耐受及与过敏的区别](https://www.nhs.uk/conditions/lactose-intolerance/)。

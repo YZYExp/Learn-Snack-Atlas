@@ -12,7 +12,7 @@
 
 判断一只面包，不妨先观察未接触馅料的部分：它是略有韧性的麦香面团，还是带蛋奶香的柔软组织？用手轻轻撕开，断面是大小不一的孔洞、细密拉丝，还是层状薄片？最后才看表面的糖霜、坚果和肉松。这样能避免把“巧克力口味”误当成一种独立的面包工艺。
 
-酵母发酵产生气体，面团中的网络把气体留住；烘烤时，原本柔软的气泡壁逐渐固定。面粉、水、盐和酵母已经能做成面包；加入糖、蛋、奶、油脂后，面团的味道、柔软度和操作方式会变化。“富集面团”指加入这类丰富配料的面团，并不是营养评价。布里欧修就是以蛋和黄油为重要特征的发酵面包。[资料：King Arthur Baking，Classic Brioche](https://www.kingarthurbaking.com/recipes/classic-brioche-recipe)
+酵母发酵产生气体，面团中的网络把气体留住；烘烤时，原本柔软的气泡壁逐渐固定。面粉、水、盐和酵母已经能做成面包；加入糖、蛋、奶、油脂后，面团的味道、柔软度和操作方式会变化。“富集面团”（enriched dough）指加入这类丰富配料的面团，并不是营养评价。布里欧修（法语 brioche）就是以蛋和黄油为重要特征的发酵面包。[^ch10-enriched][资料：King Arthur Baking，Classic Brioche](https://www.kingarthurbaking.com/recipes/classic-brioche-recipe)
 
 糖和油脂也不是加得越多越好。配方需要同时照顾发酵、支撑和成形：馅料很多而面包体太薄，可能撑不住；黄油丰富的面团温暖时较软，冷却后更容易分割。读到配方要求冷藏，不宜只把它理解成“等待”，还要注意它在管理面团状态。
 
@@ -30,15 +30,15 @@
 | 类型与例子 | 看哪里 | 点心中的作用 |
 | --- | --- | --- |
 | 小餐包、奶油卷 | 单纯面包体与柔软内瓤 | 配汤、配茶，也能夹咸馅 |
-| 布里欧修 brioche | 蛋奶油香、细致的面包组织 | 本身即可食用，也常做夹馅或甜点基底 |
+| 布里欧修 brioche | 蛋与黄油香、细致的面包组织 | 本身即可食用，也常做夹馅或甜点基底 |
 | 肉桂卷 | 卷入的糖香料和螺旋断面 | 面团、夹层和淋面的连续组合 |
 | 普雷结 pretzel 与普雷结小面包 | 深色外皮、割口、咀嚼感 | 咸点，也能成为三明治外壳 |
 | 墨西哥 concha 贝壳面包 | 软面包上的带纹甜酥皮 | 表层与面包体形成口感对照 |
-| 甜甜圈中的酵母型 | 蓬松面包体与炸制表皮 | 与蛋糕型甜甜圈形成另一条工艺支线 |
+| 酵母型甜甜圈 yeast-raised doughnut | 发酵面团与炸制表皮 | 与蛋糕型甜甜圈形成不同的膨松路线 |
 
-普雷结的辨识点不能只有扭结形状：同样的面团也能做成圆形小面包。King Arthur 的家庭版本在烘烤前使用小苏打水浴，帮助形成深色表面；专业产品还可能采用不同的碱处理。家用小苏打水浴与专业强碱工艺不可按同一浓度随意替换。[资料：King Arthur Baking，Pretzel Buns](https://www.kingarthurbaking.com/recipes/pretzel-buns-recipe)
+普雷结（英语 pretzel）的辨识点不能只有扭结形状[^ch10-pretzel]：同样的面团也能做成圆形小面包。King Arthur 的家庭版本在烘烤前使用小苏打水浴，帮助形成深色表面；专业产品还可能采用不同的碱处理。家用小苏打水浴与专业强碱工艺不可按同一浓度随意替换。[资料：King Arthur Baking，Pretzel Buns](https://www.kingarthurbaking.com/recipes/pretzel-buns-recipe)
 
-Concha 的名字意为贝壳，外观来自表层纹路，但它的学习价值在于“双层”：下方是发酵面包，上方是可形成裂纹的甜酥皮。它属于墨西哥广阔的 pan dulce 传统；pan dulce 不能简单翻译为某一种固定面包，更不宜只用一款 concha 代表整个类别。[资料：King Arthur Baking，Conchas](https://www.kingarthurbaking.com/recipes/conchas-recipe)；[Pan Dulce 专题](https://www.kingarthurbaking.com/pan-dulce)
+concha是西班牙语单数，意为贝壳，复数写作conchas；外观来自表层纹路[^ch10-concha]，但它的学习价值在于“双层”：下方是发酵面包，上方是可形成裂纹的甜酥皮。它属于墨西哥广阔的 pan dulce 传统；pan dulce（西班牙语“甜面包”）不能简单当作某一种固定面包[^ch10-pan-dulce]，更不宜只用一款 concha 代表整个类别。[资料：King Arthur Baking，Conchas](https://www.kingarthurbaking.com/recipes/conchas-recipe)；[Pan Dulce 专题](https://www.kingarthurbaking.com/pan-dulce)
 
 <!-- public-photo:real-we-pretzel -->
 
@@ -65,6 +65,8 @@ Concha 的名字意为贝壳，外观来自表层纹路，但它的学习价值�
 AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://www.kingarthurbaking.com/recipes/yeast-raised-doughnuts-recipe)。
 
 
+酵母型甜甜圈（yeast-raised doughnut）与蛋糕型甜甜圈（cake doughnut）需要按膨松方式区分，环形和表面糖衣都不是决定条件。[^ch10-doughnuts]
+
 ## 甜与咸，经常只隔着一个组合
 
 面包的基础风味并不决定它只能服务甜食。布里欧修可与果酱搭配，也能承接咸味馅料；小餐包可以撒芝麻、加奶酪，或夹入肉类和蔬菜。判断它是否协调，需要把面包体、馅和酱料放在一起考虑：柔软的面包配湿馅容易整只变软，较有韧性的外壳则可能与细嫩馅料形成反差。
@@ -82,7 +84,7 @@ AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](
 
 ## 面包、蛋糕和起酥的边界
 
-理解发酵面包，还可以沿着制作顺序观察一次。混合时，原料从分散状态成为面团；揉制与静置影响面团的延展和支撑；第一次发酵让体积与状态发生变化；分割、整形把气体与面团重新安排；最后发酵与烘烤再把形状固定。这个顺序解释了为什么把一份面团直接搓圆、立即烤熟，不能自动获得配方所期待的组织。各阶段的时间没有通用答案，面团温度与状态比单看钟表更有意义。
+理解发酵面包，还可以沿着制作顺序观察一次。混合时，原料从分散状态成为面团；揉制与静置影响面团的延展和支撑；第一次发酵（bulk fermentation）让整团面团的体积与状态发生变化；分割、整形把气体与面团重新安排；最后发酵（final proof）继续发展体积，烘烤再使组织和形状固定。[^ch10-proof]这个顺序解释了为什么把一份面团直接搓圆、立即烤熟，不能自动获得配方所期待的组织。各阶段的时间没有通用答案，面团温度与状态比单看钟表更有意义。
 
 夹馅面包则多出一组配合问题：馅料应该在整形时包入，还是烤后加入？前者需要承受发酵与烘烤，后者保留了冷馅的选择，却改变储存方式。对读者来说，这也是辨识“新式面包”的实用问题。奶油水果包与烤制豆沙包即使外形相近，也不能因为同在面包架上，就假设它们具有相同的保存条件。家庭制作应沿用对应配方的加热、冷却和储存说明。
 
@@ -90,3 +92,15 @@ AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](
 
 在店里选三种分量相近的小面包，先各留下一口不带馅的面包体，再比较外皮、孔洞、咀嚼感和香气。随后把馅一起吃下，判断哪一个变化最明显。这个练习的目的不是给软硬排优劣，而是学会区分“面团的性格”和“组合后的效果”。同样柔软的面包，也可能因馅料含水、表面油脂和食用温度而呈现不同体验。
 
+
+[^ch10-enriched]: enriched dough中的enriched描述配方加入脂肪、蛋、糖或乳等材料。brioche是这一类的具体面包传统，不能把“富集面团”与布里欧修画等号。[参照：King Arthur Baking，Brioche](https://www.kingarthurbaking.com/blog/2022/09/01/how-to-make-brioche-maritozzi)。
+
+[^ch10-pretzel]: pretzel是常见英文拼写；德语常见Brezel。这里强调碱处理与面团特征，不以扭结作为全部产品必须有的形状。[配方参照：Pretzel Buns](https://www.kingarthurbaking.com/recipes/pretzel-buns-recipe)。
+
+[^ch10-concha]: concha与conchas分别是单数与复数，阅读英文食谱时两种都常见。该成品有独立的面包体和表面甜酥层，不能将甜酥层误认为面包中的包油起酥层。[配方参照：Conchas](https://www.kingarthurbaking.com/recipes/conchas-recipe)。
+
+[^ch10-pan-dulce]: pan dulce是一个广阔的墨西哥甜面包／甜烘焙传统名称，concha是其中一款；名称的范围比“同一面团换形状”更宽。[参照：King Arthur Baking，Pan Dulce](https://www.kingarthurbaking.com/pan-dulce)。
+
+[^ch10-proof]: bulk fermentation通常指分割前整团面团的发酵阶段；final proof指整形后的最后发酵。英语proofing也可能被宽泛使用，读配方仍要结合步骤位置。[参照：King Arthur Baking，Bulk Fermentation](https://www.kingarthurbaking.com/blog/2019/07/22/bulk-fermentation)。
+
+[^ch10-doughnuts]: yeast-raised doughnut依靠酵母发酵；cake doughnut通常采用化学膨松。两者都有做成环形的产品，因此“有没有中孔”并不能区分类别；donut是doughnut的另一种常见英文拼写。[参照：American Society of Baking，Yeast Donuts](https://asbe.org/article/yeast-donuts/)。

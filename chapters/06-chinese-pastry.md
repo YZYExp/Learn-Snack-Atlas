@@ -65,9 +65,9 @@ AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](
 
 ## 蛋挞让中西边界变得具体
 
-香港常见蛋挞有酥皮与牛油皮，也就是俗称的曲奇皮。前者有薄层和剥落感，后者更接近一块连续、松碎的饼干壳。香港非遗办的饮食文化资料把两种皮并列介绍，也记录蛋挞进入茶餐厅和中式茶楼的日常场景。[资料：香港非遗办《饮食文化》](https://www.icho.hk/documents/Education/exhibition_panels/Exhibition_panel_food_culture.pdf)
+香港常见蛋挞有酥皮（puff pastry）与牛油皮（shortcrust pastry，又称曲奇皮）。[^ch06-egg-tart-crust]前者有薄层和剥落感，后者更接近一块连续、松碎的饼干壳。香港非遗办的饮食文化资料把两种皮并列介绍，也记录蛋挞进入茶餐厅和中式茶楼的日常场景。[资料：香港非遗办《饮食文化》](https://www.icho.hk/documents/Education/exhibition_panels/Exhibition_panel_food_culture.pdf)
 
-澳门葡挞又是另一条具体的发展路线：当地在葡萄牙甜点技艺基础上形成有地方特色的焦糖酥皮蛋挞，常见特征为分层挞皮与带焦斑的蛋浆表面。澳门文化局同时强调各店用料和烘焙手法存在差异。[资料：澳门文化遗产网，葡挞制作技艺](https://www.culturalheritage.mo/detail/102289)
+葡萄牙的蛋奶挞称为 pastel de nata（复数 pastéis de nata）；澳门葡挞则是在相关甜点技艺基础上形成的地方版本。[^ch06-portuguese-tart]澳门这项非遗的官方英译使用较宽的 custard tart（蛋奶挞），不能只凭这个英文名称确定地区与配方。当地常见特征为分层挞皮与带焦斑的蛋浆表面，澳门文化局同时强调各店用料和烘焙手法存在差异。[资料：澳门文化遗产网，葡挞制作技艺](https://www.culturalheritage.mo/detail/102289)
 
 因此，不能把所有港式蛋挞都称作葡挞，也不宜用某家店的创立年份代替整类蛋奶挞的起源。传播并不是原样搬运；挞皮、蛋奶比例、烤制表面和消费场景，都可能在新地方改变。
 
@@ -81,3 +81,6 @@ AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](
 
 实物照片：CCheungimm；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Two_Egg_Tarts_CC_02_HK.jpg)。
 
+[^ch06-egg-tart-crust]: 香港非遗办把这两类壳分别译为 puff pastry 和 shortcrust pastry，后者也写作 cookie pastry。这里的“牛油”指黄油（butter），不是牛脂；“曲奇皮”描述挞壳风格，不表示必须把烤好的曲奇压碎再做壳。[资料：香港非遗办《饮食文化》](https://www.icho.hk/documents/Education/exhibition_panels/Exhibition_panel_food_culture.pdf)。
+
+[^ch06-portuguese-tart]: pastel de nata 是葡萄牙语单数，pastéis de nata 是复数。葡萄牙旅游局公布了这一名称下的传统配方；澳门文化遗产网则明确说明澳门款经过本地重新演绎。二者有关联，但不应当作处处相同的一套配方。custard tart 是更宽的英语蛋奶挞名称。[葡萄牙旅游局，Pastéis de Nata](https://www.visitportugal.com/pt-pt/content/receitas-tradicionais-portuguesas-past%C3%A9is-de-nata)；[里斯本旅游局，Pastel de Nata](https://www.visitlisboa.com/en/p/lisbon-flavours/specialties/pastel-de-nata)；[澳门文化遗产网，Confection of Custard Tarts](https://www.culturalheritage.mo/en/detail/102289)。

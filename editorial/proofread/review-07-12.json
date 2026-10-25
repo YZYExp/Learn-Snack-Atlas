@@ -1,0 +1,480 @@
+{
+  "scope": "chapters 07–12",
+  "method": "完整逐章阅读，核对跨章定义、图注与就近来源；外文术语与疑问点用原始制作者、专业机构或官方文化资料核验。",
+  "chapters": [
+    {
+      "chapter": 7,
+      "file": "chapters/07-steamed-savory.md",
+      "read_in_full": true,
+      "changes": [
+        "将锅贴的生坯煎蒸与熟饺再煎并列，消除与19章的排斥性表述",
+        "烫面改为预先糊化及蛋白质变化，不仅泛称吸水变化",
+        "透明皮改略透明薄皮，补小麦淀粉与面粉区分"
+      ],
+      "footnotes": [
+        "ch07-hot-water",
+        "ch07-wheat-starch"
+      ],
+      "unresolved": []
+    },
+    {
+      "chapter": 8,
+      "file": "chapters/08-regional-snacks.md",
+      "read_in_full": true,
+      "changes": [
+        "补饮茶的粤语音译及与dim sum的语境差别",
+        "核读地区边界、粿名开放性、三丁包/翡翠烧卖/千层油糕并置，未见须改写的工艺矛盾"
+      ],
+      "footnotes": [
+        "ch08-yum-cha"
+      ],
+      "unresolved": []
+    },
+    {
+      "chapter": 9,
+      "file": "chapters/09-festivals.md",
+      "read_in_full": true,
+      "changes": [
+        "核验UNESCO项目不同地方纪念人物的范围，保留非单一起源表述",
+        "补UNESCO名称与项目英文名，脚注解释标题不等于完整活动定义"
+      ],
+      "footnotes": [
+        "ch09-dragon-boat"
+      ],
+      "unresolved": []
+    },
+    {
+      "chapter": 10,
+      "file": "chapters/10-bread.md",
+      "read_in_full": true,
+      "changes": [
+        "明确富集面团与具体布里欧修的上下位关系",
+        "补concha/conchas单复数、pan dulce范围、pretzel英文词形",
+        "区分bulk fermentation与final proof，避免proofing被误当唯一阶段",
+        "表格将甜甜圈分支明确为膨松路线而非仅外观",
+        "布里欧修表格“蛋奶油香”改为“蛋与黄油香”，避免奶油词义混淆"
+      ],
+      "footnotes": [
+        "ch10-enriched",
+        "ch10-pretzel",
+        "ch10-concha",
+        "ch10-pan-dulce",
+        "ch10-proof",
+        "ch10-doughnuts"
+      ],
+      "unresolved": []
+    },
+    {
+      "chapter": 11,
+      "file": "chapters/11-cakes.md",
+      "read_in_full": true,
+      "changes": [
+        "补génoise的蛋泡沫分支及其含黄油不等于糖油打发法",
+        "解释气体受热膨胀/水蒸气/化学膨松与定形的关系",
+        "明确pound cake传统四种材料及现代变体，统一cheesecake芝士/乳酪用语",
+        "补cupcake/muffin词形，保留不能仅凭外形划界"
+      ],
+      "footnotes": [
+        "ch11-creaming",
+        "ch11-genoise",
+        "ch11-chiffon",
+        "ch11-pound",
+        "ch11-cheesecake"
+      ],
+      "unresolved": []
+    },
+    {
+      "chapter": 12,
+      "file": "chapters/12-laminated.md",
+      "read_in_full": true,
+      "changes": [
+        "明确pâte feuilletée/puff pastry为面团名、pâte à choux为泡芙面糊名",
+        "补lamination术语并区分发酵分层与不发酵分层",
+        "补mille-feuille且不将千层/拿破仑名称当成统一夹馅和固定层数",
+        "将éclair/gougère的译名放在原文前，补英语cream puff，厘清壳与馅的范围",
+        "表格明确写千层酥面团与泡芙面糊，使坯料名称和成品名称不混用"
+      ],
+      "footnotes": [
+        "ch12-pates",
+        "ch12-lamination",
+        "ch12-mille-feuille",
+        "ch12-choux-shapes"
+      ],
+      "unresolved": []
+    }
+  ],
+  "terms": [
+    {
+      "zh": "烫面",
+      "original": "hot-water dough",
+      "language": "英语描述",
+      "chapter": 7,
+      "note_id": "ch07-hot-water",
+      "explanation": "热水调面方法；不能与所有热水派皮互换",
+      "source_url": "https://www.kingarthurbaking.com/blog/2024/10/14/boiling-water-flatbread"
+    },
+    {
+      "zh": "澄面／小麦淀粉",
+      "original": "wheat starch",
+      "language": "英语",
+      "chapter": 7,
+      "note_id": "ch07-wheat-starch",
+      "explanation": "区别于小麦面粉wheat flour",
+      "source_url": "https://leecheungwoohk.com/products/%E6%9D%8E%E7%A5%A5%E5%92%8C%E6%BE%84%E9%BA%B5%E7%B2%89wheat-starch"
+    },
+    {
+      "zh": "饮茶",
+      "original": "yum cha",
+      "language": "粤语音译",
+      "chapter": 8,
+      "note_id": "ch08-yum-cha",
+      "explanation": "喝茶吃点心的餐饮活动，与点心dim sum本身区分",
+      "source_url": "https://www.discoverhongkong.com/eng/travel-guide/qts/must-try-restaurants-for-your-first-visit-to-hong-kong.html"
+    },
+    {
+      "zh": "端午节项目",
+      "original": "Dragon Boat festival",
+      "language": "UNESCO项目英文名",
+      "chapter": 9,
+      "note_id": "ch09-dragon-boat",
+      "explanation": "项目英文名称，不把端午全部活动限于龙舟",
+      "source_url": "https://www.unesco.org/archives/multimedia/document-335"
+    },
+    {
+      "zh": "富集面团",
+      "original": "enriched dough",
+      "language": "英语",
+      "chapter": 10,
+      "note_id": "ch10-enriched",
+      "explanation": "加入脂肪、糖、蛋乳等的配方类别",
+      "source_url": "https://www.kingarthurbaking.com/blog/2022/09/01/how-to-make-brioche-maritozzi"
+    },
+    {
+      "zh": "布里欧修",
+      "original": "brioche",
+      "language": "法语",
+      "chapter": 10,
+      "note_id": "ch10-enriched",
+      "explanation": "蛋和黄油为重要特征的发酵面包",
+      "source_url": "https://www.kingarthurbaking.com/blog/2022/09/01/how-to-make-brioche-maritozzi"
+    },
+    {
+      "zh": "普雷结",
+      "original": "pretzel；Brezel",
+      "language": "英语；德语",
+      "chapter": 10,
+      "note_id": "ch10-pretzel",
+      "explanation": "常见碱处理面包传统，形状不限扭结",
+      "source_url": "https://www.kingarthurbaking.com/recipes/pretzel-buns-recipe"
+    },
+    {
+      "zh": "贝壳面包",
+      "original": "concha（复数conchas）",
+      "language": "西班牙语",
+      "chapter": 10,
+      "note_id": "ch10-concha",
+      "explanation": "发酵面包上覆盖带纹甜酥层",
+      "source_url": "https://www.kingarthurbaking.com/recipes/conchas-recipe"
+    },
+    {
+      "zh": "墨西哥甜面包传统",
+      "original": "pan dulce",
+      "language": "西班牙语",
+      "chapter": 10,
+      "note_id": "ch10-pan-dulce",
+      "explanation": "广泛家族，concha是代表款之一",
+      "source_url": "https://www.kingarthurbaking.com/pan-dulce"
+    },
+    {
+      "zh": "基础发酵",
+      "original": "bulk fermentation",
+      "language": "英语",
+      "chapter": 10,
+      "note_id": "ch10-proof",
+      "explanation": "分割前整团面团的发酵阶段",
+      "source_url": "https://www.kingarthurbaking.com/blog/2019/07/22/bulk-fermentation"
+    },
+    {
+      "zh": "最后发酵",
+      "original": "final proof",
+      "language": "英语",
+      "chapter": 10,
+      "note_id": "ch10-proof",
+      "explanation": "整形后的最后发酵",
+      "source_url": "https://www.kingarthurbaking.com/blog/2019/07/22/bulk-fermentation"
+    },
+    {
+      "zh": "酵母型甜甜圈",
+      "original": "yeast-raised doughnut",
+      "language": "英语",
+      "chapter": 10,
+      "note_id": "ch10-doughnuts",
+      "explanation": "用酵母发酵膨松",
+      "source_url": "https://asbe.org/article/yeast-donuts/"
+    },
+    {
+      "zh": "蛋糕型甜甜圈",
+      "original": "cake doughnut",
+      "language": "英语",
+      "chapter": 10,
+      "note_id": "ch10-doughnuts",
+      "explanation": "通常用化学膨松",
+      "source_url": "https://asbe.org/article/yeast-donuts/"
+    },
+    {
+      "zh": "黄油与糖打发法",
+      "original": "creaming method",
+      "language": "英语",
+      "chapter": 11,
+      "note_id": "ch11-creaming",
+      "explanation": "搅打黄油糖引气，不是加入奶油霜",
+      "source_url": "https://www.kingarthurbaking.com/blog/2017/04/28/cake-mixing-methods"
+    },
+    {
+      "zh": "海绵蛋糕",
+      "original": "sponge cake",
+      "language": "英语",
+      "chapter": 11,
+      "note_id": "ch11-genoise",
+      "explanation": "蛋泡沫为重要基础的蛋糕家族",
+      "source_url": "https://www.kingarthurbaking.com/recipes/genoise-recipe"
+    },
+    {
+      "zh": "热那亚蛋糕",
+      "original": "génoise／genoise",
+      "language": "法语／常见英语写法",
+      "chapter": 11,
+      "note_id": "ch11-genoise",
+      "explanation": "海绵分支，配方可混入融化黄油",
+      "source_url": "https://www.kingarthurbaking.com/recipes/genoise-recipe"
+    },
+    {
+      "zh": "戚风蛋糕",
+      "original": "chiffon cake",
+      "language": "英语",
+      "chapter": 11,
+      "note_id": "ch11-chiffon",
+      "explanation": "蛋白泡沫与液态油蛋黄糊结合",
+      "source_url": "https://www.kingarthurbaking.com/recipes/chiffon-cake-recipe"
+    },
+    {
+      "zh": "磅蛋糕",
+      "original": "pound cake",
+      "language": "英语",
+      "chapter": 11,
+      "note_id": "ch11-pound",
+      "explanation": "传统与四种主要材料等重相关",
+      "source_url": "https://asbe.org/article/butter-cake/"
+    },
+    {
+      "zh": "黄油蛋糕",
+      "original": "butter cake",
+      "language": "英语",
+      "chapter": 11,
+      "note_id": "ch11-pound",
+      "explanation": "黄油参与风味和组织的蛋糕家族",
+      "source_url": "https://asbe.org/article/butter-cake/"
+    },
+    {
+      "zh": "芝士／乳酪蛋糕",
+      "original": "cheesecake",
+      "language": "英语",
+      "chapter": 11,
+      "note_id": "ch11-cheesecake",
+      "explanation": "依烤制或冷藏等定形的乳酪馅甜点",
+      "source_url": "https://asbe.org/article/cheesecake/"
+    },
+    {
+      "zh": "纸杯蛋糕",
+      "original": "cupcake",
+      "language": "英语",
+      "chapter": 11,
+      "note_id": "",
+      "explanation": "小模具成形的蛋糕，非固定面糊",
+      "source_url": "https://www.kingarthurbaking.com/blog/2017/04/28/cake-mixing-methods"
+    },
+    {
+      "zh": "玛芬",
+      "original": "muffin",
+      "language": "英语",
+      "chapter": 11,
+      "note_id": "",
+      "explanation": "常见小型烘焙家族，与cupcake不能只按外形区分",
+      "source_url": "https://www.kingarthurbaking.com/blog/2017/04/28/cake-mixing-methods"
+    },
+    {
+      "zh": "可颂",
+      "original": "croissant",
+      "language": "法语",
+      "chapter": 12,
+      "note_id": "ch12-lamination",
+      "explanation": "发酵并包油起酥的代表烘焙食品",
+      "source_url": "https://www.kingarthurbaking.com/recipes/bakers-croissants-recipe"
+    },
+    {
+      "zh": "千层酥面团",
+      "original": "pâte feuilletée；puff pastry",
+      "language": "法语；英语",
+      "chapter": 12,
+      "note_id": "ch12-pates",
+      "explanation": "不发酵分层酥面团的常见名称",
+      "source_url": "https://www.kingarthurbaking.com/recipes/classic-puff-pastry-pate-feuilletee-recipe"
+    },
+    {
+      "zh": "泡芙面糊",
+      "original": "pâte à choux",
+      "language": "法语",
+      "chapter": 12,
+      "note_id": "ch12-pates",
+      "explanation": "先加热制糊再加蛋的坯料",
+      "source_url": "https://www.kingarthurbaking.com/blog/2022/10/24/what-is-pate-a-choux-why-we-love-this-versatile-french-dough"
+    },
+    {
+      "zh": "包油起酥分层",
+      "original": "lamination",
+      "language": "英语",
+      "chapter": 12,
+      "note_id": "ch12-lamination",
+      "explanation": "维持面团与油脂交替层的操作",
+      "source_url": "https://www.kingarthurbaking.com/recipes/bakers-croissants-recipe"
+    },
+    {
+      "zh": "法式千层酥夹层甜点",
+      "original": "mille-feuille",
+      "language": "法语",
+      "chapter": 12,
+      "note_id": "ch12-mille-feuille",
+      "explanation": "酥片与奶油等夹层组装，市场亦称拿破仑",
+      "source_url": "https://www.cordonbleu.edu/news/recette-14-juillet-2017-mille-feuilles-chantilly-vanille-et-fruits-frais/fr"
+    },
+    {
+      "zh": "闪电泡芙",
+      "original": "éclair",
+      "language": "法语",
+      "chapter": 12,
+      "note_id": "ch12-choux-shapes",
+      "explanation": "长条形填馅泡芙",
+      "source_url": "https://www.kingarthurbaking.com/recipes/cream-puffs-and-eclairs-recipe"
+    },
+    {
+      "zh": "圆形填馅泡芙",
+      "original": "cream puff",
+      "language": "英语",
+      "chapter": 12,
+      "note_id": "ch12-choux-shapes",
+      "explanation": "圆泡芙的常见英语名称",
+      "source_url": "https://www.kingarthurbaking.com/recipes/cream-puffs-and-eclairs-recipe"
+    },
+    {
+      "zh": "奶酪泡芙",
+      "original": "gougère（复数gougères）",
+      "language": "法语",
+      "chapter": 12,
+      "note_id": "ch12-choux-shapes",
+      "explanation": "加入奶酪的咸味泡芙",
+      "source_url": "https://www.kingarthurbaking.com/blog/2022/10/24/what-is-pate-a-choux-why-we-love-this-versatile-french-dough"
+    }
+  ],
+  "cross_review_13_14": {
+    "read_in_full": true,
+    "notes": [
+      "第13章的pâte brisée/sucrée/sablée与本组第12章pâte feuilletée区分一致，未见把所有酥皮都当层酥的矛盾。",
+      "第14章已区分广义custard、crème anglaise、crème pâtissière；第12章香草卡仕达照片图注仅保留custard广义称呼，不由照片断定具体淀粉配方。",
+      "第14章gelato、sorbet、sherbet存在地区语境说明，与本组不按名称硬判配方的规则一致。"
+    ],
+    "major_unresolved": []
+  },
+  "source_access_notes": [
+    "UNESCO项目原页本次打开出现JavaScript/验证提示；已用UNESCO档案影像说明核对项目范围，未将页面访问限制判为资料失效。"
+  ],
+  "unresolved": [],
+  "cross_review_full": {
+    "scope": "chapters 19–24, independent second-reader full text review",
+    "ownership": "read-only; no modifications to reviewed chapter files",
+    "chapters": [
+      {
+        "chapter": 19,
+        "source": "chapters/19-dumplings.md",
+        "read_in_full": true,
+        "source_sha256_at_review": "12a70029de760c85917ecd69dfa6bdc48fe50568b45f17b94aeca1200c80db25",
+        "interface_checks": [
+          "与第07章冷水/烫面/热调淀粉团路线一致；未把蒸饺锁定为一种面团",
+          "锅贴/煎饺允许生坯煎蒸与熟饺复煎，地方开口封口不设硬边界",
+          "wheat starch脚注与第07章一致；配图只称代表皮馅关系"
+        ],
+        "blocking_findings": []
+      },
+      {
+        "chapter": 20,
+        "source": "chapters/20-wontons.md",
+        "read_in_full": true,
+        "source_sha256_at_review": "ae638b599911e2ded8d37d07956dfa29a2e09e2d94c973bd124698e377acbd46",
+        "interface_checks": [
+          "云吞wonton与普通面粉皮、澄面虾饺的材料边界清楚",
+          "小/大馄饨、抄手和肉燕均保留地域名称范围；不把薄皮等同单一材料",
+          "蛋花图注与正文蛋皮丝举例并非冲突，正文明确配料并非每碗齐全"
+        ],
+        "blocking_findings": []
+      },
+      {
+        "chapter": 21,
+        "source": "chapters/21-rice-balls.md",
+        "read_in_full": true,
+        "source_sha256_at_review": "5be2b4fbfdc066207985967735594bdd3c8b1cfd84e489257d76a6da19fa6780",
+        "interface_checks": [
+          "与第09章包汤圆/滚元宵及地方命名范围一致",
+          "无馅咸汤圆与包馅咸汤圆分别说明，图21-3只代表无馅路线",
+          "黑芝麻/花生/豆沙、宁波地方代表与整个汤圆家族分开，未从图像推配方"
+        ],
+        "blocking_findings": []
+      },
+      {
+        "chapter": 22,
+        "source": "chapters/22-breakfast.md",
+        "read_in_full": true,
+        "source_sha256_at_review": "2e7f89ba901f421aa80504fddc9633c2be290db1a6383b603bf07bb76a6f32fe",
+        "interface_checks": [
+          "与第07章皮馅、皮冻热变化一致；小笼馒头地方有馅名称有脚注",
+          "花卷折层与第12章包油起酥层分开；生煎/水煎包不划全国硬边界",
+          "煎饼馃子与鸡蛋灌饼的浆片/面团及表面蛋/内部蛋区分与现图相符"
+        ],
+        "blocking_findings": []
+      },
+      {
+        "chapter": 23,
+        "source": "chapters/23-street-snacks.md",
+        "read_in_full": true,
+        "source_sha256_at_review": "3088dcd63eaf2d8549aadcd66105c3a207bd366932d8b68027c3f5f727be8ee1",
+        "interface_checks": [
+          "与第08章地区场景、以及第07章材料路线的开放分类一致",
+          "面糊模炸油墩子、包馅面团、熟馍夹熟肉、整米团与粉浆糕体区分清楚",
+          "白吉馍与潼关酥层馍已分开，现图注未把二者混为同款"
+        ],
+        "blocking_findings": []
+      },
+      {
+        "chapter": 24,
+        "source": "chapters/24-world-savory.md",
+        "read_in_full": true,
+        "source_sha256_at_review": "177b9e116ad5381ccb6eb1044c9cb3e69d5c5bf5e67262f830e38946d5020f59",
+        "interface_checks": [
+          "与第07/19章煎蒸饺及再煎路线一致；gyoza/mandu/momo原名不构成全国唯一做法",
+          "与第10/12章发酵面包、层酥、普通包馅饼壳及第14章蛋奶凝固体系边界一致",
+          "pierogi/pelmeni复数及原文字形、pastel地区范围、swede、quiche lardons和focaccia di Recco均有必要限定",
+          "图24-1/2/3标注为选定的水煮土豆鲜奶酪/土豆豌豆炸/烤牛肉款，不拿代表图定义全部家族"
+        ],
+        "blocking_findings": []
+      }
+    ],
+    "blocking_findings": [],
+    "minor_clarity_findings": [
+      {
+        "chapter": 24,
+        "heading": "Pierogi与pelmeni：皮馅关系与上桌后的第二次加热",
+        "observation": "标题列出熟馅/生馅对照，正文明确了所选pierogi熟馅，却没有明确所选pelmeni的入皮前馅料处理状态；现文未写错事实，但标题承诺未完全展开。",
+        "suggestion": "可改为“皮馅关系和上桌后的第二次加热”并同步图鉴heading，或另据已核验原始配方补充具体肉馅的生包步骤。",
+        "reported_to_root": true
+      }
+    ]
+  }
+}

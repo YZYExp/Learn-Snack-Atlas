@@ -18,13 +18,13 @@
 
 煎主要强调食物与热锅、油膜接触的一面；炸让食物更多地被热油包围；烤箱则通过热空气、辐射和烤盘接触等方式传热。它们不是相同温度下可互换的按钮。锅贴常通过先后或组合使用水与油，让底部焦脆、其余部分蒸熟；油炸点心则需要处理外壳上色和内部熟化的节奏差。
 
-褐变也有不同机制。美拉德反应涉及还原糖与氨基化合物，焦糖化则与糖受热发生的一系列变化有关。牛奶糖的褐色不能简单全部归为纯糖焦糖化，烤点表面的褐色也不证明它的中心已经烤熟。[资料：Kansas State University，美拉德反应](https://www.k-state.edu/news/wild-west-district/articles/2022/08/the-maillard-reaction.html)；[Exploratorium，焦糖化与奶油糖](https://annex.exploratorium.edu/cooking/bread/caramels-story.html)
+褐变也有不同机制。美拉德反应（Maillard reaction）涉及还原糖与氨基化合物，焦糖化（caramelization）则与糖受热发生的一系列变化有关。[^ch03-browning]牛奶糖的褐色不能简单全部归为纯糖焦糖化，烤点表面的褐色也不证明它的中心已经烤熟。[资料：Kansas State University，美拉德反应](https://www.k-state.edu/news/wild-west-district/articles/2022/08/the-maillard-reaction.html)；[Exploratorium，焦糖化与奶油糖](https://annex.exploratorium.edu/cooking/bread/caramels-story.html)
 
 ## 蓬松不只有酵母这一条路
 
-发酵可产生气体，打发能把空气带进蛋或油脂体系，化学膨松剂在相应条件下释放气体；水受热产生的蒸汽，也能参与膨胀。不同点心可能同时利用几种方式。把蛋糕都说成“发酵了”，或把泡芙空心解释为“酵母发起来”，都会错过关键。
+酵母面团的发酵（fermentation）可以产生使面团膨起的二氧化碳，打发能把空气带进蛋或油脂体系，化学膨松剂在相应条件下释放气体；水受热产生的蒸汽，也能参与膨胀。这些让体积增大的途径可以统称为膨松（leavening），不同点心可能同时利用几种方式。[^ch03-leavening]把蛋糕都说成“发酵了”，或把泡芙空心解释为“酵母发起来”，都会错过关键。
 
-膨胀还需要留下来。面团或面糊既要有容纳气体的能力，也要在合适阶段固定。美国烘焙学会对烘烤的说明，把淀粉变化和蛋白质变性等过程与结构定形联系起来。过早形成硬壳或内部支撑不足，都可能使最终体积和形态不理想；原因仍需结合具体配方判断。[资料：美国烘焙学会，烘烤](https://asbe.org/article/baking/)
+膨胀还需要留下来。面团或面糊既要有容纳气体的能力，也要在合适阶段固定。美国烘焙学会对烘烤的说明，把淀粉变化和蛋白质变性（protein denaturation）等过程与结构定形联系起来。过早形成硬壳或内部支撑不足，都可能使最终体积和形态不理想；原因仍需结合具体配方判断。[资料：美国烘焙学会，烘烤](https://asbe.org/article/baking/)
 
 ## 烤箱里加蒸汽，并不等于把面包蒸熟
 
@@ -36,3 +36,6 @@
 
 看一段制作视频，可以按“准备结构—引入或产生气体—加热固定—冷却调整”记录四个阶段。年糕未必需要显著膨胀，奶冻也可能主要在冷却时定形。这条观察线索允许步骤缺席，不能反过来逼每件食物走同样流程。
 
+[^ch03-browning]: Maillard reaction 常译“美拉德反应”；caramelization 的英式拼法是 caramelisation。两者都能产生褐色和香气，但不能只凭一块点心变褐就断定是哪一种反应，更不能据此判断内部熟度。[资料：堪萨斯州立大学，美拉德反应与焦糖化](https://www.k-state.edu/news/wild-west-district/articles/2022/08/the-maillard-reaction.html)。
+
+[^ch03-leavening]: leavening 也常写作 raising，指使面团或面糊膨松的过程；fermentation 指微生物参与的发酵，二者不能互换。泡芙依赖蒸汽膨胀，蛋糕可利用泡沫或化学膨松，并不因此成为酵母发酵食品。[资料：美国烘焙学会，烘烤](https://asbe.org/article/baking/)。

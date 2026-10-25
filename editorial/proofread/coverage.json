@@ -1,0 +1,228 @@
+{
+  "chapters": [
+    {
+      "chapter": 1,
+      "source": "chapters/01-reading.md",
+      "primary_review": "review-01-06.json",
+      "independent_full_cross_review": "review-13-18.json",
+      "footnotes": 2,
+      "sha256": "9b41f7f15b12fbcf6e404996af63d5c89e6cb71e9c0be493a483a656f6761b6a"
+    },
+    {
+      "chapter": 2,
+      "source": "chapters/02-materials.md",
+      "primary_review": "review-01-06.json",
+      "independent_full_cross_review": "review-13-18.json",
+      "footnotes": 3,
+      "sha256": "32cd9b9ae02d93d70998e3fdb1f0dd825fa8922e6917a7aa7a445dcae95b1500"
+    },
+    {
+      "chapter": 3,
+      "source": "chapters/03-process.md",
+      "primary_review": "review-01-06.json",
+      "independent_full_cross_review": "review-13-18.json",
+      "footnotes": 2,
+      "sha256": "70182f93dcc8282f01335551e19315664b470ff0af6baf91fae3be5763fc2a22"
+    },
+    {
+      "chapter": 4,
+      "source": "chapters/04-texture.md",
+      "primary_review": "review-01-06.json",
+      "independent_full_cross_review": "review-13-18.json",
+      "footnotes": 1,
+      "sha256": "d3c26889ba4a1b7c743212d11f94c3314a85fbdb13284bf00f8a94f8a41ec5b9"
+    },
+    {
+      "chapter": 5,
+      "source": "chapters/05-rice.md",
+      "primary_review": "review-01-06.json",
+      "independent_full_cross_review": "review-13-18.json",
+      "footnotes": 2,
+      "sha256": "5811e218a6b7a029a2418c90729dbfb0093557c6d6383f919f45a4dc3944cc9a"
+    },
+    {
+      "chapter": 6,
+      "source": "chapters/06-chinese-pastry.md",
+      "primary_review": "review-01-06.json",
+      "independent_full_cross_review": "review-13-18.json",
+      "footnotes": 2,
+      "sha256": "cbd2e49d8e390bdb70f41c397a73f1c76bd8ee33f1c3042176b6661a90fb3dff"
+    },
+    {
+      "chapter": 7,
+      "source": "chapters/07-steamed-savory.md",
+      "primary_review": "review-07-12.json",
+      "independent_full_cross_review": "review-19-24.json",
+      "footnotes": 2,
+      "sha256": "61de98a20a17765d5c1eb08cf8c6d4b20001935904e95eb498b9ae61e2d03ca5"
+    },
+    {
+      "chapter": 8,
+      "source": "chapters/08-regional-snacks.md",
+      "primary_review": "review-07-12.json",
+      "independent_full_cross_review": "review-19-24.json",
+      "footnotes": 1,
+      "sha256": "7479c4060bf6df9cb77892c6982eb7fd235e042c116b1cadd11c553b4d8ecb46"
+    },
+    {
+      "chapter": 9,
+      "source": "chapters/09-festivals.md",
+      "primary_review": "review-07-12.json",
+      "independent_full_cross_review": "review-19-24.json",
+      "footnotes": 1,
+      "sha256": "072272ea408b1fec850ae74ef7a0f5084e781ef84dc276aabecfbf73e4f61896"
+    },
+    {
+      "chapter": 10,
+      "source": "chapters/10-bread.md",
+      "primary_review": "review-07-12.json",
+      "independent_full_cross_review": "review-19-24.json",
+      "footnotes": 6,
+      "sha256": "e6331c9da8936bea78a56cbef8adde24eb1439af68d30678458e1bb39938b8d1"
+    },
+    {
+      "chapter": 11,
+      "source": "chapters/11-cakes.md",
+      "primary_review": "review-07-12.json",
+      "independent_full_cross_review": "review-19-24.json",
+      "footnotes": 5,
+      "sha256": "2573228500c2e47a8396c0efd3b5b5bf064fd05402be26aae9cf7e46835ec04e"
+    },
+    {
+      "chapter": 12,
+      "source": "chapters/12-laminated.md",
+      "primary_review": "review-07-12.json",
+      "independent_full_cross_review": "review-19-24.json",
+      "footnotes": 4,
+      "sha256": "dc6c8a8aface99427812cb333956b46cbf2fc2050ec80a16f467384543f00ce2"
+    },
+    {
+      "chapter": 13,
+      "source": "chapters/13-tarts-cookies.md",
+      "primary_review": "review-13-18.json",
+      "independent_full_cross_review": "review-01-06.json",
+      "footnotes": 3,
+      "sha256": "232c0d9e644f0374caa19de7a33d8fc1078f1ca4aa74d8a671d342c58f10c73c"
+    },
+    {
+      "chapter": 14,
+      "source": "chapters/14-cold-sweets.md",
+      "primary_review": "review-13-18.json",
+      "independent_full_cross_review": "review-01-06.json",
+      "footnotes": 5,
+      "sha256": "f57086a8f94853b1fb74a5cab25182e263f1cd551a22472927889ee42eb97d02"
+    },
+    {
+      "chapter": 15,
+      "source": "chapters/15-east-asia.md",
+      "primary_review": "review-13-18.json",
+      "independent_full_cross_review": "review-01-06.json",
+      "footnotes": 5,
+      "sha256": "6e21b9239c0aae2583d11e1bf71faf62a2ad05af4447ccece316524a1834d139"
+    },
+    {
+      "chapter": 16,
+      "source": "chapters/16-world-snacks.md",
+      "primary_review": "review-13-18.json",
+      "independent_full_cross_review": "review-01-06.json",
+      "footnotes": 5,
+      "sha256": "1e0a2ef9534c2569ca4fc87ec4a48d68d064a053cfeab9c157858e85014b7927"
+    },
+    {
+      "chapter": 17,
+      "source": "chapters/17-fusion.md",
+      "primary_review": "review-13-18.json",
+      "independent_full_cross_review": "review-01-06.json",
+      "footnotes": 3,
+      "sha256": "2a52dd8c35de5385e0b4e8c4acb2978ab389002519fbc4ecd5f0bb3486e91e40"
+    },
+    {
+      "chapter": 18,
+      "source": "chapters/18-tasting.md",
+      "primary_review": "review-13-18.json",
+      "independent_full_cross_review": "review-01-06.json",
+      "footnotes": 2,
+      "sha256": "6f9fc09214699f9ae073b1fe5447c5c7287c951742a2ba3d33a60c5318983c52"
+    },
+    {
+      "chapter": 19,
+      "source": "chapters/19-dumplings.md",
+      "primary_review": "review-19-24.json",
+      "independent_full_cross_review": "review-07-12.json",
+      "footnotes": 2,
+      "sha256": "12a70029de760c85917ecd69dfa6bdc48fe50568b45f17b94aeca1200c80db25"
+    },
+    {
+      "chapter": 20,
+      "source": "chapters/20-wontons.md",
+      "primary_review": "review-19-24.json",
+      "independent_full_cross_review": "review-07-12.json",
+      "footnotes": 1,
+      "sha256": "ae638b599911e2ded8d37d07956dfa29a2e09e2d94c973bd124698e377acbd46"
+    },
+    {
+      "chapter": 21,
+      "source": "chapters/21-rice-balls.md",
+      "primary_review": "review-19-24.json",
+      "independent_full_cross_review": "review-07-12.json",
+      "footnotes": 1,
+      "sha256": "5be2b4fbfdc066207985967735594bdd3c8b1cfd84e489257d76a6da19fa6780"
+    },
+    {
+      "chapter": 22,
+      "source": "chapters/22-breakfast.md",
+      "primary_review": "review-19-24.json",
+      "independent_full_cross_review": "review-07-12.json",
+      "footnotes": 1,
+      "sha256": "2e7f89ba901f421aa80504fddc9633c2be290db1a6383b603bf07bb76a6f32fe"
+    },
+    {
+      "chapter": 23,
+      "source": "chapters/23-street-snacks.md",
+      "primary_review": "review-19-24.json",
+      "independent_full_cross_review": "review-07-12.json",
+      "footnotes": 1,
+      "sha256": "3088dcd63eaf2d8549aadcd66105c3a207bd366932d8b68027c3f5f727be8ee1"
+    },
+    {
+      "chapter": 24,
+      "source": "chapters/24-world-savory.md",
+      "primary_review": "review-19-24.json",
+      "independent_full_cross_review": "review-07-12.json",
+      "footnotes": 8,
+      "sha256": "f84257b6bc863857fffde0863dc717b7c7eaf393e87328c7ef0513f294894a00"
+    }
+  ],
+  "appendices": [
+    {
+      "source": "appendices/chinese-index.md",
+      "review": "review-appendices.json",
+      "editor_integration_review": "root",
+      "sha256": "0e4ab254772526769b54101f70bd1d07aa68c2ac000e21f39cf9376838af9f08"
+    },
+    {
+      "source": "appendices/glossary.md",
+      "review": "review-appendices.json",
+      "editor_integration_review": "root",
+      "sha256": "b17e696dc7c5121ccfa6ebd02aac0ad217d0ae9918e959221f346629c9365005"
+    },
+    {
+      "source": "appendices/world-index.md",
+      "review": "review-appendices.json",
+      "editor_integration_review": "root",
+      "sha256": "460a60acc2b894c733d03672ad1ad715b4acd36abe1aa3279ff33fe07c32b099"
+    },
+    {
+      "source": "appendices/photo-credits.md",
+      "review": "review-appendices.json",
+      "editor_integration_review": "root",
+      "sha256": "07dfca49913dd86c3ec1e50c8ac0cc201404f9df017c04c4fb06564642dbe6dc"
+    },
+    {
+      "source": "appendices/scene-guide.md",
+      "review": "review-appendices.json",
+      "editor_integration_review": "root",
+      "sha256": "480346f2e07316cf7f758c3a17dff4476440ba71ab0c4da50b8b71fc722ea063"
+    }
+  ]
+}

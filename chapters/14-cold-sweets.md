@@ -1,6 +1,6 @@
 # 14　凝固、充气与冻结：冷甜点的几条路线
 
-布丁、奶冻、慕斯和冰淇淋都可能装在小杯里，入口也都显得细腻，但杯子掩盖了工艺差别。一份靠蛋凝固，一份靠胶凝体系，一份含有大量细小气泡，另一份把冰晶、空气和未冻结的液体组织在一起。先问“它靠什么站住”，许多名称就不再混乱。
+布丁、奶冻、慕斯和冰淇淋都可能装在小杯里，入口也都显得细腻，但杯子掩盖了工艺差别。在常见版本中，有的主要靠蛋凝固，有的靠胶凝体系，有的含有细小气泡，冷冻甜点又把冰晶、空气和未冻结的液体组织在一起；一件成品也可能结合几条路线。先问“它靠什么站住”，许多名称就不再混乱。
 
 <!-- teaching-art -->
 
@@ -10,9 +10,9 @@
 
 ## 布丁与蛋奶：先把词语放回语境
 
-中文“布丁”常指可用勺舀取的柔软甜点，英语 pudding 的范围却远大于此，不能据此判定所有产品都靠蛋凝固。讨论具体工艺时，用蛋奶凝固、淀粉增稠或胶凝来补充描述更准确。
+中文“布丁”常指可用勺舀取的柔软甜点，英语 pudding 的范围却远大于此，不能据此判定所有产品都靠蛋凝固。[^ch14-custard]讨论具体工艺时，用蛋奶凝固、淀粉增稠或胶凝来补充描述更准确。
 
-Custard 指蛋参与增稠或凝固的蛋奶体系。流动的英式蛋奶酱 crème anglaise，可以作淋酱或其他甜点的基础；烤制的焦糖布丁则形成可脱模的柔软凝胶。并不是名字含 crème 就一定是同一种奶油。糕点奶油 crème pâtissière 还通常借助淀粉增稠，便于填入泡芙或塔壳。[资料：Le Cordon Bleu，Crème Anglaise](https://app.ckbk.com/reference/cuis81374c03s001ss023e002/creme-anglaise)；[King Arthur Baking，Pastry Cream](https://www.kingarthurbaking.com/recipes/pastry-cream-creme-patissiere-recipe)
+英语 custard 在这里指蛋参与增稠或凝固的蛋奶体系。流动的英式蛋奶酱（法语 crème anglaise），可以作淋酱或其他甜点的基础；烤制的焦糖布丁（法语 crème caramel）则形成可脱模的柔软凝胶。并不是名字含 crème 就一定是同一种奶油。糕点奶油（法语 crème pâtissière；英语 pastry cream）还通常借助淀粉增稠，便于填入泡芙或塔壳。[资料：Le Cordon Bleu，Crème Anglaise](https://app.ckbk.com/reference/cuis81374c03s001ss023e002/creme-anglaise)；[King Arthur Baking，Pastry Cream](https://www.kingarthurbaking.com/recipes/pastry-cream-creme-patissiere-recipe)
 
 蛋奶体系追求的是恰当的凝固程度。柔软不等于没熟，结实也不必然更成功；口感目标和食品安全应分别按可靠配方判断。初学时不宜只凭摇晃程度模仿短视频，还应关注材料、分量、加热方式和冷却要求。
 
@@ -35,11 +35,11 @@ AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](
 
 ## 奶冻与巴伐利亚奶油
 
-Panna cotta 的名称意为“煮过的奶油”。今天常见的版本以乳制品和糖构成风味，通过明胶等使其冷藏定形；但也存在使用蛋白等不同路线的配方，不能把“绝对无蛋”写成所有版本的定义。蓝带的公开示例就结合了蛋白奶油层与含明胶的巧克力层。[资料：Le Cordon Bleu，Panna Cotta](https://www.cordonbleu.edu/news/panna-cotta/en)
+意式奶冻（意大利语 panna cotta）的名称意为“煮过的奶油”。[^ch14-panna]今天常见的版本以乳制品和糖构成风味，通过明胶等使其冷藏定形；但也存在使用蛋白等不同路线的配方，不能把“绝对无蛋”写成所有版本的定义。蓝带的公开示例就结合了蛋白奶油层与含明胶的巧克力层。[资料：Le Cordon Bleu，Panna Cotta](https://www.cordonbleu.edu/news/panna-cotta/en)
 
-巴伐利亚奶油 bavarois／Bavarian cream 则常以蛋奶酱为基础，加入胶凝材料并拌入打发奶油。它同时运用凝固与充气，因此既不同于单纯流动的蛋奶酱，也不同于未打入空气的奶冻。[资料：Le Cordon Bleu，Preparing a Classic Bavarois](https://app.ckbk.com/reference/dess51206c03s001ss002e001)
+巴伐利亚奶油（法语 bavarois；英语 Bavarian cream）则常以蛋奶酱为基础，加入胶凝材料并拌入打发奶油。它同时运用凝固与充气，因此既不同于单纯流动的蛋奶酱，也不同于未打入空气的奶冻。[资料：Le Cordon Bleu，Preparing a Classic Bavarois](https://app.ckbk.com/reference/dess51206c03s001ss002e001)
 
-慕斯 mousse 更强调轻盈泡沫的组织，可以由打发奶油、蛋白泡沫或其他体系构成；有的借助明胶，有的利用巧克力等材料冷却后的性质支撑。读到“慕斯”不能直接推断它一定含生蛋，或一定含明胶。购买时若有饮食限制，仍应查看具体配料。
+慕斯（法语 mousse）更强调轻盈泡沫的组织，可以由打发奶油、蛋白泡沫或其他体系构成；有的借助明胶，有的利用巧克力等材料冷却后的性质支撑。读到“慕斯”不能直接推断它一定含生蛋，或一定含明胶。购买时若有饮食限制，仍应查看具体配料。[^ch14-foam]
 
 | 观察路线 | 常见代表 | 需要理解的重点 |
 | --- | --- | --- |
@@ -62,9 +62,9 @@ Panna cotta 的名称意为“煮过的奶油”。今天常见的版本以乳�
 
 冷冻甜点的细腻感，依赖配方与冻结过程共同管理的结构。空气并不只是“偷工减料”的同义词，它也参与形成口感；评价时应结合密度、融化和风味，而不能只追求一勺最重。糖除了带来甜味，也参与影响冻结状态；随意大幅减糖，得到的可能是更硬、更难舀取的成品。
 
-Gelato 通常让人联想到意式冷冻甜点，但不能仅凭名称给所有产品规定相同的脂肪、蛋量和含气量。宾夕法尼亚州立大学的食品科学说明特别指出，意大利内部就有地区差异，在其他市场上以 gelato 出售的产品配方也不一致。比较时，把名称和实际配方、食用温度一起看更可靠。[资料：Penn State，The Difference Between Ice Cream and Gelato](https://www.psu.edu/news/research/story/probing-question-what-difference-between-ice-cream-and-gelato)
+Gelato 是意大利语中冰淇淋的名称，在其他市场通常让人联想到意式冷冻甜点；[^ch14-gelato]不能仅凭名称给所有产品规定相同的脂肪、蛋量和含气量。宾夕法尼亚州立大学的食品科学说明特别指出，意大利内部就有地区差异，在其他市场上以 gelato 出售的产品配方也不一致。比较时，把名称和实际配方、食用温度一起看更可靠。[资料：Penn State，The Difference Between Ice Cream and Gelato](https://www.psu.edu/news/research/story/probing-question-what-difference-between-ice-cream-and-gelato)
 
-Sorbet 通常以水果、水和糖等为基础，不以乳制品为主要结构；sherbet 在美国语境中则常含少量乳成分。它们与冰淇淋的差别是配方和组织，而不只是“清爽版”和“浓厚版”。冷冻酸奶又引入发酵乳风味，不应只按一个酸甜指标分类。[资料：International Dairy Foods Association，What's in the Ice Cream Aisle?](https://www.idfa.org/news-views/media-kits/ice-cream/whats-in-the-ice-cream-aisle)
+雪葩（法语 sorbet，英语也采用此词）通常以水果、水和糖等为基础，不以乳制品为主要结构；sherbet 在美国语境中则常含少量乳成分。[^ch14-sorbet]它们与冰淇淋的差别是配方和组织，而不只是“清爽版”和“浓厚版”。冷冻酸奶又引入发酵乳风味，不应只按一个酸甜指标分类。[资料：International Dairy Foods Association，What's in the Ice Cream Aisle?](https://www.idfa.org/news-views/media-kits/ice-cream/whats-in-the-ice-cream-aisle)
 
 ## 一次容易完成的观察
 
@@ -74,3 +74,13 @@ Sorbet 通常以水果、水和糖等为基础，不以乳制品为主要结构�
 
 把一小份奶冻、一小份慕斯和一小勺冷冻甜点放在各自的小碟上，短时间内观察边缘、勺痕和入口后的变化，并随即食用或按产品要求冷藏。奶冻显示凝胶的整体性，慕斯的勺面可能露出细小气孔，冷冻甜点则随着升温改变硬度。这个对照不用于判断谁“更高级”，而用于把“滑”“轻”“弹”“凉”拆开。现代杯装甜点常把多条路线叠在一起：上层慕斯、下层果冻、底部酥粒。读懂每层，就能理解组合如何工作。
 
+
+[^ch14-custard]: Pudding 是较宽的食品名称，custard 更指向蛋参与的增稠或凝固体系，两词会重叠而非互相替代。Crème anglaise、crème caramel、crème pâtissière 是法语名称，不能把其中的 crème 都译成可打发的鲜奶油。[糕点奶油实例](https://www.kingarthurbaking.com/recipes/pastry-cream-creme-patissiere-recipe)。
+
+[^ch14-panna]: Panna cotta 的名字只说明烹饪传统中的称呼，不能据字面推出所有版本都只靠明胶、绝对无蛋。蓝带所示的双层版本就分别使用蛋白加热凝固与明胶冷凝。[Le Cordon Bleu，Panna Cotta](https://www.cordonbleu.edu/news/panna-cotta/en)。
+
+[^ch14-gelato]: 意大利语 gelato 不是一条全球通行的低脂或低含气量法规。本书在跨市场比较时使用“意式冷冻甜点”作方便说明，仍须看具体配方和地区。宾夕法尼亚州立大学的介绍同时讨论了意大利地区差异及美国市场差异。[Penn State](https://www.psu.edu/news/research/story/probing-question-what-difference-between-ice-cream-and-gelato)。
+
+[^ch14-sorbet]: Sorbet、sherbet 的用法随语言与市场改变；“不以乳制品为主要结构”也不等于对每件商品作出无乳成分或无过敏原保证。购买有饮食限制的产品，仍须看完整配料与接触信息。[冷冻甜点名称比较](https://www.psu.edu/news/research/story/probing-question-what-difference-between-ice-cream-and-gelato)。
+
+[^ch14-foam]: 法语 mousse 强调泡沫；bavarois 与英语 Bavarian cream 对应常见的另一类配方名称。两者有技术交集，却不能把所有慕斯都改名为巴伐利亚奶油。蓝带的一款巧克力慕斯仅用巧克力与打发奶油组成，足以说明慕斯不必一律加入生蛋或明胶。[Le Cordon Bleu，Merveilleux中的巧克力慕斯](https://www.cordonbleu.edu/news/merveilleux-christmas-recipe-2025/en)。

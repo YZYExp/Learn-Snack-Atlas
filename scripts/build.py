@@ -3,13 +3,15 @@
 from pathlib import Path
 from html import escape
 import re,json,zipfile,uuid,datetime,xml.etree.ElementTree as ET
+from urllib.parse import urlsplit,unquote
+from notes import parse_notes,EpubNotes
 R=Path(__file__).resolve().parents[1];B=R/'build';B.mkdir(exist_ok=True)
 meta=json.loads((R/'book.json').read_text())
 chapters=[R/c['source'] for c in meta['chapters']]
 extras=[R/c['source'] for c in meta['appendices']]
 # Collect all reader-facing source links into a derived bibliography.
 refs={}
-for p in chapters:
+for p in chapters+extras:
  for name,url in re.findall(r'(?<!!)\[([^\]]+)\]\((https?://[^\s)]+)\)',p.read_text()):refs.setdefault(url,name)
 bib='# 资料索引\n\n具体事实的来源已放在正文相应位置。以下按书内首次出现顺序汇集链接，便于复查。部分专业资料的全文可能需要订阅，机构网站也可能调整路径。图像分为公开许可实物照片、AI教学示意和原创关系图；实物照片在图旁与图片来源附录分别标注作者、来源和许可。\n\n'
 for i,(url,name) in enumerate(refs.items(),1):bib+=f'{i}. [{name}]({url})\n\n'
@@ -23,7 +25,7 @@ for p in files:
   if not (p.parent/link.split('#')[0]).exists():errors.append(f'{p.name}: {link}')
 assert not errors,errors
 # The source uses headings, paragraphs, simple lists, tables, images and links.
-def inline(s,p):
+def inline(s,p,notes=None):
  tokens=[]
  def item(m):
   is_image,label,target=m.groups()
@@ -37,6 +39,10 @@ def inline(s,p):
    value=f'<a href="{escape(target,quote=True)}">{escape(label)}</a>'
   tokens.append(value);return f'@@TOKEN{len(tokens)-1}@@'
  s=re.sub(r'(!?)\[([^\]]*)\]\(([^)]+)\)',item,s)
+ if notes:
+  def reference(m):
+   tokens.append(notes.reference(m[1]));return f'@@TOKEN{len(tokens)-1}@@'
+  s=re.sub(r'\[\^([^\]\n]+)\]',reference,s)
  s=escape(s)
  s=re.sub(r'\*\*([^*]+)\*\*',r'<strong>\1</strong>',s)
  s=re.sub(r'`([^`]+)`',r'<code>\1</code>',s)
@@ -44,31 +50,35 @@ def inline(s,p):
  return s
 
 def markdown(s,p):
- lines=re.sub(r'<!--.*?-->','',s,flags=re.S).splitlines();out=[];i=0
+ parsed_notes=parse_notes(s,str(p.relative_to(R)));notes=EpubNotes(parsed_notes)
+ render=lambda value:inline(value,p,notes)
+ lines=re.sub(r'<!--.*?-->','',parsed_notes.body,flags=re.S).splitlines();out=[];i=0
  while i<len(lines):
   line=lines[i].strip()
   if not line:i+=1;continue
   h=re.match(r'^(#{1,4})\s+(.*)',line)
   if h:
-   n=len(h[1]);out.append(f'<h{n}>{inline(h[2],p)}</h{n}>');i+=1;continue
+   n=len(h[1]);out.append(f'<h{n}>{render(h[2])}</h{n}>');i+=1;continue
   if line.startswith('|') and i+1<len(lines) and re.match(r'^\|[\s:|\-]+\|$',lines[i+1].strip()):
    rows=[line]+lines[i+2:];table=[line];i+=2
    while i<len(lines) and lines[i].strip().startswith('|'):table.append(lines[i].strip());i+=1
    out.append('<table>')
    for j,row in enumerate(table):
-    tag='th' if j==0 else 'td';out.append('<tr>'+''.join(f'<{tag}>{inline(v.strip(),p)}</{tag}>' for v in row.strip('|').split('|'))+'</tr>')
+    tag='th' if j==0 else 'td';out.append('<tr>'+''.join(f'<{tag}>{render(v.strip())}</{tag}>' for v in row.strip('|').split('|'))+'</tr>')
    out.append('</table>');continue
   if re.match(r'^(?:[-*]|\d+\.)\s+',line):
-   out.append('<p class="list-item">'+inline(line,p)+'</p>');i+=1;continue
+   out.append('<p class="list-item">'+render(line)+'</p>');i+=1;continue
   para=[line];i+=1
   while i<len(lines) and lines[i].strip() and not lines[i].startswith(('#','|')):para.append(lines[i].strip());i+=1
-  value=inline(' '.join(para),p)
+  value=render(' '.join(para))
   cl='figure' if '<img ' in value else 'caption' if (re.match(r'^图\d',para[0]) or para[0].startswith(('实物照片：','AI生成示意：'))) else ''
   out.append(f'<p class="{cl}">{value}</p>')
+ out.append(notes.render(lambda value:inline(value,p)))
  return '\n'.join(out)
 css='''body{font-family:serif;line-height:1.85;color:#303a39;margin:5%;}h1{font-size:1.6em;line-height:1.4;color:#85482e;page-break-before:always;}h2{font-size:1.18em;line-height:1.5;margin-top:1.7em;}p{text-align:justify;}a{color:#815134;overflow-wrap:anywhere;}img{max-width:100%;height:auto;}p.figure{text-align:center;break-inside:avoid;}p.caption{font-size:.8em;color:#666;line-height:1.6;margin-bottom:2em;}table{border-collapse:collapse;width:100%;font-size:.78em;table-layout:fixed;line-height:1.55;}th,td{border:1px solid #cfc9bc;padding:.5em;overflow-wrap:anywhere;vertical-align:top;}th{background:#eee9dd;}code{font-family:monospace;} .subtitle{color:#8b694d;}'''
+css+=' .footnotes{border-top:1px solid #cfc9bc;margin-top:2em;font-size:.85em}.footnotes h2{font-size:1.1em}.footnotes p{text-align:left}sup{line-height:0}.note-number{font-weight:bold}'
 ns='http://www.w3.org/1999/xhtml'
-def page(title,body):return f'<?xml version="1.0" encoding="utf-8"?><html xmlns="{ns}" xml:lang="zh-CN"><head><title>{escape(title)}</title><link rel="stylesheet" type="text/css" href="../style.css"/></head><body>{body}</body></html>'
+def page(title,body):return f'<?xml version="1.0" encoding="utf-8"?><html xmlns="{ns}" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="zh-CN"><head><title>{escape(title)}</title><link rel="stylesheet" type="text/css" href="../style.css"/></head><body>{body}</body></html>'
 image_index=json.loads((R/'editorial/image-index.json').read_text())
 image_files=sorted({(R/x['file']).resolve() for x in image_index})
 image_counts={kind:sum(x.get('kind')==kind for x in image_index) for kind in ['licensed photograph','AI-generated teaching illustration','original diagram']}
@@ -85,7 +95,7 @@ for i,(title,href) in enumerate(titles):manifest.append(f'<item id="c{i}" href="
 for i,p in enumerate(image_files):
  href='assets/images/'+p.name;entries['OEBPS/'+href]=p.read_bytes();mime='image/png' if p.suffix.lower()=='.png' else 'image/jpeg';manifest.append(f'<item id="im{i}" href="{href}" media-type="{mime}"/>')
 uid=str(uuid.uuid5(uuid.NAMESPACE_URL,'book:dimsum-atlas:2026-10-25'))
-entries['OEBPS/content.opf']=f'''<?xml version="1.0" encoding="utf-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="book-id"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="book-id">urn:uuid:{uid}</dc:identifier><dc:title>{meta['title']}：{meta['subtitle']}</dc:title><dc:language>zh-CN</dc:language><dc:description>{meta['description']}</dc:description><meta property="dcterms:modified">2026-10-24T16:20:00Z</meta></metadata><manifest>{''.join(manifest)}</manifest><spine>{''.join(spine)}</spine></package>'''
+entries['OEBPS/content.opf']=f'''<?xml version="1.0" encoding="utf-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="book-id"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="book-id">urn:uuid:{uid}</dc:identifier><dc:title>{meta['title']}：{meta['subtitle']}</dc:title><dc:language>zh-CN</dc:language><dc:description>{meta['description']}</dc:description><meta property="dcterms:modified">{datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')}</meta></metadata><manifest>{''.join(manifest)}</manifest><spine>{''.join(spine)}</spine></package>'''
 entries['META-INF/container.xml']='<?xml version="1.0"?><container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"><rootfiles><rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/></rootfiles></container>'
 out=B/'Dimsum-Atlas.epub'
 with zipfile.ZipFile(out,'w',zipfile.ZIP_DEFLATED) as z:
@@ -97,14 +107,23 @@ with zipfile.ZipFile(out) as z:
  assert z.infolist()[0].filename=='mimetype' and z.infolist()[0].compress_type==0
  assert not z.testzip()
  from posixpath import normpath,dirname,join
- for name in z.namelist():
-  if not name.endswith('.xhtml'):continue
-  tree=ET.fromstring(z.read(name))
+ documents={name:ET.fromstring(z.read(name)) for name in z.namelist() if name.endswith('.xhtml')}
+ identifiers={}
+ for name,tree in documents.items():
+  ids=[elem.get('id') for elem in tree.iter() if elem.get('id')]
+  assert len(ids)==len(set(ids)),('Duplicate XHTML id',name)
+  identifiers[name]=set(ids)
+ for name,tree in documents.items():
   for elem in tree.iter():
    for attr in ('href','src'):
-    v=elem.get(attr)
-    if v and not v.startswith(('http://','https://','#')):
-     target=normpath(join(dirname(name),v.split('#')[0]));assert target in z.namelist(),(name,v,target)
+    value=elem.get(attr)
+    if not value:continue
+    url=urlsplit(value)
+    if url.scheme or url.netloc:continue
+    target=normpath(join(dirname(name),unquote(url.path))) if url.path else name
+    assert target in z.namelist(),(name,value,target)
+    if url.fragment and target in identifiers:
+     assert unquote(url.fragment) in identifiers[target],('Broken EPUB fragment',name,value)
 # README is generated from canonical chapter manifest.
 readme=f'# {meta["title"]}\n\n## {meta["subtitle"]}\n\n{meta["description"]}\n\n{meta["edition"]}。{len(chapters)}章知识读本；甜咸兼收，以原料、工艺、口感和生活场景解释代表品种。不是覆盖世界全部点心的穷尽目录，也不是逐项实作配方集。\n\n'
 part=None
@@ -118,5 +137,5 @@ existing=(R/'README.md').read_text() if (R/'README.md').exists() else ''
 if '\n## 网页阅读与发布' in existing:
  readme+=existing[existing.index('\n## 网页阅读与发布'):]
 (R/'README.md').write_text(readme)
-report={'chapters':len(chapters),'appendices':len(extras),'illustrations':len(image_files),'image_kind_counts':image_counts,'sources':len(refs),'body_han_characters':sum(len(re.findall(r'[\u4e00-\u9fff]',p.read_text())) for p in chapters),'epub_bytes':out.stat().st_size,'checks':['chapter manifest and local links','EPUB XML well-formedness','EPUB internal href/src resolution','ZIP integrity and first mimetype entry']}
+report={'chapters':len(chapters),'appendices':len(extras),'illustrations':len(image_files),'image_kind_counts':image_counts,'sources':len(refs),'footnotes':sum(len(parse_notes(p.read_text(),str(p)).order) for p in files),'body_han_characters':sum(len(re.findall(r'[\u4e00-\u9fff]',p.read_text())) for p in chapters),'epub_bytes':out.stat().st_size,'checks':['chapter manifest and local links','EPUB XML well-formedness','EPUB internal href/src and fragment resolution','ZIP integrity and first mimetype entry']}
 (B/'validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps(report,ensure_ascii=False))

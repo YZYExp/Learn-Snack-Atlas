@@ -1,0 +1,375 @@
+{
+  "scope": "chapters 19–24, full prose and figure-caption reading; targeted terminology and claim verification",
+  "chapters": [
+    {
+      "chapter": 19,
+      "file": "chapters/19-dumplings.md",
+      "fully_read": true,
+      "changes": [
+        "修复跨节指代：酸汤水饺并非紧接的下一节。",
+        "补澄面的小麦淀粉对应原词，区分小麦淀粉与面粉。",
+        "给生粉地方用语保留边界，避免擅自统一粉种。"
+      ],
+      "unresolved": []
+    },
+    {
+      "chapter": 20,
+      "file": "chapters/20-wontons.md",
+      "fully_read": true,
+      "changes": [
+        "补菜单原文wonton；不把地域名称对应改写成配方等同。"
+      ],
+      "unresolved": []
+    },
+    {
+      "chapter": 21,
+      "file": "chapters/21-rice-balls.md",
+      "fully_read": true,
+      "changes": [
+        "给“粄”加读字与米食语境注释，保留地方原名。"
+      ],
+      "unresolved": []
+    },
+    {
+      "chapter": 22,
+      "file": "chapters/22-breakfast.md",
+      "fully_read": true,
+      "changes": [
+        "解释“小笼馒头”地方原称，避免和前文无馅馒头冲突。",
+        "核验并采用可访问的非遗项目正文地址。"
+      ],
+      "unresolved": []
+    },
+    {
+      "chapter": 23,
+      "file": "chapters/23-street-snacks.md",
+      "fully_read": true,
+      "changes": [
+        "补粢饭地方原称；不以字面误推米种。",
+        "统一粢饭糕名称。"
+      ],
+      "unresolved": []
+    },
+    {
+      "chapter": 24,
+      "file": "chapters/24-world-savory.md",
+      "fully_read": true,
+      "changes": [
+        "首次正文给出日语原写与长音转写，保留常见检索拼法。",
+        "补韩语原文及中文解释，不误标英语原名。",
+        "为momo补中文检索提示，明确是所引资料用字而非英语起源。",
+        "补中文解释与波兰语原名，解释复数和具体馅料称呼。",
+        "明确fresh cheese具体原词，避免读者自动换成黄色硬奶酪。",
+        "补俄文原写并改用语言教育机构的定义来源。",
+        "为samosa补中文名，并限定为来源中通用拼写。",
+        "补巴西葡语名称的语境，避免和广义糕点混同。",
+        "去除生图导向表述，改为食品结构解释。",
+        "补empanada原语言及常见复数。",
+        "补pasty的中文与英语原词。",
+        "将swede准确原词与实际引文对应，消除只写turnip造成的材料歧义。",
+        "补sausage roll中文结构解释，区别于热狗面包。",
+        "补quiche中文说明和法语语言身份。",
+        "修正lardons不宜一概限定为烟熏猪肉，并注明洛林原名。",
+        "补意大利语原文，明确发酵描述针对热那亚式而不是所有同名支线。",
+        "补Recco地名与原文，并给同名异结构必要注释。",
+        "观察练习明确所选focaccia款式，避免与刚讲的Recco支线混淆。"
+      ],
+      "unresolved": []
+    }
+  ],
+  "terms": [
+    {
+      "zh": "澄面／小麦淀粉",
+      "original": "wheat starch",
+      "language": "英语",
+      "chapter": 19,
+      "note_id": "ch19-wheat-starch",
+      "explanation": "淀粉皮原料；区别于普通小麦面粉。",
+      "source_url": "https://thewoksoflife.com/har-gow/"
+    },
+    {
+      "zh": "云吞",
+      "original": "wonton",
+      "language": "英语通用写法",
+      "chapter": 20,
+      "note_id": "ch20-wonton",
+      "explanation": "英语菜单检索名，不据此统一各地馄饨配方。",
+      "source_url": "https://www.fehd.gov.hk/english/pleasant_environment/tidy_market/market_goods.pdf"
+    },
+    {
+      "zh": "粄",
+      "original": "粄（普通话 bǎn）",
+      "language": "汉语米食用字／地方名称",
+      "chapter": 21,
+      "note_id": "ch21-ban",
+      "explanation": "米制糕食用字；普通话注音不代替客家各腔读音。",
+      "source_url": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=45713"
+    },
+    {
+      "zh": "日式饺子",
+      "original": "餃子／gyōza（常写 gyoza）",
+      "language": "日语及其拉丁字母转写",
+      "chapter": 24,
+      "note_id": "ch24-gyoza",
+      "explanation": "以煎制款为本节代表，非名称的全部范围。",
+      "source_url": "https://www.utsunomiya-cvb.org/spot/detail_10020.html"
+    },
+    {
+      "zh": "韩国饺子",
+      "original": "만두／mandu",
+      "language": "韩语及其拉丁字母转写",
+      "chapter": 24,
+      "note_id": "ch24-mandu",
+      "explanation": "多种馅料与熟制方式的家族名。",
+      "source_url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178964"
+    },
+    {
+      "zh": "莫莫",
+      "original": "momo",
+      "language": "尼泊尔旅游资料的拉丁字母写法",
+      "chapter": 24,
+      "note_id": null,
+      "explanation": "本章认识的包馅食品，不凭收口褶将其视为小笼包。",
+      "source_url": "https://photo.ntb.gov.np/photo/6508/momo"
+    },
+    {
+      "zh": "波兰饺子",
+      "original": "pierogi（单数 pieróg）",
+      "language": "波兰语",
+      "chapter": 24,
+      "note_id": "ch24-pierogi",
+      "explanation": "本章土豆鲜奶酪款与肉馅饺作对照，不能推广为所有款式。",
+      "source_url": "https://culture.pl/en/work/polish-food-101-pierogi"
+    },
+    {
+      "zh": "鲜凝乳奶酪",
+      "original": "twaróg",
+      "language": "波兰语",
+      "chapter": 24,
+      "note_id": "ch24-pierogi",
+      "explanation": "土豆奶酪馅所用的一类鲜奶酪，不等同于任意黄色硬奶酪。",
+      "source_url": "https://www.gov.pl/web/rolnictwo/pierogi-ruskie-pilznenskie"
+    },
+    {
+      "zh": "俄式小饺",
+      "original": "пельмени／pelmeni",
+      "language": "俄语及其拉丁字母转写",
+      "chapter": 24,
+      "note_id": "ch24-pelmeni",
+      "explanation": "常见肉馅包馅小食，不依外观推断全部馅料或同源。",
+      "source_url": "https://ls.pushkininstitute.ru/lsslovar/?title=%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8/C1-C2"
+    },
+    {
+      "zh": "萨莫萨",
+      "original": "samosa",
+      "language": "所引南亚英语资料通用拼写",
+      "chapter": 24,
+      "note_id": null,
+      "explanation": "南亚包馅小食；本章选北印度土豆豌豆馅炸制代表。",
+      "source_url": "https://chhatarpur.nic.in/en/culinary-delight/samosa/"
+    },
+    {
+      "zh": "巴西炸馅饼",
+      "original": "pastel",
+      "language": "葡萄牙语（巴西用法）",
+      "chapter": 24,
+      "note_id": "ch24-pastel",
+      "explanation": "薄皮包馅炸食，名称的地区语境不可省略。",
+      "source_url": "https://www.goiania.go.gov.br/goianiatur/turismo/roteiros-turisticos/"
+    },
+    {
+      "zh": "恩潘纳达",
+      "original": "empanada（复数 empanadas）",
+      "language": "西班牙语",
+      "chapter": 24,
+      "note_id": null,
+      "explanation": "包馅烤或炸的地区家族，牛肉馅仅为选定实例。",
+      "source_url": "https://www.argentina.gob.ar/jefatura/turismo/viaja-por-argentina/empanadas"
+    },
+    {
+      "zh": "康沃尔馅饼",
+      "original": "Cornish pasty",
+      "language": "英语",
+      "chapter": 24,
+      "note_id": null,
+      "explanation": "D形包馅烘焙地方实例，所引协会配方肉菜生包后一起烤。",
+      "source_url": "https://www.cornishpastyassociation.co.uk/wp-content/uploads/2014/11/Cornish-Pasty-recipe-updated.pdf"
+    },
+    {
+      "zh": "芜菁甘蓝",
+      "original": "swede／rutabaga",
+      "language": "英语",
+      "chapter": 24,
+      "note_id": "ch24-swede",
+      "explanation": "与普通芜菁turnip相关但有区别，地方俗称可能交叉。",
+      "source_url": "https://www.rhs.org.uk/vegetables/swede/grow-your-own"
+    },
+    {
+      "zh": "香肠肉酥卷",
+      "original": "sausage roll",
+      "language": "英语",
+      "chapter": 24,
+      "note_id": null,
+      "explanation": "代表款起酥皮围住香肠肉，不是完整香肠夹发酵面包。",
+      "source_url": "https://www.nationaltrust.org.uk/discover/food/recipes/pies-savoury-treats/pork-sausage-rolls"
+    },
+    {
+      "zh": "法式咸派／洛林咸派",
+      "original": "quiche／quiche lorraine",
+      "language": "法语",
+      "chapter": 24,
+      "note_id": "ch24-quiche",
+      "explanation": "开放式酥底承托蛋奶咸馅，洛林款是具体地方分支。",
+      "source_url": "https://agriculture.gouv.fr/pique-nique-ideal-sur-la-route-de-lest"
+    },
+    {
+      "zh": "带脂肪的猪肉小条或小丁",
+      "original": "lardons",
+      "language": "法语",
+      "chapter": 24,
+      "note_id": "ch24-quiche",
+      "explanation": "带脂肪的猪肉切条或切丁，常见猪腹肉；是否盐腌或烟熏依配方，不能泛指任意瘦肉。",
+      "source_url": "https://agriculture.gouv.fr/pique-nique-ideal-sur-la-route-de-lest"
+    },
+    {
+      "zh": "佛卡夏",
+      "original": "focaccia",
+      "language": "意大利语",
+      "chapter": 24,
+      "note_id": "ch24-focaccia",
+      "explanation": "本段以热那亚发酵面包为代表；Recco薄皮夹奶酪支线结构不同。",
+      "source_url": "https://www.italia.it/en/liguria/things-to-do/11-food-of-liguria"
+    },
+    {
+      "zh": "雷科奶酪薄饼",
+      "original": "focaccia di Recco",
+      "language": "意大利语",
+      "chapter": 24,
+      "note_id": "ch24-focaccia",
+      "explanation": "同名支线使用薄面皮夹奶酪，不应自动推定为热那亚式发酵面包。",
+      "source_url": "https://lidiasitaly.com/recipes/focaccia-di-recco/"
+    }
+  ],
+  "footnote_policy": "First useful body occurrence; one-line definitions at chapter end; stable ASCII IDs; headings and figure alt/captions left unchanged.",
+  "cross_review": {
+    "chapters": [
+      1,
+      2
+    ],
+    "fully_read": true,
+    "findings": [
+      "第01章已把饺子馄饨包点的范围接到19—24章，兼任主食与点心身份无冲突。",
+      "第02章面筋、澄粉/小麦淀粉与糊化区分，与第19章澄面皮说明一致。",
+      "第02章泛称“米粉”须靠上下文区分粉料与米粉条，当前为粉料段落，无冲突。"
+    ],
+    "unresolved": []
+  },
+  "verified_sources": [
+    {
+      "url": "https://www.gov.pl/web/rolnictwo/pierogi-ruskie-pilznenskie",
+      "supports": "twaróg与土豆鲜奶酪馅、地方版本"
+    },
+    {
+      "url": "https://culture.pl/en/work/polish-food-101-pierogi",
+      "supports": "pierogi复数、pieróg单数与名称语境"
+    },
+    {
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178964",
+      "supports": "만두与mandu对应原写"
+    },
+    {
+      "url": "https://ls.pushkininstitute.ru/lsslovar/?title=%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8/C1-C2",
+      "supports": "俄文原写、无酵面皮包馅且不局限某一肉馅"
+    },
+    {
+      "url": "https://www.cornishpastyassociation.co.uk/wp-content/uploads/2014/11/Cornish-Pasty-recipe-updated.pdf",
+      "supports": "原料swede与生肉菜包烤；较强面皮"
+    },
+    {
+      "url": "https://www.rhs.org.uk/vegetables/turnips/grow-your-own",
+      "supports": "英国部分地区swede也称turnip，俗称不可替代精确材料名"
+    },
+    {
+      "url": "https://agriculture.gouv.fr/pique-nique-ideal-sur-la-route-de-lest",
+      "supports": "quiche lorraine列蛋、奶油与lardons"
+    },
+    {
+      "url": "https://www.dictionnaire-academie.fr/article/A9L0337",
+      "supports": "lardon词义不一概指定烟熏处理"
+    },
+    {
+      "url": "https://lidiasitaly.com/recipes/focaccia-di-recco/",
+      "supports": "雷科薄皮夹奶酪配方不含酵母，与热那亚式不同"
+    },
+    {
+      "url": "https://www.ihchina.cn/project_details/14647.html",
+      "supports": "小笼馒头地方名称有馅、不发酵皮与肉皮冻"
+    },
+    {
+      "url": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=45713",
+      "supports": "粄米制糕点用字及普通话读音"
+    },
+    {
+      "url": "https://thewoksoflife.com/har-gow/",
+      "supports": "wheat starch与其他淀粉组合成虾饺皮"
+    },
+    {
+      "url": "https://www.fehd.gov.hk/english/pleasant_environment/tidy_market/market_goods.pdf",
+      "supports": "雲吞与wonton英语名称对应"
+    }
+  ],
+  "notes_count": 14,
+  "cross_review_full": {
+    "chapters": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "all_fully_read": true,
+    "method": "读取修订后全文，包括所有图注、表格、来源和章末脚注；与19—24术语和分类对照。",
+    "chapter_findings": [
+      {
+        "chapter": 7,
+        "result": "外皮四路线、锅贴煎蒸与已熟再煎、肉皮冻汤汁和澄面原词，与19/22一致；包子蓬松用了常见范围限定，不排斥非发酵小笼。"
+      },
+      {
+        "chapter": 8,
+        "result": "yum cha/点心、地区场景和抄手的甜咸范围，与20/23一致；不把点心限定为零食。"
+      },
+      {
+        "chapter": 9,
+        "result": "元宵滚粉、汤圆包制与21一致；文化解释与起源证据分开，现有实物图的身份限定适当。"
+      },
+      {
+        "chapter": 10,
+        "result": "enriched dough、brioche、pretzel、concha/pan dulce、bulk fermentation/final proof原词身份与家族边界清楚。最后发酵与烘烤定形的一句话可进一步精确。"
+      },
+      {
+        "chapter": 11,
+        "result": "sponge/génoise/chiffon/黄油蛋糕/cheesecake区分与24蛋奶咸派没有冲突；奶油与蛋泡沫打发对象已分开。"
+      },
+      {
+        "chapter": 12,
+        "result": "lamination、pâte feuilletée/pâte à choux和含酵母可颂的区分，与19淀粉皮和22花卷非起酥一致。发现糖化表面用词应修正。"
+      }
+    ],
+    "issues_reported_to_root": [
+      {
+        "chapter": 12,
+        "severity": "terminology",
+        "text": "蝴蝶酥的糖化表面",
+        "suggestion": "改带糖上色的表面或烘烤后的糖层；避免将糖化与糖层烘烤上色混用。"
+      },
+      {
+        "chapter": 10,
+        "severity": "minor_causal_precision",
+        "text": "最后发酵与烘烤再把形状固定",
+        "suggestion": "最后发酵继续发展体积，烘烤再使组织和形状固定。"
+      }
+    ],
+    "edited_other_chapters": false
+  }
+}

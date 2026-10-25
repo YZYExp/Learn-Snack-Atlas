@@ -31,7 +31,7 @@
 | 可颂 croissant | 发酵面团包油擀折，兼有发酵孔洞和层次 | 表皮薄片与内部组织分别观察 | [第十二章](../chapters/12-laminated.md) |
 | 巧克力面包 pain au chocolat | 可颂类发酵起酥面团与巧克力组合 | 识别基础面团，再看巧克力与面团的比例 | [第十二章](../chapters/12-laminated.md) |
 | 丹麦点心 Danish | 发酵起酥面团配水果、蛋奶馅等 | 看边框层次、底部与湿馅之间的协调 | [第十二章](../chapters/12-laminated.md) |
-| 蝴蝶酥 palmier | 不发酵千层酥折叠成形，配合糖烘烤 | 折叠线、紧密薄层和糖化表面 | [第十二章](../chapters/12-laminated.md) |
+| 蝴蝶酥 palmier | 不发酵千层酥折叠成形，配合糖烘烤 | 折叠线、紧密薄层和烘烤后的糖层 | [第十二章](../chapters/12-laminated.md) |
 | 拿破仑、千层酥夹点 mille-feuille | 烤成的酥片与湿润夹层交替组装 | 切开后的片层与夹馅；食用方式影响评价 | [第十二章](../chapters/12-laminated.md) |
 | 闪电泡芙 éclair | 熟面糊加蛋后挤成长条，靠蒸气鼓起 | 外壳内侧与空腔，不是包油产生的千层 | [第十二章](../chapters/12-laminated.md) |
 | 奶酪泡芙 gougère | 泡芙面糊加入奶酪形成咸点 | 比较咸香外壳与内部空间，泡芙不只指奶油圆球 | [第十二章](../chapters/12-laminated.md) |
@@ -44,10 +44,10 @@
 | 柠檬塔 | 酸甜柠檬馅与酥底组合 | 酸味、馅的细腻度和壳的支撑 | [第十三章](../chapters/13-tarts-cookies.md) |
 | 双层苹果派 | 上下派皮包围水果馅，一起烘烤 | 底皮熟度、果馅汁水与上皮是否协调 | [第十三章](../chapters/13-tarts-cookies.md) |
 | 南瓜派 | 派壳与柔软的南瓜馅组成 | 名称与外形之外，仍要分别看壳和馅 | [第十三章](../chapters/13-tarts-cookies.md) |
-| 咸派 quiche | 酥皮承托蛋奶咸馅，常需安排壳馅烘烤顺序 | 馅料细腻度、底皮是否熟透 | [第十三章](../chapters/13-tarts-cookies.md) |
+| 咸派 quiche | 常见短酥底壳承托蛋奶咸馅，常需安排壳馅烘烤顺序 | 馅料细腻度、底皮是否熟透 | [第十三章](../chapters/13-tarts-cookies.md) |
 | 黄油酥饼 shortbread | 以油脂香与易咬断的酥松组织为特点 | 断裂和碎屑，不只比较硬度 | [第十三章](../chapters/13-tarts-cookies.md) |
 | 巧克力豆曲奇 | 小饼面团加入巧克力，可脆可软韧 | 分开看边缘、中心和摊开程度 | [第十三章](../chapters/13-tarts-cookies.md) |
-| Biscotti | 常见整条烤制、切片后再烤的路线 | 干燥组织与蘸饮后的变化 | [第十三章](../chapters/13-tarts-cookies.md) |
+| 意式脆饼 biscotti（此处英语食谱用法） | 常见整条烤制、切片后再烤的路线 | 意大利语biscotti也可泛称饼干，不能由词本身认定二次烤制 | [第十三章](../chapters/13-tarts-cookies.md) |
 
 ## 凝固与冷冻甜点
 
@@ -68,10 +68,10 @@
 | --- | --- | --- | --- |
 | 大福 daifuku | 软韧米制外皮包馅 | 将皮的黏韧和馅的绵密分开观察 | [第十五章](../chapters/15-east-asia.md) |
 | 团子 dango | 米粉调制熟化成形，粉类与配比有差异 | 柔软、紧实与咀嚼感，不仅看串起的形状 | [第十五章](../chapters/15-east-asia.md) |
-| 羊羹 yōkan | 常由豆沙和凝胶体系形成可切块组织 | 切面、凝胶感与豆沙细腻度 | [第十五章](../chapters/15-east-asia.md) |
-| 最中 monaka | 脆壳与豆馅组合 | 壳馅口感反差，同样用豆也不等于米团 | [第十五章](../chapters/15-east-asia.md) |
-| 练切 nerikiri | 可塑豆沙面团，经调色与塑形成形 | 细腻化散、季节造型；不是雕刻完整米糕 | [第十五章](../chapters/15-east-asia.md) |
-| 韩国松饼 songpyeon | 带馅半月形米糕，经蒸制完成 | 外皮、芝麻或豆类馅与香气分开看；并非 pancake | [第十五章](../chapters/15-east-asia.md) |
+| 羊羹（羊羹／yōkan） | 豆沙为基础，煉羊羹常由寒天凝固，蒸羊羹可由面粉等支撑 | 先辨煉制与蒸制路线，再看断面与口感 | [第十五章](../chapters/15-east-asia.md) |
+| 最中（最中／monaka） | 脆壳与豆馅组合 | 壳馅口感反差，同样用豆也不等于米团 | [第十五章](../chapters/15-east-asia.md) |
+| 练切（練り切り／nerikiri） | 可塑豆沙面团，经调色与塑形成形 | 细腻化散、季节造型；不是雕刻完整米糕 | [第十五章](../chapters/15-east-asia.md) |
+| 松片／韩式松饼（송편／songpyeon） | 带馅半月形米糕，经蒸制完成 | 外皮、芝麻或豆类馅与香气分开看；并非 pancake | [第十五章](../chapters/15-east-asia.md) |
 | 九层糕 | 米粉、淀粉等调浆，逐层蒸制的点心类型 | 观察层与层的连接、断裂，不按颜色推断全部配料 | [第十五章](../chapters/15-east-asia.md) |
 | 红龟粿 ang ku kueh | 糕团外皮包馅，以模具压出纹样 | 模印、外皮延展与内馅对照 | [第十五章](../chapters/15-east-asia.md) |
 | 椰糖椰丝卷 | 薄煎皮卷包椰糖椰丝馅 | 薄皮与卷馅结构，区别于整体蒸成的糕 | [第十五章](../chapters/15-east-asia.md) |
@@ -105,11 +105,11 @@
 
 | 品名 | 主导原料与工艺 | 辨认线索及差异 | 回查 |
 |---|---|---|---|
-| Gyoza 日式煎饺 | 代表款小麦皮包馅后煎蒸 | 地方与煮制版本仍存在 | [第24章](../chapters/24-world-savory.md) |
-| Mandu 韩国饺子 | 饺皮与复合馅的多种蒸煮煎做法 | 并非全部都是泡菜馅 | [第24章](../chapters/24-world-savory.md) |
+| 日式饺子 餃子／gyōza | 代表款小麦皮包馅后煎蒸 | 地方与煮制版本仍存在 | [第24章](../chapters/24-world-savory.md) |
+| 韩国饺子 만두／mandu | 饺皮与复合馅的多种蒸煮煎做法 | 并非全部都是泡菜馅 | [第24章](../chapters/24-world-savory.md) |
 | Momo 莫莫 | 喜马拉雅地区等的包馅蒸煮食品 | 地区、皮馅与调味各有差异 | [第24章](../chapters/24-world-savory.md) |
 | Pierogi 波兰饺子 | 代表款熟土豆鲜奶酪等馅包皮水煮 | 可再煎，甜咸馅都有 | [第24章](../chapters/24-world-savory.md) |
-| Pelmeni 俄式小饺 | 常见生肉馅包小麦皮后煮制 | 不能仅用形状与pierogi划界 | [第24章](../chapters/24-world-savory.md) |
+| 俄式小饺 пельмени／pelmeni | 常见生肉馅包小麦皮后煮制 | 不能仅用形状与pierogi划界 | [第24章](../chapters/24-world-savory.md) |
 | Samosa 萨莫萨 | 代表款土豆豌豆馅配炸脆外壳 | 三角外形不是所有地区的硬定义 | [第24章](../chapters/24-world-savory.md) |
 | Pastel 巴西炸馅饼 | 代表款薄皮压边包馅后炸 | 薄壳与较大内部空间 | [第24章](../chapters/24-world-savory.md) |
 | Empanada 恩潘纳达 | 包馅烤或炸的地区家族 | 牛肉、蛋、洋葱是选定实例 | [第24章](../chapters/24-world-savory.md) |

@@ -1,0 +1,59 @@
+{
+  "chapters_reviewed": 24,
+  "chapters_with_independent_full_second_read": 24,
+  "appendices_reviewed": 5,
+  "terminology_entries": 123,
+  "footnotes": 68,
+  "unit_tests": 5,
+  "website": {
+    "pages": 33,
+    "chapters": 24,
+    "book_images": 93,
+    "atlas_cards": 40,
+    "broken_resources": 0,
+    "footnotes": 68,
+    "independent_home": true,
+    "paginated_atlas": true,
+    "ebook_export_ran": false,
+    "optimized_image_bytes": 15082508
+  },
+  "epub": {
+    "chapters": 24,
+    "appendices": 5,
+    "illustrations": 93,
+    "image_kind_counts": {
+      "licensed photograph": 27,
+      "AI-generated teaching illustration": 55,
+      "original diagram": 11
+    },
+    "sources": 218,
+    "footnotes": 68,
+    "body_han_characters": 54106,
+    "epub_bytes": 121832928,
+    "checks": [
+      "chapter manifest and local links",
+      "EPUB XML well-formedness",
+      "EPUB internal href/src and fragment resolution",
+      "ZIP integrity and first mimetype entry"
+    ]
+  },
+  "browser": {
+    "viewports": [
+      1440,
+      390
+    ],
+    "chapter_views": 48,
+    "verified_round_trips": 82,
+    "backlink_text": "返回正文",
+    "unrendered_footnote_syntax": false,
+    "broken_targets": 0,
+    "page_overflow": false,
+    "glossary_overflow": false,
+    "console_errors": 0
+  },
+  "epub_semantics": {
+    "noterefs": 68,
+    "footnotes": 68,
+    "all_internal_fragments_checked": true
+  }
+}

@@ -8,6 +8,7 @@ import argparse,json,os,re,shutil
 from io import BytesIO
 import markdown
 from PIL import Image,ImageOps
+from notes import parse_notes
 ROOT=Path(__file__).resolve().parents[1]
 p=argparse.ArgumentParser();p.add_argument('--output',default='_site');p.add_argument('--epub',type=Path);args=p.parse_args()
 OUT=(ROOT/args.output).resolve();assert OUT.parent==ROOT and OUT!=ROOT
@@ -17,7 +18,7 @@ entries=[dict(e) for key in ('frontmatter','chapters','appendices','backmatter')
 entries.append({'source':'references/reading-sources.md','title':'资料索引','slug':'reading-sources'})
 by_source={e['source']:e for e in entries}
 for e in entries:
- e['url']=str(Path(e['source']).with_suffix('.html'));e['text']=(ROOT/e['source']).read_text();e['headings']=re.findall(r'^## (.+)$',e['text'],re.M)
+ e['url']=str(Path(e['source']).with_suffix('.html'));e['text']=(ROOT/e['source']).read_text();e['headings']=re.findall(r'^## (.+)$',e['text'],re.M);e['notes']=parse_notes(e['text'],e['source']);e['text']=e['notes'].markdown()
 images={}
 for e in entries:
  for url in re.findall(r'!\[[^\]]*\]\(([^)]+)\)',e['text']):
@@ -98,7 +99,7 @@ atlas+='</div><label class="search"><span>查找点心</span><input id="atlas-se
 data=json.dumps(cards,ensure_ascii=False).replace('</','<\\/');page('atlas.html','点心图鉴',atlas,'atlas',f'<script id="atlas-data" type="application/json">{data}</script><script src="atlas.js" defer></script>')
 def book_nav(current,prefix):return ''.join(f'<a href="{prefix}{e["url"]}"'+(' aria-current="page"' if e['source']==current else '')+f'>{(e.get("id","")[2:]+"　") if e.get("id","").startswith("ch") else ""}{escape(e["title"])}</a>' for e in entries)
 for index,e in enumerate(entries):
- source=Path(e['source']);prefix='../'*(len(source.parts)-1);body=markdown.markdown(e['text'],extensions=['extra','toc','sane_lists']);body=re.sub(r'<!--.*?-->','',body,flags=re.S)
+ source=Path(e['source']);prefix='../'*(len(source.parts)-1);body=markdown.markdown(e['text'],extensions=['extra','toc','sane_lists'],extension_configs={'extra':{'footnotes':{'BACKLINK_TEXT':'返回正文','BACKLINK_TITLE':'返回注释%d的引用处'}}});body=re.sub(r'<!--.*?-->','',body,flags=re.S)
  body=re.sub(r'href="([^"?#]+)\.md([?#][^"]*)?"',lambda m:'href="'+m[1]+'.html'+(m[2] or '')+'"',body);section=[0]
  def heading(m):section[0]+=1;return f'<h2 id="section-{section[0]}">{m[1]}</h2>'
  body=re.sub(r'<h2(?: [^>]*)?>(.*?)</h2>',heading,body,flags=re.S)
@@ -107,7 +108,11 @@ for index,e in enumerate(entries):
  body=re.sub(r'<img\b[^>]*>',image,body)
  body=re.sub(r'<p>(<img\b[^>]*>)</p>\s*<p>(图.*?)</p>',lambda m:f'<figure>{m[1]}<figcaption>{m[2]}</figcaption></figure>',body,flags=re.S)
  body=re.sub(r'<p>((?:实物照片：|AI生成示意：).*?)</p>',r'<p class="image-credit">\1</p>',body,flags=re.S);body=body.replace('<table>','<div class="table-wrap"><table>').replace('</table>','</table></div>')
- toc='<details class="local-toc"><summary>本章内容</summary><ul>'+''.join(f'<li><a href="#section-{i+1}">{escape(title)}</a></li>' for i,title in enumerate(e['headings']))+'</ul></details>';nav='<nav class="chapter-nav" aria-label="章节导航">'
+ if e['notes'].order:
+  body=re.sub(r'<div class="footnote">(.*?)</div>',lambda m:'<section class="footnotes" id="chapter-notes" aria-labelledby="chapter-notes-title"><h2 id="chapter-notes-title">本章注释</h2>'+m[1].replace('<hr />','')+'</section>',body,flags=re.S)
+  body=re.sub(r'<a class="footnote-ref"', '<a role="doc-noteref" class="footnote-ref"',body)
+  body=re.sub(r'<a class="footnote-backref"', '<a role="doc-backlink" class="footnote-backref"',body)
+ toc='<details class="local-toc"><summary>本章内容</summary><ul>'+''.join(f'<li><a href="#section-{i+1}">{escape(title)}</a></li>' for i,title in enumerate(e['headings']))+('<li><a href="#chapter-notes">本章注释（'+str(len(e['notes'].order))+'）</a></li>' if e['notes'].order else '')+'</ul></details>';nav='<nav class="chapter-nav" aria-label="章节导航">'
  for dest,label in ((index-1,'上一章'),(index+1,'下一章')):
   if 0<=dest<len(entries):target=entries[dest];nav+=f'<a href="{prefix}{target["url"]}"><small>{label}</small>{escape(target["title"])}</a>'
   else:nav+='<span></span>'
@@ -117,7 +122,9 @@ class Check(HTMLParser):
  def __init__(self):super().__init__();self.links=[];self.ids=set();self.h1=0
  def handle_starttag(self,tag,attrs):
   a=dict(attrs)
-  if a.get('id'):self.ids.add(a['id'])
+  if a.get('id'):
+   assert a['id'] not in self.ids,('Duplicate HTML id',a['id'])
+   self.ids.add(a['id'])
   if tag=='h1':self.h1+=1
   for key in ('href','src'):
    if a.get(key):self.links.append(a[key])
@@ -132,4 +139,4 @@ for f,c in parsed.items():
   target=(f.parent/unquote(u.path)).resolve() if u.path else f;assert target.is_relative_to(OUT) and target.is_file(),('Broken resource',f,value)
   if u.fragment and target in parsed:assert unquote(u.fragment) in parsed[target].ids,('Broken section',f,value)
 assert not any('editorial/' in f.read_text() for f in OUT.rglob('*.html'))
-summary={'pages':len(parsed),'chapters':len(book['chapters']),'book_images':len(images),'atlas_cards':len(cards),'broken_resources':0,'independent_home':True,'paginated_atlas':True,'ebook_export_ran':False,'optimized_image_bytes':sum(p.stat().st_size for p in image_dir.iterdir())};(OUT/'build-summary.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2));print(json.dumps(summary,ensure_ascii=False))
+summary={'pages':len(parsed),'chapters':len(book['chapters']),'book_images':len(images),'atlas_cards':len(cards),'broken_resources':0,'footnotes':sum(len(e['notes'].order) for e in entries),'independent_home':True,'paginated_atlas':True,'ebook_export_ran':False,'optimized_image_bytes':sum(p.stat().st_size for p in image_dir.iterdir())};(OUT/'build-summary.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2));print(json.dumps(summary,ensure_ascii=False))
