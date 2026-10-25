@@ -244,3 +244,115 @@
 
 121. [来源：FDA，Food Allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)
 
+122. [资料：国家民委，饺子的地域形态与历史称呼](https://www.neac.gov.cn/seac/c103391/202301/1160441.shtml)
+
+123. [品种与工艺参照](https://www.consumer.org.hk/sc/article/581-dumplings/581-dumplings-dumpling-overview)
+
+124. [资料：哈尔滨日报，酸菜饺子与冬季生活](https://harbin.joyhua.cn/hebrb/20260209/mhtml/page_07_content_20260209008001.htm)
+
+125. [资料：南京市地方志办，贡院西街小吃名店](https://dfz.nanjing.gov.cn/gzdt/202404/t20240429_4655828.html)
+
+126. [资料：西安科普网，酸汤水饺](https://www.xakpw.com/single/17503)
+
+127. [资料：T/CZSPTXH 175—2021《潮州菜 潮州粉粿烹饪工艺规范》](https://www.ndls.org.cn/standard/detail/8d1856d666938463eab135f7355eae19)
+
+128. [资料：内蒙古新闻网，莜面饮食制作技艺](https://inews.nmgnews.com.cn/system/2022/02/10/013263960.shtml)
+
+129. [资料：香港专业进修学校，馄饨的地域称呼](https://www.hkct.edu.hk/sc/abouthkct/media-centre/press-release/column-20211006)
+
+130. [品种与工艺参照](https://english.shanghai.gov.cn/en-GlobalTasteinShanghai2026-LocalFlavors/20260605/81483538821d4e7ebfb82b5c8267c946.html)
+
+131. [资料：上海市政府，冷馄饨](https://english.shanghai.gov.cn/en-Staple-travelinshanghai/20240531/5ec4073ca768464d8bff75e41e47e405.html)
+
+132. [资料：米其林指南，香港云吞面实例](https://guide.michelin.com/hk/zh_HK/best-of/best-wonton-noodles-hong-kong)
+
+133. [资料：商务部老字号数字博物馆，龙抄手制作工艺](https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/8236b3b91b554e27b8120caa19bd4f47)
+
+134. [资料：闽侯县政府，后福肉燕制作](https://www.minhou.gov.cn/xjwz/mlmh/mytc/202206/t20220621_4383035.htm)
+
+135. [资料：福州市政府，肉燕与太平燕](https://www.fuzhou.gov.cn/zgfzzt/zjrc/mdfc/lswh/202210/t20221026_4457433.htm)
+
+136. [资料：湖南省市场监督管理局，元宵节食用元宵（汤圆）消费提示](https://amr.hunan.gov.cn/amr/ztx/cjxxx/202202/t20220214_22481086.html)
+
+137. [代表实例资料：中国宁波网，黑芝麻与猪油组成的宁波汤圆馅](https://news.cnnb.com.cn/system/2024/11/22/030631525.shtml)
+
+138. [资料：宁波市非物质文化遗产网，宁波汤团制作技艺](https://www.ihningbo.cn/directory/show/60)
+
+139. [资料：中国宁波网，冬至习俗与浆板称谓](https://news.cnnb.com.cn/system/2021/12/20/030314576.shtml)
+
+140. [资料：客家委员会客家文化发展中心，张富香客家粄圆](https://cloud.hakka.gov.tw/Details?p=86653&pid=290111)
+
+141. [资料：农业知识入口网，客家咸汤圆](https://kmweb.moa.gov.tw/knowledgebase.php?func=2&id=427631&keyword=&type=13222)
+
+142. [资料：新北市政府，猪肉客家大汤圆](https://www.ntpc.gov.tw/ch/home.jsp?dataserno=a5ee7d3ab5182889a4aa10049fd929de&id=e8ca970cde5c00e1)
+
+143. [资料：客家委员会，食食客客·客家米食](https://webc.hakka.gov.tw/findhakkafood/rice_list_chs.html)
+
+144. [资料：安琪酵母中式面点，葱油花卷](https://dimsum.angelyeast.com/contents/4131/83017.html)
+
+145. [原始食谱实例：The Woks of Life，肉包](https://thewoksoflife.com/steamed-pork-buns-baozi/)
+
+146. [原始食谱实例：菜包及蔬菜馅去水](https://thewoksoflife.com/steamed-vegetable-buns/)
+
+147. [原始食谱实例：The Woks of Life，发面豆沙包](https://thewoksoflife.com/steamed-red-bean-buns/)
+
+148. [资料：中国非物质文化遗产网，南翔小笼馒头制作技艺](https://www.ihchina.cn/Article/Index/detail?id=14647)
+
+149. [配方实例：The Woks of Life，Xiaolongbao，肉皮冻与肉馅的配合](https://thewoksoflife.com/steamed-shanghai-soup-dumplings-xiaolongbao/)
+
+150. [资料：上海市民政局转载《上海老年报》，老字号集体搬家](https://mzj.sh.gov.cn/lnb-xw/20260113/492b829efb374c35953724c97036d5b4.html)
+
+151. [资料：泰安市人民政府，泰山水煎包](https://www.taian.gov.cn/art/2011/2/23/art_50707_4347941.html)
+
+152. [品种与工艺参照](https://thewoksoflife.com/shanghai-pan-fried-pork-buns-shengjian-mantou/)
+
+153. [资料：中国非物质文化遗产网，缙云烧饼制作技艺](https://www.ihchina.cn/project_details/23791.html)
+
+154. [资料：央广网，天津煎饼果子入选市级非物质文化遗产名录](https://travel.cnr.cn/list/20170613/t20170613_523797954.shtml)
+
+155. [资料：宁夏回族自治区农业农村厅，银川早餐清单](https://nynct.nx.gov.cn/rdzt/ppny/202504/t20250423_4889342.html)
+
+156. [资料：天津市文化和旅游局，天津早餐地图](https://whly.tj.gov.cn/TJSWHHLYJ/gabsycs/gzdtgh/202306/t20230620_6327085.html)
+
+157. [资料：中国潮州美食网，潮州春卷](https://www.czcityofgastronomy.com/detail/1467)
+
+158. [资料：盐城市人民政府，盐城油端子](https://www.yancheng.gov.cn/art/2023/9/21/art_34163_4060455.html)
+
+159. [资料：上观新闻，上海葱油饼的制作流程实例](https://www.shobserver.cn/wx/detail.do?id=801962)
+
+160. [资料：湖北日报客户端，公安美食之锅盔](https://news.hubeidaily.net/pc/c_2356889.html)
+
+161. [资料：商务部老字号数字博物馆，樊记](https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/f1b29e1774c04ec690cdab178e18f8ba)
+
+162. [资料：陕西省非物质文化遗产网，潼关肉夹馍](https://www.sxfycc.com/home/Index/library_detail.html?id=524)
+
+163. [资料：新民晚报，粢饭的生活实例](https://paper.xinmin.cn/html/xmwb/2020-03-27/22/63416.html)
+
+164. [资料：湖南省文化和旅游厅，Tang You Baba](https://whhlyt.hunan.gov.cn/whhlyt/english/TourismInRegions/Changsha/Food/202205/t20220527_24655444.html)
+
+165. [资料：日本国家旅游局，Utsunomiya Dumplings](https://www.japan.travel/en/spot/293/)
+
+166. [资料：韩国旅游发展局，Street Food Loved by Koreans](https://english.visitkorea.or.kr/svc/thingsToDo/foodTrip/special_view.do?vcontsId=184669)
+
+167. [资料：首尔官方旅游，Ribuk Sonmandu](https://english.visitseoul.net/restaurants/Ribuk-Sonmandu1/ENP006014)
+
+168. [资料：尼泊尔旅游局图片平台，Momo](https://photo.ntb.gov.np/photo/6508/momo)
+
+169. [资料：波兰亚当·密茨凯维奇学院Culture.pl，Podstawy polskiej kuchni: pierogi](https://culture.pl/pl/artykul/podstawy-polskiej-kuchni-pierogi)
+
+170. [资料：波兰农业与农村发展部，Pierogi ruskie pilzneńskie](https://www.gov.pl/web/rolnictwo/pierogi-ruskie-pilznenskie)
+
+171. [资料：King Arthur Baking，Pierogi课程](https://www.kingarthurbaking.com/baking-school/classes/online/pierogi)
+
+172. [资料：Pelmeni Club，Dumplings菜单](https://pelmeni-club.com/menu/dumplings/)
+
+173. [资料：戈亚尼亚市旅游局，Roteiros Turísticos](https://www.goiania.go.gov.br/goianiatur/turismo/roteiros-turisticos/)
+
+174. [资料：Cornish Pasty Association，Cornish Pasty Recipe](https://www.cornishpastyassociation.co.uk/wp-content/uploads/2014/11/Cornish-Pasty-recipe-updated.pdf)
+
+175. [资料：National Trust，Pork sausage rolls](https://www.nationaltrust.org.uk/discover/food/recipes/pies-savoury-treats/pork-sausage-rolls)
+
+176. [资料：法国农业部，Pique-nique idéal : sur la route de l’Est](https://agriculture.gouv.fr/pique-nique-ideal-sur-la-route-de-lest)
+
+177. [资料：Italia.it，Traditional Food of Liguria](https://www.italia.it/en/liguria/things-to-do/11-food-of-liguria)
+

@@ -56,15 +56,24 @@ for c in config['cards']:
 def food_card(c):
  image=img_tag(c['image_name'],c['title']+'，AI教学示意')
  return f'<article class="food-card"><a href="{c["href"]}"><div class="picture">{image}<span class="kind">AI教学示意</span></div><div class="copy"><span class="category-name">{c["group"]} · 第{c["chapter"]:02d}章</span><h3>{escape(c["title"])}</h3><p>{escape(c["description"])}</p></div></a></article>'
+def count_index_rows(text):
+ count=0
+ for line in text.splitlines():
+  if not line.startswith('|'):continue
+  first=line.split('|')[1].strip()
+  if first and not first.startswith('品名') and not set(first)<=set('- :'):count+=1
+ return count
+index_count=sum(count_index_rows((ROOT/'appendices'/name).read_text()) for name in ('chinese-index.md','world-index.md'))
 hero=next((c for c in cards if c['id']==config['hero_id']),cards[0])
-home=f'<main id="reading" class="wrap"><section class="hero"><div class="hero-copy"><span class="eyebrow">中西传统与新式点心图鉴</span><h1>从一口点心，<br>读懂<em>风味与工艺。</em></h1><p>米的糯、面的松、酥皮的层次，每一种口感都有来处。从熟悉的小吃出发，认识不同地方的点心与日常生活。</p><div class="actions"><a class="button primary" href="{book["chapters"][0]["source"].replace(".md",".html")}">开始阅读 <span aria-hidden="true">→</span></a><a class="button" href="atlas.html">先看点心图鉴</a></div></div><figure class="hero-visual">{img_tag(hero["image_name"],hero["title"]+"，AI教学示意",eager=True)}<span class="visual-tag">风味观察 · {escape(hero["title"])}</span><figcaption>AI教学示意 · {escape(hero["description"])}</figcaption></figure></section><div class="stats"><div class="stat"><strong>{len(book["chapters"])}</strong><span>章知识读本</span></div><div class="stat"><strong>{len(images)}</strong><span>幅随书图解</span></div><div class="stat"><strong>100</strong><span>条代表点心索引</span></div></div>'
-category_data=[('01','米糕与中式点心','从糕、团、粿，到酥饼与一笼咸点。',5),('02','面包与烘焙','发酵、打发、起酥，让组织走向不同。',10),('03','世界的点心传统','米、豆、椰、坚果与糖浆的多种相遇。',15),('04','原料与口感','先理解材料，再辨认糯、酥、松与滑。',2)]
-home+='<section class="section"><div class="section-head"><div><span class="eyebrow">从熟悉的一类进入</span><h2>点心的四个入口</h2></div><a class="text-link" href="contents.html">查看完整目录 →</a></div><div class="categories">'
+home=f'<main id="reading" class="wrap"><section class="hero"><div class="hero-copy"><span class="eyebrow">中西传统与新式点心图鉴</span><h1>从一口点心，<br>读懂<em>风味与工艺。</em></h1><p>米的糯、面的松、酥皮的层次，每一种口感都有来处。从熟悉的小吃出发，认识不同地方的点心与日常生活。</p><div class="actions"><a class="button primary" href="{book["chapters"][0]["source"].replace(".md",".html")}">开始阅读 <span aria-hidden="true">→</span></a><a class="button" href="atlas.html">先看点心图鉴</a></div></div><figure class="hero-visual">{img_tag(hero["image_name"],hero["title"]+"，AI教学示意",eager=True)}<span class="visual-tag">风味观察 · {escape(hero["title"])}</span><figcaption>AI教学示意 · {escape(hero["description"])}</figcaption></figure></section><div class="stats"><div class="stat"><strong>{len(book["chapters"])}</strong><span>章知识读本</span></div><div class="stat"><strong>{len(images)}</strong><span>幅随书图解</span></div><div class="stat"><strong>{index_count}</strong><span>条代表点心索引</span></div></div>'
+category_data=[('01','饺子与馄饨','家常、汤食与锅贴的皮馅变化。',19),('02','汤圆与米食','甜馅、无馅圆子与咸汤的不同。',21),('03','早餐与街食','一笼包点、一张薄饼与一份小食。',22),('04','面包与烘焙','发酵、打发、起酥，让组织走向不同。',10),('05','世界的点心传统','从米豆椰甜点，到烤炸包馅。',24),('06','原料与口感','先理解材料，再辨认糯、酥、松与滑。',2)]
+home+='<section class="section"><div class="section-head"><div><span class="eyebrow">从熟悉的一类进入</span><h2>选择一条阅读路线</h2></div><a class="text-link" href="contents.html">查看完整目录 →</a></div><div class="categories">'
 for num,title,desc,ch in category_data:
  url=next(e['url'] for e in entries if e.get('id')==f'ch{ch:02d}')
  home+=f'<a class="category" href="{url}"><span class="number">{num}</span><h3>{title}</h3><p>{desc}</p><span class="arrow" aria-hidden="true">↗</span></a>'
 home+='</div></section><section class="section"><div class="section-head"><div><span class="eyebrow">先看外形，再认识里面</span><h2>典型点心，先看一眼</h2><p>成形、切面与皮馅关系，让不同品种的特点更清楚。</p></div><a class="text-link" href="atlas.html">浏览全部图鉴 →</a></div><div class="food-grid">'
 home+=''.join(food_card(next(c for c in cards if c['id']==key)) for key in config['home_ids'])+'</div><p class="note">本区插图均为AI教学示意。各章同时保留有出处的实物照片与知识来源。</p></section>'
+home+='<section class="scene-entry"><h2>今天，想从哪一餐开始？</h2><p>早餐、家常、茶点、节令与夜宵，沿着熟悉的场景找品种。</p><a class="button" href="appendices/scene-guide.html">按用餐场景阅读 →</a></section>'
 home+='<section class="section"><div class="routes"><div><span class="eyebrow">按你的兴趣阅读</span><h2>认一个品种，<br>也看懂一种做法。</h2><p>可以从头逐章读，也可以沿着品种、工艺或地方传统进入。每一章都保留图注与资料，方便继续比较。</p></div><div class="route-list">'
 for num,title,desc,url in [('01','想认品种','用图鉴寻找外形与名称，再进入对应小节。','atlas.html'),('02','想理解口感','从粉、水、油、糖、蛋与馅的作用开始。','chapters/02-materials.html'),('03','想系统读完','沿完整目录，走过基础、地区、工艺与日常应用。','contents.html')]:home+=f'<a href="{url}"><span class="route-num">{num}</span><span><strong>{title}</strong><small>{desc}</small></span><span aria-hidden="true">→</span></a>'
 home+='</div></div></section></main>';page('index.html','首页',home,'home')

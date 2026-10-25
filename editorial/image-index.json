@@ -1879,5 +1879,281 @@
     "sha256": "ce3b3f79dd1732b4ce4fc2a18a75ed6a670d5782c42aa91778122eeeb8255892",
     "visual_review_file": "editorial/pr-world-image-review.json",
     "visual_checked": true
+  },
+  {
+    "id": "exp-jiaozi",
+    "file": "assets/images/exp-jiaozi.png",
+    "chapter": 19,
+    "heading": "从家常水饺建立基准",
+    "caption": "图19-1　水饺代表外观：闭合月牙面皮与菜肉馅切面并置。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://www.consumer.org.hk/sc/article/581-dumplings/581-dumplings-dumpling-overview",
+    "sha256": "3e2b32678b83426d8fcaf383b7ba5203ed8e1b472978e5c4f2bc3fc34c623ab4",
+    "visual_checked": true,
+    "review_notes": [
+      "已逐张view_image实际看图。",
+      "月牙形封口、少量褶纹、完整外皮及菜肉切面可辨；不将光泽作为熟度或配方证据。"
+    ]
+  },
+  {
+    "id": "exp-guotie",
+    "file": "assets/images/exp-guotie.png",
+    "chapter": 19,
+    "heading": "蒸饺、煎饺与锅贴：改变接触热量的方式",
+    "caption": "图19-2　煎饺／锅贴代表外观：上部浅色软皮，与翻起后可见的金黄底面形成对照。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://dfz.nanjing.gov.cn/gzdt/202404/t20240429_4655828.html",
+    "sha256": "ebb012f482b84e292178acb0e2fd2428a4e39282bfd57b84882864997902f848",
+    "visual_checked": true,
+    "review_notes": [
+      "已逐张view_image实际看图。",
+      "底部上色而上部仍浅色，至少一只露出完整煎底；没有误画为整只油炸脆壳。",
+      "采用封口月牙代表款，不宣称它是锅贴唯一形制或南京特定店家产品。"
+    ]
+  },
+  {
+    "id": "exp-small-wonton",
+    "file": "assets/images/exp-small-wonton.png",
+    "chapter": 20,
+    "heading": "小馄饨：少量馅心与展开的薄皮",
+    "caption": "图20-1　清汤小馄饨代表外观：薄皮包住少量馅心，余皮在汤中松展，配少量紫菜与蛋花。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://english.shanghai.gov.cn/en-GlobalTasteinShanghai2026-LocalFlavors/20260605/81483538821d4e7ebfb82b5c8267c946.html",
+    "sha256": "d6a9964af6d97421449effee89e73af2f69950b5c92fd81f87c1bc952a7c9b52",
+    "visual_checked": true,
+    "review_notes": [
+      "已对替换版逐张view_image实际复审。",
+      "馅心外有连续浅色薄皮包覆，旧版裸露颗粒肉球已消除；少量馅心与松展余皮形成视觉关系。",
+      "汤中可见的是蛋花而非整齐蛋皮丝，图注据实调整。只表示外观选例，不据图推断配方、熟度或全部地方包法。"
+    ]
+  },
+  {
+    "id": "exp-big-wonton",
+    "file": "assets/images/exp-big-wonton.png",
+    "chapter": 20,
+    "heading": "大馄饨：馅团、蔬菜和折叠的支撑",
+    "caption": "图20-2　菜肉大馄饨代表外观：饱满折叠面皮与绿色蔬菜、肉末相间的馅心。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://english.shanghai.gov.cn/en-GlobalTasteinShanghai2026-LocalFlavors/20260605/81483538821d4e7ebfb82b5c8267c946.html",
+    "sha256": "d70cf4856798ee41e79aa5d177fb4390e15b16264a7ce150e9dd7689ee8811cc",
+    "visual_checked": true,
+    "review_notes": [
+      "已逐张view_image实际看图。",
+      "元宝式折叠承托馅团，前方剖开件可辨皮层和菜肉颗粒，结构可行。",
+      "只称菜肉代表款；静态图无法独立辨认植物品种，不以绿色证明一定为荠菜。"
+    ]
+  },
+  {
+    "id": "exp-chaoshou",
+    "file": "assets/images/exp-chaoshou.png",
+    "chapter": 20,
+    "heading": "清汤抄手与红油抄手：把调味从汤转到表面",
+    "caption": "图20-3　红油抄手代表外观：闭合薄皮包住馅团，折角相接，表面与盘底带有红油调味汁。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/8236b3b91b554e27b8120caa19bd4f47",
+    "sha256": "f0dc31d299ec29d0100a48287fb43e2fa91cb1226c9f47fdb5d67e0654cda6d8",
+    "visual_checked": true,
+    "review_notes": [
+      "已对替换版逐张view_image实际复审。",
+      "馅团表面有完整连续面皮，左右折角相接形成抱合轮廓，旧版敞口肉球问题已消除。",
+      "薄皮厚度和包法有实际变体，本图只表现一种代表外观；不据图判断熟度、红油配方或辣度。"
+    ]
+  },
+  {
+    "id": "exp-sesame-tangyuan",
+    "file": "assets/images/exp-sesame-tangyuan.png",
+    "chapter": 21,
+    "heading": "黑芝麻、花生与豆沙：馅心不仅改变颜色",
+    "caption": "图21-1　黑芝麻汤圆代表款：白色米粉皮包住深色馅心，匙上的分开件显示皮馅关系。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://news.cnnb.com.cn/system/2024/11/22/030631525.shtml",
+    "sha256": "2e73a24ffb331bf728a21cb2854e072e555d05f06fc107d9e5fb68fdb6cfe989",
+    "visual_checked": true,
+    "review_notes": [
+      "实际查看原图：连续白糯皮包围黑色芝麻馅；匙上分开件与碗内整件尺度合理。",
+      "仅示选定外形，不从流动程度推断糖油比例。"
+    ]
+  },
+  {
+    "id": "exp-jiuniang",
+    "file": "assets/images/exp-jiuniang.png",
+    "chapter": 21,
+    "heading": "酒酿小圆子：风味主要在汤里",
+    "caption": "图21-2　酒酿小圆子代表款：无馅小圆子与可见的酒酿米粒同在碗中。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://www.ihningbo.cn/directory/show/60",
+    "sha256": "425fcedac891c8277dacd59b0168d68a4887ac1ece6097a85f99d8252a5f86d7",
+    "visual_checked": true,
+    "review_notes": [
+      "实际查看原图：圆子与汤中酒酿米粒清楚分开，匙上半件无独立馅心。",
+      "汤较稠且酒酿量多是可行代表款，不作为所有酒酿圆子的稠度标准。"
+    ]
+  },
+  {
+    "id": "exp-savory-tangyuan",
+    "file": "assets/images/exp-savory-tangyuan.png",
+    "chapter": 21,
+    "heading": "咸汤圆：咸可以在馅里，也可以在汤里",
+    "caption": "图21-3　无馅咸汤圆的一种代表搭配：圆子与香菇、肉条、虾、蔬菜共同构成咸汤。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://cloud.hakka.gov.tw/Details?p=86653&pid=290111",
+    "sha256": "1d9efeba1f4eb2a34c3abe0b4284288e0496396c8df3dd3d8b650e63fc836d8e",
+    "visual_checked": true,
+    "review_notes": [
+      "实际查看原图：匙上半圆为均匀无馅米团；香菇、肉条、虾与蔬菜位于汤中，未误画为包肉汤圆。",
+      "图中虾较大，不以图推断虾的加工状态；图注仅称虾，正文列虾米为资料中的常见配料，不把两者混同为固定配方。"
+    ]
+  },
+  {
+    "id": "exp-mantou-huajuan",
+    "file": "assets/images/exp-mantou-huajuan.png",
+    "chapter": 22,
+    "heading": "馒头与花卷：从发面本身认识组织",
+    "caption": "图22-1　左为白馒头及其断面，右为葱油花卷；可分别观察发面细孔与柔软卷层。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://dimsum.angelyeast.com/contents/4131/83017.html",
+    "sha256": "c52cac8cd5805b78243dfe4093aee89981645e724743199f4f414f3d4b44e344",
+    "visual_checked": true,
+    "review_notes": [
+      "实际查看原图：左侧白馒头有发面断面，右侧葱油花卷有可辨扭卷层。",
+      "花卷是柔软面层而非烘焙起酥片；未见不连贯层片或馅料混入馒头。"
+    ]
+  },
+  {
+    "id": "exp-bao-fillings",
+    "file": "assets/images/exp-bao-fillings.png",
+    "chapter": 22,
+    "heading": "肉包、菜包、豆沙包：同样包住，馅心任务不同",
+    "caption": "图22-2　从左至右：肉馅包、青菜豆腐包与豆沙包的代表剖面。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://thewoksoflife.com/steamed-pork-buns-baozi/",
+    "sha256": "57d23272c67a77fad561fd44259cc8e72a57f564014485e4d072e772bd130862",
+    "visual_checked": true,
+    "review_notes": [
+      "实际查看原图：从左至右为肉馅、青菜豆腐馅、豆沙馅；三件均由细孔发面皮围住。",
+      "肉菜呈熟制状态，豆沙为颗粒泥状而非巧克力流心，没有汤包式独立大空腔。"
+    ]
+  },
+  {
+    "id": "exp-shengjian-xiaolong",
+    "file": "assets/images/exp-shengjian-xiaolong.png",
+    "chapter": 22,
+    "heading": "生煎与水煎包：锅底和顶部经历了不同的加热",
+    "caption": "图22-3　左为生煎，其中一只翻转露出煎底；右为蒸制小笼包。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://thewoksoflife.com/shanghai-pan-fried-pork-buns-shengjian-mantou/",
+    "sha256": "eeb0e92354c171b90167d0d47c18e467e3a32fa98418f29301a24b8d540c3d2d",
+    "visual_checked": true,
+    "review_notes": [
+      "实际查看原图：左侧生煎保留浅色顶与单面焦底，一只翻转露出煎面；右侧薄皮小笼褶口清楚且无煎底。",
+      "代表外形合理，不由图片确定发酵程度、汤汁量或皮冻配方。"
+    ]
+  },
+  {
+    "id": "exp-jianbing-guanbing",
+    "file": "assets/images/exp-jianbing-guanbing.png",
+    "chapter": 22,
+    "heading": "煎饼馃子与鸡蛋灌饼：蛋放在哪里，说明了不同的路径",
+    "caption": "图22-4　左为用薄片卷裹油条的煎饼馃子；右为鸡蛋灌饼，切口可见饼内的熟蛋层。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://travel.cnr.cn/list/20170613/t20170613_523797954.shtml",
+    "sha256": "c8555b8c551ea6611105cceabe3af0ea1206a639ecd4f1435a232e0624728b72",
+    "visual_checked": true,
+    "review_notes": [
+      "已实际查看重画原图，右侧为较薄圆烙饼，黄白熟蛋呈连续夹层，贴合饼内壁。",
+      "旧图的厚大层酥口袋与蓬松炒蛋团问题已消除；熟蛋位于内部，非只涂在外表。",
+      "左侧薄浆片卷裹双股油条，鸡蛋与葱花位于煎饼表面，代表款合理。",
+      "静态图只展示结果组织，灌蛋动作由正文与真实工艺资料说明，不以此图充当操作证据。"
+    ]
+  },
+  {
+    "id": "exp-springroll",
+    "file": "assets/images/exp-springroll.png",
+    "chapter": 23,
+    "heading": "春卷、春饼与润饼：先辨认皮是否再经油炸",
+    "caption": "图23-1　炸春卷的薄壳与细切蔬菜肉馅。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://www.czcityofgastronomy.com/detail/1467",
+    "sha256": "368b4fee29db148d6ad7b6998adaefb21c0a0f229d9c9165beba901e919a095b",
+    "visual_checked": true,
+    "review_notes": [
+      "原图已查看。长筒卷物、两端折入和切口中的菜丝肉丝关系合理，外层为薄片卷壳，没有透明米纸或厚面包误画。仅以菜肉春卷代表款表述。",
+      "AI外观教学示意；不作为配方、真实熟度和历史事实的证据。"
+    ]
+  },
+  {
+    "id": "exp-radish-fritter",
+    "file": "assets/images/exp-radish-fritter.png",
+    "chapter": 23,
+    "heading": "萝卜丝饼与油墩子：面糊外壳不同于酥皮",
+    "caption": "图23-2　模炸油墩子的面糊壳与萝卜丝馅。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://www.yancheng.gov.cn/art/2023/9/21/art_34163_4060455.html",
+    "sha256": "8c6e22ba4d2d7fe602f91b7ab99ac8b436506ddf5b17080787fc7b7cadec4a88",
+    "visual_checked": true,
+    "review_notes": [
+      "原图已查看。连续面糊炸壳内可辨细长白萝卜丝与葱段，无千层酥片。图为圆模/短筒代表外形，与正文油墩子模炸原理吻合；正文盐城椭圆模是地方实例，不将此图冒充实物照或该地方唯一形状。",
+      "AI外观教学示意；不作为配方、真实熟度和历史事实的证据。"
+    ]
+  },
+  {
+    "id": "exp-roujiamo",
+    "file": "assets/images/exp-roujiamo.png",
+    "chapter": 23,
+    "heading": "肉夹馍：面饼与肉汁共同完成一件食品",
+    "caption": "图23-3　肉夹馍代表外观：带烙斑的白吉馍横切，夹入切碎腊汁肉。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/f1b29e1774c04ec690cdab178e18f8ba",
+    "sha256": "898c48c196c83e46a5169a6cf6bcc48c3b5697557f4b1e443bfe183556c1e5f6",
+    "visual_checked": true,
+    "review_notes": [
+      "已实际view_image复审替换图。旧版明显酥片层已去除；新版馍边及切口呈连续细密面组织，带烙烤斑，夹切碎肉馅，符合正文白吉馍夹肉的代表外观。",
+      "横切夹食关系合理，无汉堡蔬菜、生肉或虚构层酥。只作外观教学，不由生成图推断真实配方、熟度、口感或店家规格。"
+    ]
+  },
+  {
+    "id": "exp-pierogi",
+    "file": "assets/images/exp-pierogi.png",
+    "chapter": 24,
+    "heading": "Pierogi与pelmeni：熟馅、生馅和上桌后的第二次加热",
+    "caption": "图24-1　半月形水煮pierogi，切口露出土豆鲜奶酪馅。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://www.gov.pl/web/rolnictwo/pierogi-ruskie-pilznenskie",
+    "sha256": "41941ba8edf41620bd789427d01b93f01809895c69d4b8672f3f0c24246695ab",
+    "visual_checked": true,
+    "review_notes": [
+      "原图已查看。半月形软白面皮、连续封边与浅色土豆鲜奶酪样馅成立，炒洋葱位于外部。无烤酥层、拉丝黄色奶酪或馅料悬浮。图像本身不证明特定奶酪品种或配方。",
+      "AI外观教学示意；不作为配方、真实熟度和历史事实的证据。"
+    ]
+  },
+  {
+    "id": "exp-samosa",
+    "file": "assets/images/exp-samosa.png",
+    "chapter": 24,
+    "heading": "Samosa与pastel：炸脆外壳有不同的空间",
+    "caption": "图24-2　立体三角炸samosa与土豆豌豆颗粒馅。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://chhatarpur.nic.in/en/culinary-delight/samosa/",
+    "sha256": "5fe55ce106853d4ec1fe4dff242ff368e52fa92dd515c5b25e6869faf64e2956",
+    "visual_checked": true,
+    "review_notes": [
+      "原图已查看。立体三角锥壳有底面和连续折封边，切口显露土豆块与绿色豌豆；不是平面炸片或面包蜂窝。表面鼓泡较明显但在炸点合理范围；不由图推断油温、真实熟度或香料配比。",
+      "AI外观教学示意；不作为配方、真实熟度和历史事实的证据。"
+    ]
+  },
+  {
+    "id": "exp-empanada",
+    "file": "assets/images/exp-empanada.png",
+    "chapter": 24,
+    "heading": "Empanada：半月外形下面，是地区配方",
+    "caption": "图24-3　半月形烤empanada，封边与牛肉洋葱馅。",
+    "kind": "AI-generated teaching illustration",
+    "source_url": "https://www.argentina.gob.ar/jefatura/turismo/viaja-por-argentina/empanadas",
+    "sha256": "5f32616565e2d8271b6baabe1a604cc5edd1ee1ce3ebf2efc96fb0602fe62522",
+    "visual_checked": true,
+    "review_notes": [
+      "原图已查看。烤制半月包、连续压褶封边、牛肉洋葱与少量熟蛋样馅相符；薄壳虽有局部层纹，没有可颂式蜂窝或虚构独立汤池。作为指定烤款示意，不推广为全地区统一版本。",
+      "AI外观教学示意；不作为配方、真实熟度和历史事实的证据。"
+    ]
   }
 ]

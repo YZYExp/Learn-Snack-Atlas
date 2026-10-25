@@ -1,12 +1,12 @@
 {
   "hero_id": "atlas-we-cinnamon-roll",
   "home_ids": [
-    "atlas-cn-songgao",
-    "atlas-cn-taosu-shaobing",
-    "atlas-we-lemon-fruit-tarts",
-    "atlas-we-danish",
-    "atlas-wo-monaka-dorayaki",
-    "atlas-wo-kueh-dadar"
+    "exp-jiaozi",
+    "exp-small-wonton",
+    "exp-sesame-tangyuan",
+    "exp-mantou-huajuan",
+    "exp-springroll",
+    "exp-samosa"
   ],
   "cards": [
     {
@@ -283,6 +283,222 @@
         "商业预拌粉型麻薯烤包的结构示例"
       ],
       "image": "assets/images/atlas-wo-mochi-bread-comparison.png"
+    },
+    {
+      "id": "exp-jiaozi",
+      "title": "家常水饺",
+      "description": "水饺代表外观：闭合月牙面皮与菜肉馅切面并置。",
+      "group": "中式",
+      "chapter": 19,
+      "heading": "从家常水饺建立基准",
+      "objects": [
+        "家常水饺"
+      ],
+      "image": "assets/images/exp-jiaozi.png"
+    },
+    {
+      "id": "exp-guotie",
+      "title": "锅贴",
+      "description": "煎饺／锅贴代表外观：上部浅色软皮，与翻起后可见的金黄底面形成对照。",
+      "group": "中式",
+      "chapter": 19,
+      "heading": "蒸饺、煎饺与锅贴：改变接触热量的方式",
+      "objects": [
+        "锅贴"
+      ],
+      "image": "assets/images/exp-guotie.png"
+    },
+    {
+      "id": "exp-small-wonton",
+      "title": "清汤小馄饨",
+      "description": "清汤小馄饨代表外观：薄皮包住少量馅心，余皮在汤中松展，配少量紫菜与蛋花。",
+      "group": "中式",
+      "chapter": 20,
+      "heading": "小馄饨：少量馅心与展开的薄皮",
+      "objects": [
+        "清汤小馄饨"
+      ],
+      "image": "assets/images/exp-small-wonton.png"
+    },
+    {
+      "id": "exp-big-wonton",
+      "title": "荠菜大馄饨",
+      "description": "菜肉大馄饨代表外观：饱满折叠面皮与绿色蔬菜、肉末相间的馅心。",
+      "group": "中式",
+      "chapter": 20,
+      "heading": "大馄饨：馅团、蔬菜和折叠的支撑",
+      "objects": [
+        "荠菜大馄饨"
+      ],
+      "image": "assets/images/exp-big-wonton.png"
+    },
+    {
+      "id": "exp-chaoshou",
+      "title": "红油抄手",
+      "description": "红油抄手代表外观：闭合薄皮包住馅团，折角相接，表面与盘底带有红油调味汁。",
+      "group": "中式",
+      "chapter": 20,
+      "heading": "清汤抄手与红油抄手：把调味从汤转到表面",
+      "objects": [
+        "红油抄手"
+      ],
+      "image": "assets/images/exp-chaoshou.png"
+    },
+    {
+      "id": "exp-sesame-tangyuan",
+      "title": "黑芝麻汤圆",
+      "description": "黑芝麻汤圆代表款：白色米粉皮包住深色馅心，匙上的分开件显示皮馅关系。",
+      "group": "中式",
+      "chapter": 21,
+      "heading": "黑芝麻、花生与豆沙：馅心不仅改变颜色",
+      "objects": [
+        "黑芝麻汤圆"
+      ],
+      "image": "assets/images/exp-sesame-tangyuan.png"
+    },
+    {
+      "id": "exp-jiuniang",
+      "title": "酒酿小圆子",
+      "description": "酒酿小圆子代表款：无馅小圆子与可见的酒酿米粒同在碗中。",
+      "group": "中式",
+      "chapter": 21,
+      "heading": "酒酿小圆子：风味主要在汤里",
+      "objects": [
+        "酒酿小圆子"
+      ],
+      "image": "assets/images/exp-jiuniang.png"
+    },
+    {
+      "id": "exp-savory-tangyuan",
+      "title": "客家咸汤圆",
+      "description": "无馅咸汤圆的一种代表搭配：圆子与香菇、肉条、虾、蔬菜共同构成咸汤。",
+      "group": "中式",
+      "chapter": 21,
+      "heading": "咸汤圆：咸可以在馅里，也可以在汤里",
+      "objects": [
+        "客家咸汤圆"
+      ],
+      "image": "assets/images/exp-savory-tangyuan.png"
+    },
+    {
+      "id": "exp-mantou-huajuan",
+      "title": "馒头与花卷",
+      "description": "左为白馒头及其断面，右为葱油花卷；可分别观察发面细孔与柔软卷层。",
+      "group": "中式",
+      "chapter": 22,
+      "heading": "馒头与花卷：从发面本身认识组织",
+      "objects": [
+        "馒头与花卷"
+      ],
+      "image": "assets/images/exp-mantou-huajuan.png"
+    },
+    {
+      "id": "exp-bao-fillings",
+      "title": "三种包子馅",
+      "description": "从左至右：肉馅包、青菜豆腐包与豆沙包的代表剖面。",
+      "group": "中式",
+      "chapter": 22,
+      "heading": "肉包、菜包、豆沙包：同样包住，馅心任务不同",
+      "objects": [
+        "三种包子馅"
+      ],
+      "image": "assets/images/exp-bao-fillings.png"
+    },
+    {
+      "id": "exp-shengjian-xiaolong",
+      "title": "生煎与小笼包",
+      "description": "左为生煎，其中一只翻转露出煎底；右为蒸制小笼包。",
+      "group": "中式",
+      "chapter": 22,
+      "heading": "生煎与水煎包：锅底和顶部经历了不同的加热",
+      "objects": [
+        "生煎与小笼包"
+      ],
+      "image": "assets/images/exp-shengjian-xiaolong.png"
+    },
+    {
+      "id": "exp-jianbing-guanbing",
+      "title": "煎饼馃子与鸡蛋灌饼",
+      "description": "左为用薄片卷裹油条的煎饼馃子；右为鸡蛋灌饼，切口可见饼内的熟蛋层。",
+      "group": "中式",
+      "chapter": 22,
+      "heading": "煎饼馃子与鸡蛋灌饼：蛋放在哪里，说明了不同的路径",
+      "objects": [
+        "煎饼馃子与鸡蛋灌饼"
+      ],
+      "image": "assets/images/exp-jianbing-guanbing.png"
+    },
+    {
+      "id": "exp-springroll",
+      "title": "炸春卷",
+      "description": "炸春卷的薄壳与细切蔬菜肉馅。",
+      "group": "中式",
+      "chapter": 23,
+      "heading": "春卷、春饼与润饼：先辨认皮是否再经油炸",
+      "objects": [
+        "炸春卷"
+      ],
+      "image": "assets/images/exp-springroll.png"
+    },
+    {
+      "id": "exp-radish-fritter",
+      "title": "萝卜丝油墩子",
+      "description": "模炸油墩子的面糊壳与萝卜丝馅。",
+      "group": "中式",
+      "chapter": 23,
+      "heading": "萝卜丝饼与油墩子：面糊外壳不同于酥皮",
+      "objects": [
+        "萝卜丝油墩子"
+      ],
+      "image": "assets/images/exp-radish-fritter.png"
+    },
+    {
+      "id": "exp-roujiamo",
+      "title": "肉夹馍",
+      "description": "肉夹馍代表外观：带烙斑的白吉馍横切，夹入切碎腊汁肉。",
+      "group": "中式",
+      "chapter": 23,
+      "heading": "肉夹馍：面饼与肉汁共同完成一件食品",
+      "objects": [
+        "肉夹馍"
+      ],
+      "image": "assets/images/exp-roujiamo.png"
+    },
+    {
+      "id": "exp-pierogi",
+      "title": "Pierogi",
+      "description": "半月形水煮pierogi，切口露出土豆鲜奶酪馅。",
+      "group": "世界",
+      "chapter": 24,
+      "heading": "Pierogi与pelmeni：熟馅、生馅和上桌后的第二次加热",
+      "objects": [
+        "Pierogi"
+      ],
+      "image": "assets/images/exp-pierogi.png"
+    },
+    {
+      "id": "exp-samosa",
+      "title": "Samosa",
+      "description": "立体三角炸samosa与土豆豌豆颗粒馅。",
+      "group": "世界",
+      "chapter": 24,
+      "heading": "Samosa与pastel：炸脆外壳有不同的空间",
+      "objects": [
+        "Samosa"
+      ],
+      "image": "assets/images/exp-samosa.png"
+    },
+    {
+      "id": "exp-empanada",
+      "title": "Empanada",
+      "description": "半月形烤empanada，封边与牛肉洋葱馅。",
+      "group": "世界",
+      "chapter": 24,
+      "heading": "Empanada：半月外形下面，是地区配方",
+      "objects": [
+        "Empanada"
+      ],
+      "image": "assets/images/exp-empanada.png"
     }
   ]
 }

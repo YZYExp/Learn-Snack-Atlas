@@ -1,0 +1,222 @@
+{
+  "scope": "chapters23-24",
+  "chapters": [
+    {
+      "chapter": 23,
+      "file": "chapters/23-street-snacks.md",
+      "coverage": [
+        "炸春卷",
+        "春饼",
+        "润饼",
+        "萝卜丝油墩子",
+        "面团萝卜丝饼",
+        "葱油饼",
+        "公安锅盔",
+        "白吉馍肉夹馍",
+        "潼关肉夹馍",
+        "糯米饭团",
+        "粢饭糕",
+        "煎米粿",
+        "炸糕",
+        "糖油饼",
+        "糖油粑粑"
+      ],
+      "previous_gap": "原地区及世界综述章节欠缺这些食品的独立介绍与具体日常场景，现新增详细比较",
+      "boundary": "不把所有菜肴纳入点心；不由外形推断历史同源"
+    },
+    {
+      "chapter": 24,
+      "file": "chapters/24-world-savory.md",
+      "coverage": [
+        "gyoza",
+        "mandu",
+        "momo",
+        "pierogi",
+        "pelmeni",
+        "samosa",
+        "pastel",
+        "empanada",
+        "Cornish pasty",
+        "sausage roll",
+        "quiche",
+        "focaccia"
+      ],
+      "previous_gap": "原地区及世界综述章节欠缺这些食品的独立介绍与具体日常场景，现新增详细比较",
+      "boundary": "不把所有菜肴纳入点心；不由外形推断历史同源"
+    }
+  ],
+  "sources": [
+    {
+      "title": "资料：中国潮州美食网，潮州春卷",
+      "url": "https://www.czcityofgastronomy.com/detail/1467",
+      "chapter": 23
+    },
+    {
+      "title": "资料：盐城市人民政府，盐城油端子",
+      "url": "https://www.yancheng.gov.cn/art/2023/9/21/art_34163_4060455.html",
+      "chapter": 23
+    },
+    {
+      "title": "资料：上观新闻，上海葱油饼的制作流程实例",
+      "url": "https://www.shobserver.cn/wx/detail.do?id=801962",
+      "chapter": 23
+    },
+    {
+      "title": "资料：湖北日报客户端，公安美食之锅盔",
+      "url": "https://news.hubeidaily.net/pc/c_2356889.html",
+      "chapter": 23
+    },
+    {
+      "title": "资料：商务部老字号数字博物馆，樊记",
+      "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/f1b29e1774c04ec690cdab178e18f8ba",
+      "chapter": 23
+    },
+    {
+      "title": "资料：陕西省非物质文化遗产网，潼关肉夹馍",
+      "url": "https://www.sxfycc.com/home/Index/library_detail.html?id=524",
+      "chapter": 23
+    },
+    {
+      "title": "资料：新民晚报，粢饭的生活实例",
+      "url": "https://paper.xinmin.cn/html/xmwb/2020-03-27/22/63416.html",
+      "chapter": 23
+    },
+    {
+      "title": "资料：湖南省文化和旅游厅，Tang You Baba",
+      "url": "https://whhlyt.hunan.gov.cn/whhlyt/english/TourismInRegions/Changsha/Food/202205/t20220527_24655444.html",
+      "chapter": 23
+    },
+    {
+      "title": "资料：日本国家旅游局，Utsunomiya Dumplings",
+      "url": "https://www.japan.travel/en/spot/293/",
+      "chapter": 24
+    },
+    {
+      "title": "资料：韩国旅游发展局，Street Food Loved by Koreans",
+      "url": "https://english.visitkorea.or.kr/svc/thingsToDo/foodTrip/special_view.do?vcontsId=184669",
+      "chapter": 24
+    },
+    {
+      "title": "资料：首尔官方旅游，Ribuk Sonmandu",
+      "url": "https://english.visitseoul.net/restaurants/Ribuk-Sonmandu1/ENP006014",
+      "chapter": 24
+    },
+    {
+      "title": "资料：尼泊尔旅游局图片平台，Momo",
+      "url": "https://photo.ntb.gov.np/photo/6508/momo",
+      "chapter": 24
+    },
+    {
+      "title": "资料：波兰亚当·密茨凯维奇学院Culture.pl，Podstawy polskiej kuchni: pierogi",
+      "url": "https://culture.pl/pl/artykul/podstawy-polskiej-kuchni-pierogi",
+      "chapter": 24
+    },
+    {
+      "title": "资料：波兰农业与农村发展部，Pierogi ruskie pilzneńskie",
+      "url": "https://www.gov.pl/web/rolnictwo/pierogi-ruskie-pilznenskie",
+      "chapter": 24
+    },
+    {
+      "title": "资料：King Arthur Baking，Pierogi课程",
+      "url": "https://www.kingarthurbaking.com/baking-school/classes/online/pierogi",
+      "chapter": 24
+    },
+    {
+      "title": "资料：Pelmeni Club，Dumplings菜单",
+      "url": "https://pelmeni-club.com/menu/dumplings/",
+      "chapter": 24
+    },
+    {
+      "title": "资料：印度恰塔普尔地区政府，Samosa",
+      "url": "https://chhatarpur.nic.in/en/culinary-delight/samosa/",
+      "chapter": 24
+    },
+    {
+      "title": "资料：戈亚尼亚市旅游局，Roteiros Turísticos",
+      "url": "https://www.goiania.go.gov.br/goianiatur/turismo/roteiros-turisticos/",
+      "chapter": 24
+    },
+    {
+      "title": "资料：阿根廷政府，Empanadas",
+      "url": "https://www.argentina.gob.ar/jefatura/turismo/viaja-por-argentina/empanadas",
+      "chapter": 24
+    },
+    {
+      "title": "资料：Cornish Pasty Association，Cornish Pasty Recipe",
+      "url": "https://www.cornishpastyassociation.co.uk/wp-content/uploads/2014/11/Cornish-Pasty-recipe-updated.pdf",
+      "chapter": 24
+    },
+    {
+      "title": "资料：National Trust，Pork sausage rolls",
+      "url": "https://www.nationaltrust.org.uk/discover/food/recipes/pies-savoury-treats/pork-sausage-rolls",
+      "chapter": 24
+    },
+    {
+      "title": "资料：法国农业部，Pique-nique idéal : sur la route de l’Est",
+      "url": "https://agriculture.gouv.fr/pique-nique-ideal-sur-la-route-de-lest",
+      "chapter": 24
+    },
+    {
+      "title": "资料：Italia.it，Traditional Food of Liguria",
+      "url": "https://www.italia.it/en/liguria/things-to-do/11-food-of-liguria",
+      "chapter": 24
+    }
+  ],
+  "images": [
+    {
+      "id": "exp-springroll",
+      "chapter": 23,
+      "heading": "春卷、春饼与润饼：先辨认皮是否再经油炸",
+      "title": "炸春卷",
+      "caption": "炸春卷的薄壳与细切蔬菜肉馅。",
+      "visual_requirements": "米白背景一盘熟炸长筒春卷，一只切开，薄熟面皮壳，馅为白菜丝和少量熟肉丝，非米纸透明生春卷",
+      "source_url": "https://www.czcityofgastronomy.com/detail/1467"
+    },
+    {
+      "id": "exp-radish-fritter",
+      "chapter": 23,
+      "heading": "萝卜丝饼与油墩子：面糊外壳不同于酥皮",
+      "title": "萝卜丝油墩子",
+      "caption": "模炸油墩子的面糊壳与萝卜丝馅。",
+      "visual_requirements": "椭圆厚炸饼，一只切开，金黄连续糊壳内部细长白萝卜丝，非千层酥壳",
+      "source_url": "https://www.yancheng.gov.cn/art/2023/9/21/art_34163_4060455.html"
+    },
+    {
+      "id": "exp-roujiamo",
+      "chapter": 23,
+      "heading": "肉夹馍：面饼与肉汁共同完成一件食品",
+      "title": "白吉馍肉夹馍",
+      "caption": "白吉馍横切后夹入切碎腊汁肉的组合。",
+      "visual_requirements": "圆形白吉馍有烙斑，侧面横切一侧相连，夹褐色切碎熟肉，无生菜番茄，无汉堡胚",
+      "source_url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/f1b29e1774c04ec690cdab178e18f8ba"
+    },
+    {
+      "id": "exp-pierogi",
+      "chapter": 24,
+      "heading": "Pierogi与pelmeni：熟馅、生馅和上桌后的第二次加热",
+      "title": "土豆鲜奶酪Pierogi",
+      "caption": "半月形水煮pierogi，切口露出土豆鲜奶酪馅。",
+      "visual_requirements": "软白半月面皮，封边清楚，切开一只露浅米白土豆鲜奶酪馅，不画熔化黄色奶酪丝、不画酥皮",
+      "source_url": "https://www.gov.pl/web/rolnictwo/pierogi-ruskie-pilznenskie"
+    },
+    {
+      "id": "exp-samosa",
+      "chapter": 24,
+      "heading": "Samosa与pastel：炸脆外壳有不同的空间",
+      "title": "土豆豌豆Samosa",
+      "caption": "立体三角炸samosa与土豆豌豆颗粒馅。",
+      "visual_requirements": "北印度土豆豌豆熟馅三角锥炸点，非薄片三角薯片；一只切开露黄色土豆块与绿色豌豆",
+      "source_url": "https://chhatarpur.nic.in/en/culinary-delight/samosa/"
+    },
+    {
+      "id": "exp-empanada",
+      "chapter": 24,
+      "heading": "Empanada：半月外形下面，是地区配方",
+      "title": "烤牛肉Empanada",
+      "caption": "半月形烤empanada，封边与牛肉洋葱馅。",
+      "visual_requirements": "金黄烤半月包，边缘连续褶压封，非千层蜂窝；切口牛肉洋葱少量熟鸡蛋，无汤包式水池",
+      "source_url": "https://www.argentina.gob.ar/jefatura/turismo/viaja-por-argentina/empanadas"
+    }
+  ],
+  "status": "text-drafted-images-pending"
+}

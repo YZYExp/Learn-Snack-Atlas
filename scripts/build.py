@@ -77,7 +77,7 @@ titles=[]
 for p in files:
  title=p.read_text().splitlines()[0].lstrip('# ');href=names[p.resolve()];titles.append((title,href))
  entries['OEBPS/'+href]=page(title,markdown(p.read_text(),p))
-entries['OEBPS/text/title.xhtml']=page(meta['title'],f'<h1>{meta["title"]}</h1><h2>{meta["subtitle"]}</h2><p>{meta["edition"]}</p><p>{meta["description"]}</p><p>18章正文、点心索引、工艺词汇与就近资料链接。配图包含公开许可实物照片、AI教学示意和原创关系图；不以生成图作历史或工艺事实的证据。</p>')
+entries['OEBPS/text/title.xhtml']=page(meta['title'],f'<h1>{meta["title"]}</h1><h2>{meta["subtitle"]}</h2><p>{meta["edition"]}</p><p>{meta["description"]}</p><p>{len(chapters)}章正文、点心索引、工艺词汇与就近资料链接。配图包含公开许可实物照片、AI教学示意和原创关系图；不以生成图作历史或工艺事实的证据。</p>')
 nav=''.join(f'<li><a href="{href}">{escape(t)}</a></li>' for t,href in titles)
 entries['OEBPS/nav.xhtml']=f'<?xml version="1.0" encoding="utf-8"?><html xmlns="{ns}" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="zh-CN"><head><title>目录</title></head><body><nav epub:type="toc" id="toc"><h1>目录</h1><ol>{nav}</ol></nav></body></html>'
 manifest=['<item id="css" href="style.css" media-type="text/css"/>','<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>','<item id="title" href="text/title.xhtml" media-type="application/xhtml+xml"/>'];spine=['<itemref idref="title"/>','<itemref idref="nav"/>']
@@ -106,13 +106,13 @@ with zipfile.ZipFile(out) as z:
     if v and not v.startswith(('http://','https://','#')):
      target=normpath(join(dirname(name),v.split('#')[0]));assert target in z.namelist(),(name,v,target)
 # README is generated from canonical chapter manifest.
-readme=f'# {meta["title"]}\n\n## {meta["subtitle"]}\n\n{meta["description"]}\n\n补图修订版：2026-10-25。18章知识读本；甜咸兼收，以原料、工艺、口感和生活场景解释代表品种。不是覆盖世界全部点心的穷尽目录，也不是逐项实作配方集。\n\n'
+readme=f'# {meta["title"]}\n\n## {meta["subtitle"]}\n\n{meta["description"]}\n\n{meta["edition"]}。{len(chapters)}章知识读本；甜咸兼收，以原料、工艺、口感和生活场景解释代表品种。不是覆盖世界全部点心的穷尽目录，也不是逐项实作配方集。\n\n'
 part=None
 for c in meta['chapters']:
  if c['part']!=part:part=c['part'];readme+=f'\n### {part}\n\n'
  readme+=f'- [{c["id"][2:]}　{c["title"]}]({c["source"]})\n'
 readme+='\n### 附录\n\n'+''.join(f'- [{p.read_text().splitlines()[0].lstrip("# ")}]({p.relative_to(R)})\n' for p in extras)
-readme+='\n- [汇总资料索引](references/reading-sources.md)\n\n## 构建与修订\n\nPython 3标准库即可构建EPUB并校验本地资源：\n\n```bash\npython3 scripts/build.py\n```\n\n输出：`build/Dimsum-Atlas.epub`。原始分章Markdown与图片为唯一内容来源。网站从`book.json`与分章内容构建，发布方式见下文。重新绘制关系图需要Pillow及中文字体；在`scripts/draw_diagrams.py`中调整字体路径后运行。电子书构建不依赖Pillow。\n\n图像：27张公开许可实物照片、37幅AI生成外观教学图、11幅原创关系图，总计75幅；图注逐图说明类型与用途。图像清单在`editorial/image-index.json`，编辑资料不编入电子书。\n'
+readme+=f'\n- [汇总资料索引](references/reading-sources.md)\n\n## 构建与修订\n\nPython 3标准库即可构建EPUB并校验本地资源：\n\n```bash\npython3 scripts/build.py\n```\n\n输出：`build/Dimsum-Atlas.epub`。原始分章Markdown与图片为唯一内容来源。网站从`book.json`与分章内容构建，发布方式见下文。重新绘制关系图需要Pillow及中文字体；在`scripts/draw_diagrams.py`中调整字体路径后运行。电子书构建不依赖Pillow。\n\n图像：{image_counts["licensed photograph"]}张公开许可实物照片、{image_counts["AI-generated teaching illustration"]}幅AI生成外观教学图、{image_counts["original diagram"]}幅原创关系图，总计{len(image_files)}幅；图注逐图说明类型与用途。图像清单在`editorial/image-index.json`，编辑资料不编入电子书。\n'
 # Preserve site documentation maintained with the homepage.
 existing=(R/'README.md').read_text() if (R/'README.md').exists() else ''
 if '\n## 网页阅读与发布' in existing:
