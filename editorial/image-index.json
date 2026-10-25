@@ -1378,5 +1378,506 @@
     "visual_checked": true,
     "approved": true,
     "review": "Primary editor examined opaque skin, moulded relief and filling cross-section; no recipe or cold-chain state inferred."
+  },
+  {
+    "id": "atlas-cn-songgao",
+    "chapter": 5,
+    "heading": "同一袋米，可以走出几条路线",
+    "objects": [
+      "松糕（湿米粉入模蒸结的代表形式）"
+    ],
+    "caption": "图5-5　松糕的颗粒状断面与掰开状态。AI外观示意，颗粒大小不表示实际粉粒尺度。",
+    "visual_requirements": "单一品种：素白或自然米白色小方块松糕，前方一块轻轻掰开，显露细颗粒蒸结、略松散的断面与少许细屑。不要画成松软海绵蛋糕的均匀大气孔，不画成光滑拉丝的糯米团，不添奶油、果酱或彩色层。外形选普通方块，不冒充有固定字纹和造型的定胜糕。成品示意，不画未核实步骤。",
+    "source_url": "https://szfy.wglj.suzhou.com.cn/fy-project/85",
+    "source_evidence": "苏州非遗黄天源糕团资料区分入模后直接蒸熟、不再揉揿的糕类，描述粗粳糯粉配镶、松软等特征。这里只取工艺类别，不复制老字号特定产品形象。",
+    "priority_reason": "现有致密米糕、多孔米发糕和梁弄大糕，仍缺“湿粉颗粒蒸结”路线的清晰近景。",
+    "file": "assets/images/atlas-cn-songgao.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "2f6ade160b0cd84b48d80463dbaad0a72ee74ea34283bda158c9f076a455d185",
+    "visual_review_file": "editorial/pr-china-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-cn-peanut-nuomici",
+    "chapter": 5,
+    "heading": "青团的颜色之外，还有皮与馅",
+    "objects": [
+      "花生糯米糍"
+    ],
+    "caption": "图5-6　花生糯米糍：柔软米粉皮包住颗粒馅，外表裹花生粉。AI代表款示意。",
+    "visual_requirements": "单一品种，完整一枚与切开半枚，外皮米白、柔软而连续，切面为完整薄壳包住偏干、棕黄的细碎花生颗粒馅，外表薄薄裹浅棕花生粉。食品真实感统一图鉴风格。不要画成汤圆泡汤，不画奶油夹心、水果大福、流心蛋黄或发面包，不画透明水晶皮，不用拉长橡胶丝表示糯性。花生粉覆盖不必完全遮住皮。",
+    "source_url": "https://hk.science.museum/tc/web/scm/online-explore/qkpost-roadshow-food/glutinousriceball.html",
+    "additional_source_urls": [
+      "https://timetogold.org/products/傳統香甜花生糯米糍"
+    ],
+    "source_evidence": "香港科学馆说明烟韧粉皮包芝麻、花生、芒果等馅；糕点时光产品页说明花生粉表层与花生颗粒馅。只参照这一常见款式，不推广其保质期限、营养或历史宣传。",
+    "priority_reason": "正文有青团、糯米糍及皮馅比较，现有青团未剖开，缺乏软皮与非流动颗粒馅的关系。",
+    "file": "assets/images/atlas-cn-peanut-nuomici.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "c31fcf75bd7f3a7ec6b4828692137dc6e4400d119e1da1c63f24b09327203a4b",
+    "visual_review_file": "editorial/pr-china-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-cn-taro-cake",
+    "chapter": 5,
+    "heading": "同一袋米，可以走出几条路线",
+    "objects": [
+      "芋头糕（米粉浆与芋块蒸制的咸点）"
+    ],
+    "caption": "图5-7　芋头糕：淡色米粉糕体包住芋块，可切片后煎香。AI结构示意。",
+    "visual_requirements": "单一品种：盘中两三块长方厚片芋头糕，其中一块保持蒸后淡米灰色切面，可见浅灰白或淡紫纹理的不规则芋丁包在米粉凝结体中，另一块仅一侧轻微煎成金黄。内里整体淡米灰、不是艳紫色，芋块与糕体有边界但非石子洞穴。可有极少腊味碎点，不堆虾或整根香肠。不要画成海绵蛋糕、紫薯慕斯、芋泥卷或水晶果冻。避免画生芋头叶、未去皮块混在成品中。",
+    "source_url": "https://www.knorr.com/hk/r/芋頭糕.html/176957",
+    "additional_source_urls": [
+      "https://www.ttv.com.tw/CUISINE/Detail2.aspx?rid=1753"
+    ],
+    "source_evidence": "家乐自有食谱及台视食谱均说明芋头丁与米粉浆蒸制，冷却后可切片煎；不将单一配方规定为全部芋头糕。",
+    "priority_reason": "正文已明确对照芋头糕，既有图只有萝卜糕与基础米糕，没有能辨认芋块的结构例图。",
+    "file": "assets/images/atlas-cn-taro-cake.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "d991d60fb1af9756454c8b3da691c4923b9c1967baa248bd3ed3039400aeaeb0",
+    "visual_review_file": "editorial/pr-china-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-cn-taosu-shaobing",
+    "chapter": 6,
+    "heading": "烧饼、桃酥、麻花，各自怎样变脆",
+    "objects": [
+      "桃酥",
+      "芝麻烧饼（有分层的烤制代表款）"
+    ],
+    "caption": "图6-4　左：桃酥的松碎断面；右：芝麻烧饼的一种分层款式。AI对照示意。",
+    "visual_requirements": "两品种有意义对照，纵向上下两个清楚分开的观察区。上方是扁圆桃酥，一枚完整、一枚断开，麦黄烤色、自然浅裂纹、断面是松碎颗粒而非层片，可少量芝麻。下方是芝麻烧饼，扁圆或椭圆、表面白芝麻与金黄烤壳，一半掰开显出较薄不规则卷层。两类不能混成相同饼；桃酥不出现桃子造型、桃肉馅或圆形整核桃内胆，烧饼不画成巨型空心皮塔或千层可颂。明确为所选代表做法，不暗示所有烧饼都分层。",
+    "source_url": "https://ahas.agriir.cn/resources/detail/1/179C477D-B592-4F1B-9554-27601D400EE0.html?projectId=405fc0ca-2997-11e7-b5f5-3440b5b17484",
+    "additional_source_urls": [
+      "https://www.weather.com.cn/jiangsu/qxkp/rdzt/08/1948298.shtml",
+      "https://std.samr.gov.cn/db/search/stdDBDetailed?id=D7B68A42F746A68EE05397BE0A0A5FE5"
+    ],
+    "source_evidence": "安徽省农科院黄精桃酥研究摘要描述麦黄、饼面裂纹与酥脆结构，只借此核对工艺类型，不画特定黄精配方或写药食功效；中国天气网黄桥烧饼资料记录擦酥、卷制、撒芝麻、烤制，全国标准平台列有对应地方技艺标准。本图选其中分层烧饼代表外观，不给所有烧饼强加同一结构。",
+    "priority_reason": "该小节目前只有麻花实物，另两种工艺靠文字，缺少断面对照。",
+    "file": "assets/images/atlas-cn-taosu-shaobing.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "f414b3212b0b139737ee5f2169e4dec952e3dbbe1c95b0efefd304fe3cd7e139",
+    "visual_review_file": "editorial/pr-china-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-cn-shaomai-fillings",
+    "chapter": 7,
+    "heading": "包馅不是把所有原料塞进皮里",
+    "objects": [
+      "糯米烧卖",
+      "翡翠烧卖（淮扬青菜馅代表款）"
+    ],
+    "caption": "图7-3　左：糯米烧卖；右：白皮透出青菜馅的翡翠烧卖代表款。AI对照示意。",
+    "visual_requirements": "两品种上下对照，统一大小与角度。糯米烧卖：米白薄麦面皮，上口略收而不封死，顶部露出完整棕黄糯米粒，旁置半个纵切成品，米粒应占馅的主体。翡翠烧卖：极薄米白面皮，石榴状或小花口，上口开放，内部细碎深绿色熟青菜馅透过薄白皮，不是菠菜绿面皮包糯米；切开半枚显露青菜碎主体，表面可仅极少火腿末，不加玉米粒或蟹黄整蛋。两者均蒸制，无焦壳，不画成广式黄皮肉烧卖或包子。",
+    "source_url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/4cbac9b1689b44498c33653f95dcbb35",
+    "source_evidence": "商务部富春资料列出糯米烧卖及翡翠烧卖，并明确后者青菜碎、糖油馅、极薄包皮透绿、外形似石榴。排除我苏网同名文章后段“绿色皮包糯米”的混搭食谱，避免借错图。",
+    "priority_reason": "现有烧卖生成图与实拍主要是广式肉馅，对江南糯米、淮扬菜馅缺乏直接支持。",
+    "file": "assets/images/atlas-cn-shaomai-fillings.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "d6f342098b5650a8f82d76b826f197e2b3a385b24044db5109d23d8e38050e1b",
+    "visual_review_file": "editorial/pr-china-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-cn-qianceng-yougao",
+    "chapter": 8,
+    "heading": "江南与淮扬：不能只用甜概括",
+    "objects": [
+      "淮扬千层油糕"
+    ],
+    "caption": "图8-3　淮扬千层油糕：菱形蒸糕与贴合的柔软薄层。AI示意，不表示固定层数。",
+    "visual_requirements": "单一品种，几块菱形或斜切菱形糕块，一块转向露出侧面细密而柔软的平行薄层，颜色淡乳白至自然芙蓉米色，表面可少量红绿果丝但不喧宾夺主。整体略湿润柔韧，糕层贴合，不是硬脆开裂、不像纸板。侧面表示多层即可，不能人为数出“精确64层”作为保证。避免烤成金黄千层酥、奶油千层蛋糕、带焦黑壳的面包、彩色椰浆九层糕或印尼千层蛋糕；没有奶油夹层、糖霜和水果浇汁。",
+    "source_url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/4cbac9b1689b44498c33653f95dcbb35",
+    "additional_source_urls": [
+      "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/a31df0fa2d5c4c769da464f32ca82cc7"
+    ],
+    "source_evidence": "商务部富春资料明确菱形、糖油相间、柔软；永和园资料明确发酵面团折叠、蒸制、冷后切菱形。只取可核对结构，不把某店64层当全国统一指标。",
+    "priority_reason": "淮扬茶点重要代表已写入正文与索引，现有图没有这一蒸制多层结构，且很容易被模型误画。",
+    "file": "assets/images/atlas-cn-qianceng-yougao.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "f271c26953c0e9bf62270217c25a45ca2561da1618844f9aabbcb5b472a00943",
+    "visual_review_file": "editorial/pr-china-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-cn-yeerba",
+    "chapter": 8,
+    "heading": "川渝：小份、调味与组合",
+    "objects": [
+      "叶儿粑（白色粉皮咸馅、垫叶代表款）"
+    ],
+    "caption": "图8-4　叶儿粑的白色米粉皮、咸馅与垫叶。AI代表款示意，不指定叶种。",
+    "visual_requirements": "单一品种采用白皮常见代表款，绿色完整叶片托住小椭圆或短柱状、两端圆润的白色蒸粉团，另一个切开露出棕褐肉末与细碎菜料咸馅。叶片只是下部承托或自然包裹，不是可食用粉皮本身；不要画成透明水晶饺，不画成长粽子或米粒外露粽，不画成草绿青团、菜叶饺子或巨大糯米寿司。外皮无烤壳、无发面孔。不能凭图声称具体叶种，也不宣称所有地方版本都是白皮。",
+    "source_url": "https://www.sctu.edu.cn/cyzx/info/1087/1596.htm",
+    "additional_source_urls": [
+      "https://hsadmin.fotile.com/h5happylife/menu/menudetail.html?id=40596"
+    ],
+    "source_evidence": "四川旅游学院川菜发展研究中心有叶儿粑经典川点条目；方太自有食谱展示传统米粉包馅、用叶蒸制的做法。地方有绿皮等变体，本图选白皮例而非普遍标准，不标特定叶种。",
+    "priority_reason": "川渝小节整段无实物例图，叶儿粑同时能帮助辨认粉团与叶包的区别。",
+    "file": "assets/images/atlas-cn-yeerba.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "fa885c12ec0a19c3bae3e74dff1fe8699da79c062db8c293a5dbb92dbf5cfdd5",
+    "visual_review_file": "editorial/pr-china-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-cn-fengli-honggui",
+    "chapter": 8,
+    "heading": "闽台与潮汕：看懂“粿”的开放性",
+    "objects": [
+      "凤梨酥",
+      "红龟粿（红皮龟纹模印代表款）"
+    ],
+    "caption": "图8-5　左：凤梨酥的烤酥壳与果馅；右：红龟粿的模印米皮与包馅。AI对照示意。",
+    "visual_requirements": "两品种上下清楚对照，不能混在一只盘里。凤梨酥为小方块或短长方体，浅金黄色松碎饼壳，切开半枚见金黄棕色稠实纤维果馅；不画整块生凤梨、奶油、海绵或层层酥皮，不由画面承诺纯凤梨配方。红龟粿为椭圆略扁、自然红色米粉皮，上面是浅浮雕龟甲/龟背模纹，放在绿色垫叶上，旁置切开半枚见细腻豆沙类馅；不是活龟、不是四肢头尾完整动物造型，不画红色月饼硬壳、白色面包孔或果冻透明皮。龟纹为食物模印，勿画密集文字。",
+    "source_url": "https://www.th.gov.tw/Epaper_Content/237/7530/",
+    "additional_source_urls": [
+      "https://kmweb.moa.gov.tw/redirect_files.php?id=674066&theme=knowledgebase",
+      "https://fae.moa.gov.tw/theme_data.php?id=45&sub_theme=knowledge&theme=topics"
+    ],
+    "source_evidence": "台湾文献馆说明红龟粿糯米团与模印；农业部门食农平台说明红色米食和节令用途；农业知识入口网凤梨酥体验食谱明确酥皮包稠馅、入模烤至金黄。只比较物理结构，不推定两者历史相互演变。",
+    "priority_reason": "闽台潮汕小节目前没有对应图，正需要说明粿与烤酥点不能因同属地方伴手礼而混同。",
+    "file": "assets/images/atlas-cn-fengli-honggui.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "32366ec2edebe0ad333cabdb944cf5ba12207641406b196d5bea8b477cac6e18",
+    "visual_review_file": "editorial/pr-china-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-we-cinnamon-roll",
+    "chapter": 10,
+    "heading": "甜与咸，经常只隔着一个组合",
+    "objects": [
+      "肉桂卷 cinnamon roll"
+    ],
+    "caption": "图10-4　肉桂卷教学示意：顶部螺旋糖馅清晰可见，少量淋面保留卷纹。",
+    "visual_requirements": [
+      "单品近景，可一整只配一切半，顶部螺旋和切面都能辨认；不是硬质曲奇或起酥可颂。",
+      "柔软发酵面包组织，肉桂糖馅形成较薄褐色螺旋带；不要把糖馅画成厚巧克力板或独立红豆层。",
+      "只用少量薄糖霜，不能全覆盖卷纹；面包完整烤熟，不画液态生面糊。",
+      "无图内文字、箭头、品牌、复杂餐桌或六格拼版；以统一书籍食物摄影式教学示意制作。"
+    ],
+    "source_url": "https://www.kingarthurbaking.com/recipes/cinnamon-rolls-recipe",
+    "additional_source_urls": [
+      "https://www.kingarthurbaking.com/blog/2019/01/14/making-cinnamon-rolls-at-home"
+    ],
+    "verification_note": "已核对卷入肉桂糖馅、切段与烘烤成形路线；图片只展示代表外形，不证明配方、发酵时间或香味。",
+    "file": "assets/images/atlas-we-cinnamon-roll.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "2b33bd9df7bd37dfab8b4858272471e2116b18fa35026022ee20b78780a433d2",
+    "visual_review_file": "editorial/pr-west-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-we-doughnut-types",
+    "chapter": 10,
+    "heading": "几条值得一起认识的支线",
+    "objects": [
+      "酵母型油炸甜甜圈 yeast-raised doughnut",
+      "蛋糕型油炸甜甜圈 cake doughnut"
+    ],
+    "caption": "图10-5　甜甜圈教学对照：左为酵母型代表，右为蛋糕型代表；两者均露出切口。",
+    "visual_requirements": [
+      "有意义的左右双品种对照，每侧一只圆环甜甜圈并有一块切口；保持近似尺寸、角度和照明，品名用外部图注说明。",
+      "左侧酵母型较蓬松，面包式孔洞、薄褐皮，可见较浅腰线但不要机械画成整齐白腰带。",
+      "右侧采用老式蛋糕型代表：较细密易碎的蛋糕状内部，表面自然裂纹；不是把蛋糕切片塞入同一甜甜圈。",
+      "两边都只用极薄糖衣或不加厚饰面，让皮与组织可比较；不能画成生黏中心、岩石孔洞或泡芙空腔。",
+      "不是把细密等同失败，也不宣称所有酵母型和蛋糕型都与本图一模一样；图像只服务代表结构比较。"
+    ],
+    "source_url": "https://www.kingarthurbaking.com/recipes/yeast-raised-doughnuts-recipe",
+    "additional_source_urls": [
+      "https://www.kingarthurbaking.com/recipes/old-fashioned-cake-doughnuts-recipe"
+    ],
+    "verification_note": "已核对酵母膨松与化学膨松的配方类别；仅凭外观不能确认实际配方，生成图须标教学示意。",
+    "file": "assets/images/atlas-we-doughnut-types.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "1b81a8bd5641d0d18575c0ae1230995f98cbe9817c39aa490d71187ea78bdf82",
+    "visual_review_file": "editorial/pr-west-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-we-danish",
+    "chapter": 12,
+    "heading": "可颂与不发酵千层酥",
+    "objects": [
+      "水果蛋奶馅丹麦点心 Danish pastry"
+    ],
+    "caption": "图12-4　丹麦点心教学示意：起酥边框承托蛋奶馅与莓果，切口露出内部层次。",
+    "visual_requirements": [
+      "选一个典型方形折角或菱形边框，不混入多种成形；三分之四近景，边缘层次和中央馅料均清楚。",
+      "边缘是膨起的发酵起酥组织，有自然薄层与孔隙；不是扁平塔壳、饼干底或普通厚面包圈。",
+      "中央浅黄色糕点奶油馅配少量红色莓果，馅在中心凹位，不让整片酥皮淹在液体中。",
+      "边框完整、底部有支撑，切一小口时可见真实厚度；不要用不可能悬空的折角或盘绕出无限层。",
+      "配方代表性来自来源，不把某种水果或固定形状定义为全部丹麦点心；无字无装饰拼版。"
+    ],
+    "source_url": "https://www.kingarthurbaking.com/recipes/danish-pastry-recipe",
+    "additional_source_urls": [
+      "https://www.kingarthurbaking.com/recipes/chocolate-cherry-danish-recipe"
+    ],
+    "verification_note": "丹麦是发酵起酥，非无酵母puff pastry；中心糕点奶油加水果有直接专业配方参照。",
+    "file": "assets/images/atlas-we-danish.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "5e8ee4fe02d5d45698b61ab4c56c33637c8f9f91ab60e7c0586a5e1cb446695d",
+    "visual_review_file": "editorial/pr-west-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-we-palmier-millefeuille",
+    "chapter": 12,
+    "heading": "可颂与不发酵千层酥",
+    "objects": [
+      "蝴蝶酥 palmier",
+      "拿破仑酥片夹点 mille-feuille"
+    ],
+    "caption": "图12-5　千层酥成品教学对照：左为蝴蝶酥，右为酥片与糕点奶油交替的拿破仑。",
+    "visual_requirements": [
+      "左右两件成品，比例各自合理而非等高硬配；左边薄片蝴蝶酥，右边一个小长方形拿破仑。",
+      "蝴蝶酥应为扁薄的双耳或心形双向内卷折叠轮廓，有细薄卷纹与糖化褐色表面；不是展开翅膀的动物、交叉面包结或单向肉桂卷。",
+      "拿破仑采用三片水平薄脆酥片夹两层浅色糕点奶油的常见代表，酥片细层密集；不画三块海绵蛋糕或厚面包。",
+      "拿破仑不加大量水果，顶面可极少糖粉；酥片之间有可信支撑，不悬浮，不画奶油从刚性平板自然穿透。",
+      "仅展示无酵母千层酥的不同成形和装配，不把可见层数当真实折叠次数。"
+    ],
+    "source_url": "https://www.kingarthurbaking.com/recipes/classic-puff-pastry-pate-feuilletee-recipe",
+    "additional_source_urls": [
+      "https://www.kingarthurbaking.com/recipes/palmiers-recipe",
+      "https://www.cordonbleu.edu/news/technique-video-puff-pastry-palmiers/en"
+    ],
+    "verification_note": "专业来源同时列palmier与mille-feuille作为puff pastry应用；本图是成品比较，不是连续折叠教程。",
+    "file": "assets/images/atlas-we-palmier-millefeuille.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "f90afba3f8fc90eb420f022b950b05f0ba2a82cf0d22c27317c225ab430ca796",
+    "visual_review_file": "editorial/pr-west-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-we-sponge-roll",
+    "chapter": 11,
+    "heading": "装饰是第二张地图",
+    "objects": [
+      "果酱海绵蛋糕卷 jelly roll / Swiss roll"
+    ],
+    "caption": "图11-2　果酱海绵蛋糕卷教学示意：蛋糕片与薄果酱夹层卷成连续螺旋。",
+    "visual_requirements": [
+      "短段完整蛋糕卷配一片切片，切口朝镜头，外层浅金黄，内层为较浅的细孔海绵。",
+      "必须是一张连续、厚薄大致均匀的蛋糕片卷成的螺旋，薄红色果酱在相邻层间；不是独立同心环、千层酥或中空奶油圆管。",
+      "螺旋中心自然收拢，没有巨大的空洞；切片与整卷的螺旋方向及层数一致。",
+      "少量果酱不应渗成血色液体，不加厚奶油山、巧克力涂层或繁复装饰，以便观察卷与夹层。",
+      "只说明结构和组装；不能从生成的细孔证明全蛋/分蛋、是否有泡打粉或实际柔软度。"
+    ],
+    "source_url": "https://www.kingarthurbaking.com/recipes/jelly-roll-recipe",
+    "verification_note": "来源明确海绵底、果酱填馅与卷制；选择果酱卷可减少过厚奶油遮盖结构，并呼应正文蛋糕片弯曲与夹层交替。",
+    "file": "assets/images/atlas-we-sponge-roll.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "33403a132d44b85f2f49fdc1047398d1c069dd1c5716caee9b78fb14c171cb8c",
+    "visual_review_file": "editorial/pr-west-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-we-lemon-fruit-tarts",
+    "chapter": 13,
+    "heading": "塔与派，没有全球统一的外形边界",
+    "objects": [
+      "柠檬塔 lemon tart",
+      "鲜莓糕点奶油水果塔 berry cream tart"
+    ],
+    "caption": "图13-3　塔点教学对照：左为柠檬塔，右为糕点奶油鲜果塔；切口均露出底壳。",
+    "visual_requirements": [
+      "左右两只相近尺寸小塔，均切下一角或剖开一部分，让薄而完整的底壳、边壳和馅可辨认。",
+      "左侧柠檬塔为均匀浅黄色、平滑且能保持切面的柠檬馅，不画成流动橙汁、鲜柠檬片堆或柠檬蛋糕；不要求所有柠檬塔都只有这一配方。",
+      "右侧为烤好酥壳、浅色糕点奶油与新鲜草莓蓝莓，水果覆盖适度，须露出一段奶油层；不是果冻实体或生面团底。",
+      "酥壳应呈短酥式细碎组织，不画成可颂的蜂窝起酥或厚蛋糕；底壳承托得住馅，不出现穿透盘子的漂浮结构。",
+      "成品状态是冷却或可切的展示状态，不用图像推断酸度、熟度或是否完成盲烤。"
+    ],
+    "source_url": "https://www.kingarthurbaking.com/recipes/lemon-tart-with-fresh-berries-recipe",
+    "additional_source_urls": [
+      "https://www.kingarthurbaking.com/recipes/berry-cream-tart-recipe"
+    ],
+    "verification_note": "选用专业配方核对酥壳、蛋奶/柠檬馅与后加鲜果的关系；二图对应不同代表产品，不把来源的一张成品照片复制成生图。",
+    "file": "assets/images/atlas-we-lemon-fruit-tarts.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "f47960eae259b5d2dc50688de483cde5296dcf6d740c26e9d2453f207687f0ea",
+    "visual_review_file": "editorial/pr-west-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-we-chewy-cookie",
+    "chapter": 13,
+    "heading": "曲奇不只是裱花形状",
+    "objects": [
+      "软心巧克力豆曲奇 chewy chocolate chip cookie"
+    ],
+    "caption": "图13-4　软心巧克力豆曲奇教学示意：完整件与掰开件并置，显示边缘、中心与巧克力分布。",
+    "visual_requirements": [
+      "一块完整圆形曲奇配一块自然掰开的曲奇，大小厚度统一；不是裱花黄油曲奇、夹心饼干或夹心熔岩蛋糕。",
+      "边缘较薄且上色，中心略厚、有连贯的烘烤组织；柔软以较少碎裂和内里形态表现，不能画出流淌生面团。",
+      "巧克力分布为嵌入的豆或小块，可有局部柔软亮面，但不生成整层熔岩夹心、奶酪拉丝或夸张巧克力瀑布。",
+      "静态图不证明咀嚼感，也不凭颜色判断熟度；图注只说可见结构并给类别名称。",
+      "无牛奶杯、手、人脸、大量碎屑和背景杂物，让主体清楚。"
+    ],
+    "source_url": "https://www.kingarthurbaking.com/recipes/chewy-chocolate-chip-cookies-recipe",
+    "additional_source_urls": [
+      "https://www.kingarthurbaking.com/recipes/soft-chocolate-chip-cookies-recipe"
+    ],
+    "verification_note": "专业配方明确酥边与柔韧中心；软而不生黏是视觉约束，不是图像可独立验证的安全结论。",
+    "file": "assets/images/atlas-we-chewy-cookie.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "4a20dd131e4a73c7f3f149086bed43d239fea2cb02ba9c106051c7c0acdaae09",
+    "visual_review_file": "editorial/pr-west-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-we-custard-cream",
+    "chapter": 14,
+    "heading": "布丁与蛋奶：先把词语放回语境",
+    "objects": [
+      "英式蛋奶酱 crème anglaise",
+      "糕点奶油 crème pâtissière"
+    ],
+    "caption": "图14-3　蛋奶体系教学对照：左为可倾倒的英式蛋奶酱，右为能保留勺痕的糕点奶油。",
+    "visual_requirements": [
+      "左右同尺寸浅色小碗与金属匙，构图一眼可比较；不用六格或夸张不同容器。",
+      "左侧crème anglaise为顺滑、可倾倒的浓稠淋酱，匙中缓慢落下连续细带，落入碗后很快趋平；可挂勺背，但不能立起尖峰或变成果冻块。",
+      "右侧crème pâtissière为冷却、搅拌顺滑的浓稠糕点奶油，表面保留柔和勺痕与小堆积；不是水状牛奶，也不是硬橡胶、蓬松打发奶油或很高的蛋白霜尖峰。",
+      "两者都可浅黄色，颜色不能作为区别或蛋黄量证明；主要差异通过流动、勺痕和表面保持形状表现。",
+      "右侧不用拌入打发奶油的diplomat cream，左侧不用加淀粉的超稠布丁；不添加水果和巧克力遮盖。",
+      "本图是选定典型状态的教学示意，不声称所有配方或温度下都具有相同黏度，不展示加热温度和安全性判断。"
+    ],
+    "source_url": "https://app.ckbk.com/reference/cuis81374c03s001ss023e002/creme-anglaise",
+    "additional_source_urls": [
+      "https://www.kingarthurbaking.com/recipes/pastry-cream-creme-patissiere-recipe",
+      "https://library.oercommons.org/oh-cr/hosp_2218_the_bakeshop/05_01_03.html"
+    ],
+    "verification_note": "已核对pouring custard与淀粉辅助增稠填馅的差异；生成时以适中温度的代表流动状态比较，避免把蛋奶酱画成固定奶冻或把糕点奶油画成蛋白霜。",
+    "file": "assets/images/atlas-we-custard-cream.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "82d0105076aee1f57a2f3a6d9deb47026a502bb4a0145488b6aab4ffd5f6ba0d",
+    "visual_review_file": "editorial/pr-west-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-wo-dango",
+    "chapter": 15,
+    "heading": "和菓子是一组工艺，不只是花形甜豆沙",
+    "objects": [
+      "团子（dango），三枚白色米粉团子串签"
+    ],
+    "caption": "图15-5　白团子串签与致密切面示意。",
+    "visual_requirements": "统一暖白背景、柔和自然光、食物近景、无嵌入文字。白色团子三枚沿竹签排列，团子呈实心圆球，表面平滑微哑光而非果冻透明；可将一枚切半放旁边，断面致密、不呈面包孔洞；不要画成包豆沙馅的大福、汤圆浮在汤里或西式棉花糖。团子配方不同可有差异，本图只选无裹酱白团子示例，不表示所有团子都必须三枚一签。",
+    "source_url": "https://www.wagashi.or.jp/japanesesweets-wagashi/en/types/",
+    "source_note": "东京和菓子协会品类页：dango为米粉加水并经蒸制等熟化的团子，图片用于外形约束；不由图证明操作顺序。",
+    "file": "assets/images/atlas-wo-dango.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "bffa318068738cf4f8256a8fc6304c83b693eb3b72988d14f3481e319193e1ac",
+    "visual_review_file": "editorial/pr-world-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-wo-monaka-dorayaki",
+    "chapter": 15,
+    "heading": "和菓子是一组工艺，不只是花形甜豆沙",
+    "objects": [
+      "最中（monaka），薄脆米制外壳与豆沙",
+      "铜锣烧（dorayaki），两片金棕色煎饼皮夹豆沙"
+    ],
+    "caption": "图15-6　最中与铜锣烧：薄脆壳和煎烤饼皮的夹馅对照示意。",
+    "visual_requirements": "暖白统一背景，两个对象并排、各一件完整与一件切开，比例相近，无文字。左侧monaka选简单圆形压纹米制薄脆壳，壳浅米白、极薄、略有干燥小气泡，切口能看到深红褐豆沙；右侧dorayaki由两片较厚圆形金棕色饼皮夹豆沙，外面平滑烤色，切面浅黄且有细小气孔。两者豆沙相近以控制变量。不要把monaka画成马卡龙、冰淇淋威化或厚酥皮；不要把dorayaki画成汉堡、奶油夹心或四层pancake堆叠。不以这张图演示实际咬感或证明壳的原料。",
+    "source_url": "https://www.wagashi.or.jp/japanesesweets-wagashi/en/types/",
+    "additional_source_urls": [
+      "https://www.maff.go.jp/e/policies/market/dento_syoku/bunrui/kasirui.html"
+    ],
+    "source_note": "协会品类页与日本农林水产省分类交叉核实：monaka为组合型、dorayaki为煎烤型。",
+    "file": "assets/images/atlas-wo-monaka-dorayaki.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "9d9a0cdadfd4fbec8d8c52b5fc0fb2eda52cd9cd9797a332e6ffad0e3ae790ea",
+    "visual_review_file": "editorial/pr-world-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-wo-kueh-dadar",
+    "chapter": 15,
+    "heading": "Kuih／kueh：不由一个国家独占的点心家族",
+    "objects": [
+      "椰糖椰丝卷（kueh dadar／kuih ketayap）"
+    ],
+    "caption": "图15-7　椰糖椰丝卷：薄煎皮包住椰丝馅的结构示意。",
+    "visual_requirements": "暖白背景柔光，近景，一只完整短圆柱卷加一只斜切开，切口朝镜头。外皮为柔软薄的浅绿色煎皮，有细微煎皮气孔而非透明胶冻、厚糯米团或酥皮；内部是棕榈糖拌椰丝的棕褐色湿润纤维状馅，细丝颗粒可辨，不能画成巧克力酱、豆沙泥或奶油。切口显示薄皮围绕填馅，不需多圈蛋糕卷式螺旋；不画成九层糕。无文字无装饰花。",
+    "source_url": "https://www.sg101.gov.sg/resources/archives/heritage-nonyakuehs/",
+    "additional_source_urls": [
+      "https://www.sg101.gov.sg/resources/archives/kueh101/"
+    ],
+    "source_note": "新加坡政府SG101明确描述椰味煎皮、椰和棕榈糖馅；不宣称单一国家独占。",
+    "file": "assets/images/atlas-wo-kueh-dadar.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "9dfe5599099d1e41fbd048ebde291b8880971a515bf50d9e9425f4ad5e27d871",
+    "visual_review_file": "editorial/pr-world-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-wo-love-letters",
+    "chapter": 15,
+    "heading": "Kuih／kueh：不由一个国家独占的点心家族",
+    "objects": [
+      "Love letters／kueh belanda薄脆蛋卷",
+      "kueh kapit三角折片形式"
+    ],
+    "caption": "图15-8　Love letters卷筒与三角折片形式示意。",
+    "visual_requirements": "统一暖白背景柔光，数根金黄薄脆蛋卷与两片折成三角形的薄脆点心，小量碎屑显示薄脆断口。蛋卷是极薄烤片卷成中空细筒，边缘能看到少数薄片重叠，带模具浅压纹和不均匀金黄烤色；三角片同样极薄，折叠而非厚实饼干。避免画成肉松蛋卷、奶油卷、春卷、空心泡芙、厚威化棒或中式油炸麻花。可以用中性浅花纹，不仿造真实品牌模具商标。无文字。",
+    "source_url": "https://biblioasia.nlb.gov.sg/all-sections/vol-17-issue-2-jul-sep-2021-straits-born-cuisine/",
+    "additional_source_urls": [
+      "https://www.roots.gov.sg/Collection-Landing/listing/1235363"
+    ],
+    "source_note": "新加坡国家图书馆BiblioAsia明确对照新加坡卷筒love letters与槟城折成三角的kueh kapit，国家文物局蛋卷模具作为工具证据。",
+    "file": "assets/images/atlas-wo-love-letters.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "11642841abb46c61b76cfaf03d2894a1dc69e049f287eef02830514d771c0977",
+    "visual_review_file": "editorial/pr-world-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-wo-halva-comparison",
+    "chapter": 16,
+    "heading": "Halva：同名食品不一定同结构",
+    "objects": [
+      "芝麻酱型halva",
+      "粗粒小麦粉型semolina halva／irmik helvası"
+    ],
+    "caption": "图16-4　芝麻酱型halva的致密酥块，与粗粒小麦粉型halva的湿润颗粒组织对照示意。",
+    "visual_requirements": "统一暖白背景近景，两侧各一小份，视觉空间均等，无文字。左边芝麻酱型为米白至浅米黄色的切块，断口能见细碎、略纤维层裂的组织，有少量碎屑；不能画成透明软糖、花生脆糖或海绵蛋糕。右边选择土耳其irmik helvası实例，浅金褐色细颗粒、湿润而能轻堆成小丘或勺状圆拱，可见少量松子，不能切成与左侧一样的干酥块，也不画成光滑奶冻。避免用同一材质仅换颜色制造假对比。两者均不标成‘唯一正宗’。",
+    "source_url": "https://www.ktb.gov.tr/EN-98886/semolina-halva.html",
+    "additional_source_urls": [
+      "https://www.visitgreece.gr/en/experiences/culture/local-traditions/greek-sweets",
+      "https://www.visitgreece.gr/en/experiences/gastronomy/beverages/greek-snacks"
+    ],
+    "source_note": "土耳其文化旅游部公开配方核实semolina先与油脂炒制再加糖浆；希腊官方旅游核实tahini芝麻酱型。图仅对照两类实例，不复现精确配方和过程。",
+    "file": "assets/images/atlas-wo-halva-comparison.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "43ffe22ff90647cc005059c7b9fa4fe977796cdc1a30db98b7a4b1a78292eec4",
+    "visual_review_file": "editorial/pr-world-image-review.json",
+    "visual_checked": true
+  },
+  {
+    "id": "atlas-wo-mochi-bread-comparison",
+    "chapter": 17,
+    "heading": "“麻薯”在商品名称里，未必意味着同一配方",
+    "objects": [
+      "发酵面包包麻薯馅的结构示例",
+      "商业预拌粉型麻薯烤包的结构示例"
+    ],
+    "caption": "图17-2　麻薯夹心面包与麻薯烤包：两种结构示例。",
+    "visual_requirements": "暖白统一背景、两个半切对象并排、切口清楚朝镜头、无文字。左边一只金棕色小发酵圆面包，外部及切面有明确浅黄色细小气孔的面包层，内部包一层独立、致密、略透光米白色软韧馅，不加长拉丝，不把整只画成大福；面包层厚度明显大于馅层。右边一只小型芝麻麻薯烤包，浅金色烤壳带自然细裂、散落黑芝麻，断面为较薄而连贯的弹韧壳壁及不规则空腔/少量较大孔，不呈典型发酵面包均匀细孔，也没有独立豆沙或麻薯夹心。不可把两者都画成糯米团、透明果冻、泡芙奶油或芝麻汉堡。右图为常见烤包结构示例，不能声称所有商业麻薯包必空心、必用木薯粉或必无酵母。",
+    "source_url": "https://web.puratos.cn/zh/%E7%81%B5%E6%84%9F%E9%85%8D%E6%96%B9/creative-mochi-bun",
+    "additional_source_urls": [
+      "https://web.puratos.cn/content/dam/china/documents/product-solution/%E5%90%90%E5%8F%B8%E9%9D%A2%E5%8C%85%E6%88%90%E5%93%81%E6%96%B9%E6%A1%88.pdf",
+      "https://www.puratos.co.id/en/products/tegral-mochi-bread"
+    ],
+    "source_note": "原料商的一手烤包配方核实预拌粉面团分球烘烤；吐司成品方案第17页核实面包中使用麻薯馅。此处是基于结构的中性概念示例，不复刻品牌产品，不采用原料商页面未经佐证的唐代起源故事。",
+    "file": "assets/images/atlas-wo-mochi-bread-comparison.png",
+    "kind": "AI-generated teaching illustration",
+    "sha256": "ce3b3f79dd1732b4ce4fc2a18a75ed6a670d5782c42aa91778122eeeb8255892",
+    "visual_review_file": "editorial/pr-world-image-review.json",
+    "visual_checked": true
   }
 ]

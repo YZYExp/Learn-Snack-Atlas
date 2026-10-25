@@ -2,6 +2,16 @@ name: Publish reading site
 on:
   push:
     branches: [main]
+    paths:
+      - 'book.json'
+      - 'chapters/**'
+      - 'appendices/**'
+      - 'assets/**'
+      - 'site/**'
+      - 'references/reading-sources.md'
+      - 'scripts/build_site.py'
+      - 'requirements-site.txt'
+      - '.github/workflows/pages.yml'
   pull_request:
   workflow_dispatch:
 permissions:
@@ -12,20 +22,35 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python -m pip install Markdown==3.7
-      - run: python scripts/build_site.py
+          cache: pip
+          cache-dependency-path: requirements-site.txt
+      - name: Install lightweight site dependencies
+        run: python -m pip install --only-binary=:all: -r requirements-site.txt
+      - name: Build home, atlas and chapter reader; validate links
+        run: python scripts/build_site.py
+      - name: Upload reviewable PR preview
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: snack-atlas-site-preview
+          path: _site
+          if-no-files-found: error
+          retention-days: 14
       - uses: actions/upload-pages-artifact@v3
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
         with:
           path: _site
   deploy:
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     needs: build
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     permissions:
       pages: write
       id-token: write

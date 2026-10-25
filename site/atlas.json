@@ -1,0 +1,288 @@
+{
+  "hero_id": "atlas-we-cinnamon-roll",
+  "home_ids": [
+    "atlas-cn-songgao",
+    "atlas-cn-taosu-shaobing",
+    "atlas-we-lemon-fruit-tarts",
+    "atlas-we-danish",
+    "atlas-wo-monaka-dorayaki",
+    "atlas-wo-kueh-dadar"
+  ],
+  "cards": [
+    {
+      "id": "atlas-cn-songgao",
+      "title": "松糕",
+      "description": "松糕的颗粒状断面与掰开状态。AI外观示意，颗粒大小不表示实际粉粒尺度。",
+      "group": "中式",
+      "chapter": 5,
+      "heading": "同一袋米，可以走出几条路线",
+      "objects": [
+        "松糕（湿米粉入模蒸结的代表形式）"
+      ],
+      "image": "assets/images/atlas-cn-songgao.png"
+    },
+    {
+      "id": "atlas-cn-peanut-nuomici",
+      "title": "花生糯米糍",
+      "description": "花生糯米糍：柔软米粉皮包住颗粒馅，外表裹花生粉。AI代表款示意。",
+      "group": "中式",
+      "chapter": 5,
+      "heading": "青团的颜色之外，还有皮与馅",
+      "objects": [
+        "花生糯米糍"
+      ],
+      "image": "assets/images/atlas-cn-peanut-nuomici.png"
+    },
+    {
+      "id": "atlas-cn-taro-cake",
+      "title": "芋头糕",
+      "description": "芋头糕：淡色米粉糕体包住芋块，可切片后煎香。AI结构示意。",
+      "group": "中式",
+      "chapter": 5,
+      "heading": "同一袋米，可以走出几条路线",
+      "objects": [
+        "芋头糕（米粉浆与芋块蒸制的咸点）"
+      ],
+      "image": "assets/images/atlas-cn-taro-cake.png"
+    },
+    {
+      "id": "atlas-cn-taosu-shaobing",
+      "title": "桃酥与芝麻烧饼",
+      "description": "左：桃酥的松碎断面；右：芝麻烧饼的一种分层款式。AI对照示意。",
+      "group": "中式",
+      "chapter": 6,
+      "heading": "烧饼、桃酥、麻花，各自怎样变脆",
+      "objects": [
+        "桃酥",
+        "芝麻烧饼（有分层的烤制代表款）"
+      ],
+      "image": "assets/images/atlas-cn-taosu-shaobing.png"
+    },
+    {
+      "id": "atlas-cn-shaomai-fillings",
+      "title": "两种烧卖",
+      "description": "左：糯米烧卖；右：白皮透出青菜馅的翡翠烧卖代表款。AI对照示意。",
+      "group": "中式",
+      "chapter": 7,
+      "heading": "包馅不是把所有原料塞进皮里",
+      "objects": [
+        "糯米烧卖",
+        "翡翠烧卖（淮扬青菜馅代表款）"
+      ],
+      "image": "assets/images/atlas-cn-shaomai-fillings.png"
+    },
+    {
+      "id": "atlas-cn-qianceng-yougao",
+      "title": "千层油糕",
+      "description": "淮扬千层油糕：菱形蒸糕与贴合的柔软薄层。AI示意，不表示固定层数。",
+      "group": "中式",
+      "chapter": 8,
+      "heading": "江南与淮扬：不能只用甜概括",
+      "objects": [
+        "淮扬千层油糕"
+      ],
+      "image": "assets/images/atlas-cn-qianceng-yougao.png"
+    },
+    {
+      "id": "atlas-cn-yeerba",
+      "title": "叶儿粑",
+      "description": "叶儿粑的白色米粉皮、咸馅与垫叶。AI代表款示意，不指定叶种。",
+      "group": "中式",
+      "chapter": 8,
+      "heading": "川渝：小份、调味与组合",
+      "objects": [
+        "叶儿粑（白色粉皮咸馅、垫叶代表款）"
+      ],
+      "image": "assets/images/atlas-cn-yeerba.png"
+    },
+    {
+      "id": "atlas-cn-fengli-honggui",
+      "title": "凤梨酥与红龟粿",
+      "description": "左：凤梨酥的烤酥壳与果馅；右：红龟粿的模印米皮与包馅。AI对照示意。",
+      "group": "中式",
+      "chapter": 8,
+      "heading": "闽台与潮汕：看懂“粿”的开放性",
+      "objects": [
+        "凤梨酥",
+        "红龟粿（红皮龟纹模印代表款）"
+      ],
+      "image": "assets/images/atlas-cn-fengli-honggui.png"
+    },
+    {
+      "id": "atlas-we-cinnamon-roll",
+      "title": "肉桂卷",
+      "description": "肉桂卷：顶部螺旋糖馅清晰可见，少量淋面保留卷纹。",
+      "group": "西式",
+      "chapter": 10,
+      "heading": "甜与咸，经常只隔着一个组合",
+      "objects": [
+        "肉桂卷 cinnamon roll"
+      ],
+      "image": "assets/images/atlas-we-cinnamon-roll.png"
+    },
+    {
+      "id": "atlas-we-doughnut-types",
+      "title": "两种甜甜圈",
+      "description": "甜甜圈：左为酵母型代表，右为蛋糕型代表；两者均露出切口。",
+      "group": "西式",
+      "chapter": 10,
+      "heading": "几条值得一起认识的支线",
+      "objects": [
+        "酵母型油炸甜甜圈 yeast-raised doughnut",
+        "蛋糕型油炸甜甜圈 cake doughnut"
+      ],
+      "image": "assets/images/atlas-we-doughnut-types.png"
+    },
+    {
+      "id": "atlas-we-danish",
+      "title": "丹麦点心",
+      "description": "丹麦点心：起酥边框承托蛋奶馅与莓果，切口露出内部层次。",
+      "group": "西式",
+      "chapter": 12,
+      "heading": "可颂与不发酵千层酥",
+      "objects": [
+        "水果蛋奶馅丹麦点心 Danish pastry"
+      ],
+      "image": "assets/images/atlas-we-danish.png"
+    },
+    {
+      "id": "atlas-we-palmier-millefeuille",
+      "title": "蝴蝶酥与拿破仑",
+      "description": "千层酥成品：左为蝴蝶酥，右为酥片与糕点奶油交替的拿破仑。",
+      "group": "西式",
+      "chapter": 12,
+      "heading": "可颂与不发酵千层酥",
+      "objects": [
+        "蝴蝶酥 palmier",
+        "拿破仑酥片夹点 mille-feuille"
+      ],
+      "image": "assets/images/atlas-we-palmier-millefeuille.png"
+    },
+    {
+      "id": "atlas-we-sponge-roll",
+      "title": "海绵蛋糕卷",
+      "description": "果酱海绵蛋糕卷：蛋糕片与薄果酱夹层卷成连续螺旋。",
+      "group": "西式",
+      "chapter": 11,
+      "heading": "装饰是第二张地图",
+      "objects": [
+        "果酱海绵蛋糕卷 jelly roll / Swiss roll"
+      ],
+      "image": "assets/images/atlas-we-sponge-roll.png"
+    },
+    {
+      "id": "atlas-we-lemon-fruit-tarts",
+      "title": "柠檬塔与水果塔",
+      "description": "塔点：左为柠檬塔，右为糕点奶油鲜果塔；切口均露出底壳。",
+      "group": "西式",
+      "chapter": 13,
+      "heading": "塔与派，没有全球统一的外形边界",
+      "objects": [
+        "柠檬塔 lemon tart",
+        "鲜莓糕点奶油水果塔 berry cream tart"
+      ],
+      "image": "assets/images/atlas-we-lemon-fruit-tarts.png"
+    },
+    {
+      "id": "atlas-we-chewy-cookie",
+      "title": "巧克力豆曲奇",
+      "description": "软心巧克力豆曲奇：完整件与掰开件并置，显示边缘、中心与巧克力分布。",
+      "group": "西式",
+      "chapter": 13,
+      "heading": "曲奇不只是裱花形状",
+      "objects": [
+        "软心巧克力豆曲奇 chewy chocolate chip cookie"
+      ],
+      "image": "assets/images/atlas-we-chewy-cookie.png"
+    },
+    {
+      "id": "atlas-we-custard-cream",
+      "title": "两种蛋奶体系",
+      "description": "蛋奶体系：左为可倾倒的英式蛋奶酱，右为能保留勺痕的糕点奶油。",
+      "group": "西式",
+      "chapter": 14,
+      "heading": "布丁与蛋奶：先把词语放回语境",
+      "objects": [
+        "英式蛋奶酱 crème anglaise",
+        "糕点奶油 crème pâtissière"
+      ],
+      "image": "assets/images/atlas-we-custard-cream.png"
+    },
+    {
+      "id": "atlas-wo-dango",
+      "title": "米粉团子",
+      "description": "白团子串签与致密切面示意。",
+      "group": "世界",
+      "chapter": 15,
+      "heading": "和菓子是一组工艺，不只是花形甜豆沙",
+      "objects": [
+        "团子（dango），三枚白色米粉团子串签"
+      ],
+      "image": "assets/images/atlas-wo-dango.png"
+    },
+    {
+      "id": "atlas-wo-monaka-dorayaki",
+      "title": "最中与铜锣烧",
+      "description": "最中与铜锣烧：薄脆壳和煎烤饼皮的夹馅对照示意。",
+      "group": "世界",
+      "chapter": 15,
+      "heading": "和菓子是一组工艺，不只是花形甜豆沙",
+      "objects": [
+        "最中（monaka），薄脆米制外壳与豆沙",
+        "铜锣烧（dorayaki），两片金棕色煎饼皮夹豆沙"
+      ],
+      "image": "assets/images/atlas-wo-monaka-dorayaki.png"
+    },
+    {
+      "id": "atlas-wo-kueh-dadar",
+      "title": "椰糖椰丝卷",
+      "description": "椰糖椰丝卷：薄煎皮包住椰丝馅的结构示意。",
+      "group": "世界",
+      "chapter": 15,
+      "heading": "Kuih／kueh：不由一个国家独占的点心家族",
+      "objects": [
+        "椰糖椰丝卷（kueh dadar／kuih ketayap）"
+      ],
+      "image": "assets/images/atlas-wo-kueh-dadar.png"
+    },
+    {
+      "id": "atlas-wo-love-letters",
+      "title": "薄脆蛋卷",
+      "description": "Love letters卷筒与三角折片形式示意。",
+      "group": "世界",
+      "chapter": 15,
+      "heading": "Kuih／kueh：不由一个国家独占的点心家族",
+      "objects": [
+        "Love letters／kueh belanda薄脆蛋卷",
+        "kueh kapit三角折片形式"
+      ],
+      "image": "assets/images/atlas-wo-love-letters.png"
+    },
+    {
+      "id": "atlas-wo-halva-comparison",
+      "title": "两种Halva",
+      "description": "芝麻酱型halva的致密酥块，与粗粒小麦粉型halva的湿润颗粒组织对照示意。",
+      "group": "世界",
+      "chapter": 16,
+      "heading": "Halva：同名食品不一定同结构",
+      "objects": [
+        "芝麻酱型halva",
+        "粗粒小麦粉型semolina halva／irmik helvası"
+      ],
+      "image": "assets/images/atlas-wo-halva-comparison.png"
+    },
+    {
+      "id": "atlas-wo-mochi-bread-comparison",
+      "title": "两种“麻薯”面包",
+      "description": "麻薯夹心面包与麻薯烤包：两种结构示例。",
+      "group": "世界",
+      "chapter": 17,
+      "heading": "“麻薯”在商品名称里，未必意味着同一配方",
+      "objects": [
+        "发酵面包包麻薯馅的结构示例",
+        "商业预拌粉型麻薯烤包的结构示例"
+      ],
+      "image": "assets/images/atlas-wo-mochi-bread-comparison.png"
+    }
+  ]
+}

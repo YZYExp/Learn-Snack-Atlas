@@ -39,6 +39,15 @@ AI生成示意：用于辨认常见外观，不是实店产品照片或配方实
 
 这不是要替商品改名，而是把市场语言与原料知识接起来。“软欧”“爆浆”“生”“轻乳”等词，有的描述吃感，有的描述工艺，有的主要承担营销功能，不能自动当作严格分类。所谓爆浆也可能来自奶油、蛋奶酱、巧克力或淀粉馅，流动状态相似，成分、温度反应和保存要求却不同。
 
+<!-- atlas-expansion:atlas-wo-mochi-bread-comparison -->
+
+![图17-2　麻薯夹心面包与麻薯烤包：两种结构示例。](../assets/images/atlas-wo-mochi-bread-comparison.png)
+
+图17-2　麻薯夹心面包与麻薯烤包：两种结构示例。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://web.puratos.cn/zh/%E7%81%B5%E6%84%9F%E9%85%8D%E6%96%B9/creative-mochi-bun)。
+
+
 ## 植物基：替换原料，先看原料在做什么
 
 把黄油换为植物油、牛奶换为植物饮、鸡蛋换为果泥，不是同一难度的操作。固体脂肪能参与打发或起酥，液态油不能自动复制它；植物饮的蛋白、脂肪、糖和水也不相同。蛋则可能同时提供乳化、黏结、膨松与加热后的支撑。King Arthur Baking 的无蛋烘焙试验明确指出，不同替代品适用范围不同，鹰嘴豆液也不能通用于高度依赖蛋白泡沫的所有产品。[来源：King Arthur Baking，Our best recipes and tips for baking egg free](https://www.kingarthurbaking.com/blog/2023/02/03/bake-egg-free)

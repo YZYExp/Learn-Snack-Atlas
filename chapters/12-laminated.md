@@ -40,6 +40,23 @@
 
 外层碎屑和内里组织也要分开理解。可颂表皮破成薄片，不代表内部一定干燥；外表层次漂亮，内部仍可能过于紧密。拿破仑的酥片则与湿润夹层交替，往往需要刀叉协助切开。它不方便整齐咬下，并不能单独作为品质结论；产品本来安排的食用方式，也应进入判断。
 
+<!-- atlas-expansion:atlas-we-danish -->
+
+![图12-4　丹麦点心教学示意：起酥边框承托蛋奶馅与莓果，切口露出内部层次。](../assets/images/atlas-we-danish.png)
+
+图12-4　丹麦点心教学示意：起酥边框承托蛋奶馅与莓果，切口露出内部层次。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://www.kingarthurbaking.com/recipes/danish-pastry-recipe)。
+
+<!-- atlas-expansion:atlas-we-palmier-millefeuille -->
+
+![图12-5　千层酥成品教学对照：左为蝴蝶酥，右为酥片与糕点奶油交替的拿破仑。](../assets/images/atlas-we-palmier-millefeuille.png)
+
+图12-5　千层酥成品教学对照：左为蝴蝶酥，右为酥片与糕点奶油交替的拿破仑。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://www.kingarthurbaking.com/recipes/classic-puff-pastry-pate-feuilletee-recipe)。
+
+
 ## 泡芙为什么能空心
 
 泡芙不靠包油折叠。典型流程先把液体和油脂加热，加入面粉形成熟面糊，再分次加入蛋，调整到能够挤出的稠度。烘烤中，水蒸气促使面糊鼓起，外壳逐渐定形并干燥。它因而能留下放馅的空间。[资料：King Arthur Baking，What Is Pâte à Choux?](https://www.kingarthurbaking.com/blog/2022/10/24/what-is-pate-a-choux-why-we-love-this-versatile-french-dough)

@@ -48,6 +48,22 @@
 
 实物照片：Skjackey tse；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:File-Guangdong_Nianguo.jpg)。
 
+<!-- atlas-expansion:atlas-cn-songgao -->
+
+![图5-5　松糕的颗粒状断面与掰开状态。AI外观示意，颗粒大小不表示实际粉粒尺度。](../assets/images/atlas-cn-songgao.png)
+
+图5-5　松糕的颗粒状断面与掰开状态。AI外观示意，颗粒大小不表示实际粉粒尺度。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://szfy.wglj.suzhou.com.cn/fy-project/85)。
+
+<!-- atlas-expansion:atlas-cn-taro-cake -->
+
+![图5-7　芋头糕：淡色米粉糕体包住芋块，可切片后煎香。AI结构示意。](../assets/images/atlas-cn-taro-cake.png)
+
+图5-7　芋头糕：淡色米粉糕体包住芋块，可切片后煎香。AI结构示意。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://www.knorr.com/hk/r/芋頭糕.html/176957)。
+
 
 ## 青团的颜色之外，还有皮与馅
 
@@ -62,6 +78,14 @@
 图5-1　塘栖拍摄的蒸熟青团。绿色外皮中可见植物碎片。
 
 实物照片：猫猫的日记本；[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Qingtuan_in_Tangqi_2014-04.jpg)。
+
+<!-- atlas-expansion:atlas-cn-peanut-nuomici -->
+
+![图5-6　花生糯米糍：柔软米粉皮包住颗粒馅，外表裹花生粉。AI代表款示意。](../assets/images/atlas-cn-peanut-nuomici.png)
+
+图5-6　花生糯米糍：柔软米粉皮包住颗粒馅，外表裹花生粉。AI代表款示意。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://hk.science.museum/tc/web/scm/online-explore/qkpost-roadshow-food/glutinousriceball.html)。
 
 
 ## 萝卜糕为什么能煎出壳

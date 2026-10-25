@@ -54,6 +54,14 @@
 
 实物照片：Peachyeung316；[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Homemade_style_pork_shumai_in_Hong_Kong.jpg)。
 
+<!-- atlas-expansion:atlas-cn-shaomai-fillings -->
+
+![图7-3　左：糯米烧卖；右：白皮透出青菜馅的翡翠烧卖代表款。AI对照示意。](../assets/images/atlas-cn-shaomai-fillings.png)
+
+图7-3　左：糯米烧卖；右：白皮透出青菜馅的翡翠烧卖代表款。AI对照示意。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/4cbac9b1689b44498c33653f95dcbb35)。
+
 
 ## 蒸、煮、煎决定了外皮经历什么
 

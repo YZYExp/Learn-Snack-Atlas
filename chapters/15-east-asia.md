@@ -26,6 +26,22 @@
 
 AI生成示意：用于辨认常见外观，不是实店产品照片或配方实测。
 
+<!-- atlas-expansion:atlas-wo-dango -->
+
+![图15-5　白团子串签与致密切面示意。](../assets/images/atlas-wo-dango.png)
+
+图15-5　白团子串签与致密切面示意。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://www.wagashi.or.jp/japanesesweets-wagashi/en/types/)。
+
+<!-- atlas-expansion:atlas-wo-monaka-dorayaki -->
+
+![图15-6　最中与铜锣烧：薄脆壳和煎烤饼皮的夹馅对照示意。](../assets/images/atlas-wo-monaka-dorayaki.png)
+
+图15-6　最中与铜锣烧：薄脆壳和煎烤饼皮的夹馅对照示意。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://www.wagashi.or.jp/japanesesweets-wagashi/en/types/)。
+
 
 ## 韩国年糕：先问“怎样成形”
 
@@ -59,6 +75,22 @@ AI生成示意：用于辨认常见外观，不是实店产品照片或配方实
 图15-4　蒸制层糕的一种外观示意，致密湿润的层面与烤制千层蛋糕不同。图中配色与层数仅作举例。
 
 AI生成示意：用于辨认常见外观，不是实店产品照片或配方实测。
+
+<!-- atlas-expansion:atlas-wo-kueh-dadar -->
+
+![图15-7　椰糖椰丝卷：薄煎皮包住椰丝馅的结构示意。](../assets/images/atlas-wo-kueh-dadar.png)
+
+图15-7　椰糖椰丝卷：薄煎皮包住椰丝馅的结构示意。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://www.sg101.gov.sg/resources/archives/heritage-nonyakuehs/)。
+
+<!-- atlas-expansion:atlas-wo-love-letters -->
+
+![图15-8　Love letters卷筒与三角折片形式示意。](../assets/images/atlas-wo-love-letters.png)
+
+图15-8　Love letters卷筒与三角折片形式示意。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://biblioasia.nlb.gov.sg/all-sections/vol-17-issue-2-jul-sep-2021-straits-born-cuisine/)。
 
 
 ## 越南甜食：从一块糕走向一碗组合

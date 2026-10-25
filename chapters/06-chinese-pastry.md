@@ -54,6 +54,14 @@
 
 实物照片：François Nguyen；[CC BY 2.0](https://creativecommons.org/licenses/by/2.0)。[原图与许可页](https://commons.wikimedia.org/wiki/File:Mahua_%E9%BA%BB%E8%8A%B1.jpg)。
 
+<!-- atlas-expansion:atlas-cn-taosu-shaobing -->
+
+![图6-4　左：桃酥的松碎断面；右：芝麻烧饼的一种分层款式。AI对照示意。](../assets/images/atlas-cn-taosu-shaobing.png)
+
+图6-4　左：桃酥的松碎断面；右：芝麻烧饼的一种分层款式。AI对照示意。
+
+AI生成示意：用于观察代表外形与组织关系。[工艺参照资料](https://ahas.agriir.cn/resources/detail/1/179C477D-B592-4F1B-9554-27601D400EE0.html?projectId=405fc0ca-2997-11e7-b5f5-3440b5b17484)。
+
 
 ## 蛋挞让中西边界变得具体
 

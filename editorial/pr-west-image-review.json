@@ -1,0 +1,115 @@
+[
+  {
+    "id": "atlas-we-cinnamon-roll",
+    "file": "assets/images/atlas-we-cinnamon-roll.png",
+    "chapter": 10,
+    "heading": "甜与咸，经常只隔着一个组合",
+    "approved": true,
+    "visual_checked": true,
+    "notes": [
+      "已查看替换后的原图：单只完整肉桂卷，没有切面，旧图的正交螺旋冲突已移除。",
+      "顶部卷纹由中心向外延续，褐色糖馅带与金黄面包体相间，淋面未完全遮挡卷纹；未见明显食品结构错误。",
+      "仅作代表外观教学示意，不由表面推断内部孔洞、揉面方法、香气、配方比例或熟度。"
+    ],
+    "caption": "肉桂卷教学示意：顶部螺旋糖馅清晰可见，少量淋面保留卷纹。",
+    "suggested_caption": "肉桂卷教学示意：顶部螺旋糖馅清晰可见，少量淋面保留卷纹。"
+  },
+  {
+    "id": "atlas-we-doughnut-types",
+    "file": "assets/images/atlas-we-doughnut-types.png",
+    "chapter": 10,
+    "heading": "几条值得一起认识的支线",
+    "approved": true,
+    "visual_checked": true,
+    "notes": [
+      "已单图放大。左侧孔隙较大、面包式组织和较平滑外皮可辨；右侧更细碎、外表裂纹明显，构成有效对照。",
+      "无生黏面糊、泡芙式整腔或内部塞入蛋糕块的误画。代表性组织不等于全部实际产品；不能只凭外观推定真实配方与熟度。"
+    ],
+    "caption": "甜甜圈教学对照：左为酵母型代表，右为蛋糕型代表；两者均露出切口。",
+    "suggested_caption": "甜甜圈教学对照：左为酵母型代表，右为蛋糕型代表；两者均露出切口。"
+  },
+  {
+    "id": "atlas-we-danish",
+    "file": "assets/images/atlas-we-danish.png",
+    "chapter": 12,
+    "heading": "可颂与不发酵千层酥",
+    "approved": true,
+    "visual_checked": true,
+    "notes": [
+      "已单图放大。边框明显具有薄层与内部孔隙，非实心短酥塔壳；中央填馅与果物有容纳位置，切下小件与主件结构对应。",
+      "馅与表层较光亮但非浸在液体中，无漂浮折角。配方中的酵母性质由正文及来源说明，图像只展示选定代表外形。"
+    ],
+    "caption": "丹麦点心教学示意：起酥边框承托蛋奶馅与莓果，切口露出内部层次。",
+    "suggested_caption": "丹麦点心教学示意：起酥边框承托蛋奶馅与莓果，切口露出内部层次。"
+  },
+  {
+    "id": "atlas-we-palmier-millefeuille",
+    "file": "assets/images/atlas-we-palmier-millefeuille.png",
+    "chapter": 12,
+    "heading": "可颂与不发酵千层酥",
+    "approved": true,
+    "visual_checked": true,
+    "notes": [
+      "已单图放大。蝴蝶酥为扁薄双向卷纹，拿破仑有三组水平酥片与两层奶油，不是海绵蛋糕。",
+      "层片有可信支撑，未见悬空结构。奶油挤成小团属可行组装形式；不从可见薄层数推导折叠次数。"
+    ],
+    "caption": "千层酥成品教学对照：左为蝴蝶酥，右为酥片与糕点奶油交替的拿破仑。",
+    "suggested_caption": "千层酥成品教学对照：左为蝴蝶酥，右为酥片与糕点奶油交替的拿破仑。"
+  },
+  {
+    "id": "atlas-we-sponge-roll",
+    "file": "assets/images/atlas-we-sponge-roll.png",
+    "chapter": 11,
+    "heading": "装饰是第二张地图",
+    "approved": true,
+    "visual_checked": true,
+    "notes": [
+      "已单图放大。整段与切片的卷纹方向相符，夹馅沿卷片成螺旋而非独立同心圈；无大空腔或不相连的蛋糕环。",
+      "切片显示细孔海绵和红色薄馅，不是酥皮。插图不证明蛋泡沫方法、柔软度或具体配方。"
+    ],
+    "caption": "果酱海绵蛋糕卷教学示意：蛋糕片与薄果酱夹层卷成连续螺旋。",
+    "suggested_caption": "果酱海绵蛋糕卷教学示意：蛋糕片与薄果酱夹层卷成连续螺旋。"
+  },
+  {
+    "id": "atlas-we-lemon-fruit-tarts",
+    "file": "assets/images/atlas-we-lemon-fruit-tarts.png",
+    "chapter": 13,
+    "heading": "塔与派，没有全球统一的外形边界",
+    "approved": true,
+    "visual_checked": true,
+    "notes": [
+      "已单图放大。左侧黄色平滑馅保持切面；右侧水果下有浅色馅层，底壳和边壳完整，均为短酥式而非蜂窝面包。",
+      "两者切口与结构合理。水果表层光泽属表现选择，不作为真实上光工序或配料证据。照片式生成不能证明酸度、盲烤过程或熟度。"
+    ],
+    "caption": "塔点教学对照：左为柠檬塔，右为糕点奶油鲜果塔；切口均露出底壳。",
+    "suggested_caption": "塔点教学对照：左为柠檬塔，右为糕点奶油鲜果塔；切口均露出底壳。"
+  },
+  {
+    "id": "atlas-we-chewy-cookie",
+    "file": "assets/images/atlas-we-chewy-cookie.png",
+    "chapter": 13,
+    "heading": "曲奇不只是裱花形状",
+    "approved": true,
+    "visual_checked": true,
+    "notes": [
+      "已单图放大。边缘上色、中心较厚，掰面仍有连贯烘烤组织；巧克力为嵌入小块而非流动整层夹心。",
+      "局部巧克力有融软亮面，但无生面糊或夸张拉丝。软心名称依规划，不能以静态图独立验证咀嚼感或安全熟度。"
+    ],
+    "caption": "软心巧克力豆曲奇教学示意：完整件与掰开件并置，显示边缘、中心与巧克力分布。",
+    "suggested_caption": "软心巧克力豆曲奇教学示意：完整件与掰开件并置，显示边缘、中心与巧克力分布。"
+  },
+  {
+    "id": "atlas-we-custard-cream",
+    "file": "assets/images/atlas-we-custard-cream.png",
+    "chapter": 14,
+    "heading": "布丁与蛋奶：先把词语放回语境",
+    "approved": true,
+    "visual_checked": true,
+    "notes": [
+      "已单图放大。左侧形成细流，碗面总体平整；右侧为较厚软堆积，勺痕保持，能够区分淋酱与填馅。",
+      "右侧没有硬蛋白霜尖峰，左侧没有固定成果冻块。左侧画面流带相对浓稠，应只称选定状态，不给通用黏度标准；生成图不证明淀粉含量或温度。"
+    ],
+    "caption": "蛋奶体系教学对照：左为可倾倒的英式蛋奶酱，右为能保留勺痕的糕点奶油。",
+    "suggested_caption": "蛋奶体系教学对照：左为可倾倒的英式蛋奶酱，右为能保留勺痕的糕点奶油。"
+  }
+]

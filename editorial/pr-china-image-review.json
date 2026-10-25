@@ -1,0 +1,77 @@
+[
+  {
+    "id": "atlas-cn-songgao",
+    "file": "assets/images/atlas-cn-songgao.png",
+    "approved": true,
+    "visual_checked": true,
+    "notes": "已看联系表并单图放大。方块糕体与前方掰开断面一致，呈颗粒蒸结及松散掉屑，没有面包式大孔、拉丝或奶油。颗粒形态略显均一，属于表现颗粒连接的教学夸张；不得据此认定真实粉粒尺寸，不作定胜糕特定造型证据。",
+    "caption": "松糕的颗粒状断面与掰开状态。AI外观示意，颗粒大小不表示实际粉粒尺度。",
+    "review_method": "Viewed proportional numbered contact sheets; songgao, taosu-shaobing, shaomai-fillings, qianceng-yougao and fengli-honggui additionally inspected as individual full-size images."
+  },
+  {
+    "id": "atlas-cn-peanut-nuomici",
+    "file": "assets/images/atlas-cn-peanut-nuomici.png",
+    "approved": true,
+    "visual_checked": true,
+    "notes": "已看联系表。完整圆团与切半米白粉皮同类，内馅为偏干的浅棕花生碎，表面薄覆花生粉；皮连续无发酵大孔、不流心、不泡汤。半枚切面是闭合皮圈包住馅，几何成立。",
+    "caption": "花生糯米糍：柔软米粉皮包住颗粒馅，外表裹花生粉。AI代表款示意。",
+    "review_method": "Viewed proportional numbered contact sheets; songgao, taosu-shaobing, shaomai-fillings, qianceng-yougao and fengli-honggui additionally inspected as individual full-size images."
+  },
+  {
+    "id": "atlas-cn-taro-cake",
+    "file": "assets/images/atlas-cn-taro-cake.png",
+    "approved": true,
+    "visual_checked": true,
+    "notes": "已看联系表。厚片断面可见浅灰紫芋丁与淡色米粉糕体，前后同一糕体，一片表面煎黄、一片保留浅色断面，没有艳紫慕斯、奶油层或生芋叶。只支持块状原料与凝结糕体关系，不从画面指定腊味或配比。",
+    "caption": "芋头糕：淡色米粉糕体包住芋块，可切片后煎香。AI结构示意。",
+    "review_method": "Viewed proportional numbered contact sheets; songgao, taosu-shaobing, shaomai-fillings, qianceng-yougao and fengli-honggui additionally inspected as individual full-size images."
+  },
+  {
+    "id": "atlas-cn-taosu-shaobing",
+    "file": "assets/images/atlas-cn-taosu-shaobing.png",
+    "approved": true,
+    "visual_checked": true,
+    "notes": "已实际查看替换横图。米白盘中左侧桃酥自然裂纹、颗粒状松碎断面；右侧芝麻烧饼薄片卷层可辨，不是单个空心腔。完整件与断开件的类别相符，图内无文字。适用于所选分层烧饼代表款，不推广为全部烧饼。",
+    "caption": "左：桃酥的松碎断面；右：芝麻烧饼的一种分层款式。AI对照示意。",
+    "review_method": "Replacement image inspected individually at full image size; captions matched to left/right arrangement.",
+    "reviewed_sha256": "f414b3212b0b139737ee5f2169e4dec952e3dbbe1c95b0efefd304fe3cd7e139"
+  },
+  {
+    "id": "atlas-cn-shaomai-fillings",
+    "file": "assets/images/atlas-cn-shaomai-fillings.png",
+    "approved": true,
+    "visual_checked": true,
+    "notes": "已实际查看替换横图。左组白皮包棕黄完整糯米粒，右组白皮透出绿色叶碎及浅绿菜碎；不是绿色皮包米。完整与半切件都保持开放花口，半切皮沿侧边和底部连续。青菜馅粒度偏粗，图注不称纯细菜茸或某店标准。米白横图无文字，左右关系已更新。",
+    "caption": "左：糯米烧卖；右：白皮透出青菜馅的翡翠烧卖代表款。AI对照示意。",
+    "review_method": "Replacement image inspected individually at full image size; captions matched to left/right arrangement.",
+    "reviewed_sha256": "d6f342098b5650a8f82d76b826f197e2b3a385b24044db5109d23d8e38050e1b"
+  },
+  {
+    "id": "atlas-cn-qianceng-yougao",
+    "file": "assets/images/atlas-cn-qianceng-yougao.png",
+    "approved": true,
+    "visual_checked": true,
+    "notes": "已看联系表并单图放大。三块蒸糕有菱形/斜切轮廓、浅米色柔软贴合薄层及少量红绿果丝，表面湿润不烤焦，没有千层酥脆皮、奶油夹层或彩色九层糕。侧面层的方向与各块顶面几何基本相容。层数为示意，不能宣称图中精确64层，也不推导糖油用量。",
+    "caption": "淮扬千层油糕：菱形蒸糕与贴合的柔软薄层。AI示意，不表示固定层数。",
+    "review_method": "Viewed proportional numbered contact sheets; songgao, taosu-shaobing, shaomai-fillings, qianceng-yougao and fengli-honggui additionally inspected as individual full-size images."
+  },
+  {
+    "id": "atlas-cn-yeerba",
+    "file": "assets/images/atlas-cn-yeerba.png",
+    "approved": true,
+    "visual_checked": true,
+    "notes": "已看联系表。叶片垫托白色短椭圆粉团，前方切半显示皮内咸馅，粉皮无烤壳和发酵气孔，与未切开件一致；不是外露米粒的粽子、透明水晶饺或绿色青团。不得把可见绿叶确认为某特定树种，棕色馅也不直接认定芽菜比例。",
+    "caption": "叶儿粑的白色米粉皮、咸馅与垫叶。AI代表款示意，不指定叶种。",
+    "review_method": "Viewed proportional numbered contact sheets; songgao, taosu-shaobing, shaomai-fillings, qianceng-yougao and fengli-honggui additionally inspected as individual full-size images."
+  },
+  {
+    "id": "atlas-cn-fengli-honggui",
+    "file": "assets/images/atlas-cn-fengli-honggui.png",
+    "approved": true,
+    "visual_checked": true,
+    "notes": "已实际查看替换横图。左组浅金黄方块酥壳包金棕纤维果馅，壳松碎但非分层皮；右组红色扁椭圆粉皮带龟甲模纹、下垫绿叶，切件呈闭合皮圈包深色细馅，不是活龟或月饼。切面与整体几何相容；不从画面推断纯凤梨比例、色素或豆类品种。米白横图无文字，左右关系已更新。",
+    "caption": "左：凤梨酥的烤酥壳与果馅；右：红龟粿的模印米皮与包馅。AI对照示意。",
+    "review_method": "Replacement image inspected individually at full image size; captions matched to left/right arrangement.",
+    "reviewed_sha256": "32366ec2edebe0ad333cabdb944cf5ba12207641406b196d5bea8b477cac6e18"
+  }
+]

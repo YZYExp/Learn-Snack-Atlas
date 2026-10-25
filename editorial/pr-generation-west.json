@@ -1,0 +1,181 @@
+[
+  {
+    "id": "atlas-we-cinnamon-roll",
+    "chapter": 10,
+    "heading": "甜与咸，经常只隔着一个组合",
+    "objects": [
+      "肉桂卷 cinnamon roll"
+    ],
+    "caption": "肉桂卷教学示意：螺旋糖馅与发酵面包体相间，薄淋面保留卷纹。",
+    "visual_requirements": [
+      "单品近景，可一整只配一切半，顶部螺旋和切面都能辨认；不是硬质曲奇或起酥可颂。",
+      "柔软发酵面包组织，肉桂糖馅形成较薄褐色螺旋带；不要把糖馅画成厚巧克力板或独立红豆层。",
+      "只用少量薄糖霜，不能全覆盖卷纹；面包完整烤熟，不画液态生面糊。",
+      "无图内文字、箭头、品牌、复杂餐桌或六格拼版；以统一书籍食物摄影式教学示意制作。"
+    ],
+    "source_url": "https://www.kingarthurbaking.com/recipes/cinnamon-rolls-recipe",
+    "additional_source_urls": [
+      "https://www.kingarthurbaking.com/blog/2019/01/14/making-cinnamon-rolls-at-home"
+    ],
+    "verification_note": "已核对卷入肉桂糖馅、切段与烘烤成形路线；图片只展示代表外形，不证明配方、发酵时间或香味。",
+    "prompt": "Use case: scientific-educational. Create a food identification image for a carefully researched Chinese illustrated book, not a commercial brand photograph. Consistent collection style: warm ivory seamless tabletop and background (#f7f1e7), one plain off-white ceramic plate where appropriate, soft diffuse daylight from upper left, realistic editorial food photography, restrained warm natural colors, large clearly recognizable foods, 3/4 close view, landscape 4:3 framing, equal focus on subject and meaningful cut surface. No people, no cutlery unless the comparison requires a spoon, no ornamental flowers, no brands, NO LETTERING, NO LABELS, no infographic panels or six-grid collage. When two foods are compared, leave clear breathing space and keep lighting consistent. Show a representative appearance only; do not invent recipe or provenance evidence.\n\nObjects: 肉桂卷 cinnamon roll\nCorrectness requirements:\n单品近景，可一整只配一切半，顶部螺旋和切面都能辨认；不是硬质曲奇或起酥可颂。\n柔软发酵面包组织，肉桂糖馅形成较薄褐色螺旋带；不要把糖馅画成厚巧克力板或独立红豆层。\n只用少量薄糖霜，不能全覆盖卷纹；面包完整烤熟，不画液态生面糊。\n无图内文字、箭头、品牌、复杂餐桌或六格拼版；以统一书籍食物摄影式教学示意制作。"
+  },
+  {
+    "id": "atlas-we-doughnut-types",
+    "chapter": 10,
+    "heading": "几条值得一起认识的支线",
+    "objects": [
+      "酵母型油炸甜甜圈 yeast-raised doughnut",
+      "蛋糕型油炸甜甜圈 cake doughnut"
+    ],
+    "caption": "两种甜甜圈教学对照：左为酵母型，右为蛋糕型；切面展示两种代表组织。",
+    "visual_requirements": [
+      "有意义的左右双品种对照，每侧一只圆环甜甜圈并有一块切口；保持近似尺寸、角度和照明，品名用外部图注说明。",
+      "左侧酵母型较蓬松，面包式孔洞、薄褐皮，可见较浅腰线但不要机械画成整齐白腰带。",
+      "右侧采用老式蛋糕型代表：较细密易碎的蛋糕状内部，表面自然裂纹；不是把蛋糕切片塞入同一甜甜圈。",
+      "两边都只用极薄糖衣或不加厚饰面，让皮与组织可比较；不能画成生黏中心、岩石孔洞或泡芙空腔。",
+      "不是把细密等同失败，也不宣称所有酵母型和蛋糕型都与本图一模一样；图像只服务代表结构比较。"
+    ],
+    "source_url": "https://www.kingarthurbaking.com/recipes/yeast-raised-doughnuts-recipe",
+    "additional_source_urls": [
+      "https://www.kingarthurbaking.com/recipes/old-fashioned-cake-doughnuts-recipe"
+    ],
+    "verification_note": "已核对酵母膨松与化学膨松的配方类别；仅凭外观不能确认实际配方，生成图须标教学示意。",
+    "prompt": "Use case: scientific-educational. Create a food identification image for a carefully researched Chinese illustrated book, not a commercial brand photograph. Consistent collection style: warm ivory seamless tabletop and background (#f7f1e7), one plain off-white ceramic plate where appropriate, soft diffuse daylight from upper left, realistic editorial food photography, restrained warm natural colors, large clearly recognizable foods, 3/4 close view, landscape 4:3 framing, equal focus on subject and meaningful cut surface. No people, no cutlery unless the comparison requires a spoon, no ornamental flowers, no brands, NO LETTERING, NO LABELS, no infographic panels or six-grid collage. When two foods are compared, leave clear breathing space and keep lighting consistent. Show a representative appearance only; do not invent recipe or provenance evidence.\n\nObjects: 酵母型油炸甜甜圈 yeast-raised doughnut; 蛋糕型油炸甜甜圈 cake doughnut\nCorrectness requirements:\n有意义的左右双品种对照，每侧一只圆环甜甜圈并有一块切口；保持近似尺寸、角度和照明，品名用外部图注说明。\n左侧酵母型较蓬松，面包式孔洞、薄褐皮，可见较浅腰线但不要机械画成整齐白腰带。\n右侧采用老式蛋糕型代表：较细密易碎的蛋糕状内部，表面自然裂纹；不是把蛋糕切片塞入同一甜甜圈。\n两边都只用极薄糖衣或不加厚饰面，让皮与组织可比较；不能画成生黏中心、岩石孔洞或泡芙空腔。\n不是把细密等同失败，也不宣称所有酵母型和蛋糕型都与本图一模一样；图像只服务代表结构比较。"
+  },
+  {
+    "id": "atlas-we-danish",
+    "chapter": 12,
+    "heading": "可颂与不发酵千层酥",
+    "objects": [
+      "水果蛋奶馅丹麦点心 Danish pastry"
+    ],
+    "caption": "丹麦点心教学示意：发酵起酥边框承托蛋奶馅与少量水果。",
+    "visual_requirements": [
+      "选一个典型方形折角或菱形边框，不混入多种成形；三分之四近景，边缘层次和中央馅料均清楚。",
+      "边缘是膨起的发酵起酥组织，有自然薄层与孔隙；不是扁平塔壳、饼干底或普通厚面包圈。",
+      "中央浅黄色糕点奶油馅配少量红色莓果，馅在中心凹位，不让整片酥皮淹在液体中。",
+      "边框完整、底部有支撑，切一小口时可见真实厚度；不要用不可能悬空的折角或盘绕出无限层。",
+      "配方代表性来自来源，不把某种水果或固定形状定义为全部丹麦点心；无字无装饰拼版。"
+    ],
+    "source_url": "https://www.kingarthurbaking.com/recipes/danish-pastry-recipe",
+    "additional_source_urls": [
+      "https://www.kingarthurbaking.com/recipes/chocolate-cherry-danish-recipe"
+    ],
+    "verification_note": "丹麦是发酵起酥，非无酵母puff pastry；中心糕点奶油加水果有直接专业配方参照。",
+    "prompt": "Use case: scientific-educational. Create a food identification image for a carefully researched Chinese illustrated book, not a commercial brand photograph. Consistent collection style: warm ivory seamless tabletop and background (#f7f1e7), one plain off-white ceramic plate where appropriate, soft diffuse daylight from upper left, realistic editorial food photography, restrained warm natural colors, large clearly recognizable foods, 3/4 close view, landscape 4:3 framing, equal focus on subject and meaningful cut surface. No people, no cutlery unless the comparison requires a spoon, no ornamental flowers, no brands, NO LETTERING, NO LABELS, no infographic panels or six-grid collage. When two foods are compared, leave clear breathing space and keep lighting consistent. Show a representative appearance only; do not invent recipe or provenance evidence.\n\nObjects: 水果蛋奶馅丹麦点心 Danish pastry\nCorrectness requirements:\n选一个典型方形折角或菱形边框，不混入多种成形；三分之四近景，边缘层次和中央馅料均清楚。\n边缘是膨起的发酵起酥组织，有自然薄层与孔隙；不是扁平塔壳、饼干底或普通厚面包圈。\n中央浅黄色糕点奶油馅配少量红色莓果，馅在中心凹位，不让整片酥皮淹在液体中。\n边框完整、底部有支撑，切一小口时可见真实厚度；不要用不可能悬空的折角或盘绕出无限层。\n配方代表性来自来源，不把某种水果或固定形状定义为全部丹麦点心；无字无装饰拼版。"
+  },
+  {
+    "id": "atlas-we-palmier-millefeuille",
+    "chapter": 12,
+    "heading": "可颂与不发酵千层酥",
+    "objects": [
+      "蝴蝶酥 palmier",
+      "拿破仑酥片夹点 mille-feuille"
+    ],
+    "caption": "千层酥的两种成品教学示意：左为蝴蝶酥，右为酥片与奶油交替的拿破仑。",
+    "visual_requirements": [
+      "左右两件成品，比例各自合理而非等高硬配；左边薄片蝴蝶酥，右边一个小长方形拿破仑。",
+      "蝴蝶酥应为扁薄的双耳或心形双向内卷折叠轮廓，有细薄卷纹与糖化褐色表面；不是展开翅膀的动物、交叉面包结或单向肉桂卷。",
+      "拿破仑采用三片水平薄脆酥片夹两层浅色糕点奶油的常见代表，酥片细层密集；不画三块海绵蛋糕或厚面包。",
+      "拿破仑不加大量水果，顶面可极少糖粉；酥片之间有可信支撑，不悬浮，不画奶油从刚性平板自然穿透。",
+      "仅展示无酵母千层酥的不同成形和装配，不把可见层数当真实折叠次数。"
+    ],
+    "source_url": "https://www.kingarthurbaking.com/recipes/classic-puff-pastry-pate-feuilletee-recipe",
+    "additional_source_urls": [
+      "https://www.kingarthurbaking.com/recipes/palmiers-recipe",
+      "https://www.cordonbleu.edu/news/technique-video-puff-pastry-palmiers/en"
+    ],
+    "verification_note": "专业来源同时列palmier与mille-feuille作为puff pastry应用；本图是成品比较，不是连续折叠教程。",
+    "prompt": "Use case: scientific-educational. Create a food identification image for a carefully researched Chinese illustrated book, not a commercial brand photograph. Consistent collection style: warm ivory seamless tabletop and background (#f7f1e7), one plain off-white ceramic plate where appropriate, soft diffuse daylight from upper left, realistic editorial food photography, restrained warm natural colors, large clearly recognizable foods, 3/4 close view, landscape 4:3 framing, equal focus on subject and meaningful cut surface. No people, no cutlery unless the comparison requires a spoon, no ornamental flowers, no brands, NO LETTERING, NO LABELS, no infographic panels or six-grid collage. When two foods are compared, leave clear breathing space and keep lighting consistent. Show a representative appearance only; do not invent recipe or provenance evidence.\n\nObjects: 蝴蝶酥 palmier; 拿破仑酥片夹点 mille-feuille\nCorrectness requirements:\n左右两件成品，比例各自合理而非等高硬配；左边薄片蝴蝶酥，右边一个小长方形拿破仑。\n蝴蝶酥应为扁薄的双耳或心形双向内卷折叠轮廓，有细薄卷纹与糖化褐色表面；不是展开翅膀的动物、交叉面包结或单向肉桂卷。\n拿破仑采用三片水平薄脆酥片夹两层浅色糕点奶油的常见代表，酥片细层密集；不画三块海绵蛋糕或厚面包。\n拿破仑不加大量水果，顶面可极少糖粉；酥片之间有可信支撑，不悬浮，不画奶油从刚性平板自然穿透。\n仅展示无酵母千层酥的不同成形和装配，不把可见层数当真实折叠次数。"
+  },
+  {
+    "id": "atlas-we-sponge-roll",
+    "chapter": 11,
+    "heading": "装饰是第二张地图",
+    "objects": [
+      "果酱海绵蛋糕卷 jelly roll / Swiss roll"
+    ],
+    "caption": "海绵蛋糕卷教学示意：连续蛋糕片卷起，薄果酱夹层形成螺旋。",
+    "visual_requirements": [
+      "短段完整蛋糕卷配一片切片，切口朝镜头，外层浅金黄，内层为较浅的细孔海绵。",
+      "必须是一张连续、厚薄大致均匀的蛋糕片卷成的螺旋，薄红色果酱在相邻层间；不是独立同心环、千层酥或中空奶油圆管。",
+      "螺旋中心自然收拢，没有巨大的空洞；切片与整卷的螺旋方向及层数一致。",
+      "少量果酱不应渗成血色液体，不加厚奶油山、巧克力涂层或繁复装饰，以便观察卷与夹层。",
+      "只说明结构和组装；不能从生成的细孔证明全蛋/分蛋、是否有泡打粉或实际柔软度。"
+    ],
+    "source_url": "https://www.kingarthurbaking.com/recipes/jelly-roll-recipe",
+    "verification_note": "来源明确海绵底、果酱填馅与卷制；选择果酱卷可减少过厚奶油遮盖结构，并呼应正文蛋糕片弯曲与夹层交替。",
+    "prompt": "Use case: scientific-educational. Create a food identification image for a carefully researched Chinese illustrated book, not a commercial brand photograph. Consistent collection style: warm ivory seamless tabletop and background (#f7f1e7), one plain off-white ceramic plate where appropriate, soft diffuse daylight from upper left, realistic editorial food photography, restrained warm natural colors, large clearly recognizable foods, 3/4 close view, landscape 4:3 framing, equal focus on subject and meaningful cut surface. No people, no cutlery unless the comparison requires a spoon, no ornamental flowers, no brands, NO LETTERING, NO LABELS, no infographic panels or six-grid collage. When two foods are compared, leave clear breathing space and keep lighting consistent. Show a representative appearance only; do not invent recipe or provenance evidence.\n\nObjects: 果酱海绵蛋糕卷 jelly roll / Swiss roll\nCorrectness requirements:\n短段完整蛋糕卷配一片切片，切口朝镜头，外层浅金黄，内层为较浅的细孔海绵。\n必须是一张连续、厚薄大致均匀的蛋糕片卷成的螺旋，薄红色果酱在相邻层间；不是独立同心环、千层酥或中空奶油圆管。\n螺旋中心自然收拢，没有巨大的空洞；切片与整卷的螺旋方向及层数一致。\n少量果酱不应渗成血色液体，不加厚奶油山、巧克力涂层或繁复装饰，以便观察卷与夹层。\n只说明结构和组装；不能从生成的细孔证明全蛋/分蛋、是否有泡打粉或实际柔软度。"
+  },
+  {
+    "id": "atlas-we-lemon-fruit-tarts",
+    "chapter": 13,
+    "heading": "塔与派，没有全球统一的外形边界",
+    "objects": [
+      "柠檬塔 lemon tart",
+      "鲜莓糕点奶油水果塔 berry cream tart"
+    ],
+    "caption": "两种塔的教学示意：左为细腻柠檬馅，右为糕点奶油与鲜果；两者均由酥壳承托。",
+    "visual_requirements": [
+      "左右两只相近尺寸小塔，均切下一角或剖开一部分，让薄而完整的底壳、边壳和馅可辨认。",
+      "左侧柠檬塔为均匀浅黄色、平滑且能保持切面的柠檬馅，不画成流动橙汁、鲜柠檬片堆或柠檬蛋糕；不要求所有柠檬塔都只有这一配方。",
+      "右侧为烤好酥壳、浅色糕点奶油与新鲜草莓蓝莓，水果覆盖适度，须露出一段奶油层；不是果冻实体或生面团底。",
+      "酥壳应呈短酥式细碎组织，不画成可颂的蜂窝起酥或厚蛋糕；底壳承托得住馅，不出现穿透盘子的漂浮结构。",
+      "成品状态是冷却或可切的展示状态，不用图像推断酸度、熟度或是否完成盲烤。"
+    ],
+    "source_url": "https://www.kingarthurbaking.com/recipes/lemon-tart-with-fresh-berries-recipe",
+    "additional_source_urls": [
+      "https://www.kingarthurbaking.com/recipes/berry-cream-tart-recipe"
+    ],
+    "verification_note": "选用专业配方核对酥壳、蛋奶/柠檬馅与后加鲜果的关系；二图对应不同代表产品，不把来源的一张成品照片复制成生图。",
+    "prompt": "Use case: scientific-educational. Create a food identification image for a carefully researched Chinese illustrated book, not a commercial brand photograph. Consistent collection style: warm ivory seamless tabletop and background (#f7f1e7), one plain off-white ceramic plate where appropriate, soft diffuse daylight from upper left, realistic editorial food photography, restrained warm natural colors, large clearly recognizable foods, 3/4 close view, landscape 4:3 framing, equal focus on subject and meaningful cut surface. No people, no cutlery unless the comparison requires a spoon, no ornamental flowers, no brands, NO LETTERING, NO LABELS, no infographic panels or six-grid collage. When two foods are compared, leave clear breathing space and keep lighting consistent. Show a representative appearance only; do not invent recipe or provenance evidence.\n\nObjects: 柠檬塔 lemon tart; 鲜莓糕点奶油水果塔 berry cream tart\nCorrectness requirements:\n左右两只相近尺寸小塔，均切下一角或剖开一部分，让薄而完整的底壳、边壳和馅可辨认。\n左侧柠檬塔为均匀浅黄色、平滑且能保持切面的柠檬馅，不画成流动橙汁、鲜柠檬片堆或柠檬蛋糕；不要求所有柠檬塔都只有这一配方。\n右侧为烤好酥壳、浅色糕点奶油与新鲜草莓蓝莓，水果覆盖适度，须露出一段奶油层；不是果冻实体或生面团底。\n酥壳应呈短酥式细碎组织，不画成可颂的蜂窝起酥或厚蛋糕；底壳承托得住馅，不出现穿透盘子的漂浮结构。\n成品状态是冷却或可切的展示状态，不用图像推断酸度、熟度或是否完成盲烤。"
+  },
+  {
+    "id": "atlas-we-chewy-cookie",
+    "chapter": 13,
+    "heading": "曲奇不只是裱花形状",
+    "objects": [
+      "软心巧克力豆曲奇 chewy chocolate chip cookie"
+    ],
+    "caption": "软心巧克力豆曲奇教学示意：边缘较薄，掰开后可见中心组织与巧克力块。",
+    "visual_requirements": [
+      "一块完整圆形曲奇配一块自然掰开的曲奇，大小厚度统一；不是裱花黄油曲奇、夹心饼干或夹心熔岩蛋糕。",
+      "边缘较薄且上色，中心略厚、有连贯的烘烤组织；柔软以较少碎裂和内里形态表现，不能画出流淌生面团。",
+      "巧克力分布为嵌入的豆或小块，可有局部柔软亮面，但不生成整层熔岩夹心、奶酪拉丝或夸张巧克力瀑布。",
+      "静态图不证明咀嚼感，也不凭颜色判断熟度；图注只说可见结构并给类别名称。",
+      "无牛奶杯、手、人脸、大量碎屑和背景杂物，让主体清楚。"
+    ],
+    "source_url": "https://www.kingarthurbaking.com/recipes/chewy-chocolate-chip-cookies-recipe",
+    "additional_source_urls": [
+      "https://www.kingarthurbaking.com/recipes/soft-chocolate-chip-cookies-recipe"
+    ],
+    "verification_note": "专业配方明确酥边与柔韧中心；软而不生黏是视觉约束，不是图像可独立验证的安全结论。",
+    "prompt": "Use case: scientific-educational. Create a food identification image for a carefully researched Chinese illustrated book, not a commercial brand photograph. Consistent collection style: warm ivory seamless tabletop and background (#f7f1e7), one plain off-white ceramic plate where appropriate, soft diffuse daylight from upper left, realistic editorial food photography, restrained warm natural colors, large clearly recognizable foods, 3/4 close view, landscape 4:3 framing, equal focus on subject and meaningful cut surface. No people, no cutlery unless the comparison requires a spoon, no ornamental flowers, no brands, NO LETTERING, NO LABELS, no infographic panels or six-grid collage. When two foods are compared, leave clear breathing space and keep lighting consistent. Show a representative appearance only; do not invent recipe or provenance evidence.\n\nObjects: 软心巧克力豆曲奇 chewy chocolate chip cookie\nCorrectness requirements:\n一块完整圆形曲奇配一块自然掰开的曲奇，大小厚度统一；不是裱花黄油曲奇、夹心饼干或夹心熔岩蛋糕。\n边缘较薄且上色，中心略厚、有连贯的烘烤组织；柔软以较少碎裂和内里形态表现，不能画出流淌生面团。\n巧克力分布为嵌入的豆或小块，可有局部柔软亮面，但不生成整层熔岩夹心、奶酪拉丝或夸张巧克力瀑布。\n静态图不证明咀嚼感，也不凭颜色判断熟度；图注只说可见结构并给类别名称。\n无牛奶杯、手、人脸、大量碎屑和背景杂物，让主体清楚。"
+  },
+  {
+    "id": "atlas-we-custard-cream",
+    "chapter": 14,
+    "heading": "布丁与蛋奶：先把词语放回语境",
+    "objects": [
+      "英式蛋奶酱 crème anglaise",
+      "糕点奶油 crème pâtissière"
+    ],
+    "caption": "两种蛋奶体系教学示意：左为可流动的英式蛋奶酱，右为能保持勺痕的糕点奶油。",
+    "visual_requirements": [
+      "左右同尺寸浅色小碗与金属匙，构图一眼可比较；不用六格或夸张不同容器。",
+      "左侧crème anglaise为顺滑、可倾倒的浓稠淋酱，匙中缓慢落下连续细带，落入碗后很快趋平；可挂勺背，但不能立起尖峰或变成果冻块。",
+      "右侧crème pâtissière为冷却、搅拌顺滑的浓稠糕点奶油，表面保留柔和勺痕与小堆积；不是水状牛奶，也不是硬橡胶、蓬松打发奶油或很高的蛋白霜尖峰。",
+      "两者都可浅黄色，颜色不能作为区别或蛋黄量证明；主要差异通过流动、勺痕和表面保持形状表现。",
+      "右侧不用拌入打发奶油的diplomat cream，左侧不用加淀粉的超稠布丁；不添加水果和巧克力遮盖。",
+      "本图是选定典型状态的教学示意，不声称所有配方或温度下都具有相同黏度，不展示加热温度和安全性判断。"
+    ],
+    "source_url": "https://app.ckbk.com/reference/cuis81374c03s001ss023e002/creme-anglaise",
+    "additional_source_urls": [
+      "https://www.kingarthurbaking.com/recipes/pastry-cream-creme-patissiere-recipe",
+      "https://library.oercommons.org/oh-cr/hosp_2218_the_bakeshop/05_01_03.html"
+    ],
+    "verification_note": "已核对pouring custard与淀粉辅助增稠填馅的差异；生成时以适中温度的代表流动状态比较，避免把蛋奶酱画成固定奶冻或把糕点奶油画成蛋白霜。",
+    "prompt": "Use case: scientific-educational. Create a food identification image for a carefully researched Chinese illustrated book, not a commercial brand photograph. Consistent collection style: warm ivory seamless tabletop and background (#f7f1e7), one plain off-white ceramic plate where appropriate, soft diffuse daylight from upper left, realistic editorial food photography, restrained warm natural colors, large clearly recognizable foods, 3/4 close view, landscape 4:3 framing, equal focus on subject and meaningful cut surface. No people, no cutlery unless the comparison requires a spoon, no ornamental flowers, no brands, NO LETTERING, NO LABELS, no infographic panels or six-grid collage. When two foods are compared, leave clear breathing space and keep lighting consistent. Show a representative appearance only; do not invent recipe or provenance evidence.\n\nObjects: 英式蛋奶酱 crème anglaise; 糕点奶油 crème pâtissière\nCorrectness requirements:\n左右同尺寸浅色小碗与金属匙，构图一眼可比较；不用六格或夸张不同容器。\n左侧crème anglaise为顺滑、可倾倒的浓稠淋酱，匙中缓慢落下连续细带，落入碗后很快趋平；可挂勺背，但不能立起尖峰或变成果冻块。\n右侧crème pâtissière为冷却、搅拌顺滑的浓稠糕点奶油，表面保留柔和勺痕与小堆积；不是水状牛奶，也不是硬橡胶、蓬松打发奶油或很高的蛋白霜尖峰。\n两者都可浅黄色，颜色不能作为区别或蛋黄量证明；主要差异通过流动、勺痕和表面保持形状表现。\n右侧不用拌入打发奶油的diplomat cream，左侧不用加淀粉的超稠布丁；不添加水果和巧克力遮盖。\n本图是选定典型状态的教学示意，不声称所有配方或温度下都具有相同黏度，不展示加热温度和安全性判断。"
+  }
+]

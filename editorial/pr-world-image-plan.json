@@ -1,0 +1,67 @@
+[
+  {
+    "id": "atlas-wo-dango",
+    "chapter": 15,
+    "heading": "和菓子是一组工艺，不只是花形甜豆沙",
+    "objects": ["团子（dango），三枚白色米粉团子串签"],
+    "caption": "团子的串签形式示意。米粉团制成的糕体与练切豆沙塑形、铜锣烧的煎烤外皮属于不同观察对象。",
+    "visual_requirements": "统一暖白背景、柔和自然光、食物近景、无嵌入文字。白色团子三枚沿竹签排列，团子呈实心圆球，表面平滑微哑光而非果冻透明；可将一枚切半放旁边，断面致密、不呈面包孔洞；不要画成包豆沙馅的大福、汤圆浮在汤里或西式棉花糖。团子配方不同可有差异，本图只选无裹酱白团子示例，不表示所有团子都必须三枚一签。",
+    "source_url": "https://www.wagashi.or.jp/japanesesweets-wagashi/en/types/",
+    "source_note": "东京和菓子协会品类页：dango为米粉加水并经蒸制等熟化的团子，图片用于外形约束；不由图证明操作顺序。"
+  },
+  {
+    "id": "atlas-wo-monaka-dorayaki",
+    "chapter": 15,
+    "heading": "和菓子是一组工艺，不只是花形甜豆沙",
+    "objects": ["最中（monaka），薄脆米制外壳与豆沙", "铜锣烧（dorayaki），两片金棕色煎饼皮夹豆沙"],
+    "caption": "同样夹豆沙，外壳却不同：最中以薄脆壳形成组合，铜锣烧以有细小气孔的煎烤饼皮夹馅。生成图用于外观对照。",
+    "visual_requirements": "暖白统一背景，两个对象并排、各一件完整与一件切开，比例相近，无文字。左侧monaka选简单圆形压纹米制薄脆壳，壳浅米白、极薄、略有干燥小气泡，切口能看到深红褐豆沙；右侧dorayaki由两片较厚圆形金棕色饼皮夹豆沙，外面平滑烤色，切面浅黄且有细小气孔。两者豆沙相近以控制变量。不要把monaka画成马卡龙、冰淇淋威化或厚酥皮；不要把dorayaki画成汉堡、奶油夹心或四层pancake堆叠。不以这张图演示实际咬感或证明壳的原料。",
+    "source_url": "https://www.wagashi.or.jp/japanesesweets-wagashi/en/types/",
+    "additional_source_urls": ["https://www.maff.go.jp/e/policies/market/dento_syoku/bunrui/kasirui.html"],
+    "source_note": "协会品类页与日本农林水产省分类交叉核实：monaka为组合型、dorayaki为煎烤型。"
+  },
+  {
+    "id": "atlas-wo-kueh-dadar",
+    "chapter": 15,
+    "heading": "Kuih／kueh：不由一个国家独占的点心家族",
+    "objects": ["椰糖椰丝卷（kueh dadar／kuih ketayap）"],
+    "caption": "椰糖椰丝卷示意：薄煎皮卷住颗粒状椰丝馅。此例选绿色外皮，颜色本身不能证明班兰用量。",
+    "visual_requirements": "暖白背景柔光，近景，一只完整短圆柱卷加一只斜切开，切口朝镜头。外皮为柔软薄的浅绿色煎皮，有细微煎皮气孔而非透明胶冻、厚糯米团或酥皮；内部是棕榈糖拌椰丝的棕褐色湿润纤维状馅，细丝颗粒可辨，不能画成巧克力酱、豆沙泥或奶油。切口显示薄皮围绕填馅，不需多圈蛋糕卷式螺旋；不画成九层糕。无文字无装饰花。",
+    "source_url": "https://www.sg101.gov.sg/resources/archives/heritage-nonyakuehs/",
+    "additional_source_urls": ["https://www.sg101.gov.sg/resources/archives/kueh101/"],
+    "source_note": "新加坡政府SG101明确描述椰味煎皮、椰和棕榈糖馅；不宣称单一国家独占。"
+  },
+  {
+    "id": "atlas-wo-love-letters",
+    "chapter": 15,
+    "heading": "Kuih／kueh：不由一个国家独占的点心家族",
+    "objects": ["Love letters／kueh belanda薄脆蛋卷", "kueh kapit三角折片形式"],
+    "caption": "薄脆点心可以卷成细筒，也可以折成三角形。两种形态帮助辨认薄片与折卷结构，不代表所有地区采用同一配方。",
+    "visual_requirements": "统一暖白背景柔光，数根金黄薄脆蛋卷与两片折成三角形的薄脆点心，小量碎屑显示薄脆断口。蛋卷是极薄烤片卷成中空细筒，边缘能看到少数薄片重叠，带模具浅压纹和不均匀金黄烤色；三角片同样极薄，折叠而非厚实饼干。避免画成肉松蛋卷、奶油卷、春卷、空心泡芙、厚威化棒或中式油炸麻花。可以用中性浅花纹，不仿造真实品牌模具商标。无文字。",
+    "source_url": "https://biblioasia.nlb.gov.sg/all-sections/vol-17-issue-2-jul-sep-2021-straits-born-cuisine/",
+    "additional_source_urls": ["https://www.roots.gov.sg/Collection-Landing/listing/1235363"],
+    "source_note": "新加坡国家图书馆BiblioAsia明确对照新加坡卷筒love letters与槟城折成三角的kueh kapit，国家文物局蛋卷模具作为工具证据。"
+  },
+  {
+    "id": "atlas-wo-halva-comparison",
+    "chapter": 16,
+    "heading": "Halva：同名食品不一定同结构",
+    "objects": ["芝麻酱型halva", "粗粒小麦粉型semolina halva／irmik helvası"],
+    "caption": "Halva／halwa并非同一种组织：左为芝麻酱型易碎块状示意，右为粗粒小麦粉型柔润颗粒堆形示意。各地区配方仍有差异。",
+    "visual_requirements": "统一暖白背景近景，两侧各一小份，视觉空间均等，无文字。左边芝麻酱型为米白至浅米黄色的切块，断口能见细碎、略纤维层裂的组织，有少量碎屑；不能画成透明软糖、花生脆糖或海绵蛋糕。右边选择土耳其irmik helvası实例，浅金褐色细颗粒、湿润而能轻堆成小丘或勺状圆拱，可见少量松子，不能切成与左侧一样的干酥块，也不画成光滑奶冻。避免用同一材质仅换颜色制造假对比。两者均不标成‘唯一正宗’。",
+    "source_url": "https://www.ktb.gov.tr/EN-98886/semolina-halva.html",
+    "additional_source_urls": ["https://www.visitgreece.gr/en/experiences/culture/local-traditions/greek-sweets", "https://www.visitgreece.gr/en/experiences/gastronomy/beverages/greek-snacks"],
+    "source_note": "土耳其文化旅游部公开配方核实semolina先与油脂炒制再加糖浆；希腊官方旅游核实tahini芝麻酱型。图仅对照两类实例，不复现精确配方和过程。"
+  },
+  {
+    "id": "atlas-wo-mochi-bread-comparison",
+    "chapter": 17,
+    "heading": "“麻薯”在商品名称里，未必意味着同一配方",
+    "objects": ["发酵面包包麻薯馅的结构示例", "商业预拌粉型麻薯烤包的结构示例"],
+    "caption": "‘麻薯’可能指面包里独立的软韧夹层，也可能指整只烤包的弹韧组织。此图是两种结构的概念示例，具体粉类和配比须读商品原料表。",
+    "visual_requirements": "暖白统一背景、两个半切对象并排、切口清楚朝镜头、无文字。左边一只金棕色小发酵圆面包，外部及切面有明确浅黄色细小气孔的面包层，内部包一层独立、致密、略透光米白色软韧馅，不加长拉丝，不把整只画成大福；面包层厚度明显大于馅层。右边一只小型芝麻麻薯烤包，浅金色烤壳带自然细裂、散落黑芝麻，断面为较薄而连贯的弹韧壳壁及不规则空腔/少量较大孔，不呈典型发酵面包均匀细孔，也没有独立豆沙或麻薯夹心。不可把两者都画成糯米团、透明果冻、泡芙奶油或芝麻汉堡。右图为常见烤包结构示例，不能声称所有商业麻薯包必空心、必用木薯粉或必无酵母。",
+    "source_url": "https://web.puratos.cn/zh/%E7%81%B5%E6%84%9F%E9%85%8D%E6%96%B9/creative-mochi-bun",
+    "additional_source_urls": ["https://web.puratos.cn/content/dam/china/documents/product-solution/%E5%90%90%E5%8F%B8%E9%9D%A2%E5%8C%85%E6%88%90%E5%93%81%E6%96%B9%E6%A1%88.pdf", "https://www.puratos.co.id/en/products/tegral-mochi-bread"],
+    "source_note": "原料商的一手烤包配方核实预拌粉面团分球烘烤；吐司成品方案第17页核实面包中使用麻薯馅。此处是基于结构的中性概念示例，不复刻品牌产品，不采用原料商页面未经佐证的唐代起源故事。"
+  }
+]
